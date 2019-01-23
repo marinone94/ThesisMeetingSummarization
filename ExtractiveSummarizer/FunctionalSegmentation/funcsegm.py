@@ -203,13 +203,13 @@ class FuncSegm(object):
                 win_right_idx.append(x)
         
             if i > 1:
-                win_l = [self.prep.speakers[win_left_idx[0] : win_left_idx[-1]], self.prep.sentences[win_left_idx[0] : win_left_idx[-1]]] #create win left_i
+                win_l = [self.prep.speakers[win_left_idx[0] : win_left_idx[-1]], self.prep.sentLemma[win_left_idx[0] : win_left_idx[-1]]] #create win left_i
             else: #when i = 1 --> win_l is only the first el 
-                win_l = [[self.prep.speakers[0]], [self.prep.sentences[0]]]
+                win_l = [[self.prep.speakers[0]], [self.prep.sentLemma[0]]]
             if i < lenText - 2:
-                win_r = [self.prep.speakers[win_right_idx[0] : win_right_idx[-1] +1], self.prep.sentences[win_right_idx[0] : win_right_idx[-1] +1]] #create win left_i
+                win_r = [self.prep.speakers[win_right_idx[0] : win_right_idx[-1] +1], self.prep.sentLemma[win_right_idx[0] : win_right_idx[-1] +1]] #create win left_i
             else:
-                win_r = [[self.prep.speakers[-1]], [self.prep.sentences[-1]]]
+                win_r = [[self.prep.speakers[-1]], [self.prep.sentLemma[-1]]]
         
           
             WC_l = self.WC(win_l)
@@ -242,8 +242,8 @@ class FuncSegm(object):
                 num_t = 0 #numerator for given speaker
                 for k in range(len(s)):
                     if s[k] == j+1:
-                        num_t += suidf_win[idx]
-                        den += suidf_win[idx]   
+                        num_t += suidf_win[k]
+                        den += suidf_win[k]   
                 num.append(num_t)
             
         
