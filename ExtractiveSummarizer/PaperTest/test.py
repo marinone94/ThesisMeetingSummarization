@@ -1,4 +1,4 @@
-from ExtractiveSummarizer.PaperTest.config import Config
+from ExtractiveSummarizer.config import Config
 
 class PaperTest(object):
     """This class is used to replicate and the tests used for the Thesis project"""
@@ -16,7 +16,7 @@ class PaperTest(object):
         
     #read histograms(): return [listHistogramsVector, listWordsVector, arrangedHistogram, zippedHistograms, histogram, lenDataset, lenSingleWords, singleWords]
  
-    def PaperTest(self):
+    def TestPaper(self):
         print("Start test ...")
         reader          = Reader()
         evaluation      = Evaluation()
