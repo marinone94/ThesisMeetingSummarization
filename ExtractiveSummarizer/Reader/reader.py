@@ -36,6 +36,7 @@ class Reader(object):
         self.topicCorpus3   = cfg.topicCorpus3
         self.topicModel3    = cfg.topicModel3
         self.topicDocs3     = cfg.topicDocs3
+        self.nlp            = cfg.nlp
 
     def ReadAll(self):
         return {'Transcripts': self.ReadTranscripts(), 'References': self.ReadReferences(), 'Histograms': self.ReadHistograms(), 'TopicModels': self.LoadTopicModels()}
@@ -102,8 +103,9 @@ class Reader(object):
     
         y = 0
         for ss in new_sent:
-            for s in ss:
-                full_sent.append(s)
+            ss = self.nlp(ss)
+            for s in ss.sents:
+                full_sent.append(s.text)
                 full_sp.append(new_sp[y])
             y += 1
         return {'Sentences': full_sent, 'Speakers': full_sp}

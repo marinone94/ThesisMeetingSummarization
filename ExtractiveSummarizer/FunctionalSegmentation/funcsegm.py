@@ -100,7 +100,7 @@ class FuncSegm(object):
         
     def GetBoundaries(self, peaks = []):
         #get boundaries, CB and number of segments
-        lenText = len(self.sentences) 
+        lenText = len(self.prep.sentLemma) 
     
         [scores, smoothedScores] = self.Score(lenText)
       
@@ -259,7 +259,7 @@ class FuncSegm(object):
             
         
             for j in range(0, self.Ns):
-                WI_vec[j] = SafeDiv(num[j] , den)
+                WI_vec[j] = Help.SafeDiv(num[j] , den)
         
         return WI_vec  
     
@@ -278,7 +278,7 @@ class FuncSegm(object):
                 if s == j+1:
                     count = count + len(win[1][x]) # number of words uttered by j in win
                 x += 1 
-            WC_vec[j] = SafeDiv(count, length)    #match with dimensionality            
+            WC_vec[j] = Help.SafeDiv(count, length)    #match with dimensionality            
         return WC_vec    
     
     def RemoveDupl(self, words, new = []):

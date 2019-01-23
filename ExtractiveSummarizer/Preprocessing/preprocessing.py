@@ -21,7 +21,7 @@ class Preprocessing(object):
         self.pronLemma = cfg.pronLemma
         self.meetingHisto   = []
         self.singleWords    = []
-        self.numSpeakers    = []
+        self.numSpeakers    = cfg.numSpeakers
 
     def Preprocess(self, transcript, c = 0):
         mergedSentences = ' '.join(transcript[1]) 
@@ -51,7 +51,7 @@ class Preprocessing(object):
                     self.lemmaTags.append(locTag)
                     self.sentLemma.append(loc)
                     self.sentences.append(temp.text)
-                    self.speakers.append(speakers_old[c])
+                    self.speakers.append(oldSpeakers[c])
                     
             c += 1
         print("Stopwords removed, lemmatization and POS tag completed ...")
@@ -59,20 +59,21 @@ class Preprocessing(object):
         print("Meeting histogram computed ...")
         
     
-    def CreateMeetingHistogram(self, c = 0):
+    def CreateMeetingHistogram(self):
         #computes the local histogram per each speaker
-        self.numSpeakers = int(np.max(self.speakers))
-        [self.singleWords.append(w) for w in self.wordLemma if w not in self.singleWords]
+        #self.numSpeakers = int(np.max(self.speakers))
+        for w in self.wordLemma:
+           if w not in self.singleWords:
+               self.singleWords.append(w) 
         self.meetingHisto = np.zeros((self.numSpeakers+1, len(self.singleWords)))
-    
+        c = 0
         for w in self.wordLemma:  
-            spIdx = sp[c]
+            spIdx = self.wSpeakers[c]
             idx   = self.singleWords.index(w)
             self.meetingHisto[0][idx]     += 1
             self.meetingHisto[spIdx][idx] += 1
             c += 1
     
-        return [histo, singleWords, Ns]
 
     def TokenizeReference(self, ref, text = []):
         ref = ''.join(ref)

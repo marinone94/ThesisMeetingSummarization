@@ -69,11 +69,8 @@ class FrequencyMeasures(object):
         return tfidf
 
     #can receive idfVec
-    def Suidf(self, idfVec=[]):      #computes suidf for all the words in the meeting (not in the dataset, not sure what's better)
-        if ((not idfVec) and (not self.idf)):
-            self.idf = self.TfIdfGlobal(False)
-        
-        
+    def Suidf(self):      #computes suidf for all the words in the meeting (not in the dataset, not sure what's better)
+         
         surp_w_s = np.zeros((self.Ns, len(self.meetingWords))) #matrix [num_speakers X num_words]
         surp_w   = np.zeros(len(self.meetingWords))
         suidf_v  = surp_w
