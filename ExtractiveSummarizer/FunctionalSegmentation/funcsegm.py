@@ -58,7 +58,7 @@ class FuncSegm(object):
         #c_idx idx of each cat, to find the cat corresp to min score
         for c in cat:
  
-            sum_dist = Dist(Dstr(segm, self.Ns), DstrId(self.Ns,c)) #score segments
+            sum_dist = Help.Dist(Help.Dstr(segm, self.Ns), Help.DstrId(self.Ns,c)) #score segments
             sum_c.append(sum_dist)
             c_idx.append(c)
              #c single category boolean vector used for calling dstr_id

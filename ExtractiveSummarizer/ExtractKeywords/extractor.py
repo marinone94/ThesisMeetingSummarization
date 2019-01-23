@@ -31,7 +31,7 @@ class Extractor(object):
         tk_segm_list = Help.Expand(tk_segm) #words, speakers, tags
         idf_w = np.zeros(len(tk_segm_list[0]))
         ext_score = np.zeros(len(tk_segm_list[0]))
-        num_segm = len(segments)
+        num_segm = len(self.segm.cleanSentences)
         prob_s_w = np.zeros((len(tk_segm_list[0]), num_segm))
         num_s_w = np.zeros((len(tk_segm_list[0]), num_segm))
         nent  = np.zeros(len(tk_segm_list[0]))

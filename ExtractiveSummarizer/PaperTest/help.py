@@ -94,8 +94,9 @@ class Help(object):
                                 
         return dstr_id 
 
-    def RemoveMinorSpeaker(text, sp, dstr, clean = []):
-         #if at position sp[x]-1 dstr is true append text (lemmatized sentence, speaker or original sentence)
+    def RemoveMinorSpeaker(text, sp, dstr):
+        clean = []
+        #if at position sp[x]-1 dstr is true append text (lemmatized sentence, speaker or original sentence)
         [clean.append(text[x]) for x in range(len(sp)) if dstr[sp[x]-1]]
         return clean    
 
