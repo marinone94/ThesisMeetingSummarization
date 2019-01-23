@@ -101,7 +101,8 @@ class FrequencyMeasures(object):
             suidf_v[f] = surp_w[f] * self.HowMany(f) * np.sqrt(self.idf[self.meetingWords.index(word)]) / self.Ns #howmany number of speaks uttered word    
         return suidf_v
 
-    def HowMany(self, f, count = 0):
+    def HowMany(self, f):
+        count = 0
         for x in range(1, len(self.meetingHisto)):
            if self.meetingHisto[x][f]:
                count += 1

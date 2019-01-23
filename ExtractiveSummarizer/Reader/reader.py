@@ -41,7 +41,8 @@ class Reader(object):
     def ReadAll(self):
         return {'Transcripts': self.ReadTranscripts(), 'References': self.ReadReferences(), 'Histograms': self.ReadHistograms(), 'TopicModels': self.LoadTopicModels()}
     
-    def ReadTranscripts(self, transcripts = []):
+    def ReadTranscripts(self):
+        transcripts = []
         # read transcripts from the transcript path, if path is valid
         if os.path.exists(self.transcriptPath):
             for file in os.listdir(self.transcriptPath):          
@@ -55,7 +56,8 @@ class Reader(object):
         else:
             raise FileNotFoundError('Transcript path not valid:' + self.transcriptPath)
 
-    def ReadReferences(self, reference = []):
+    def ReadReferences(self):
+        reference = []
         
         prep = Preprocessing()
         for file in os.listdir(self.referencePath):          
@@ -66,7 +68,10 @@ class Reader(object):
         return reference
     
     
-    def ReadSingleTranscript(self, file, transcript = [], speakers = [], sentences = []):
+    def ReadSingleTranscript(self, file):
+        transcript = []
+        speakers = []
+        sentences = []
     
         file = file[3:] #take of first three liness'
         for l in file:
@@ -87,8 +92,11 @@ class Reader(object):
         return nums
                 
 
-    def MergeSentences(self, sentences, speakers, new_sent = [], new_sp = [], full_sent = [], full_sp = []):
-
+    def MergeSentences(self, sentences, speakers):
+        new_sent = []
+        new_sp = []
+        full_sent = []
+        full_sp = []
         old_x = 0
         for x in range(1, len(sentences)):
             if speakers[x-1]: #when it's zero, new_segment
@@ -133,8 +141,9 @@ class Reader(object):
             raise NotImplementedError('Histograms computation not implemented')
 
 
-    def LoadHistograms(self, histo = [], words = []):
-
+    def LoadHistograms(self):
+        histo = []
+        words = []
         histoPath = ''.join([self.histogramsPath, self.histoFolder])
         wordsPath = ''.join([self.histogramsPath, self.wordsFolder])
         #load histograms
@@ -148,17 +157,21 @@ class Reader(object):
     
         return histo, words[:-1]
 
-    def ReadWordsHistograms(self, filepath, words = []):
+    def ReadWordsHistograms(self, filepath):
+        words = []
         #all the words are saved in txt files
         txt = open(filepath).readlines()
         [words.append(l[:-1]) for l in txt]
         return words
 
-    def InvertHistograms(self, histos, words, zipped = []):
+    def InvertHistograms(self, histos, words):
+        zipped = []
         [zipped.append([histos[x], words[x]]) for x in range(len(histos))]
         return zipped
 
-    def LoadTopicModels(self, tokensTopicModel = [], topicsDoc = []):
+    def LoadTopicModels(self):
+        tokensTopicModel = []
+        topicsDoc = []
         
         if self.topicModelSet1:
             dictionary = gensim.corpora.Dictionary.load(self.topicDict1)

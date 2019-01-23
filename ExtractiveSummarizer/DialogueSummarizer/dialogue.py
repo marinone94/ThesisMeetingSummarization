@@ -136,8 +136,8 @@ class Dialogue(object):
         return np.sum(LTS) #return sum over all topics (LTS of a single word with frequency term_freq)
 
 
-    def ComputeTermFrequency(self, w, freq = [], flag=True):
-        
+    def ComputeTermFrequency(self, w, flag=True):
+        freq = []
         try:
             w_id = self.topicModel['Vocab'][w]
         except:
