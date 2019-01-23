@@ -75,7 +75,8 @@ class Preprocessing(object):
             c += 1
     
 
-    def TokenizeReference(self, ref, text = []):
+    def TokenizeReference(self, ref):
+        text = []
         ref = ''.join(ref)
         doc = self.nlp(ref1)
         for temp in doc.sents:

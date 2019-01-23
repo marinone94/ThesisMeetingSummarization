@@ -25,8 +25,9 @@ class Help(object):
             vec[x] = summ
         return vec
 
-    def CreateSpeakerVector(j, sent, speaks, freq_vec, idf_vec = []):
-        cfg = Config()
+    def CreateSpeakerVector(j, sent, speaks, freq_vec):
+        idf_vec = []
+        
         
         for y in range(len(sent)):
             sp = speaks[y]
@@ -37,7 +38,7 @@ class Help(object):
                     try:
                         idf_vec.append(freq_vec[j][spacy_loc_single_w.index(w)])
                     except:
-                        idf_vec.append(cfg.small) #or should it be 1?
+                        idf_vec.append(0.001) #or should it be 1?
                     
         return idf_vec
     
@@ -96,12 +97,14 @@ class Help(object):
 
     def RemoveMinorSpeaker(text, sp, dstr):
         clean = []
-        #if at position sp[x]-1 dstr is true append text (lemmatized sentence, speaker or original sentence)
+         #if at position sp[x]-1 dstr is true append text (lemmatized sentence, speaker or original sentence)
         [clean.append(text[x]) for x in range(len(sp)) if dstr[sp[x]-1]]
         return clean    
 
-    def GenSpeaksWordsTag(segments, speakers, tag, segm_tag = [], segm_sp = [], segm_w = []): #from a window of sentences, generate two vectors speaks and words    
- 
+    def GenSpeaksWordsTag(segments, speakers, tag): #from a window of sentences, generate two vectors speaks and words    
+        segm_tag = []
+        segm_sp = []
+        segm_w = []
         for d in range(0, len(segments)):
             w = segments[d]
             t = tag[d]
@@ -121,8 +124,10 @@ class Help(object):
         return [segm_tag, segm_sp, segm_w]
     
 
-    def Expand(segm, word = [], s = [], t = []):
-        
+    def Expand(segm):
+        word = []
+        s = []
+        t = []
         for el in segm[0]:
             for w in el:
                 t.append(w)
@@ -141,7 +146,9 @@ class Help(object):
                 count += 1            
         return count
 
-    def RemoveMultipleKeywords(arr, ext_score, words = [], score = []):
+    def RemoveMultipleKeywords(arr, ext_score):
+        words = []
+        score = []
         for x in range(len(arr)):
             if arr[x] not in words:
                 words.append(arr[x])

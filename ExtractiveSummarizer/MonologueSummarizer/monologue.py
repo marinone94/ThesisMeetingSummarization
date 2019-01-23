@@ -58,7 +58,8 @@ class Monologue(object):
             self.optS.append(value(s[i]))
 
 
-    def ExtractSummary(self, localSummary = []):
+    def ExtractSummary(self):
+        localSummary = []
         for x in range(0, len(self.optS)):
             if self.optS[x] and self.segm.cleanSentOrig[x] not in localSummary:
                 localSummary.append(self.segm.cleanSentOrig[x])

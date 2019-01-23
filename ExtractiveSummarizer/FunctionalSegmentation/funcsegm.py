@@ -50,7 +50,10 @@ class FuncSegm(object):
             self.cleanSentTags.append(Help.RemoveMinorSpeaker(newSegments[3][x], newSegments[1][x], self.speakerDistr[x]))  
 
         
-    def ScoreSegment(self, segm, sum_c = [], c_idx = []):
+    def ScoreSegment(self, segm):
+        sum_c = []
+        c_idx = []
+
         cat = Help.GenCat(self.Ns) #generate categories vector
         cat = cat[1:] #[0,0,0,0,0] not allowed, there's always at least one speaker
  
@@ -96,7 +99,8 @@ class FuncSegm(object):
         return test_segm
     
         
-    def GetBoundaries(self, peaks = []):
+    def GetBoundaries(self):
+        peaks = []
         #get boundaries, CB and number of segments
         lenText = len(self.prep.sentLemma) 
     
@@ -153,8 +157,8 @@ class FuncSegm(object):
             [self.boundaries.append(idx[x]) for x in range(len(peak_score)) if peak_score[x] in top_peaks]
     
 
-    def PeakScore(self, lenText, score, j = 0): 
-    
+    def PeakScore(self, lenText, score): 
+        j = 0
         peaks = np.zeros(lenText)
         nw    = np.zeros(lenText)
         pw    = np.zeros(lenText)
@@ -268,12 +272,15 @@ class FuncSegm(object):
             WC_vec[j] = Help.SafeDiv(count, length)    #match with dimensionality            
         return WC_vec    
     
-    def RemoveDupl(self, words, new = []):
+    def RemoveDupl(self, words):
+        new = []
         [new.append(w) for w in words if w not in new]
         return new
 
-    def GenSpeaksWords(self, win, words = [], speaks = [], c = 0): #from a window of sentences, generate two vectors speaks and words    
-    
+    def GenSpeaksWords(self, win): #from a window of sentences, generate two vectors speaks and words    
+        words = []
+        speaks = []
+        c = 0
         s = win[0]
         w = win[1]
     
