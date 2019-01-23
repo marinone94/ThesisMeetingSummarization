@@ -1,3 +1,8 @@
+from config import Config
+from PaperTest.help import Help
+import numpy as np
+
+
 class FuncSegm(object):
     """ This class divides a transcript into monologues and dialogues
         Identifies the active speakers
@@ -32,22 +37,21 @@ class FuncSegm(object):
         #segment according to previous results
         newSegments         = self.Segmenter()#
 
-    for x in range(len(newSegments[0])):
-        locSentences = newSegments[0][x]
-        locSpeakers = newSegments[1][x]  
-        vec = [sent, sp]
-        self.speakerDistr.append(self.ScoreSegment(vec)[1])#
+        for x in range(len(newSegments[0])):
+            locSentences = newSegments[0][x]
+            locSpeakers = newSegments[1][x]  
+            vec = [sent, sp]
+            self.speakerDistr.append(self.ScoreSegment(vec)[1])#
 
-    for x in range(len(newSegments[0])):
-        self.cleanSentences.append(RemoveMinorSpeaker(newSegments[0][x], newSegments[1][x], self.speakerDistr[x]))    
-        self.cleanSpeakers.append(RemoveMinorSpeaker(newSegments[1][x], newSegments[1][x], self.speakerDistr[x]))  
-        self.cleanSentOrig.append(RemoveMinorSpeaker(newSegments[2][x], newSegments[1][x], self.speakerDistr[x]))  
-        self.cleanSentTags.append(RemoveMinorSpeaker(newSegments[3][x], newSegments[1][x], self.speakerDistr[x]))  
-     
-    
+        for x in range(len(newSegments[0])):
+            self.cleanSentences.append(Help.RemoveMinorSpeaker(newSegments[0][x], newSegments[1][x], self.speakerDistr[x]))    
+            self.cleanSpeakers.append(Help.RemoveMinorSpeaker(newSegments[1][x], newSegments[1][x], self.speakerDistr[x]))  
+            self.cleanSentOrig.append(Help.RemoveMinorSpeaker(newSegments[2][x], newSegments[1][x], self.speakerDistr[x]))  
+            self.cleanSentTags.append(Help.RemoveMinorSpeaker(newSegments[3][x], newSegments[1][x], self.speakerDistr[x]))  
+
         
     def ScoreSegment(self, segm, sum_c = [], c_idx = []):
-        cat = gen_cat(self.Ns) #generate categories vector
+        cat = Help.GenCat(self.Ns) #generate categories vector
         cat = cat[1:] #[0,0,0,0,0] not allowed, there's always at least one speaker
  
         #sum_c score per each cat, find min
@@ -94,7 +98,7 @@ class FuncSegm(object):
         return test_segm
     
         
-    def GetBoundaries(self, peaks = [])
+    def GetBoundaries(self, peaks = []):
         #get boundaries, CB and number of segments
         lenText = len(self.sentences) 
     

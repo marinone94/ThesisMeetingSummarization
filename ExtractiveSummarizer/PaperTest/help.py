@@ -1,5 +1,11 @@
+import numpy as np
+import itertools
+
 class Help(object):
     """Support class"""
+
+    def GenCat(Ns):
+        return list(itertools.product([0, 1], repeat=Ns))
     
     def SafeDiv(x, y):
         if not y:
@@ -58,7 +64,7 @@ class Help(object):
 
         return dist
 
-     def Dstr(text, num_speak):
+    def Dstr(text, num_speak):
         tot_w = 0
         dstr_vec = np.zeros(num_speak)
         for j in range(0, num_speak):
@@ -162,33 +168,11 @@ class Help(object):
     def NotValidCos(x,y):
         return (not(len(x) == len(y)))
 
-    def RemoveEmptyCols(m, squared=True):
-        size = np.shape(m)[0]
-        if squared:
-            new_m = []
-            for r in m:
-                temp = []
-                for el in r:
-                    if el:
-                        temp.append(el) 
-                if temp:
-                    new_m.append(temp)
-            arr = np.array(new_m)
-            return arr
-        else:
-            new_m = []
-            for r in m:
-                if np.sum(r): #check if first row is not empty
-                    y = 0
-                    for el in r: 
-                        if el:
-                            loc = []
-                            for z in range(size):
-                                loc.append(m[z][y])
-                            new_m.append(loc)
-                        y += 1
-                    break
-            arr = np.array(new_m)
-            return np.transpose(arr)
     
+
+    def FreqWordInSentence(w, sent, freq = 0):
+        for word in sent:
+            if w == word:
+                freq += 1
+        return freq
     

@@ -1,7 +1,7 @@
-from ExtractiveSummarizer import PaperTest
+from PaperTest.tester import PaperTest
 
-tester = PaperTest.test.PaperTest()
-print("PaperTesy class built")
+tester = PaperTest()
+print("PaperTest class built")
 tester.TestPaper()      
 
 

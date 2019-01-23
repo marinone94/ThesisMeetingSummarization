@@ -1,4 +1,9 @@
-from PaperTest.config import Config
+import os
+import numpy as np
+import gensim
+import pickle
+from config import Config
+from Preprocessing.preprocessing import Preprocessing
 
 class Reader(object):
     """Reader contains methods for reading files from the dataset"""
@@ -39,31 +44,32 @@ class Reader(object):
         # read transcripts from the transcript path, if path is valid
         if os.path.exists(self.transcriptPath):
             for file in os.listdir(self.transcriptPath):          
-                filename = ''.join([path_tr,file])
+                filename = ''.join([self.transcriptPath,file])
                 partText = open(filename)
                 temp     = self.ReadSingleTranscript(partText.readlines())
                 transcripts.append(temp)
          
-            return text
+            return transcripts
 
         else:
-            raise PathError('Transcript path not valid:' + self.transcriptPath)
+            raise FileNotFoundError('Transcript path not valid:' + self.transcriptPath)
 
-    def ReadReferences(self, text = []):
+    def ReadReferences(self, reference = []):
+        
         prep = Preprocessing()
         for file in os.listdir(self.referencePath):          
 
-             filename  = ''.join([path ,file])
+             filename  = ''.join([self.referencePath ,file])
              partText = open(filename)
-             text.append(prep.TokenizeReference(partText.readlines())) #meeting name up to 7th character
-        return text
+             reference.append(''.join(partText.readlines())) #meeting name up to 7th character
+        return reference
     
     
     def ReadSingleTranscript(self, file, transcript = [], speakers = [], sentences = []):
     
         file = file[3:] #take of first three liness'
         for l in file:
-            lVec = l.split().
+            lVec = l.split()
             speakers.append(self.ConvertLetter(lVec[0]))
             sentences.append(' '.join(lVec[3:]))
             
@@ -72,35 +78,31 @@ class Reader(object):
         return transcr
 
     def ConvertLetter(self, c):
-    
+        if c not in self.alphabet:
+            raise ValueError('SpeakerID not valid')
         for nums in range(len(self.alphabet)):
             if self.alphabet[nums] == c:
                 return nums +1
-            else
-                raise ImplementationError('SpeakerID not valid')
+        return nums
+                
 
-    def MergeSentences(self, sentences, speakers):
-    
-        new_sent = []
-        new_sp = []
+    def MergeSentences(self, sentences, speakers, new_sent = [], new_sp = [], full_sent = [], full_sp = []):
+
         old_x = 0
         for x in range(1, len(sentences)):
-            if sp[x-1]: #when it's zero, new_segment
-                if sp[x-1] != sp[x]:
-                    new_sp.append(sp[x-1])
-                    new_sent.append(' '.join(sent[old_x:x-1]))
+            if speakers[x-1]: #when it's zero, new_segment
+                if speakers[x-1] != speakers[x]:
+                    new_sp.append(speakers[x-1])
+                    new_sent.append(' '.join(sentences[old_x:x-1]))
                     old_x = x-1
             else:
-                new_sp.append(sp[x-1])
-                new_sent.append(sent[x-1])
+                new_sp.append(speakers[x-1])
+                new_sent.append(sentences[x-1])
                 old_x = x
     
-        full_sent = []
-        full_sp = []
         y = 0
         for ss in new_sent:
-    #        len_ss = len(sk(sen))
-            for s in sk(ss):
+            for s in ss:
                 full_sent.append(s)
                 full_sp.append(new_sp[y])
             y += 1
@@ -120,15 +122,16 @@ class Reader(object):
 
             singleWords = self.ReadWordsHistograms(''.join([self.histogramsPath, self.wordsFile]))
 
-            print("HISTOGRAMS LOADED")
+            print("Histograms loaded ...")
 
             return {'ListHistogramsVector': listHistogramsVector, 'ListWordsVector': listWordsVector, 'ArrangedHistogram': arrangedHistogram, 
-                    'ZippedHistograms': zippedHistograms, 'Histogram': histogram, 'LenDataset': lenDataset, 'LenSingleWords': lenSingleWords, 'SingleWords': singleWords]
+                    'ZippedHistograms': zippedHistograms, 'Histogram': histogram, 'LenDataset': lenDataset, 'LenSingleWords': lenSingleWords, 'SingleWords': singleWords}
         
         else:
-            raise ImplementationError('Histograms computation not implemented')
+            raise NotImplementedError('Histograms computation not implemented')
 
-    def LoadHisotgrams(self, histo = [], words = []):
+
+    def LoadHistograms(self, histo = [], words = []):
 
         histoPath = ''.join([self.histogramsPath, self.histoFolder])
         wordsPath = ''.join([self.histogramsPath, self.wordsFolder])
@@ -159,26 +162,28 @@ class Reader(object):
             dictionary = gensim.corpora.Dictionary.load(self.topicDict1)
             corpus = pickle.load(open(self.topicCorpus1, 'rb'))
             ldamodel = gensim.models.ldamodel.LdaModel.load(self.topicModel1)
-            with open(self.topicDocs1) as f:
+            topicDocs = self.topicDocs1
         
         elif self.topicModelSet2:
             dictionary = gensim.corpora.Dictionary.load(self.topicDict2)
             corpus = pickle.load(open(self.topicCorpus2, 'rb'))
             ldamodel = gensim.models.ldamodel.LdaModel.load(self.topicModel2)
-            with open(self.topicDocs2) as f:
+            topicDocs = self.topicDocs2
 
         else: #error handling in config class 
             dictionary = gensim.corpora.Dictionary.load(self.topicDict3)
             corpus = pickle.load(open(self.topicCorpus3, 'rb'))
             ldamodel = gensim.models.ldamodel.LdaModel.load(self.topicModel3)
-            with open(self.topicDocs3) as f:
+            topicDocs = self.topicDocs3
 
-        for line in f:
-            words = line.split()
-            if words:
-                tokensTopicModel.append(words)
+        with open(topicDocs) as f:
+            for line in f:
+                words = line.split()
+                if words:
+                    tokensTopicModel.append(words)
+
         f.close()
-        print('DICTIONARY, CORPUS AND MODEL LOADED!')
+        print('Dictionary, corpus and model loaded ...')
         #use gensim pre-built functions to compute topics-terms, topics-docs and vocabulary
         topicTerms = ldamodel.get_topics() 
         [topicsDoc.append(ldamodel.get_document_topics(corpus[x])) for x in range(len(tokensTopicModel))]

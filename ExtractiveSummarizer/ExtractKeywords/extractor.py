@@ -1,3 +1,7 @@
+import numpy as np
+from config import Config
+from PaperTest.help import Help
+
 class Extractor(object):
     """Extract keywords from meeting"""
 
@@ -23,8 +27,8 @@ class Extractor(object):
         self.segm       = segm
 
     def ExtractKeywords(self):
-        tk_segm = GenSpeaksWordsTag(self.segm.cleanSentences, self.segm.cleanSpeakers, self.segm.cleanSentTags) #generate list of tokenized words with relative speaker UNCOMMENT
-        tk_segm_list = Expand(tk_segm) #words, speakers, tags
+        tk_segm = Help.GenSpeaksWordsTag(self.segm.cleanSentences, self.segm.cleanSpeakers, self.segm.cleanSentTags) #generate list of tokenized words with relative speaker UNCOMMENT
+        tk_segm_list = Help.Expand(tk_segm) #words, speakers, tags
         idf_w = np.zeros(len(tk_segm_list[0]))
         ext_score = np.zeros(len(tk_segm_list[0]))
         num_segm = len(segments)
@@ -34,13 +38,14 @@ class Extractor(object):
         den_w = np.zeros(len(tk_segm_list[0]))
 
         #tfidf is created considering the words ordered as in spacy_loc_single_w
-        [idf_w[i] = tfidf_vec[self.prep.singleWords.index(tk_segm_list[0][i])] for i in range(0, len(tk_segm_list[0]))]
+        for i in range(0, len(tk_segm_list[0])):
+            idf_w[i] = tfidf_vec[self.prep.singleWords.index(tk_segm_list[0][i])] 
 
         #check this later
         for i in range(0, len(tk_segm_list[0])): #i iter over words
             for j in range(0, num_segm): #j iter over segments
                 try:
-                    freq = WordSegmFrequency(tk_segm[2][j], tk_segm_list[0][i]) #times w is uttered in segment j
+                    freq = Help.WordSegmFrequency(tk_segm[2][j], tk_segm_list[0][i]) #times w is uttered in segment j
                 except:
                     print(j)
                     input("enter")
@@ -65,8 +70,9 @@ class Extractor(object):
                 if tk_segm_list[0][i] in tk_segm[2][j]:
                     nent[i] = nent[i] - (prob_s_w[i][j] * np.log(prob_s_w[i][j])) #negative entropy of each word
     
-        [ext_score[i] = k_idf * idf_w[i] + k_nent * nent[i] for i in range(0, len(tk_segm_list[0]))[ #sum global and local scores
-        [loc_single_words, scores] = RemoveMultipleKeywords(tk_segm_list[0], ext_score) #remove multiple keywords
+        for i in range(len(tk_segm_list[0])):
+           ext_score[i] = k_idf * idf_w[i] + k_nent * nent[i] #sum global and local scores
+        [loc_single_words, scores] = Help.RemoveMultipleKeywords(tk_segm_list[0], ext_score) #remove multiple keywords
         newScores = self.PosAndNer(loc_single_words, scores, tk_segm_list) #filter according to POS and adapt weight acc to NER
         self.Revert(loc_single_words, newScores) #revert scores and extract top Tm%
         
@@ -82,21 +88,18 @@ class Extractor(object):
             self.keywords.append(loc_single_words[idx])
 
     
-    def PosAndNer(self, loc_single_words, scores, tk_segm_list)
+    def PosAndNer(self, loc_single_words, scores, tk_segm_list):
         
         for y in range(0, len(loc_single_words)):
             for x in range(0, len(tk_segm_list[2])):
                 if tk_segm_list[0][x].lower() == loc_single_words[y].lower():
-    #                idx = find_idx_word(NER_words, tk_segm[x])  #if tk_segm[x] is in the list of specific NERs, extract its index 
                     word = tk_segm_list[0][x].lower()
                     idx_POS = tk_segm_list[2][x][1]
                     try:
                         ner_entity = self.prep.nerEnts[self.prep.nerWords.index(word.lower())] #ner_w list of words, ner_ent list of relative entities
-    #                    print(" entity assigned to")
-    #                    print(word)
                     except:
                         ner_entity = 'null'
-                    if idx_POS in self.allowedPOS:
+                    if (idx_POS in self.allowedPOS):
                         if ner_entity in self.listNer: #if label is in the list of good labels, increase the score
                         
                             scores[y] = scores[y] * self.nerCoeff[self.listNer.index(ner_entity)] #inc_score param to be tuned    

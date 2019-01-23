@@ -2,7 +2,6 @@ import os
 import numpy as np
 import spacy
 from gensim import corpora
-from ExtractiveSummarizer import Config
 import gensim
 from scipy import spatial as sp
 from sklearn.preprocessing import normalize as norm 
@@ -24,7 +23,6 @@ from colored import fg, bg, attr
 from numpy import linalg as LA
 import matplotlib.pyplot as plt
 from rouge import Rouge
-from ExtractiveSummarizer.PaperTest import Config()
 
 
 

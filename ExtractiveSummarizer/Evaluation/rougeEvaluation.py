@@ -1,3 +1,7 @@
+import numpy as np
+from config import Config
+from rouge import Rouge
+
 class RougeEvaluation(object):
     """It computes the metrics used in the Thesis project"""
     def __init__(self, summaries, references):

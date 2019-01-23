@@ -1,3 +1,6 @@
+import numpy as np
+from config import Config
+
 class Preprocessing(object):
     """It performs all the preprocessing steps required for meeting summarization"""
     def __init__(self):
@@ -30,14 +33,14 @@ class Preprocessing(object):
             self.nerWords.append(ent.text.lower())
             self.nerEnts.append(ent.label_)
 
- 
+        print("Named entities tagged ...")
         for sent in oldSentences:
             sent = self.nlp(sent)
             for temp in sent.sents:
                 
                 loc = []
                 locTag = []
-                for token in nlp(temp.text):
+                for token in self.nlp(temp.text):
                     if self.Filter(token):
                         locTag.append([token.lemma_, token.tag_, token.dep_])
                         loc.append(token.lemma_)
@@ -51,15 +54,16 @@ class Preprocessing(object):
                     self.speakers.append(speakers_old[c])
                     
             c += 1
-    
+        print("Stopwords removed, lemmatization and POS tag completed ...")
         self.CreateMeetingHistogram()    
+        print("Meeting histogram computed ...")
         
     
     def CreateMeetingHistogram(self, c = 0):
         #computes the local histogram per each speaker
-        self.numSpeakers = int(np.max(sp))
+        self.numSpeakers = int(np.max(self.speakers))
         [self.singleWords.append(w) for w in self.wordLemma if w not in self.singleWords]
-        self.meetingHisto = np.zeros((Ns+1, len(self.singleWords)))
+        self.meetingHisto = np.zeros((self.numSpeakers+1, len(self.singleWords)))
     
         for w in self.wordLemma:  
             spIdx = sp[c]
@@ -71,7 +75,8 @@ class Preprocessing(object):
         return [histo, singleWords, Ns]
 
     def TokenizeReference(self, ref, text = []):
-        doc = self.nlp(ref)
+        ref = ''.join(ref)
+        doc = self.nlp(ref1)
         for temp in doc.sents:
             lemma = []
             for token in self.nlp(temp.text):

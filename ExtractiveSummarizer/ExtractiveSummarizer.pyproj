@@ -11,7 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>ExtractiveSummarizer</Name>
     <RootNamespace>ExtractiveSummarizer</RootNamespace>
-    <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+    <InterpreterId>Global|PythonCore|3.6</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="config.py" />
     <Compile Include="DialogueSummarizer\dialogue.py">
       <SubType>Code</SubType>
     </Compile>
@@ -62,13 +63,10 @@
     <Compile Include="MonologueSummarizer\__init__.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="PaperTest\config.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="PaperTest\help.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="PaperTest\test.py">
+    <Compile Include="PaperTest\tester.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PaperTest\__init__.py">
@@ -111,6 +109,13 @@
       <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
       <Architecture>X64</Architecture>
     </Interpreter>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="requirements.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda36-64" />
+    <InterpreterReference Include="Global|PythonCore|3.6" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

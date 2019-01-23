@@ -1,3 +1,8 @@
+import spacy
+import numpy as np
+from nltk.corpus import stopwords
+
+
 class Config(object):
     """ All the parameters and the other configurations are defined here
         No hard-coded configurations in other files
@@ -13,32 +18,32 @@ class Config(object):
         #load spacy - use 'en_core_web_md' or 'en_core_web_sm' for medium or small model size
         self.nlp            = spacy.load('en_core_web_lg') 
         #paths and filenames
-        self.transcriptPath = r'.\ExtractiveSummarizer\Datasets\AMI\Transcripts\\'
-        self.referencePath  = r'.\ExtractiveSummarizer\Datasets\AMI\References\\'
-        self.histogramsPath = r'.\ExtractiveSummarizer\Datasets\AMI\Histograms\\'
-        self.topicModelPath = r'.\ExtractiveSummarizer\Datasets\AMI\TopicModels\\'
-        self.testResultPath = r'.\ExtractiveSummarizer\Datasets\AMI\Results\\'
-        self.lpAddress      = r'.\ExtractiveSummarizer\Datasets\AMI\Optimization\opt_spacy.lp'
+        self.transcriptPath = r'.\Datasets\AMI\Transcripts\\'
+        self.referencePath  = r'.\Datasets\AMI\References\\'
+        self.histogramsPath = r'.\Datasets\AMI\Histograms\\'
+        self.topicModelPath = r'.\Datasets\TopicModels\\'
+        self.testResultPath = r'.\Datasets\AMI\Results\\'
+        self.lpAddress      = r'.\Datasets\Optimization\opt_spacy.lp'
         self.histogramsFile = 'spacy_histo.npy'
         self.wordsFile      = 'spacy_single_words.txt'
         self.histoFolder    = 'histos\\'
         self.wordsFolder    = 'words\\'
         self.avgResultFile  = 'avg.npy'
         #topic dataset 1
-        self.topicDict1     = ''.join([topicModelPath, 'meet_doc_dictionary.gensim'])
-        self.topicCorpus1   = ''.join([topicModelPath, 'meet_doc_corpus.pkl'])
-        self.topicModel1    = ''.join([topicModelPath, 'meet_doc_model.gensim'])
-        self.topicDocs1     = ''.join([topicModelPath, 'tokens_topic_model_meet_doc.txt']) 
+        self.topicDict1     = ''.join([self.topicModelPath, 'meet_doc_dictionary.gensim'])
+        self.topicCorpus1   = ''.join([self.topicModelPath, 'meet_doc_corpus.pkl'])
+        self.topicModel1    = ''.join([self.topicModelPath, 'meet_doc_model.gensim'])
+        self.topicDocs1     = ''.join([self.topicModelPath, 'tokens_topic_model_meet_doc.txt']) 
         #topic dataset 2
-        self.topicDict2     = ''.join([topicModelPath, 'meet_doc_dictionary_bbc.gensim'])
-        self.topicCorpus2   = ''.join([topicModelPath, 'meet_doc_corpus_bbc.pkl'])
-        self.topicModel2    = ''.join([topicModelPath, 'meet_doc_model_bbc.gensim'])
-        self.topicDocs2     = ''.join([topicModelPath, 'tokens_topic_model_meet_doc_bbc.txt']) 
+        self.topicDict2     = ''.join([self.topicModelPath, 'meet_doc_dictionary_bbc.gensim'])
+        self.topicCorpus2   = ''.join([self.topicModelPath, 'meet_doc_corpus_bbc.pkl'])
+        self.topicModel2    = ''.join([self.topicModelPath, 'meet_doc_model_bbc.gensim'])
+        self.topicDocs2     = ''.join([self.topicModelPath, 'tokens_topic_model_meet_doc_bbc.txt']) 
         #topic dataset 3
-        self.topicDict3     = ''.join([topicModelPath, 'meet_doc_dictionary_bbc_gensim_dataset.gensim'])
-        self.topicCorpus3   = ''.join([topicModelPath, 'meet_doc_corpus_bbc_gensim_dataset.pkl'])
-        self.topicModel3    = ''.join([topicModelPath, 'meet_doc_model_bbc_gensim_dataset.gensim'])
-        self.topicDocs3     = ''.join([topicModelPath, 'tokens_topic_model_meet_doc_bbc_gensim_dataset.txt']) 
+        self.topicDict3     = ''.join([self.topicModelPath, 'meet_doc_dictionary_bbc_gensim_dataset.gensim'])
+        self.topicCorpus3   = ''.join([self.topicModelPath, 'meet_doc_corpus_bbc_gensim_dataset.pkl'])
+        self.topicModel3    = ''.join([self.topicModelPath, 'meet_doc_model_bbc_gensim_dataset.gensim'])
+        self.topicDocs3     = ''.join([self.topicModelPath, 'tokens_topic_model_meet_doc_bbc_gensim_dataset.txt']) 
         #flags - ONLY ONE TOPIC MODEL SET CAN BE SET TO TRUE - default config with topicModelSet2 = True
         self.loadHistograms = True
         self.loadTopicModel = True
@@ -54,7 +59,7 @@ class Config(object):
         #number of speakers 
         self.numSpeakers    = 4           #set to -1 if to be determined from the transcript (not impl. yet) --> AMI Corpus has 4 speakers for all meetings
         #number of underlying topics 
-        self.numDefTopics   = 16
+        self.numTopics   = 16
         #high surprise value
         self.high           = 0
         self.small          = 0.00000000000001

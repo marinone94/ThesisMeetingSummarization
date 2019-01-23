@@ -1,3 +1,7 @@
+from config import Config
+import numpy as np
+from PaperTest.help import Help
+
 class FrequencyMeasures(object):
     """Computes idf, tfidf, suidf"""
     def __init__(self, meetingHisto, meetingWords, wordsVector, Ns):
@@ -85,7 +89,7 @@ class FrequencyMeasures(object):
                     if j != k: 
                         num += self.meetingHisto[j+1][c]   #number of times speaker k+1 utters w_ref 
                         den += np.sum(self.meetingHisto[j+1][:])                #number of words uttered by given speaker, pass given sp and list of speak
-                surp_w_s[j][c] = -np.log(SafeDiv(num, den))
+                surp_w_s[j][c] = -np.log(Help.SafeDiv(num, den))
                 if surp_w_s[j][c] == np.inf:
                     surp_w_s[j][c] = self.high * self.Ns
             
@@ -95,12 +99,14 @@ class FrequencyMeasures(object):
             summ = 0
             for c in range(0, self.Ns):
                 summ += surp_w_s[c][f] 
-            surp_w[f] = SafeDiv(summ, self.Ns)
+            surp_w[f] = Help.SafeDiv(summ, self.Ns)
     #            suidf_v[f] = surp_w[f] * howmany(word, f, num_speak) * np.sqrt(idf(word)) / num_speak #howmany number of speaks uttered word
             suidf_v[f] = surp_w[f] * self.HowMany(f) * np.sqrt(self.idf[self.meetingWords.index(word)]) / self.Ns #howmany number of speaks uttered word    
         return suidf_v
 
-    def HowMany(self, f, count = 0)
-        [count += 1 for x in range(1, len(self.meetingHisto)) if self.meetingHisto[x][f]]
+    def HowMany(self, f, count = 0):
+        for x in range(1, len(self.meetingHisto)):
+           if self.meetingHisto[x][f]:
+               count += 1
         return count
 

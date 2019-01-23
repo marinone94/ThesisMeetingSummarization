@@ -1,1 +1,1 @@
-from ExtractiveSummarizer import *
+from PaperTest.tester import PaperTest

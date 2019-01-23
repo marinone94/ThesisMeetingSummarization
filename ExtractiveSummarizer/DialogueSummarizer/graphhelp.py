@@ -1,3 +1,6 @@
+import numpy as np
+import sys
+
 class GraphHelp(object):
     """Help functions for graph propagation"""
     def Preprocess(Luu, Lss, Lus):
@@ -18,9 +21,9 @@ class GraphHelp(object):
         num2 = np.shape(E_22)[0]
 
         L_11 = GraphHelp.row_normalize(E_11)
-        L_22 = GraphHelprow_normalize(E_22)
-        L_12 = GraphHelprow_normalize(E_21)
-        L_21 = GraphHelprow_normalize(E_12)
+        L_22 = GraphHelp.row_normalize(E_22)
+        L_12 = GraphHelp.row_normalize(E_21)
+        L_21 = GraphHelp.row_normalize(E_12)
 
         return [L_11, L_22, L_12, L_21, num1, num2]
 
@@ -55,7 +58,6 @@ class GraphHelp(object):
         row12, col12 = np.shape(Mtx12)
         if row1 != col1 or row2 != col2 or row1 != row12 or row2 != col12:
             return 1
-    #   sys.stderr.write("#node in 1st layer: %d\n#node in 2nd layer: %d\n" %(row1, row2))
         return 0
 
     def row_normalize( inMtx ):
@@ -68,5 +70,34 @@ class GraphHelp(object):
             fout.write("%f\n" %score[i])
         fout.close()
         return
+
+    def RemoveEmptyCols(m, squared=True):
+        size = np.shape(m)[0]
+        if squared:
+            new_m = []
+            for r in m:
+                temp = []
+                for el in r:
+                    if el:
+                        temp.append(el) 
+                if temp:
+                    new_m.append(temp)
+            arr = np.array(new_m)
+            return arr
+        else:
+            new_m = []
+            for r in m:
+                if np.sum(r): #check if first row is not empty
+                    y = 0
+                    for el in r: 
+                        if el:
+                            loc = []
+                            for z in range(size):
+                                loc.append(m[z][y])
+                            new_m.append(loc)
+                        y += 1
+                    break
+            arr = np.array(new_m)
+            return np.transpose(arr)
 
 

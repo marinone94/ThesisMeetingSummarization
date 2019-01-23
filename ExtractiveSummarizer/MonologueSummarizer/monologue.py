@@ -1,3 +1,8 @@
+import numpy as np
+from config import Config
+from cvxopt.solvers import lp 
+from pulp import *
+
 class Monologue(object):
     """description of class"""
     def __init__(self, segm, keyw):
@@ -16,11 +21,11 @@ class Monologue(object):
         self.Optimize()
         self.ExtractSummary()
 
-    def Optimize(self, c = 0, s = 0, num_words = 0)
+    def Optimize(self, c = 0, s = 0, num_words = 0):
         num_sent = len(self.segm.cleanSentences)
         summary = []
     
-        o = create_o(self.keyw.keywords, self.segm.cleanSentences)
+        o = self.CreateO()
         l = np.zeros(len(self.segm.cleanSentences), dtype=int) #length of ith utterance
         for x in range(0, len(l)):
             l[x] = len(self.segm.cleanSentences[x])
@@ -61,6 +66,18 @@ class Monologue(object):
                 localSummary.append('')
 
         self.summary = ' '.join(localSummary)
+
+    def CreateO(self):
+
+        nc = len(self.keyw.keywords)
+        ns = len(self.segm.cleanSentences)
+        o = np.zeros((nc,ns), dtype=bool)
+        for i in range(nc):
+            for j in range(ns):
+                if self.keyw.keywords[i] in self.segm.cleanSentences[j]:
+                    o[i][j] = True
+    
+        return o
 
 
 

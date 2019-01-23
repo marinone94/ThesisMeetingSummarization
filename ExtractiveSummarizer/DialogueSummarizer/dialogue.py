@@ -1,3 +1,12 @@
+import numpy as np
+import math
+from config import Config
+from PaperTest.help import Help
+from DialogueSummarizer.graphhelp import GraphHelp
+from scipy import spatial as sp
+
+
+
 class Dialogue(object):
     """Summarizes dialogues"""
 #clean_sent[x], clean_speak[x], clean_sent_orig[x], sp_distr[x], top_term, top_doc, dictionary, words_vec, 
@@ -39,19 +48,15 @@ class Dialogue(object):
         Lss    = self.CreateLss()
         Lus    = self.CreateLus()
         #remove empty cols
-        Lss    = Help.RemoveEmptyCols(Lss)
-        Lus    = Help.RemoveEmptyCols(Lus, squared=False)
+        Lss    = GraphHelp.RemoveEmptyCols(Lss)
+        Lus    = GraphHelp.RemoveEmptyCols(Lus, squared=False)
     
         return [Luu, Lss, Lus]    
 
 
-    #def reate_Luu(sentences, tk_sent, top_word, top_doc, dct, freq_vec, num_topics, vocab, spacy_loc_single_w, bow, spacy_list_words_vec, spacy_list_histo_vec, 
-    #top=False, lex=True): # top=True means the function computes topical similarity, else lex=True computes lexical similarity
     def CreateLuu(self, top=False, lex=True): # top=True means the function computes topical similarity, else lex=True computes lexical similarity                                                                   
-                  # tk_sent list of words used for idf
          
         Luu = np.zeros((len(self.segm.cleanSentences),len(self.segm.cleanSentences))) # matrix [num_utterances X num_utterances]
-    
         if (top and lex) or ((not top) and (not lex)):  # if error in passing parameters (Luu can be based only on one kind of similarity)
             top = False                                 # reset default parameters
             lex = True                                  # reset default parameters
@@ -68,11 +73,11 @@ class Dialogue(object):
                     
                         try:
                             tk_id = self.topicModel['Dictionary'].token2id[w]
-                            num += (freq_w_sent(w, self.segm.cleanSentences[y]) * self.topicModel['Terms'][x][tk_id])
+                            num += (Help.FreqWordInSentence(w, self.segm.cleanSentences[y]) * self.topicModel['Terms'][x][tk_id])
                         except:
-                            num += (freq_w_sent(w, self.segm.cleanSentences[y]) * self.small)
-                        den += freq_w_sent(w, self.segm.cleanSentences[y])
-                    prob_top_sent[x][y] = safe_div(num, den)
+                            num += (Help.FreqWordInSentence(w, self.segm.cleanSentences[y]) * self.small)
+                        den += Help.FreqWordInSentence(w, self.segm.cleanSentences[y])
+                    prob_top_sent[x][y] = Help.SafeDiv(num, den)
         
             for x in range(len(self.segm.cleanSentences)):
                 for y in range(len(self.segm.cleanSentences)):
@@ -126,7 +131,7 @@ class Dialogue(object):
                     den[idx] = den[idx] + add_den
                 
         for x in range(len(LTS)):
-            LTS[x] = Help.(num[x], den[x]) #first sum over docs, then divide, then sum over topics
+            LTS[x] = Help.SafeDiv(num[x], den[x]) #first sum over docs, then divide, then sum over topics
 
         return np.sum(LTS) #return sum over all topics (LTS of a single word with frequency term_freq)
 
@@ -190,44 +195,43 @@ class Dialogue(object):
 
       
     def TwoLayer(self, Luu, Lss, Lus):
-def two_layer(Luu, Lss, Lus, sentences, keywords, score_keywords, vocab, ner_w, ner_ent, list_NER, list_NER_coeff, alpha=0.9):
-    #checks and preprocessing
-    [L_11, L_22, L_12, L_21, num1, num2] = GraphHelp.Preprocess(Luu, Lss, Lus)
+        #checks and preprocessing
+        [L_11, L_22, L_12, L_21, num1, num2] = GraphHelp.Preprocess(Luu, Lss, Lus)
     
-    #intialization
-    S1 = np.ones(num1)/num1
-    for x in range(num1):
-        accum_topic = 0
-        for w in sentences[x]:
-            if w in self.prep.nerWords:
-                idx = self.prep.nerWords.index(w)
-                word_ent = self.prep.nerEnts[idx]
-                try:
-                    S1[x] = S1[x] * self.nerCoeff[self.listNer.index(word_ent)]
-                except:
-                    ...
+        #intialization
+        S1 = np.ones(num1)/num1
+        for x in range(num1):
+            accum_topic = 0
+            for w in sentences[x]:
+                if w in self.prep.nerWords:
+                    idx = self.prep.nerWords.index(w)
+                    word_ent = self.prep.nerEnts[idx]
+                    try:
+                        S1[x] = S1[x] * self.nerCoeff[self.listNer.index(word_ent)]
+                    except:
+                        ...
             
-    S1 = S1 / np.sum(S1) 
-    if np.sum(S1) < 0.99 or np.sum(S1) > 1.01:
-        print('NORMALIZATION NOT CORRECT!\n')
-        print(np.sum(S1))
+        S1 = S1 / np.sum(S1) 
+        if np.sum(S1) < 0.99 or np.sum(S1) > 1.01:
+            print('NORMALIZATION NOT CORRECT!\n')
+            print(np.sum(S1))
 
-    S1 = S1[:, np.newaxis]
+        S1 = S1[:, np.newaxis]
         
-    S2 = np.ones(num2)/num2
-    S2 = S2[:, np.newaxis]
+        S2 = np.ones(num2)/num2
+        S2 = S2[:, np.newaxis]
     
-    former = (1 - self.alpha) * S1 + self.alpha * (1 - self.alpha) * np.dot(L_11, np.dot(L_12, S2))
-    latter = self.alpha * self.alpha * np.dot(L_11, np.dot(L_12, np.dot(L_22, L_21)))
-    combine = former * np.ones(num1) + latter
+        former = (1 - self.alpha) * S1 + self.alpha * (1 - self.alpha) * np.dot(L_11, np.dot(L_12, S2))
+        latter = self.alpha * self.alpha * np.dot(L_11, np.dot(L_12, np.dot(L_22, L_21)))
+        combine = former * np.ones(num1) + latter
 
-    try:
-        w, v = LA.eig(combine)
-        score = abs(v[:, 0])/sum(abs(v[:, 0]))
+        try:
+            w, v = np.linalg.eig(combine)
+            score = abs(v[:, 0])/sum(abs(v[:, 0]))
         
-        return score/np.sum(score)
-    except:
-        return S1
+            return score/np.sum(score)
+        except:
+            return S1
 
 
 
