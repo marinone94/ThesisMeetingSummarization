@@ -15,16 +15,15 @@ class Help(object):
         return x/y
 
     def CreateSentenceVector(sent, freqVec, singleWords):
-        cfg = Config()
+        
         vec = np.zeros(len(sent))
         for x in range(len(sent)):
-            w = sent[x]
-            try:
-                vec[x] = freqVec[singleWords.index(w)]
-            except:
-                print ("Shouldn always found the word in the single words list, check single word creation and tokenization")
-                vec[x] = cfg.small #or should it be 1?
-        return vec
+            s = sent[x]
+            summ = 0
+            for w in s:
+                summ = freqVec[singleWords.index(w)]
+            vec[x] = summ
+            return vec
 
     def CreateSpeakerVector(j, sent, speaks, freq_vec, idf_vec = []):
         cfg = Config()
