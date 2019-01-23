@@ -5,7 +5,7 @@ from pulp import *
 
 class Monologue(object):
     """description of class"""
-    def __init__(self, segm, keyw):
+    def __init__(self, segm, keyw, iter):
         #config class
         cfg = Config()
         #class viarables
@@ -13,6 +13,7 @@ class Monologue(object):
         self.keyw       = keyw
         self.ratio      = cfg.monologueRatio
         self.lpAddress  = cfg.lpAddress
+        self.iter       = iter
         #class results
         self.summary    = []
         self.optS       = []
@@ -22,14 +23,14 @@ class Monologue(object):
         self.ExtractSummary()
 
     def Optimize(self, num_words = 0):
-        num_sent = len(self.segm.cleanSentences)
+        num_sent = len(self.segm.cleanSentences[self.íter])
         summary = []
         c = []
         s = []
         o = self.CreateO()
-        l = np.zeros(len(self.segm.cleanSentences), dtype=int) #length of ith utterance
+        l = np.zeros(len(self.segm.cleanSentences[self.íter]), dtype=int) #length of ith utterance
         for x in range(0, len(l)):
-            l[x] = len(self.segm.cleanSentences[x])
+            l[x] = len(self.segm.cleanSentences[self.íter][x])
             num_words = num_words + l[x]
 
         L = int(num_words * self.ratio) #length constraint
@@ -62,8 +63,8 @@ class Monologue(object):
     def ExtractSummary(self):
         localSummary = []
         for x in range(0, len(self.optS)):
-            if self.optS[x] and self.segm.cleanSentOrig[x] not in localSummary:
-                localSummary.append(self.segm.cleanSentOrig[x])
+            if self.optS[x] and self.segm.cleanSentOrig[self.íter][x] not in localSummary:
+                localSummary.append(self.segm.cleanSentOrig[self.íter][x])
             else:
                 localSummary.append('')
 
@@ -72,11 +73,11 @@ class Monologue(object):
     def CreateO(self):
 
         nc = len(self.keyw.keywords)
-        ns = len(self.segm.cleanSentences)
+        ns = len(self.segm.cleanSentences[self.íter])
         o = np.zeros((nc,ns), dtype=bool)
         for i in range(nc):
             for j in range(ns):
-                if self.keyw.keywords[i] in self.segm.cleanSentences[j]:
+                if self.keyw.keywords[i] in self.segm.cleanSentences[self.íter][j]:
                     o[i][j] = True
     
         return o
