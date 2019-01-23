@@ -25,6 +25,9 @@
     <Compile Include="DialogueSummarizer\dialogue.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DialogueSummarizer\graphhelp.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="DialogueSummarizer\__init__.py">
       <SubType>Code</SubType>
     </Compile>

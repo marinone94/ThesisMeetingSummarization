@@ -18,6 +18,7 @@ class Config(object):
         self.histogramsPath = r'.\ExtractiveSummarizer\Datasets\AMI\Histograms\\'
         self.topicModelPath = r'.\ExtractiveSummarizer\Datasets\AMI\TopicModels\\'
         self.testResultPath = r'.\ExtractiveSummarizer\Datasets\AMI\Results\\'
+        self.lpAddress      = r'.\ExtractiveSummarizer\Datasets\AMI\Optimization\opt_spacy.lp'
         self.histogramsFile = 'spacy_histo.npy'
         self.wordsFile      = 'spacy_single_words.txt'
         self.histoFolder    = 'histos\\'
@@ -68,7 +69,12 @@ class Config(object):
         self.Tm             = 0.5
         self.keywCoeff      = 1
         #monologue parameters
+        self.monologueRatio = 0.5
         #dialogue parameters
+        self.dialogueRatio  = 0.5
+        self.wLex           = 0.5
+        self.wTop           = 0.5
+        self.alpha          = 0.9
 
         
     def ExtendStopwords(self):

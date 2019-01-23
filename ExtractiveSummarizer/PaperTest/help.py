@@ -16,6 +16,22 @@ class Help(object):
             except:
                 print ("Shouldn always found the word in the single words list, check single word creation and tokenization")
                 vec[x] = cfg.small #or should it be 1?
+        return vec
+
+    def CreateSpeakerVector(j, sent, speaks, freq_vec, idf_vec = []):
+        cfg = Config()
+        
+        for y in range(len(sent)):
+            sp = speaks[y]
+            ss = sent[y]
+            for x in range(len(ss)):
+                w = ss[x]
+                if sp == j+1:
+                    try:
+                        idf_vec.append(freq_vec[j][spacy_loc_single_w.index(w)])
+                    except:
+                        idf_vec.append(cfg.small) #or should it be 1?
+                    
         return idf_vec
     
     #jeffrey divergence
@@ -135,4 +151,44 @@ class Help(object):
         elif lx > ly:
             x = x[:ly]
         return [x, y]
+    
+    def SumTopics(prob_matr, y, res = 0):
+    
+        for x in range(len(prob_matr)):
+            res += prob_matr[x][y]
+        
+        return res
+
+    def NotValidCos(x,y):
+        return (not(len(x) == len(y)))
+
+    def RemoveEmptyCols(m, squared=True):
+        size = np.shape(m)[0]
+        if squared:
+            new_m = []
+            for r in m:
+                temp = []
+                for el in r:
+                    if el:
+                        temp.append(el) 
+                if temp:
+                    new_m.append(temp)
+            arr = np.array(new_m)
+            return arr
+        else:
+            new_m = []
+            for r in m:
+                if np.sum(r): #check if first row is not empty
+                    y = 0
+                    for el in r: 
+                        if el:
+                            loc = []
+                            for z in range(size):
+                                loc.append(m[z][y])
+                            new_m.append(loc)
+                        y += 1
+                    break
+            arr = np.array(new_m)
+            return np.transpose(arr)
+    
     
