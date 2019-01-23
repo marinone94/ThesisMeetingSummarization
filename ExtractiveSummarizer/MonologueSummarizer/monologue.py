@@ -1,6 +1,7 @@
 import numpy as np
 from config import Config
 from cvxopt.solvers import lp 
+from pulp import *
 
 class Monologue(object):
     """description of class"""

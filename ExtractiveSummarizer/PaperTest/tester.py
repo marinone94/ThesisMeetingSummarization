@@ -74,12 +74,12 @@ class PaperTest(object):
             localSummary = []
             for dstr in segm.speakerDistr:
                 if (np.sum(dstr) == 1):
-                    mon = Monologue()
+                    mon = Monologue(segm, keyw)
                     mon.Summarize()
                     localSummary.append(mon.summary)
                     print("Monologue summarized ...")
                 else:
-                    dial = Dialogue()
+                    dial = Dialogue(prep, segm, self.histograms, self.topicModels, keyw, freq.suidf, freq.tfidfSpeak)
                     dial.Summarize()
                     localSummary.append(dial.summary)
                     print("Dialogue summarized ...")
