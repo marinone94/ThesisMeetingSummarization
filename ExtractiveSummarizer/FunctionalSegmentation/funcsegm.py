@@ -223,7 +223,7 @@ class FuncSegm(object):
 
             WC_l = self.WC(win_l)
             WC_r = self.WC(win_r)
-            dist_wc = dist(WC_l, WC_r)
+            dist_wc = Help.Dist(WC_l, WC_r)
             WI_l = self.WI(w_l, s_l, wnd_l)
             WI_r = self.WI(w_r, s_r, wnd_r)
             dist_wi = dist(WI_l, WI_r)
@@ -239,11 +239,11 @@ class FuncSegm(object):
             smooth_score[i] = temp_score / (1 + self.smoothParam)
         return score, smooth_score
 
-    def WI(w, s, wnd):    
+    def WI(self, w, s, wnd):    
         
         WI_vec = np.zeros(self.Ns)
         if w:
-            suidf_win = CreateSentenceVector(w, self.freq, self.prep.singleWords)
+            suidf_win = Help.CreateSentenceVector(w, self.freq, self.prep.singleWords)
         
             den = 0 #doesn't have to be reset
             num = [] #append num per each speaker

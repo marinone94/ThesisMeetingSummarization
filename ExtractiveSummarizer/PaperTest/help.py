@@ -1,5 +1,7 @@
 import numpy as np
 import itertools
+import math
+from config import Config
 
 class Help(object):
     """Support class"""
