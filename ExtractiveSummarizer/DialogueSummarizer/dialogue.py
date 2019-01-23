@@ -13,7 +13,7 @@ class Dialogue(object):
 #speak_vec, num_topics, vocab, spacy_loc_single_w, corpus, spacy_list_words_vec, spacy_list_histo_vec, 
 #topic_keyw_idx, topic_keyw_weights, ner_w, ner_ent, list_NER, list_NER_coeff) #corpus is BoW
 
-    def __init__(self, prep, segm, histo, topic, keyw, freq, speakFreq):
+    def __init__(self, prep, segm, histo, topic, keyw, freq, speakFreq, iter):
         #config class
         cfg             = Config()
         #class variables
@@ -31,6 +31,7 @@ class Dialogue(object):
         self.keywords   = keyw
         self.freqVec    = freq
         self.speakVec   = speakFreq
+        self.íter       = iter
         #results
         self.summary    = []
 
@@ -56,46 +57,46 @@ class Dialogue(object):
 
     def CreateLuu(self, top=False, lex=True): # top=True means the function computes topical similarity, else lex=True computes lexical similarity                                                                   
          
-        Luu = np.zeros((len(self.segm.cleanSentences),len(self.segm.cleanSentences))) # matrix [num_utterances X num_utterances]
+        Luu = np.zeros((len(self.segm.cleanSentences[self.íter]),len(self.segm.cleanSentences[self.íter]))) # matrix [num_utterances X num_utterances]
         if (top and lex) or ((not top) and (not lex)):  # if error in passing parameters (Luu can be based only on one kind of similarity)
             top = False                                 # reset default parameters
             lex = True                                  # reset default parameters
     
         if top: #topic similarity
         
-            prob_top_sent = np.zeros((len(self.topicModel['Terms']), len(self.segm.cleanSentences)))
+            prob_top_sent = np.zeros((len(self.topicModel['Terms']), len(self.segm.cleanSentences[self.íter])))
             for x in range(len(self.topicModel['Terms'])):
-                for y in range(len(self.segm.cleanSentences)):
+                for y in range(len(self.segm.cleanSentences[self.íter])):
                     num = 0
                     den = 0
-                    for w in self.segm.cleanSentences[y]:
+                    for w in self.segm.cleanSentences[self.íter][y]:
     #                    idx_w = find_index_word(w, corpus, tokens_topic_model) #ret -1 if w not in corpus
                     
                         try:
                             tk_id = self.topicModel['Dictionary'].token2id[w]
-                            num += (Help.FreqWordInSentence(w, self.segm.cleanSentences[y]) * self.topicModel['Terms'][x][tk_id])
+                            num += (Help.FreqWordInSentence(w, self.segm.cleanSentences[self.íter][y]) * self.topicModel['Terms'][x][tk_id])
                         except:
-                            num += (Help.FreqWordInSentence(w, self.segm.cleanSentences[y]) * self.small)
-                        den += Help.FreqWordInSentence(w, self.segm.cleanSentences[y])
+                            num += (Help.FreqWordInSentence(w, self.segm.cleanSentences[self.íter][y]) * self.small)
+                        den += Help.FreqWordInSentence(w, self.segm.cleanSentences[self.íter][y])
                     prob_top_sent[x][y] = Help.SafeDiv(num, den)
         
-            for x in range(len(self.segm.cleanSentences)):
-                for y in range(len(self.segm.cleanSentences)):
+            for x in range(len(self.segm.cleanSentences[self.íter])):
+                for y in range(len(self.segm.cleanSentences[self.íter])):
                     LTS_sum = 0
                     prob = 0
-                    for w in self.segm.cleanSentences[y]:
+                    for w in self.segm.cleanSentences[self.íter][y]:
            
                         wFreq = self.ComputeTermFrequency(w) #creates a vector with the frequency of the word per each doc
-                        if np.sum(w_freq): #if w doesn't appear in the dictionary, don't waste time
+                        if np.sum(wFreq): #if w doesn't appear in the dictionary, don't waste time
                             LTS_sum += self.CopmputeLTS(wFreq)  #return sum over all topics (LTS of a single word with frequency term_freq)
                     prob = Help.SumTopics(prob_top_sent, x) #should I pass x or y?
                     Luu[x][y] = LTS_sum * prob
     
         else: #lexical similarity
-            for i in range(len(self.segm.cleanSentences)):
-                v1 = Help.CreateSentenceVector(self.segm.cleanSentences[i], self.freqVec, self.prep.singleWords) 
+            for i in range(len(self.segm.cleanSentences[self.íter])):
+                v1 = Help.CreateSentenceVector(self.segm.cleanSentences[self.íter][i], self.freqVec, self.prep.singleWords) 
                 for j in range(0, len(self.segm.cleanSentences)):
-                    v2 = Help.CreateSentenceVector(self.segm.cleanSentences[j], self.freqVec, self.prep.singleWords)
+                    v2 = Help.CreateSentenceVector(self.segm.cleanSentences[self.íter][j], self.freqVec, self.prep.singleWords)
                     if Help.NotValidCos(v1, v2):
                         v1, v2 = Help.ReshapeVec(v1, v2)
                         #if complains about v1, v2 dimensions, add zeros (or ones, idk yet, is a cosine distance) to match those dimensions 
@@ -161,11 +162,11 @@ class Dialogue(object):
         Lss = np.zeros((Ns, Ns))
 
         for i in range(0, Ns):
-            if i+1 in self.segm.cleanSpeakers:
-                v1 = Help.CreateSpeakerVector(i, self.segm.cleanSentences, self.segm.cleanSpeakers, self.speakVec)
+            if i+1 in self.segm.cleanSpeakers[self.íter]:
+                v1 = Help.CreateSpeakerVector(i, self.segm.cleanSentences[self.íter], self.segm.cleanSpeakers[self.íter], self.speakVec)
                 for j in range(0, Ns):
-                    if j+1 in self.segm.cleanSpeakers:                
-                        v2 = Help.CreateSpeakerVector(j, self.segm.cleanSentences, self.segm.cleanSpeakers, self.speakVec)
+                    if j+1 in self.segm.cleanSpeakers[self.íter]:                
+                        v2 = Help.CreateSpeakerVector(j, self.segm.cleanSentences[self.íter], self.segm.cleanSpeakers[self.íter], self.speakVec)
                         if Help.NotValidCos(v1, v2):
                             v1, v2 = Help.ReshapeVec(v1, v2)  
                         cos_dist = 1 - sp.distance.cosine(v1, v2)
@@ -176,14 +177,14 @@ class Dialogue(object):
     
         return Lss 
 
-    def create_Lus(self):
+    def CreateLus(self):
         Ns = self.prep.numSpeakers
-        Lus = np.zeros((len(self.segm.cleanSentences), Ns))
-        for i in range(0, len(self.segm.cleanSentences)):
-            v1 = Help.CreateSentenceVector(self.segm.cleanSentences[i], self.freqVec, self.prep.singleWords)
+        Lus = np.zeros((len(self.segm.cleanSentences[self.íter]), Ns))
+        for i in range(0, len(self.segm.cleanSentences[self.íter])):
+            v1 = Help.CreateSentenceVector(self.segm.cleanSentences[self.íter][i], self.freqVec, self.prep.singleWords)
             for j in range(0, Ns):
-                if j+1 in self.segm.cleanSpeakers:
-                    v2 = Help.CreateSpeakerVector(j, self.segm.cleanSentences, self.segm.cleanSpeakers, self.speakVec)
+                if j+1 in self.segm.cleanSpeakers[self.íter]:
+                    v2 = Help.CreateSpeakerVector(j, self.segm.cleanSentences[self.íter], self.segm.cleanSpeakers[self.íter], self.speakVec)
                     if Help.NotValidCos(v1, v2):
                         v1, v2 = ReshapeVec(v1, v2)  
                     cos_dist = 1 - sp.distance.cosine(v1, v2)
