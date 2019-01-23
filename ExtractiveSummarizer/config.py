@@ -51,6 +51,8 @@ class Config(object):
         self.topicModelSet2 = True      #topic model trained on AMI corpus + BBC news
         self.topicModelSet3 = False     #topic model trained on AMI corpus + BBC news + dataset.csv (https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/dataset.csv)
         self.CheckTopicModelSet()
+        
+        #Experimental parameters
         #POS
         self.allowedPOS     = ['N', 'NN', 'NNP', 'NNPS', 'NNS', 'JJ', 'JJR', 'JJS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
         #NER
