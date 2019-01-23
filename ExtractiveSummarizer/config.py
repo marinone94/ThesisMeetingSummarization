@@ -1,5 +1,7 @@
-import spacy
+﻿import spacy
 import numpy as np
+iport nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 
 
