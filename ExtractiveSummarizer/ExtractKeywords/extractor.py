@@ -39,7 +39,7 @@ class Extractor(object):
 
         #tfidf is created considering the words ordered as in spacy_loc_single_w
         for i in range(0, len(tk_segm_list[0])):
-            idf_w[i] = tfidf_vec[self.prep.singleWords.index(tk_segm_list[0][i])] 
+            idf_w[i] = self.freqVec[self.prep.singleWords.index(tk_segm_list[0][i])] 
 
         #check this later
         for i in range(0, len(tk_segm_list[0])): #i iter over words
@@ -71,7 +71,7 @@ class Extractor(object):
                     nent[i] = nent[i] - (prob_s_w[i][j] * np.log(prob_s_w[i][j])) #negative entropy of each word
     
         for i in range(len(tk_segm_list[0])):
-           ext_score[i] = k_idf * idf_w[i] + k_nent * nent[i] #sum global and local scores
+           ext_score[i] = self.kIdf * idf_w[i] + self.kNent * nent[i] #sum global and local scores
         [loc_single_words, scores] = Help.RemoveMultipleKeywords(tk_segm_list[0], ext_score) #remove multiple keywords
         newScores = self.PosAndNer(loc_single_words, scores, tk_segm_list) #filter according to POS and adapt weight acc to NER
         self.Revert(loc_single_words, newScores) #revert scores and extract top Tm%

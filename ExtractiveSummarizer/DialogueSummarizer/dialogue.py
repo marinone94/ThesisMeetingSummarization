@@ -41,6 +41,36 @@ class Dialogue(object):
         score = self.TwoLayer(Luu, Lss, Lus)
         self.summary   = self.ExtractSummary(score)
 
+    def ExtractSummary(self, score_utt):
+        temp_dialogue = []
+        dialogue = []
+        num_words = 0
+        for s in self.segm.cleanSentences[self.íter]:
+            num_words = num_words + len(s)
+    
+        len_summ = int (self.ratio * num_words)
+        sent_idx = np.argsort(score_utt)
+        rev_idx = sent_idx[::-1]
+    
+        words_in_summ = 0
+        for i in rev_idx:
+            temp_sent = self.segm.cleanSentOrig[self.íter]
+            if temp_sent not in dialogue:
+                temp_dialogue.append(temp_sent)
+            words_in_summ = words_in_summ + len(self.segm.cleanSentences[self.íter][i])
+            if words_in_summ > len_summ: #append also the first sentence which exceeds the summary length
+                break
+    
+        for x in range(len(self.segm.cleanSentOrig[self.íter])):
+            if self.segm.cleanSentOrig[self.íter][x] in temp_dialogue:
+                dialogue.append(self.segm.cleanSentOrig[self.íter][x])
+            else:
+                dialogue.append(' ')
+       
+        dialogue.append("\n")
+        return dialogue
+
+
     def CreateMatricesLayers(self):
         #build edge weights
         LuuLex = self.CreateLuu(top=False, lex=True)
@@ -95,7 +125,7 @@ class Dialogue(object):
         else: #lexical similarity
             for i in range(len(self.segm.cleanSentences[self.íter])):
                 v1 = Help.CreateSentenceVector(self.segm.cleanSentences[self.íter][i], self.freqVec, self.prep.singleWords) 
-                for j in range(0, len(self.segm.cleanSentences)):
+                for j in range(len(self.segm.cleanSentences[self.íter])):
                     v2 = Help.CreateSentenceVector(self.segm.cleanSentences[self.íter][j], self.freqVec, self.prep.singleWords)
                     if Help.NotValidCos(v1, v2):
                         v1, v2 = Help.ReshapeVec(v1, v2)
@@ -186,7 +216,7 @@ class Dialogue(object):
                 if j+1 in self.segm.cleanSpeakers[self.íter]:
                     v2 = Help.CreateSpeakerVector(j, self.segm.cleanSentences[self.íter], self.segm.cleanSpeakers[self.íter], self.speakVec)
                     if Help.NotValidCos(v1, v2):
-                        v1, v2 = ReshapeVec(v1, v2)  
+                        v1, v2 = Help.ReshapeVec(v1, v2)  
                     cos_dist = 1 - sp.distance.cosine(v1, v2)
                     if math.isnan(cos_dist):
                         Lus[i][j] = 0.
@@ -203,7 +233,7 @@ class Dialogue(object):
         S1 = np.ones(num1)/num1
         for x in range(num1):
             accum_topic = 0
-            for w in sentences[x]:
+            for w in self.segm.cleanSentences[self.íter][x]:
                 if w in self.prep.nerWords:
                     idx = self.prep.nerWords.index(w)
                     word_ent = self.prep.nerEnts[idx]

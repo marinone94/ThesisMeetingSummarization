@@ -50,10 +50,10 @@ class PaperTest(object):
     def CheckSizes(self):
         return (len(self.transcripts) == len(self.references))
     
-    def Summarize(self, i = 1):
+    def Summarize(self, x = 1):
 
         for meeting in self.transcripts:
-            print('Meeting' + str(i) + ' ...')
+            print('Meeting' + str(x) + ' ...')
             #preprocessing
             prep = Preprocessing()
             prep.Preprocess(meeting)
@@ -72,21 +72,29 @@ class PaperTest(object):
             print("Keywords extracted ...")
             #check if monologue or dialogue and apply specific method
             localSummary = []
+            i = 1
             for dstr in segm.speakerDistr:
-                if (np.sum(dstr) == 1):
-                    mon = Monologue(segm, keyw, i-1)
-                    mon.Summarize()
-                    localSummary.append(mon.summary)
-                    print("Monologue summarized ...")
+                if len(segm.cleanSentences[i-1]) > 1:
+                    if (np.sum(dstr) == 1):
+                        mon = Monologue(segm, keyw, i-1)
+                        mon.Summarize()
+                        localSummary.append(mon.summary)
+                        print("Monologue summarized ...")
+                    else:
+                        dial = Dialogue(prep, segm, self.histograms, self.topicModels, keyw, freq.suidf, freq.tfidfSpeak, i-1)
+                        dial.Summarize()
+                        localSummary.append(dial.summary)
+                        print("Dialogue summarized ...")
+                elif len(segm.cleanSentences[i-1]) == 1:
+                    localSummary.append(segm.cleanSentOrig[i-1])
                 else:
-                    dial = Dialogue(prep, segm, self.histograms, self.topicModels, keyw, freq.suidf, freq.tfidfSpeak, i-1)
-                    dial.Summarize()
-                    localSummary.append(dial.summary)
-                    print("Dialogue summarized ...")
+                    ...
+                i += 1
+            x += 1
             #join, save and append the final summary
             txtSummary = ' '.join(localSummary)
             Help.SaveFileTxt(txtSummary, str(i), self.resultPath)
-            i += 1
+            
             self.summaries.append(txtSummary)
             print("Summary stored ...")
         

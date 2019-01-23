@@ -19,10 +19,15 @@ class Help(object):
         vec = np.zeros(len(sent))
         for x in range(len(sent)):
             s = sent[x]
-            summ = 0
-            for w in s:
-                summ = freqVec[singleWords.index(w)]
-            vec[x] = summ
+            if type(s) == list:
+                summ = 0
+                for w in s:
+                    summ += freqVec[singleWords.index(w)]
+                vec[x] = summ
+            else:
+                vec[x] = freqVec[singleWords.index(s)]
+
+
         return vec
 
     def CreateSpeakerVector(j, sent, speaks, freq_vec):

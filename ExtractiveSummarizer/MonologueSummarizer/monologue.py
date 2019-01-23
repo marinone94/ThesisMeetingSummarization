@@ -13,7 +13,7 @@ class Monologue(object):
         self.keyw       = keyw
         self.ratio      = cfg.monologueRatio
         self.lpAddress  = cfg.lpAddress
-        self.iter       = iter
+        self.íter       = iter
         #class results
         self.summary    = []
         self.optS       = []
