@@ -211,22 +211,13 @@ class FuncSegm(object):
             else:
                 win_r = [[self.prep.speakers[-1]], [self.prep.sentences[-1]]]
         
-            win_words_l = self.GenSpeaksWords(win_l) #win_words = [speaks, words] of a given window
-            s_l = win_words_l[0] #list of speakers
-            w_l = win_words_l[1] #list of words
-            wnd_l = self.RemoveDupl(w_l) #remove duplicates and punctuation 
-
-            win_words_r = self.GenSpeaksWords(win_r) #win_words = [speaks, words] of a given window
-            s_r = win_words_r[0] #list of speakers
-            w_r = win_words_r[1] #list of words
-            wnd_r = self.RemoveDupl(w_r) #remove duplicates and punctuation, lose order 
-
+          
             WC_l = self.WC(win_l)
             WC_r = self.WC(win_r)
             dist_wc = Help.Dist(WC_l, WC_r)
-            WI_l = self.WI(w_l, s_l, wnd_l)
-            WI_r = self.WI(w_r, s_r, wnd_r)
-            dist_wi = dist(WI_l, WI_r)
+            WI_l = self.WI(win_l[1], win_l[0])
+            WI_r = self.WI(win_r[1], win_r[0])
+            dist_wi = Help.Dist(WI_l, WI_r)
             score[i] = dist_wc + dist_wi  
     
         for i in range(1, lenText-1):
@@ -239,7 +230,7 @@ class FuncSegm(object):
             smooth_score[i] = temp_score / (1 + self.smoothParam)
         return score, smooth_score
 
-    def WI(self, w, s, wnd):    
+    def WI(self, w, s):    
         
         WI_vec = np.zeros(self.Ns)
         if w:
@@ -247,14 +238,12 @@ class FuncSegm(object):
         
             den = 0 #doesn't have to be reset
             num = [] #append num per each speaker
-            for j in range(0, self.Ns):
+            for j in range(self.Ns):
                 num_t = 0 #numerator for given speaker
-                for k in range(0, len(s)):
-                    idx = wnd.index(w[k])
-                    if idx >= 0:
-                        if s[k] == j+1:
-                            num_t += suidf_win[idx]
-                            den += suidf_win[idx]   
+                for k in range(len(s)):
+                    if s[k] == j+1:
+                        num_t += suidf_win[idx]
+                        den += suidf_win[idx]   
                 num.append(num_t)
             
         
