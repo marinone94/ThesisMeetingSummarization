@@ -23,7 +23,7 @@ class Help(object):
             for w in s:
                 summ = freqVec[singleWords.index(w)]
             vec[x] = summ
-            return vec
+        return vec
 
     def CreateSpeakerVector(j, sent, speaks, freq_vec, idf_vec = []):
         cfg = Config()

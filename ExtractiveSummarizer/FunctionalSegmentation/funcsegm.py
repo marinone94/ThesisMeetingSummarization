@@ -40,7 +40,7 @@ class FuncSegm(object):
         for x in range(len(newSegments[0])):
             locSentences = newSegments[0][x]
             locSpeakers = newSegments[1][x]  
-            vec = [sent, sp]
+            vec = [locSentences, locSpeakers]
             self.speakerDistr.append(self.ScoreSegment(vec)[1])#
 
         for x in range(len(newSegments[0])):
@@ -57,10 +57,8 @@ class FuncSegm(object):
         #sum_c score per each cat, find min
         #c_idx idx of each cat, to find the cat corresp to min score
         for c in cat:
-
-            sum_dist = 0   
-            loc_segm = [segm[0][i:i+M], segm[1][i:i+M]]
-            sum_dist = Dist(Dstr(loc_segm, self.Ns), DstrId(self.Ns,c)) #score segments
+ 
+            sum_dist = Dist(Dstr(segm, self.Ns), DstrId(self.Ns,c)) #score segments
             sum_c.append(sum_dist)
             c_idx.append(c)
              #c single category boolean vector used for calling dstr_id
@@ -108,11 +106,11 @@ class FuncSegm(object):
         [self.candidateBound.append(x) for x in range(len(peaks)) if peaks[x]] 
 
         peakScores = self.PeakScore(lenText, smoothedScores)
-        loc_segm = self.Segm(num_segm, peakScores)
+        loc_segm = self.Segm(peakScores)
     
    
 
-    def FindPeak(self, scores, x):
+    def FindPeak(self, score, x):
         return ((score[x] > score[x-1]) and (score[x] > score[x+1]))
 
     def FindValley(self, score, x, direct):
