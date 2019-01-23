@@ -21,10 +21,11 @@ class Monologue(object):
         self.Optimize()
         self.ExtractSummary()
 
-    def Optimize(self, c = 0, s = 0, num_words = 0):
+    def Optimize(self, num_words = 0):
         num_sent = len(self.segm.cleanSentences)
         summary = []
-    
+        c = []
+        s = []
         o = self.CreateO()
         l = np.zeros(len(self.segm.cleanSentences), dtype=int) #length of ith utterance
         for x in range(0, len(l)):

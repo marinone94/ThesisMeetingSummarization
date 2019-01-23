@@ -42,8 +42,8 @@ class Dialogue(object):
 
     def CreateMatricesLayers(self):
         #build edge weights
-        LuuLex = self.CreateLuu(self, top=False, lex=True)
-        LuuTop = self.CreateLuu(sentences, top=True, lex=False)
+        LuuLex = self.CreateLuu(top=False, lex=True)
+        LuuTop = self.CreateLuu(top=True, lex=False)
         Luu    = self.wLex * LuuLex + self.wTop * LuuTop
         Lss    = self.CreateLss()
         Lus    = self.CreateLus()
