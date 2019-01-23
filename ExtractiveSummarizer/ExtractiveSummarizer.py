@@ -1,9 +1,9 @@
-from ExtractiveSummarizer import Test
+from ExtractiveSummarizer import *
 
-class Test():
-    """Python project class"""
-    def test():
-        return ExtractiveSummarizer.PaperTest.test.Test.Test()
+
+tester = PaperTest.test.PaperTest()
+print("Tester class built")
+tester.PaperTest()      
 
 
         
