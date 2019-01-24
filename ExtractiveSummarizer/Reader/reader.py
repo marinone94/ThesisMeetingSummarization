@@ -4,6 +4,7 @@ import gensim
 import pickle
 from config import Config
 from Preprocessing.preprocessing import Preprocessing
+from Reader.help import Help
 
 class Reader(object):
     """Reader contains methods for reading files from the dataset"""
@@ -76,20 +77,14 @@ class Reader(object):
         file = file[3:] #take of first three liness'
         for l in file:
             lVec = l.split()
-            speakers.append(self.ConvertLetter(lVec[0]))
+            speakers.append(Help.ConvertLetter(self.alphabet, lVec[0]))
             sentences.append(' '.join(lVec[3:]))
             
         merged  = self.MergeSentences(sentences, speakers)
         transcr = [merged['Speakers'], merged['Sentences'][:len(merged['Speakers'])]]
         return transcr
 
-    def ConvertLetter(self, c):
-        if c not in self.alphabet:
-            raise ValueError('SpeakerID not valid')
-        for nums in range(len(self.alphabet)):
-            if self.alphabet[nums] == c:
-                return nums +1
-        return nums
+
                 
 
     def MergeSentences(self, sentences, speakers):

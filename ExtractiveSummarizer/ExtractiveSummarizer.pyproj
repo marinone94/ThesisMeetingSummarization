@@ -78,6 +78,9 @@
     <Compile Include="Preprocessing\__init__.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Reader\help.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Reader\reader.py">
       <SubType>Code</SubType>
     </Compile>

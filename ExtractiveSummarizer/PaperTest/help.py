@@ -4,7 +4,7 @@ import math
 from config import Config
 
 class Help(object):
-    """Support class"""
+    """Support class for all test methods"""
 
     def GenCat(Ns):
         return list(itertools.product([0, 1], repeat=Ns))
