@@ -44,7 +44,7 @@ class PaperTest(object):
         
             return {'Summaries': self.summaries, 'RougeAverages': evaluation.results, 'RougeDeviations': evaluation.stddev}
         else:
-            raise ImplementationError('Transcripts and Reference sizes do not match!')
+            raise NotImplementedError('Transcripts and Reference sizes do not match!')
     
     #check that transcript and reference sizes correspond
     def CheckSizes(self):
@@ -81,7 +81,7 @@ class PaperTest(object):
                         localSummary.append(mon.summary)
                         print("Monologue summarized ...")
                     else:
-                        dial = Dialogue(prep, segm, self.histograms, self.topicModels, keyw, freq.suidf, freq.tfidfSpeak, i-1)
+                        dial = Dialogue(prep, segm, self.histograms, self.topicModels, freq.suidf, freq.tfidfSpeak, i-1)
                         dial.Summarize()
                         localSummary.append(dial.summary)
                         print("Dialogue summarized ...")

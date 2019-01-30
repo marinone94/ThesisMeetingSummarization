@@ -9,11 +9,9 @@ from scipy import spatial as sp
 
 class Dialogue(object):
     """Summarizes dialogues"""
-#clean_sent[x], clean_speak[x], clean_sent_orig[x], sp_distr[x], top_term, top_doc, dictionary, words_vec, 
-#speak_vec, num_topics, vocab, spacy_loc_single_w, corpus, spacy_list_words_vec, spacy_list_histo_vec, 
-#topic_keyw_idx, topic_keyw_weights, ner_w, ner_ent, list_NER, list_NER_coeff) #corpus is BoW
 
-    def __init__(self, prep, segm, histo, topic, keyw, freq, speakFreq, iter):
+
+    def __init__(self, prep, segm, histo, topic, freq, speakFreq, iter):
         #config class
         cfg             = Config()
         #class variables
@@ -28,7 +26,6 @@ class Dialogue(object):
         self.segm       = segm
         self.topicModel = topic
         self.histograms = histo
-        self.keywords   = keyw
         self.freqVec    = freq
         self.speakVec   = speakFreq
         self.íter       = iter
@@ -54,21 +51,21 @@ class Dialogue(object):
     
         words_in_summ = 0
         for i in rev_idx:
-            temp_sent = self.segm.cleanSentOrig[self.íter]
-            if temp_sent not in dialogue:
+            temp_sent = self.segm.cleanSentOrig[self.íter][i]
+            if temp_sent not in temp_dialogue:
                 temp_dialogue.append(temp_sent)
             words_in_summ = words_in_summ + len(self.segm.cleanSentences[self.íter][i])
             if words_in_summ > len_summ: #append also the first sentence which exceeds the summary length
                 break
     
-        for x in range(len(self.segm.cleanSentOrig[self.íter])):
-            if self.segm.cleanSentOrig[self.íter][x] in temp_dialogue:
-                dialogue.append(self.segm.cleanSentOrig[self.íter][x])
+        for sent in self.segm.cleanSentOrig[self.íter]:
+            if sent in temp_dialogue:
+                dialogue.append(sent)
             else:
                 dialogue.append(' ')
        
         dialogue.append("\n")
-        return dialogue
+        return ' '.join(dialogue)
 
 
     def CreateMatricesLayers(self):

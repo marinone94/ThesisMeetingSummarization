@@ -28,8 +28,8 @@ class Monologue(object):
         c = []
         s = []
         o = self.CreateO()
-        l = np.zeros(len(self.segm.cleanSentences[self.íter]), dtype=int) #length of ith utterance
-        for x in range(0, len(l)):
+        l = np.zeros(num_sent), dtype=int) #length of ith utterance
+        for x in range(num_sent):
             l[x] = len(self.segm.cleanSentences[self.íter][x])
             num_words = num_words + l[x]
 

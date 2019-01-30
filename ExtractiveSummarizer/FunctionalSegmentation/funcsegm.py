@@ -124,7 +124,7 @@ class FuncSegm(object):
             score = score[::-1]
             score = score[-x-1:]
         else:
-            raise ImplementationError('Direction not assigned!') #DIRECTION NOT ASSIGNED!!!
+            raise NotImplemetedError('Direction not assigned!') #DIRECTION NOT ASSIGNED!!!
         
         for y in range(1, len(score)-1): #first and last element are not considered as possible valleys
             pr = False
