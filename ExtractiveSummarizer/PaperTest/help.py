@@ -189,4 +189,10 @@ class Help(object):
             if w == word:
                 freq += 1
         return freq
+
+    def SaveFileTxt(txt, filename, home):
+        filename = ''.join([home, filename, '.txt'])
+        file = open(filename, 'w+')
+        file.write(txt)
+        file.close()
     

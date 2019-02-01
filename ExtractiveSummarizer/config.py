@@ -29,6 +29,7 @@ class Config(object):
         self.histoFolder    = 'histos\\'
         self.wordsFolder    = 'words\\'
         self.avgResultFile  = 'avg.npy'
+        self.stdResultFile  = 'std.npy'
         #topic dataset 1
         self.topicDict1     = ''.join([self.topicModelPath, 'meet_doc_dictionary.gensim'])
         self.topicCorpus1   = ''.join([self.topicModelPath, 'meet_doc_corpus.pkl'])

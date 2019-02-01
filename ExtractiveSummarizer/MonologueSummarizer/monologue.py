@@ -28,11 +28,11 @@ class Monologue(object):
         c = []
         s = []
         o = self.CreateO()
-        l = np.zeros(num_sent), dtype=int) #length of ith utterance
+        l = np.zeros((num_sent), dtype=int) #length of ith utterance
         for x in range(num_sent):
             l[x] = len(self.segm.cleanSentences[self.íter][x])
-            num_words = num_words + l[x]
-
+            
+        num_words = np.sum(l)
         L = int(num_words * self.ratio) #length constraint
         prob = LpProblem("extract monlogues_spacy", LpMaximize)
 
@@ -62,11 +62,9 @@ class Monologue(object):
 
     def ExtractSummary(self):
         localSummary = []
-        for x in range(0, len(self.optS)):
+        for x in range(len(self.optS)):
             if self.optS[x] and self.segm.cleanSentOrig[self.íter][x] not in localSummary:
                 localSummary.append(self.segm.cleanSentOrig[self.íter][x])
-            else:
-                localSummary.append('')
 
         self.summary = ' '.join(localSummary)
 

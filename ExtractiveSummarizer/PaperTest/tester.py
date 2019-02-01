@@ -53,7 +53,7 @@ class PaperTest(object):
     def Summarize(self, x = 1):
 
         for meeting in self.transcripts:
-            print('Meeting' + str(x) + ' ...')
+            print('\n\n\n\n\nMeeting ' + str(x) + ' ...')
             #preprocessing
             prep = Preprocessing()
             prep.Preprocess(meeting)
@@ -86,15 +86,15 @@ class PaperTest(object):
                         localSummary.append(dial.summary)
                         print("Dialogue summarized ...")
                 elif len(segm.cleanSentences[i-1]) == 1:
-                    localSummary.append(segm.cleanSentOrig[i-1])
+                    localSummary.append(str(segm.cleanSentOrig[i-1]))
                 else:
                     ...
                 i += 1
-            x += 1
+            
             #join, save and append the final summary
             txtSummary = ' '.join(localSummary)
-            Help.SaveFileTxt(txtSummary, str(i), self.resultPath)
-            
+            Help.SaveFileTxt(txtSummary, 'summary_' + str(x), self.resultPath)
+            x += 1
             self.summaries.append(txtSummary)
             print("Summary stored ...")
         

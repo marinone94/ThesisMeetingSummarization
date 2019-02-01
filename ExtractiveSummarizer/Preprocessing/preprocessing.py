@@ -91,5 +91,5 @@ class Preprocessing(object):
 
     def Filter(self, token):
         #filter stopwords, 
-        return (token.text.lower() not in self.stopwords and token.text not in self.puncList and len(token.text) > 1 and token.lemma_ != self.pronLemma)
+        return (token.text.lower() not in self.stopwords and token.lemma_ not in self.stopwords and token.text not in self.puncList and len(token.text) > 1 and token.lemma_ != self.pronLemma)
 
