@@ -1,0 +1,582 @@
+Found 4 args.
+Observation: TS3009a; Result size: 579; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+D	4.03	5.276		
+A	5.015	13.668		
+D	8.62	8.99	I dunno . 	
+D	11.36	14.36	Throwing away my toothpick . 	
+B	17.49	18.16	Hi there . 	
+A	22.91	23.49	Yo . 	
+A	26.87	27.32	Ow . 	
+C	35.199	35.528		
+A	39.8	47.773		
+D	42.58	42.91	'Kay . 	
+A	48.71	49.908	Uh 	
+D	50.95	52.18	Nice user interface . 	
+A	52.49	52.82	Yeah . 	
+A	53.94	54.651	What the 	
+A	55.13	55.944	Uh 	
+D	58.745	62.878		
+A	60.52	67.34	Yeah well , ja well let's just start . I've uh made a presentation 	
+D	64.95	65.16	'Kay . 	
+D	68.15	68.94	Right let's see it . 	
+A	68.58	73.66	uh but uh I'll open it on the Smartboard , so we can all see it . 	
+A	75.51	79.28	So it's in the project documents because that's what we can find here . 	
+A	82.28	86.07	Well . Very nice . 	
+C	83.088	83.853		
+A	87.27	99.024	Well this is called the the the kick-off meeting . So uh I'm the Project Manager , so I had to fill it in , and uh hmm . 	
+D	94.32	94.49	'Kay . 	
+A	102.51	103.312	Oh sorry . 	
+A	107.09	109.136	And an uh a nice agenda . 	
+A	110.26	112.7	Uh we'll do the opening and then uh 	
+A	113.91	120.34	we'll meet each other , what uh we already do , so , that's not uh very much trouble . I'll I'll show you the 	
+A	121.44	130.2	the tools we have here , so that we can all use them . Then uh we'll look at the project plan from uh Real Reaction . 	
+D	128.944	130.352		
+A	131.53	145.792	We'll discuss about our first ideas about the project , and then uh we'll close the meeting , and then we can uh individually uh do our things and then uh we'll get back here . So this the opening we'll uh 	
+A	147.97	158.33	We have to uh design a new television remote control . You have heard that uh already I think , so . Um we want it to be original , so a nice uh a nice new design . 	
+D	153.42	153.68	Mm-hmm . 	
+A	159.43	165.85	Uh trendy , it's also for young people , and we have to just uh make it uh modern . 	
+A	167.46	172.416	And uh friendly , so size does matter . And uh 	
+A	175.46	182.15	Well it has to be a have the the right uh the right buttons on the right place , that kin those kind of things . 	
+C	180.91	181.19	Mm-hmm . 	
+A	185.02	185.68	Other uh 	
+A	186.84	193.49	There happen to be uh three stages . functional , conceptual , and d detailed design . 	
+A	194.69	203.39	Um so every time we we'll do some individual work , get meeting , talk about it , uh and then go into the next phase . 	
+A	204.5	205.08	That's just it . 	
+A	207.76	208.432	Um 	
+A	209.75	212.01	We have uh these two Smartboards . 	
+A	213.2	231.57	Um well as I just showed , there's a project management folder , a project document folder on the desktop . It just works exactly the same as a computer . You just uh click on the on the folder and you open the everything you you put in it with your laptop . So you can uh make uh Words Excel , everything . 	
+A	232.77	245.46	Um and the w the r uh the rest uh also works the same so uh when you open a notepad you uh you just get your uh things , you can uh draw . This is a uh well a drawing board . 	
+A	246.816	249.79	you have a these 	
+A	251.01	255.58	different uh functions on the board . You can see them there . 	
+A	256.82	262.94	So you have a a nice pen , and it's works just like a bal ball pen . This is just a . 	
+A	264.17	264.912	I want to uh 	
+A	266.1	269.357	Oh yeah . Of course w doesn't work any more . 	
+C	266.24	272.83	Maybe you should try to write on the on the big white uh Does it ? Yeah . It works . 	
+B	268.069	268.899		
+A	271.87	275.05	Yes I will eraser so . 	
+C	274.944	277.45	Wonderful . 	
+A	276.37	285.33	It's fantas fantastic . We can uh uh well you can save a file . So if uh we draw we have to save everything . Don't throw anything away . 	
+C	285.93	286.23	Mm-hmm . 	
+A	286.72	289.32	Uh just we can start a new one , 	
+D	290.233	291.013		
+A	290.55	295.29	and we just go on , and don't throw anything away . Just uh let them all uh stand here . 	
+A	296.42	318.27	We can delete , but we don't do that . Um you can here select a pen , you can draw anything you want . It's a bit uh childish you have to write . It's not as fast as you w you know it , but it does work sometimes . Well it's just like a normal uh 	
+C	311.127	315.536	. 	
+D	311.76	312.308		
+B	311.942	313.623		
+C	318.336	319.312		
+A	319.44	321.32	paint . So it's gone . 	
+C	320.207	322.0	Alright , yep . 	
+A	323.0	332.73	Well we are designers , so we have to have a a more uh a Smartboard . So that's fantastic . Um well this uh speaks for itself . 	
+A	335.86	336.86	We going to try it . 	
+A	338.16	357.56	So um we all uh are going to uh draw a nice animal on this board , not my idea . Yes our your favourite . So um I'm to going to have to draw a kangaroo , but I'm going d I'm not going to . I'm just uh going to uh well draw a nice uh 	
+C	339.727	340.292		
+B	339.924	341.059		
+D	342.371	344.416		
+C	343.921	346.448		
+D	345.58	349.248	Alright , your favourite animal ? 	
+C	350.373	351.865		
+D	358.839	362.464	Grizzly bear . 	
+A	359.2	367.5	beast w I dunno what I'm going to design . Oh um doesn't oh . 	
+C	360.164	362.821		
+C	367.12	373.97	I hope this was part of the assignment and not uh your uh I hope this was part of the assignment and not uh your personal uh enjoyment . 	
+A	368.14	368.92	Yeah , 'kay . 	
+A	370.23	370.45	Hmm ? 	
+D	371.645	372.271		
+A	373.54	382.53	I just said it's not my idea but I am the Project Manager , and officially this is my idea . So what ? 	
+D	374.39	374.67	Yeah . 	
+C	375.014	376.912		
+C	378.29	380.82	I I I I understand . Alright . 	
+B	378.648	379.718		
+D	380.07	381.33	We're kinda losing time , though . 	
+D	382.61	384.384	We're losing time , but 	
+A	383.75	393.19	Ah the first the first meeting is just a bit uh loose , loosen up , a bit uh meeting each other well uh uh nice yeah . Sh 	
+C	383.968	385.296	so start 	
+D	387.73	387.97	Alright . 	
+C	391.238	392.69	Yep yes . 	
+A	395.38	399.409	I hope our Industrial Designer does this better because uh this is uh 	
+C	399.09	400.21	Don't uh count on it . 	
+A	400.66	407.09	No so a a few legs . 	
+D	406.58	414.77	Do we have to guess ? A hippo ? Yeah . 	
+A	408.048	415.647	Yes yes guess . Well I should make it an hippo now . 	
+C	411.224	416.67	I think it's a mouse or a rat . 	
+B	411.542	412.364		
+B	414.445	415.066		
+A	416.296	417.94	No I don't think so . 	
+D	416.912	418.896		
+C	418.13	418.39	Oh . 	
+C	419.78	420.43	Oh I know it . 	
+A	422.52	423.21	Well what is it , huh ? 	
+C	423.09	424.19	It's a hedgehog . 	
+D	423.2	427.248	I don't know how to call it . A hedgehog ? 	
+A	424.49	431.36	Yeah difficult English word . I didn't knew it myself . 	
+D	429.152	429.824	. 	
+C	430.68	436.352	Well I'm amazed uh about your uh drawing skills . 	
+D	434.552	435.67		
+A	435.72	447.392	Our characteristics sum it up . Well it's uh very uh painful those kind of thing . So we can uh just uh 	
+C	439.964	444.028		
+D	440.701	443.36		
+D	444.56	444.848		
+C	447.054	447.93	Yeah . 	
+D	448.528	450.08		
+A	449.46	456.21	We're going back and now uh our Industrial Designer can uh draw its uh most favourite animal . Huh . 	
+C	449.594	451.52		
+C	452.102	454.31	I am the Industrial Designer . 	
+D	452.32	452.7	Alright . 	
+D	455.01	456.64	Thank you . 	
+C	457.59	459.44	Chief , I am the Industrial Designer . 	
+A	459.67	461.53	Oh uh but this uh marketing designer . 	
+C	461.89	462.02	Yeah . 	
+A	463.638	469.856		
+C	464.064	466.009	I think 	
+C	467.51	472.85	It's pr it resembles the animal drawn by . 	
+D	468.224	469.168		
+A	473.072	479.296	what kind of animal is that then ? 	
+D	474.8	476.672	It's . 	
+C	479.24	480.96	I think can I say it ? 	
+D	481.68	482.87	Yeah sure . 	
+A	482.49	486.768	Uh it . 	
+C	483.216	485.632		
+B	483.969	485.228		
+D	487.94	490.064	It's a rabbit . Well 	
+D	491.19	492.29	Looks very nice , right ? 	
+A	492.36	492.5	Yeah . 	
+C	492.93	493.97	It looks amazing . 	
+A	494.56	496.46	No no no . What are you going to do ? 	
+A	497.005	497.923		
+B	497.3	500.031	We want to erase it . 	
+A	498.34	502.14	No no . No no save it and start a new uh save it 	
+D	498.486	499.728		
+D	502.61	503.13	Yes . 	
+C	502.76	503.975	These are very impor 	
+A	503.24	505.53	and start a new black uh doc a blank document . 	
+C	504.8	508.083	These are very important documents , of course , uh these drawings , uh 	
+A	507.07	510.032	Yeah well we have to save everything so now um the next one uh 	
+D	507.55	509.04	Yes uh right . 	
+A	511.232	514.93	and then save it and start an blank document . 	
+D	511.36	511.87	You go man . 	
+B	511.794	513.03	Thanks . 	
+A	520.608	526.89	Yeah . There's also different colours and different uh 	
+A	528.52	536.576	well pen widths uh the line the the thickness thickness . So um well you should uh try it but uh 	
+D	533.04	533.29	Alright . 	
+D	537.06	540.612	I should have made mine a white rabbit . 	
+A	539.01	541.0	Well y y y you could have but uh . 	
+C	540.93	544.37	And he deliberately draws a animal we don't know the English word for . 	
+D	542.104	546.074		
+A	542.13	543.17	It speaks for itself . 	
+A	544.32	549.52	What the uh just a duck . 	
+C	546.56	547.936	It looks like an uh 	
+C	549.56	551.56	It looks like that beast from Sesame Street . 	
+A	551.552	556.496	Nice . 	
+D	552.208	553.888	. 	
+C	554.21	554.5	Yeah . 	
+B	555.13	556.768	Big bird . 	
+A	557.362	558.888		
+A	560.16	560.83	Is it a duck ? 	
+D	560.26	566.3	You're standing in front of it , I can't see it . Alright , thank you . Yeah it's a bird , but what kind of bird ? 	
+C	561.03	562.128	It's it's uh 	
+A	561.87	563.44	Is it a plane ? 	
+C	567.104	567.44		
+A	568.55	572.21	It doesn't draw uh circles uh that easy uh . 	
+C	570.04	571.12	Do we have to uh 	
+D	572.26	573.21	You have to push harder . 	
+A	573.38	575.43	Yeah just a bit a bit childish , a bit . 	
+B	574.22	574.74	Mm . 	
+C	576.98	582.19	But we have uh do we have to name the specific species of the bird ? 	
+D	577.7	578.35	Release your anger . 	
+B	578.491	580.735		
+D	579.442	581.811		
+A	581.187	582.72		
+B	582.768	585.04	Uh no I don't . It's just a bird . 	
+C	583.31	583.62	No ? 	
+C	586.36	587.13	Well wonderful . 	
+A	586.38	588.544	Well uh save the document and then uh 	
+D	589.248	590.048		
+B	589.292	591.186		
+A	593.38	595.11	And then a a new blank document for . 	
+A	596.816	619.46	uh will uh choose a new colour and a new pen width so w we can all see it . No well first yeah . And then you go to format I think , and current colour you choose a new colour . And a new pen width uh also format . 	
+B	597.85	598.35	Here you go . 	
+C	600.827	605.52	Why do I have to do the difficult tasks ? Uh pen yeah that's . 	
+C	609.06	609.93	Uh current colour . 	
+C	611.92	617.384	I like uh oh they don't have pink . Oh b oh think this is uh 	
+B	612.77	613.1	Mm . 	
+A	620.63	626.67	It's not like in paint . Line width . And you can choose a nice one . Width width . With each other . 	
+C	622.01	622.368	Uh ? Uh 	
+C	623.89	624.52	Line width . 	
+B	624.52	625.06	Width . 	
+C	625.91	629.53	Uh fifteen . And I can draw ? 	
+A	627.36	628.272		
+B	628.91	629.21	Hmm . 	
+A	629.72	629.94	Yeah . 	
+A	633.104	638.57	So . Just a wa that's the way we do it's quite easy . 	
+C	635.64	636.331	Uh 	
+B	638.823	639.86		
+D	639.82	640.544	Hmm . 	
+C	640.704	641.088		
+A	641.04	645.952	Mm-hmm . Oh Pussy . 	
+B	641.66	642.51	It's a pussy cat . 	
+D	642.71	643.856	It's a cat . 	
+C	645.52	649.0	Oh the line width is too thick , but oh well . 	
+A	648.66	649.78	Well then you change it . 	
+A	651.12	652.05	And erase things . 	
+C	653.75	654.45	Uh . 	
+B	656.032	662.912		
+A	656.288	666.04	What ? Super pig . 	
+D	657.574	663.76	It's a pig . 	
+C	661.25	662.32	It smiles nicely . 	
+C	665.14	667.248	Now I have to change the line width . 	
+C	671.15	672.47	Uh one . 	
+A	673.12	673.408	So 	
+C	674.28	675.68	These are whiskers , you know . 	
+A	674.736	677.36	Yeah yeah yeah we know . 	
+D	676.29	676.69	Right . 	
+C	677.81	680.67	Uh well I think it's obvious right now . 	
+A	680.8	684.352	Yes alright . It's a cat . 	
+D	686.95	687.65	No it looks great . 	
+C	691.72	692.56	Miaow . 	
+A	692.784	694.624		
+C	693.78	695.648	Well if this isn't obvious 	
+A	696.76	698.048	Well well um 	
+D	699.09	701.904	Just save it . 	
+C	700.112	703.24	I'll save it alright uh save . 	
+A	700.32	705.25	Yeah save it and start a new blank document . 	
+B	700.324	702.29		
+C	706.66	708.17	Uh yeah uh blank . 	
+A	708.4	717.856	Yep . So that's uh what we're going to use when we uh need it . Well it's terrific , eh ? 	
+C	712.6	716.27	Well I feel comfortable now . Thanks for this exercise . 	
+D	713.25	713.94	Oh great . 	
+B	714.992	715.931		
+D	718.48	722.718	It's good for group spirit . 	
+C	718.63	720.14	I feel totally at ease . 	
+A	719.84	729.55	Yeah that's it . We're one big happy family now . Well then uh the serious uh stuff . 	
+B	720.464	723.248	It certainly is . 	
+D	725.232	725.488		
+C	726.13	727.33	Yeah something like that . 	
+A	731.04	741.2	We're we want to sell it at twenty five Euros internationally um so um but we dunno what exactly th i it is in dollars , but uh twenty five Euros . 	
+A	742.29	746.57	Our profit aim is , worldwide , fifty million Euros . 	
+C	747.58	747.872	So 	
+A	747.94	768.41	So I didn't uh exactly uh calculate how much we have to sell . we want to keep it our costs at twelve and a half Euros so , keep uh that in mind when we uh talk about our uh materials an f and stuff , and uh marketing uh research . 	
+C	752.8	754.208		
+D	765.58	765.81	Right . 	
+C	765.69	766.03	Alright . 	
+A	771.46	785.17	Now then we all uh we can uh sit down and discuss uh what do we think about our current remote controls , first about design uh about uh aim in the market 	
+A	786.45	796.096	etcetera ? Well uh we c we can sit down uh because uh presentation can wait . We can uh take notes and uh 	
+D	787.17	787.37	Right . 	
+A	797.34	802.56	Well who has uh some uh remarks about the current uh remote controls ? 	
+C	805.01	813.664	Well I I didn't have to prepare anything about uh it's not , it's it's not my task to uh talk about uh experience with current remote controls , but uh 	
+A	805.17	806.24	Please ? 	
+A	808.15	810.176	No uh I did . 	
+A	813.89	818.048	Well uh just w we're uh four uh if we if we would just have one then 	
+D	816.5	821.82	I think it's im it's important to uh look at uh the remote controls of our competitors . 	
+A	822.29	822.43	Yeah . 	
+D	822.89	838.62	Get the good points uh try to merge them into one universal remote control . On our corporate site I saw uh a new D_V_D_ player uh we're gonna produce . Maybe it's important to make it compatible with the D_V_D_ player 	
+A	827.73	828.01	Yeah yeah . 	
+A	834.84	834.98	Yep . 	
+A	836.04	836.63	That's alright . 	
+A	839.38	840.78	That would be a nice idea , yes . 	
+D	840.76	846.01	so you can uh use your television and your D_V_D_ player with the same uh remote control . 	
+A	845.57	846.16	Yep yep yep . 	
+D	847.67	859.53	Furthermore it's important to make it uh acceptable for the whole world , for different cultures , maybe , because we want to we want to well fifty million ? 	
+A	860.11	862.86	Yes fifty million is our aim to a profit , so . 	
+C	860.67	860.94	Mm-hmm . 	
+D	861.84	865.41	Yeah yeah so a lot of people have to be able to use it . 	
+B	862.832	863.646		
+C	865.72	873.01	No but uh the b the buttons have to uh have to have uh international recognisable buttons and uh 	
+D	866.18	866.988	So 	
+B	867.17	868.0	Easy to learn . 	
+D	868.23	868.47	Yeah . 	
+D	873.67	874.11	Yeah that's right . 	
+B	874.08	874.32	Yeah . 	
+A	874.34	874.69	Yes . 	
+C	874.37	880.44	and numbers and uh that every culture in uh , yeah , people in every country can recognise . 	
+B	879.58	879.81	Yeah . 	
+A	882.11	891.17	I'll make uh notes and then uh maybe uh well I'll put it in the project uh folder when I'm done uh just now . Well yeah ? 	
+D	889.28	889.65	Mm-hmm . 	
+C	889.78	890.33	Alright . 	
+B	889.96	897.96	I also think we should not add too many buttons . Modern day uh remotes have too much buttons I think . 	
+D	890.52	890.76	Right . 	
+A	893.43	894.97	No that's right . 	
+A	896.04	901.44	Y y you don't use uh the half of them that's that's culture uh international . 	
+B	898.82	899.42	Precisely . 	
+D	902.13	909.23	Maybe we could make one button to switch between D_V_D_ player and T_V_ and make the other buttons uh multi-functional or something . 	
+B	905.95	906.21	Yeah . 	
+B	908.98	910.18	Yeah indeed . 	
+A	909.35	909.72	Yes . 	
+C	909.35	913.696	Yeah so it doesn't uh become too complicated with too much buttons and uh 	
+D	913.14	913.49	Yeah right . 	
+A	913.64	921.68	Yep , and maybe we do uh we even have uh more than just a D_V_D_ player . Don't we have uh other uh ou 	
+B	921.43	925.81	Yeah we should make it compatible perhaps with everything we use , we uh we make ? 	
+C	923.03	925.78	And stereo uh s uh audio installations . 	
+A	923.18	923.33	Uh . 	
+A	924.41	929.11	We also uh just uh released a T_F_T_ uh thing I saw . 	
+D	927.99	932.64	Yeah so but th that's kind kind of standard T_ television so it also works on that . 	
+A	930.97	931.29	Yeah . 	
+B	931.48	931.9	Yeah . 	
+A	933.06	933.27	Yep . 	
+B	934.17	942.47	And I think the people who who will buy our uh remote already have some experience with remotes . So we can keep that in mind . 	
+C	941.78	942.89	Most people do , yeah . 	
+A	943.37	943.93	Well yeah . 	
+C	944.29	946.576	It doesn't it doesn't have to be 	
+B	945.215	945.686		
+A	945.31	947.65	It doesn't have to be , but we can . 	
+B	946.92	953.47	W well it's a n it's a new remote and you don't buy a remote if you don't have anything to uh to control with it . 	
+A	952.54	956.57	Well except if we deliver it together with our D_V_D_ . 	
+D	953.58	953.936	Yeah but 	
+C	955.89	956.32	Yeah . 	
+B	956.55	958.05	Yeah alright , but 	
+D	956.95	960.045	We need to to keep it consistent with other d uh 	
+A	959.33	965.136	Yeah because we look at competitors and w if we pick up the good things about that and give it a nice design 	
+C	959.64	959.92	Well . 	
+C	965.4	965.67	Hmm . 	
+D	966.21	968.92	Yeah but it's it has to be useable . 	
+C	967.59	969.45	It has to be different and familiar at the same time . 	
+A	969.7	969.97	Yes . 	
+D	970.16	970.41	Yeah . 	
+B	970.39	976.51	Yeah . Yeah we could use another form or shape or colour , that kind of things . 	
+A	972.61	972.72	Yep . 	
+C	975.056	989.69	yeah the shape will will have to be recognised . I thought about uh like most uh remote controls uh are uh a long box shaped thing you can make it uh triangle shaped , but that's not uh very recognisable . 	
+A	985.67	985.85	Yeah . 	
+D	987.597	989.84	No . 	
+B	988.31	991.968	Well we we could make more more oval or something , and and 	
+A	988.89	989.04	Oo 	
+C	991.0	992.18	Oval ? 	
+A	992.27	1004.35	N we can use uh it as a as a game pad . So one hand has the beer , so the other hand uh 	
+C	992.71	993.058	I 	
+B	992.89	993.6	Yeah or so 	
+C	995.09	996.461	Mm . 	
+B	995.47	997.152	Well yeah it's new . 	
+D	995.776	996.584	. 	
+D	997.43	1000.032	Not with two hands . 	
+B	998.294	999.156		
+D	1001.33	1003.936	Yeah yeah yeah , right . No 	
+B	1002.947	1006.064	but young people want something different and it is 	
+A	1006.12	1012.864	Well i we already uh one of our aims is that it has to be original and trendy so 	
+D	1006.76	1009.71	Yeah but it's quite important that it fits . 	
+B	1011.19	1011.66	Yeah . 	
+D	1011.25	1011.47	Yeah . 	
+C	1011.52	1017.632	Oh but it ha it has to be m yeah . But you still have to know it's a remote and not another 	
+B	1017.72	1018.33	Yeah alright . 	
+A	1017.88	1029.409	Well there has been done a lot of researches about remotes uh we have to we can imagine uh because it's a long time uh on the market . So the the form will have been uh tested out so 	
+C	1024.85	1025.07	Yeah . 	
+C	1028.97	1032.83	Yeah so the long box uh shaped thing must be uh , yeah , useful 	
+A	1033.28	1033.6	Yes . 	
+C	1034.39	1036.57	or else uh they would have been ano another shape . 	
+A	1034.48	1056.96	Well for me personally I have a a lot of remotes uh at home but those ones that have a a round ending and uh well uh just an uh square uh middle I don't like to use them . I have uh have to it has to fit my hands . When it falls over it and I just have and then the button that I use most has to be here . 	
+D	1051.34	1051.56	Yeah . 	
+B	1051.89	1052.36	Yeah . 	
+D	1054.44	1055.49	It shouldn't be boxy . 	
+C	1054.76	1060.14	Yeah . Yeah a lo the long box shape yeah . You have to use one hand . 	
+A	1058.72	1063.72	It f it fits your hands and then you just push the button that you use most with thumb . 	
+D	1059.4	1059.994	Nah 	
+D	1062.39	1067.03	I don't agree with the long box uh shape it it has to be custom made for the hand . 	
+C	1064.56	1064.97	Why not ? 	
+B	1067.7	1068.99	Yeah it doesn't fit . 	
+A	1068.56	1071.71	Tho tho those new D_V_D_ players on the market do have those . 	
+D	1068.67	1068.98	Yeah . 	
+C	1069.7	1073.792	But it does fit in the hand if you hold it like this , and you can make it another shape , but then you have 	
+D	1072.13	1073.338	Yeah but if you shape it 	
+B	1073.93	1086.595	No if y if you look at new Phillips uh D_V_D_ with their uh remotes pl players they they are the new remotes aren't box shaped . They're all um 	
+D	1074.26	1074.527	If 	
+D	1078.816	1082.336		
+A	1079.09	1081.44	D_V_D_ players . Yes . 	
+C	1085.4	1086.79	W no w what else ? I di 	
+D	1085.96	1087.8	No that's ol old fashioned . 	
+B	1087.05	1087.551	Well 	
+B	1088.2	1088.51	Yeah . 	
+C	1088.88	1091.02	Yeah well but uh what what what do you suggest then ? 	
+D	1089.12	1090.29	I can imagine that us 	
+B	1089.6	1090.019	Yes uh 	
+B	1091.12	1099.5	Well most of of them are are somewhat thicker at the end , and get um yeah thinner towards the uh the other end . 	
+D	1091.43	1091.648	Well 	
+D	1094.98	1095.48	Yeah right . 	
+D	1097.16	1098.29	It fits in your palms . 	
+C	1100.21	1112.251	Hmm . Well but it's still then uh the the long box , uh but then with some uh round uh round forms in it to fit your hand , but it's it's still 	
+B	1100.71	1100.96	Mm . 	
+B	1106.98	1107.629	Yeah it 	
+D	1107.75	1107.93	Hmm ? 	
+A	1108.07	1108.352	Well 	
+A	1109.47	1116.4	A it h it has it it has a that's tha th th shape that it fits your hand . That's 	
+D	1109.77	1110.25	Um . 	
+C	1114.38	1121.77	Yeah yeah al alright but but it's still it's still sort of box , yeah . It it has round forms but it in the end it's still the box , so that's what I mean . 	
+D	1117.056	1117.449	. 	
+D	1118.885	1120.736	Well 	
+B	1119.0	1119.59	Yeah yea 	
+D	1124.02	1128.514	Yeah but it has it has to fit your hand . It shouldn't be too boxy , you know . It's 	
+C	1126.23	1135.94	Yeah yeah I understand , but no no I don't mean an entire box like completely square but a also with round edges of course , but in in in at the end it's still this long 	
+B	1128.21	1128.78	Hmm . 	
+D	1129.872	1130.89	No no no . 	
+A	1130.0	1132.352		
+B	1130.409	1131.825		
+B	1132.779	1133.337	. 	
+D	1132.96	1133.15	Yeah . 	
+D	1136.23	1137.376	Yeah it should be 	
+C	1136.612	1141.37	box shape with convenient uh round uh shapes uh 	
+A	1139.344	1140.265		
+D	1141.81	1152.438	Right maybe something like this or and then a button here to switch between different systems like D_V_D_ player and so you can I've 	
+C	1142.512	1143.47	to fit . 	
+C	1145.03	1147.57	Yeah yes I thought about something like that . 	
+C	1149.46	1149.61	Yeah . 	
+C	1151.45	1153.49	A big recognisable button on top or something . 	
+D	1153.17	1156.96	Yeah right , and I do think we have to keep this kind of idea 	
+B	1156.94	1157.39	Yeah . 	
+D	1158.66	1161.141	with the with the numbers and 	
+A	1159.99	1163.128	We have five minutes left . So 	
+C	1162.67	1168.97	The buttons should uh also be not too small , not too big , of course , and uh n uh uh not too close uh together . 	
+D	1162.69	1162.9	Right . 	
+B	1164.288	1164.496		
+A	1165.67	1168.0	Yes uh that's yep . 	
+D	1168.08	1171.71	But it should be possible to to um make it 	
+D	1172.92	1179.94	ap apparent that there are two functions for every button . So there has to be some space between the buttons . Yeah . 	
+A	1176.08	1176.24	Yep . 	
+C	1176.32	1176.59	Uh-huh . 	
+C	1179.11	1184.71	Yeah of course uh to uh to uh to have icons to explain the different functions . Yeah . 	
+D	1183.38	1186.11	Yeah right right , and maybe we should use colours . 	
+C	1186.69	1187.15	Colours , yeah . 	
+B	1186.88	1203.898	Yeah maybe we can um just like on cell phones those um well you can you can put on on them , and so you can customise your uh your own remote with different colours or or special paint jobs I dunno but 	
+D	1193.64	1193.9	Yeah . 	
+A	1195.56	1195.71	Ha . 	
+D	1195.89	1196.65	That's kinda trendy . 	
+D	1201.43	1201.83	Yeah right . 	
+A	1203.24	1204.51	Sound nice . Yes . 	
+C	1204.68	1207.424	I think we have to talk also about uh the the materials for um 	
+B	1208.56	1209.941	Well 	
+A	1209.04	1219.27	Well it's just uh about our first ideas now so I think individually we'll have to uh come up with ideas for the next meeting about these materials and markets etcetera . Yes ? 	
+C	1209.773	1211.703	. 	
+D	1216.01	1216.33	Right . 	
+C	1216.035	1216.391		
+D	1217.28	1217.751	But 	
+D	1218.461	1225.936	I think it's uh it's important to uh notate all the the decisions that we make , so we 	
+C	1218.93	1220.576	Already thought about something tha 	
+A	1223.84	1224.19	Yes . 	
+A	1227.28	1231.12	Well thirty minutes we have . So um 	
+C	1229.52	1229.79	Mm-hmm . 	
+B	1229.853	1230.672		
+A	1232.87	1242.43	This is about uh what we are going to uh do uh . You'll get specific instructions when you're back in your room so uh it's uh logical uh . I think . 	
+D	1238.38	1238.66	Yeah . 	
+B	1239.024	1239.232	. 	
+D	1242.174	1243.58	No problem . 	
+A	1243.73	1251.9	Oh and uh that's uh that's all . So we'll just get a notice that the the meeting is uh over . Yeah yes say . 	
+C	1249.8	1260.49	Yeah now we can still talk about the material , we have some some minutes left uh I w wrote down uh that the case should be plastic of course , hard plastic , the buttons should be uh rubbery I think uh . 	
+B	1251.71	1252.02	Mm . 	
+D	1257.89	1258.13	Yeah . 	
+D	1260.72	1261.93	Yeah it shouldn't be too heavy . 	
+B	1261.376	1261.872	. 	
+C	1262.4	1263.13	No n n 	
+B	1262.603	1263.232	. 	
+A	1262.85	1279.84	Well I have had remotes that um they had uh the function of the buttons was about uh uh a layer over the buttons and when I've had use it much it was gone . So it has to be made in the buttons I think . It has to uh not be loose . 	
+B	1274.28	1275.82	Yeah that's bad , yeah . 	
+D	1274.44	1275.18	Yeah yeah yeah . 	
+B	1279.05	1280.12	Yeah that's important . 	
+C	1280.39	1287.81	Mm . Alright . And of course there are several electrical cables in it to uh to connect things uh to each other . 	
+A	1285.03	1285.26	Yeah . 	
+A	1286.66	1294.39	Is there an a universal uh universal way of um transmitting from the remote to the television so it's all about uh 	
+D	1294.13	1295.5	Yeah it's univ yeah yeah yeah . 	
+C	1294.23	1301.19	I think so . It's a a common stan standard way infrared beams an infrared beam I think . 	
+A	1295.49	1297.13	It's not that in China it's different ? 	
+D	1297.65	1297.87	Yep . 	
+A	1300.42	1300.7	Yeah . 	
+A	1302.1	1306.558	But y you can have uh of course different between D_V_D_s and televisions and between 	
+D	1303.3	1303.962	And you can use 	
+C	1305.72	1312.66	It it's a we we make an a universal remote so it ha has to work with uh all kinds of brands and things . 	
+D	1307.81	1308.06	Yeah . 	
+A	1309.69	1309.95	Yeah . 	
+B	1310.08	1310.53	Yeah . 	
+B	1312.34	1316.038	But our T_V_s are mostly made in China and that sort of country , so 	
+A	1315.008	1321.152	Probably yes . China rules . 	
+D	1315.074	1320.416		
+B	1319.024	1319.6		
+C	1319.447	1320.0		
+C	1321.09	1332.398	And have well yeah I've wrote something down about how it works . The user presses a button and with an infrared beam it signals the television set accordingly , but that's pretty obvious , I think . 	
+A	1328.129	1328.991		
+D	1328.21	1329.336	But are 	
+D	1331.264	1336.31	Are we going w uh with the front uh fronts uh idea ? 	
+B	1331.503	1332.592		
+A	1331.696	1332.72		
+A	1336.8	1340.7	Well I think uh w we can look into that in the in the next uh thirty minutes . Yeah . 	
+D	1338.04	1347.408	I think we should make it universal and you can always use a front front on it , you know ? You can use it just plain but you can 	
+A	1346.34	1346.57	Yes . 	
+B	1346.655	1347.232	. 	
+A	1348.05	1354.048	Well j just y you get a n a normal front with it , but you can change them uh when you buy the 	
+D	1348.29	1349.12	To make it more trendy . 	
+B	1348.586	1349.004		
+B	1351.3	1351.52	Yeah . 	
+D	1352.79	1353.01	Right . 	
+B	1353.3	1354.56	Yes . Yes . 	
+D	1354.12	1354.32	Right . 	
+A	1355.28	1360.192	And we should uh dispatch those kind of fronts fronts a a around the world so uh 	
+B	1358.34	1358.48	Mm . 	
+D	1358.555	1360.45	Yeah . 	
+B	1359.77	1363.39	Well you can make profit with them , and it's a way to make them trendy . 	
+A	1363.44	1370.89	Well th those fifty million don't uh don't se sells itself so we have to uh make uh some extra effort like fronts uh . 	
+C	1370.63	1376.36	Well but th but the standard front will be uh just grey or something uh b a simple colour not not very flashy . 	
+D	1370.98	1371.3	Yeah right . 	
+B	1371.14	1371.76	Yeah alright . 	
+B	1373.76	1374.85	Yeah normal . 	
+A	1374.44	1386.528	Yes . Yeah well it has to it h it has to fit the the te television and D_V_D_ set we are going to sell , so if they are uh black and black black and silver we'll make them black and silver so 	
+B	1376.25	1377.87	No a colour everyone accepts . 	
+B	1381.5	1381.7	Mm . 	
+C	1382.91	1385.63	Pink television sets pink remote , . 	
+B	1383.93	1384.16	Mm . 	
+D	1385.11	1385.75	Yeah yeah yeah . 	
+B	1386.2	1386.45	Yeah . 	
+B	1387.616	1388.34	standard . 	
+D	1388.58	1392.69	But people of often don't like bright colours or something . We have to make it grey or s or black . 	
+A	1391.17	1391.548	. 	
+B	1392.44	1395.04	Well young people s li 	
+D	1393.96	1396.34	Yeah but then you can use a a front . 	
+B	1396.21	1397.16	Yeah yeah , yeah . 	
+C	1398.96	1399.23	Alright . 	
+A	1401.44	1401.74	Yeah . 	
+C	1402.48	1405.024	I must not forget my pen the next time . 	
+A	1403.48	1414.0	Well if if you yeah . If you have a a a television room for little children and you make a if if you buy a a pink front they'll they'll love it . I think . 	
+B	1403.917	1405.025		
+B	1413.09	1413.31	Yeah . 	
+D	1413.34	1413.93	Yeah that's right . 	
+D	1414.95	1421.0	Yeah or a t Teletubby front . Yeah yeah yeah . I will investigate . 	
+A	1415.09	1420.048	But that's uh marketing uh research you can uh you can ask uh . 	
+A	1421.06	1421.45	Yes . 	
+A	1422.591	1423.026		
+A	1423.49	1433.67	Well our user interface you can uh maybe uh I don't know what your specific instructions will be , but uh probably about uh the precision of the buttons and and those kind of things and what buttons will have to be on the 	
+A	1434.87	1440.35	uh remote . And you will look into the technical design and um form , I think . 	
+C	1440.84	1445.49	Mm yeah also the the look and feel uh of the the remote's also my task , yeah . 	
+A	1441.37	1442.24	Or something like that . 	
+A	1443.54	1443.85	Yeah . 	
+A	1445.76	1445.92	Yeah . 	
+D	1446.19	1446.67	Right . 	
+B	1446.42	1449.58	What's the uh url or the website 'cause I didn't 	
+C	1448.56	1452.18	Yeah I uh w was wondering that too . Y you went to the company website . 	
+A	1450.59	1453.68	Euro ? Well it it it's if you uh 	
+B	1450.6	1451.394	get 	
+D	1451.06	1451.492	It's 	
+D	1452.11	1454.782	Yeah yeah yeah just if you start up your Internet Explorer 	
+B	1452.38	1452.86	Yeah . 	
+C	1454.16	1456.719	It's the the the start uh starting page uh 	
+B	1455.04	1458.09	Oh oh right oh well I didn't uh use it . 	
+D	1456.34	1456.49	Yeah . 	
+A	1458.04	1466.08	Finish meeting now . Oh alright . Well uh we're going to back uh back into our rooms so 	
+B	1459.384	1461.089		
+B	1464.48	1464.79	Yes . 	
+D	1466.52	1467.06	Well that's great . 	
+B	1467.09	1468.352	Next meeting is in 	
+A	1468.31	1481.68	In thirty minutes , but uh I think it will be you will be warned uh through your laptop uh to get over here . I'll have to restore my uh my desktop uh because uh it's it's the half of the normal size . 	
+D	1468.57	1469.29	Thirty minutes . 	
+B	1469.06	1469.73	Thirty minutes . 	
+B	1471.36	1475.088	Yeah alright it's it's handy to know 	
+C	1475.086	1476.39	Very handy to know . 	
+D	1476.727	1479.568	It's totally broken . 	
+B	1477.404	1477.984		
+B	1478.614	1479.209		
+B	1480.233	1480.767		
+C	1482.23	1483.97	Right see you in half an hour then . 	
+A	1482.73	1487.451	Oh right , oh . Ma 	
+B	1482.77	1485.91	Oh . Goodbye . 	
+C	1486.01	1486.07	W 	
+D	1486.43	1486.785	Oh 	
+B	1487.51	1487.97	S 	
+A	1488.8	1491.78	W that was a nice meeting . 	
+D	1490.205	1490.845		
+D	1492.17	1493.694	. 	
+B	1492.748	1494.396	. 	
+C	1495.34	1498.796	Right uh see you in thirty minutes then . 	
+A	1496.15	1499.641	Yeah , see you . 	

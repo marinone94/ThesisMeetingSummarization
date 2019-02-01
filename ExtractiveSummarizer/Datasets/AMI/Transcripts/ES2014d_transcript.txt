@@ -1,0 +1,775 @@
+Found 4 args.
+Observation: ES2014d; Result size: 772; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+A	0.02	3.07	So is Why not save that . 	
+D	3.39	6.6	No , you'll ha have to open it up from elsewhere . 	
+A	9.766	12.6	Do you want to replace existing file , no . 	
+A	15.166	16.794		
+A	18.73	21.888	I actually tried to transfer it to My Documents , but 	
+D	21.83	25.68	Yeah , you have to you have to close that window . 'Cause that's the save one isn't it , so 	
+D	27.19	27.92	And then find it . 	
+A	33.378	34.85	spreadsheet . 	
+D	43.672	44.153		
+A	47.056	54.133	Yeah , but I've ta uh right , I'll just re-do it . That's the easiest way . 	
+D	48.394	48.912		
+A	64.654	66.763		
+A	71.49	71.99	Right . 	
+C	76.6	78.37	Well we've made our prototype anyway . 	
+C	79.54	81.424	We can have a good look at that . 	
+D	81.46	82.67	You pass it round to have a look . 	
+C	82.18	85.584	Mm-hmm . Y no , it's a slightly curved around the sides . 	
+D	84.684	86.29	Mm very nice . 	
+C	86.68	103.61	Um , it's almost curved like up to the main display as well . And the little line at the bottom indicates the bit the panel that you pull down . And the extra function buttons are below that panel on the little line . And we've got the stick on the button with the company logo on . 	
+D	91.79	92.08	Mm-hmm . 	
+D	99.9	100.27	Mm-hmm . 	
+D	103.93	104.23	Mm-hmm . 	
+B	104.64	110.459	We also have a apple slash cherry design at the top . 	
+D	107.986	111.15	So it is , yeah . Cherry would be alright actually . Yeah . 	
+C	108.075	109.924		
+C	111.4	117.73	Yeah , it's a bit more fun , isn't it ? And it's kinda not really at a kind of you think apple , you think computers , like Apple Mac . 	
+B	117.11	119.411	Yeah , yeah , we might get a 	
+D	118.31	123.0	Mm-hmm . Copyright , yeah . What's this this one ? What's that one there ? 	
+C	120.68	124.26	Yeah , and cherries are fun , summery . Ah , that's the mute . 	
+D	124.38	125.36	Oh , okay . Right . 	
+B	124.82	126.691	For the M_ . 	
+C	125.804	131.32	It it'd probably have to be labelled mute . But um , we didn't have anything small enough to write . 	
+D	127.109	127.923		
+D	129.29	129.55	Uh-huh . 	
+B	129.54	130.501	They're thinking 	
+D	131.81	132.37	Okay . 	
+B	131.94	137.52	For the first time , well it was hard to get the h um the actual labelling on the individual buttons . 	
+D	137.14	138.064	Mm-hmm . 	
+C	137.75	138.05	Yeah . 	
+D	139.1	139.655		
+C	139.24	147.9	Uh , we just chose simple shapes for all them . Um , the important ones are the volume ones . So we made them a bit bigger . The mute could possibly be a bit smaller . 	
+D	145.55	145.82	Mm-hmm . 	
+B	147.9	158.4	Hum , you separate off in colour the volume related buttons from the channel related buttons , so you've got the volume in orange on design there , and the the channel is in blue . 	
+C	154.788	156.045		
+D	155.6	155.95	Yeah . 	
+C	158.82	159.04	Mm-hmm . 	
+A	159.46	177.51	R right . Um , all these things have cost implications . And so when I done my thing on cost a I had assumed that the only uh button that would be a different colour would be the uh the red apple button . 	
+C	159.82	162.13	Yeah , and we chose a V_ plus and V_ minus . 	
+A	179.09	198.34	So However , I've now . But um , yeah so uh but there would be a cost implication on that , and uh as I suppose that so whether wanted to put in all these colours , would be uh open to debate , I suppose . 	
+C	181.748	184.485		
+D	185.62	186.69	I'll see if I can find them . 	
+B	195.13	196.32	Yeah , sis 	
+C	197.6	207.472	Well the colours wouldn't like that's they wouldn't be too important , but we didn't have any white Play-Doh . So that's where the colour buttons came from . 	
+D	197.69	198.066	Have 	
+A	203.344	209.424	An important consideration . Right , okay so um 	
+D	203.43	207.203		
+A	210.928	215.2	And the second one underneath would be the idea for the 	
+B	214.76	216.21	Yes , we'll have the slide-away . 	
+A	216.59	221.72	Right , okay . So we've got um detail design meeting . 	
+B	218.23	218.62	Bottom . 	
+A	224.32	224.67	Right . 	
+A	227.86	230.26	So So , we've got 	
+A	231.808	284.4	prototype presentation , which we've just done , evaluation criteria , um and finance , so I guess w we have to evaluate if that meets the various uh aspects that we're looking for uh from um our previous meeting . So other than the fact that it doesn't have the second layer , but um obviously obviously it would . But other than that , we got the red apple . We got the buttons and the only thing that has really changed is the is the colouration of the buttons , and the bit after the evaluation criteria is uh is the finance . And the and the cost implication . The only snag about this is that uh 	
+D	249.26	249.55	Mm-hmm . 	
+C	250.736	251.365		
+D	252.96	253.31	Mm-hmm . 	
+B	255.91	256.18	Mm-hmm . 	
+C	260.465	261.02		
+B	270.64	271.42	Yes , yes . 	
+D	279.42	279.9	Right . 	
+B	279.48	279.91	Okay . 	
+A	286.416	299.49	the cost is probably kind of important . So um , and then the production evaluation , as to how easy that would be to uh to manufacture . Um , 	
+B	297.49	297.77	Mm-hmm . 	
+D	298.477	298.921		
+A	301.18	303.712	and whether it would uh 	
+D	303.883	308.51	So if you had to do a presentation or will you just work it on the prototype ? 	
+C	308.76	310.906	Uh , that's it . 	
+B	308.77	312.13	This this is a yes , this is our presentation of the prototype . 	
+D	310.11	310.94	That's the pr 	
+D	312.93	313.37	Okay . 	
+A	313.04	330.56	Right , so uh as far as the the finance of it would be concern would be to make sure that the cost aye the production cost 'cause you may remember that was one of the first uh considerations was to be in d under um uh twelve fifty or two and a half uh twelve and a half Euros . 	
+B	327.83	328.13	Mm-hmm . 	
+A	333.06	345.05	So , there's no redesign . So that should uh Right , so , seems to me that the thing that I have to do is 	
+A	351.06	354.32	is quickly find that uh 	
+B	358.06	361.44	Could we get this on the board just so we can see or do you mean do you have the figures there ? 	
+D	363.296	367.85	we should plug it in . Do you wanna plu do you wanna plug it in into the the back of that one . 	
+A	364.22	364.56	Right . 	
+A	366.68	367.8	Okay . 	
+B	367.62	368.29	'Kay , Alice . 	
+B	369.68	370.52	So , sh 	
+D	370.08	373.27	We could do it as we d go along , the production costs , looking at the prototype . 	
+A	374.18	376.05	Right . . 	
+B	377.08	378.01	'Kay this should be then . 	
+A	378.489	379.414		
+A	380.74	392.61	Okay , so , by the fact that we've got uh the simple chip and the uh kinetic energy source , we've got a single curved 	
+A	395.28	408.816	case . We've got a rubber uh case materials supplements . So , we had decided that we're having rubber buttons and 	
+B	405.11	405.31	Mm-hmm . 	
+B	406.897	409.005		
+B	411.8	413.42	Have a push button interface . 	
+A	417.65	439.136	Okay . W the button supplements . Well , originally , I thought there would just be uh one in there because it was the one red apple . But So the so the real w the real question then would come in . Do you make all the buttons 	
+B	420.24	421.521	Um 	
+B	429.86	430.551	Um 	
+D	439.91	443.78	Well do we'll do it on the prototype , so do two , see how much it is . 	
+A	440.55	440.85	O 	
+A	443.59	462.64	Well , so we've got one special button form , which was the apple . Everything else is gonna be a standard . We've got special material , rubber , wood , titanium , et cetera and that , so , I was originally , I was thinking rubber wasn't special , but according to this , maybe it is . So 	
+D	448.13	448.57	Yeah . 	
+B	448.46	448.78	Yeah . 	
+B	450.31	451.253	And then we'd have 	
+D	454.28	454.53	Mm-hmm . 	
+D	460.48	460.72	Mm-hmm . 	
+A	464.01	469.08	And the r I mean effectively we've got sixteen buttons that we're gonna have on there . 	
+D	469.29	472.369	Yeah . I think you just do one , don't you , for the 	
+A	472.72	491.632	W I don't know is is is the sort of answer , is that meant to be all sixteen buttons , and therefore I mean , what's the op The option was maybe not to have rubber buttons , but just to have the one that was soft and spongy , and therefore 	
+D	490.91	493.174	I think I think it's just it's just a one . Else 	
+A	494.22	503.68	Whereas it would be the special colour would be for the So you would only have the one special button that was rubber , whereas the rest would be hard plastic . 	
+D	504.52	512.05	I thi I think I think the button supplement i is just a supplement for all the buttons made in a different material , rather than per button . 	
+A	504.804	505.171		
+A	511.59	528.56	Mm . I would Every design change is uh I dunno , um Okay , um , 	
+D	513.63	514.25	I don't know though . 	
+D	521.2	521.52	Hmm . 	
+A	529.81	540.19	if we just had all the buttons as standard , except for the one red apple , then that would take care of that , I guess . We'd have one special colour and one special button form . 	
+D	540.72	541.0	Mm-hmm . 	
+A	542.12	542.79	And when 	
+A	544.42	548.91	I plugged that in last time remember it has to be under twelve and a half . 	
+A	550.81	562.94	As far as I know , that um that took care of the uh of the various supplements . And if What happened ? 	
+D	559.67	559.95	Mm-hmm . 	
+D	566.69	569.97	You've just gone off the window into another one . It's on the bottom row . 	
+C	577.84	581.97	Maybe if you just minimise that one in the top right-hand corner of the little box . Yeah . 	
+A	578.624	579.2		
+A	583.76	589.59	Now , right . Okay , so , but the point would be that if we uh 	
+C	584.864	585.752		
+A	591.83	597.76	if we just did special Sorry , you were saying that it would be that one , that you would put in one there . 	
+D	597.81	599.25	Yeah . Yeah . 	
+A	600.95	601.46	Okay . 	
+B	604.09	606.704	So that's nine point one there so we've got some 	
+A	606.05	610.75	So it Well , is it s is no , it's nine point seven I've got . Okay . 	
+B	608.95	609.23	'Kay . 	
+D	609.43	609.71	Mm-hmm . 	
+B	610.77	611.76	Just give us a bit of 	
+A	612.11	614.32	So , that would 	
+A	616.18	618.01	that would work out fine if uh 	
+D	618.7	619.01	Mm-hmm . 	
+A	619.97	634.76	uh as assuming your correction are are assuming that that one change covers all the buttons , then that would be fine . And there's nothing else as far as I can see that we we had uh planned to put on . 	
+D	628.49	628.77	Mm-hmm . 	
+D	629.688	630.169		
+C	629.71	630.16	S 	
+B	633.93	656.582	I switching around those th um on the electronics we got the sample sensor . At the moment we've just got the simple chip , which costs one . Um , I guess the sample sens sample speaker would be the voice recognition thing , which puts up to four ? We should be slightly over our budget but if we gather something else down to slightly lower standard , and maybe go with the one the special form buttons , then we could have the speech 	
+A	642.04	642.48	Uh-huh . 	
+D	646.29	646.75	Yeah . 	
+D	652.43	652.68	Yeah . 	
+A	655.4	658.25	Well , hold on . Um , if we 	
+A	661.88	663.86	Okay , that gives us twelve point seven 	
+B	664.0	673.333	So uh maybe if we got rid of like the maybe one of the special colours , kept them all the same colour , then we could have the voice recognition without 	
+A	672.29	679.584	But remember that the idea was to keep it the colour of the Oh , I see , so just take out the special colour for the apple and 	
+B	679.38	681.394	Yeah , yeah . Um 	
+C	680.84	691.11	Um , . D wouldn't you have to keep the simple chip there as well ? You know how you turn that one to a zero , wouldn't the chip and the sample speaker be separate things , so you need both of them ? 	
+D	688.05	689.061	Yeah , we have to have it 	
+B	690.15	694.54	Oh possibly , yeah , yeah maybe . Maybe um we'd be giving up on the kinetic . 	
+D	690.67	691.18	Yeah . 	
+B	695.97	696.7	Um 	
+A	697.18	700.04	And go for battery instead . That would give you one less . 	
+D	697.46	698.03	Yeah . 	
+B	698.97	702.48	We should Yeah , that would save us one , though we'd still be slightly ov 	
+A	701.91	709.35	But you reckon that i I mean the thing is that you wanted to a appeal to people and not have to replace batteries . 	
+B	709.46	739.55	Yeah , yeah . Well , since it's the through the whole technology type thing , um , you were saying in the market research that people like kind of interesting gadgets in them . Um , whether they would figure the the s uh sample senor and the sample speaker , voice recognition be sort of a worthwhile thing to have . And then still have the batteries , or whatever they would prefer not uh You know what I mean ? The the problem was the battery's running out and losing the um losing the remote . So you gotta decide which of those is more important to them . 	
+D	719.22	719.49	Mm-hmm . 	
+D	728.63	728.82	Mm-hmm . 	
+A	732.53	733.64	Mm-hmm . 	
+D	735.35	735.8	Yeah . 	
+A	739.68	763.98	But which do you think or which do we think is the more important of the options ? In a sense , at the moment , we've got a total which we need to reduce down by one point two . At least . Remember that was a minimum requirement . The other option if we're planning on just going for something cheap and cheerful , would be to um make it originally , we're gonna make it a simple product . 	
+C	745.16	746.51	I think the voice recognition . 	
+D	763.08	783.75	Shall we shall we evaluate the prototype as we've got it now first , and then sort of make decisions about what needs to be changed after ? Okay . Right um , I have a little thing . So , we've all got a note of it's thirteen point seven , isn't it , with everything we want on . 	
+B	763.17	763.49	Yeah . 	
+A	772.17	773.94	Mm-hmm . Makes sense . 	
+B	773.59	773.94	Okay . 	
+A	784.547	785.024	. 	
+A	790.41	792.89	Sorry , do you want that back up ? 	
+D	791.77	794.27	Yeah , I just had a presentation to 	
+A	794.83	795.24	Right . 	
+D	796.38	797.568	do . 	
+C	798.99	806.16	But I do think uh the v uh voice recognition thing would be more impressive than the fact that it's got no battery . 	
+A	806.88	813.7	Okay , but remember the main the only reason we were planning on having the voice recognition was so that they could find the remote if it got lost . 	
+D	814.53	817.82	Mm-hmm . Mm . Right okay um , 	
+D	818.98	838.28	This is about the evaluation criteria that we use for the the prototype we've got here . And so the method is that the design team makes a prototype , and we evaluate the prototype against some criteria that we've formulated . And those ones are gonna be in response to sort of market research , and also finance , I guess . 	
+C	822.651	823.243		
+D	839.339	847.67	And do that on a scale from say true being one and false being seven , so if it's neither true nor false , then that's four . 	
+D	855.5	864.75	So , I got a set of criteria just based on the marketing that we need to add in a financial one as well , at the end . Um so , 	
+D	865.98	869.6	We have to say whether it's true or false that the product looks and feels fancy . 	
+D	870.68	871.408	Um 	
+D	871.97	877.12	The whether the product demonstrates technical innovation . Whether it's easy to use . 	
+D	878.44	894.252	Whether it's incorporating sort of the fashion element to attract the buyer . And whether it's a sort of recognisable Real Reaction product . And I have to go up onto the whiteboard and do this apparently , so I'll go over here . 	
+B	889.35	889.6	Okay . 	
+D	902.56	911.664	Right . So the first one is um , does the product look and feel fancy . So if we do a sort of a one 	
+D	917.73	918.385	So 	
+B	918.31	926.272	Okay , well we have a single curve , which was maybe like the feel of the product's quite good . So uh 	
+D	922.66	922.91	Yeah . 	
+D	925.58	926.19	Okay . 	
+B	927.14	932.35	Um , then we have the rubber kinda spongy feel , which was in at the time . 	
+D	930.93	931.28	Yeah . 	
+D	932.68	933.73	Yeah . Yeah . 	
+B	933.4	935.89	Um , sorry that'd be considered fancy . 	
+D	936.752	937.27		
+C	937.04	938.26	Yeah , I'd maybe give it a 	
+C	939.4	940.54	a two . 	
+D	941.91	952.192	Of but I think What Is one false , or is t one true ? I forgot . One's true , and okay . Seven's fal Four is neutral , okay . So 	
+C	944.75	945.63	One's true . 	
+C	947.68	948.78	And a four is neutral . 	
+B	951.64	952.87	So maybe maybe a two . 	
+C	953.55	961.66	Yeah , 'cause we haven't got the double curve , so we can't like say it's completely true . But it's pretty close . We've got almost everything we can . 	
+A	955.685	960.26	Go for one . Yep . 	
+D	956.7	957.21	Right . 	
+D	962.27	966.56	Okay . Right . I gonna put underneath so I've got some more space . 	
+A	963.03	963.4	Okay . 	
+D	969.08	973.085	So , false is seven , true is one , and 	
+D	977.11	980.37	So uh say about a two for fancy , you think ? Okay . 	
+B	979.08	979.31	Yeah . 	
+C	979.61	980.06	Yeah . 	
+A	980.26	983.24	Yeah , why not not , m m maybe nearer three . 	
+D	984.12	987.606	Okay , well d you do an average at the end , I don't know . Um 	
+A	985.23	997.41	Two three . Well , it's just that uh saying something remember that when you look down , we've got solar power , we've got uh various other things you could have , and we're not going for these options . 	
+D	995.25	995.53	Uh-huh . 	
+D	996.52	1001.255	This this is just this is just for like the look . Does it sort of look fancy rather than functional . So 	
+A	999.12	999.47	Mm-hmm . 	
+A	1001.789	1002.27		
+C	1003.99	1006.64	Yeah , I suppose that might be in the technical innovation bit . 	
+D	1006.78	1010.81	Yeah , so that so sh should we go for a a two on that ? 	
+A	1011.09	1011.46	Okay . 	
+D	1011.69	1018.48	'Kay . And I mean , how much does the product demonstrate technical innovation do you reckon ? 	
+B	1017.8	1029.64	Um , deciding between the kinetic power or um the speech recognition , and if we had either of those for our budget , they both show a reasonable amount of speech recognition . 	
+D	1027.91	1028.73	D yeah . 	
+D	1030.21	1037.41	Okay . So , what about the pr The prototype as it is , we've got we've got the speech recognition on it , haven't we . 	
+B	1034.28	1034.878	Um 	
+B	1037.19	1038.32	But not the kinetic . 	
+D	1039.46	1040.63	But not the kinetic . 	
+B	1040.31	1041.04	Like the power . 	
+A	1041.2	1044.03	No . 'Cause you can't afford that w we took that out too . 	
+B	1043.03	1045.45	No , we c ca yeah , we can't afford both . 	
+D	1046.93	1048.802	Alright , so 	
+A	1047.55	1048.912	Didn't you ? Or 	
+D	1050.15	1056.224	So it doesn't It's pretty The prototype as it is isn't sort of um fulfilling the 	
+B	1056.6	1060.24	No may is maybe about neutral plus it it it's got something , but it hasn't got 	
+C	1057.62	1058.5	Maybe a three . 	
+D	1059.135	1059.69		
+D	1060.37	1061.6	Okay . Yeah . 	
+A	1061.81	1078.26	Well , wait a minute . In thirteen point seven we do have kinetic . The problem is we have to reduce down from there to get it down to twelve point five . And one way of doing that would be to take out the kinetic . So , it's very much dependant on what you do with your options . 	
+C	1062.63	1064.47	I would give it more than a four . 	
+B	1067.83	1068.17	Right . 	
+B	1070.09	1070.55	Okay . 	
+D	1080.41	1081.29	Right , okay . 	
+A	1080.58	1096.55	And if you're definitely going for the sample sensor and sample speaker , then because that the other functions we've got in are are more at the The special material , the rubber , wood , titanium , et cetera , 	
+B	1080.8	1081.09	'Kay . 	
+A	1098.42	1116.61	if you go for that , th that's at the high end 'cause that's point six , whereas down at uh just special colours uh is point two . Now you're trying to lose one point two , so it seems to me that if you're going for the sample sensors speaker , you're basically then having to go for the cheaper options on everything else . 	
+D	1118.12	1118.54	Mm-hmm . 	
+B	1118.84	1118.95	Okay . 	
+A	1120.0	1137.04	And and the simple way to do it would be to have a battery , to have your uh sample sensor speaker , and then you're looking to uh take out uh point two , which would be come from the button supplements category . 	
+B	1120.3	1121.191	Um 	
+D	1130.11	1130.38	S 	
+D	1131.77	1134.559	I'm just gonna check my email . 	
+D	1137.16	1140.61	I'm just gonna check exactly what it said in the email for um 	
+D	1142.77	1143.81	the product . 	
+C	1144.55	1147.56	How much of a difference would it make if we made the case in plastic ? 	
+C	1151.6	1159.22	Because we did say that we don't wanna follow the fashion too much . If the buttons are rubber that might be spongy enough . And then it stand the test of time better . 	
+A	1157.52	1190.57	Um , interface type um , well plastic rather than rubber . That that that would make the significant difference . You could either you could have it If you have a in plastic rather than rubber , then that would uh enable you to get you could keep kinetic then , you could keep your sample sensor , and you'd be looking to take out point two . So you could uh fiddle that down your special form at the bottom , or your special colour at the bottom . And that would enable you to to do it . 	
+D	1163.85	1164.911	Okay . But I 	
+B	1187.93	1188.23	Mm-hmm . 	
+C	1188.16	1188.42	Mm-hmm . 	
+D	1191.1	1191.55	Okay . 	
+B	1191.63	1200.592	So it says if we make a slightly more fancy , then we lose points innovation , and if we make it more innovative innovative , then we lose points on it being fancy , so 	
+A	1197.5	1197.73	Yeah . 	
+D	1198.53	1198.93	Yeah . 	
+A	1199.08	1199.4	Ye 	
+D	1199.709	1214.58	, I just read the email again and it sort of says it's evaluate the design sort of as it is , I think , so I think we need to think about finance after we've sort of evaluated that design . I don't know whether we're doing it in the wrong order or something or . 	
+A	1214.77	1216.303	Well , okay , but 	
+C	1218.05	1219.93	Well , I suppose it's rubber as it is , isn't it . 	
+A	1220.22	1221.57	It's rubber as it is , yes . 	
+D	1221.61	1227.24	So , I mean does this need to go up a bit or something , 'cause we've got both the 	
+D	1228.87	1229.85	both the um 	
+A	1231.66	1241.607	We got we've we've got thirteen point seven and we've got it in at the moment and if and basically , we're going to reduce down from that . But the current one , you'd say would be fancy , would be too 	
+D	1231.69	1233.043	the speech 	
+C	1231.96	1232.75	Yeah . 	
+D	1235.24	1235.55	Yeah . 	
+B	1242.12	1242.76	Yeah , yeah . 	
+D	1242.84	1248.813	Yeah . Um , for for innovation , so we've got the speech the speech thing , and 	
+A	1245.796	1246.166		
+A	1247.72	1248.31	Mm-hmm . 	
+A	1250.16	1251.75	I would've said about a two as well . 	
+D	1252.45	1253.02	Do you reckon a two ? 	
+C	1253.01	1255.86	Yeah , two or three . I'd be happy with a two . 	
+D	1255.141	1262.528	Okay . Two . And the next one is I'll have to get it back up now . 	
+A	1256.49	1256.88	Oh . 	
+C	1260.896	1262.376		
+A	1262.52	1268.84	The next on Well , I can just sing about . Easy to use . I would've said yes . I would go for a one on that at this point in time . 	
+C	1270.36	1270.68	Yeah . 	
+D	1272.15	1272.6	Okay . 	
+C	1272.52	1273.57	Yeah , I would say so as well . 	
+A	1276.8	1283.64	Um , incorporates elements of fashion to attract buyer . Well , yeah it certainly has some . 	
+B	1282.22	1282.839	Um 	
+C	1284.27	1287.18	Yeah , it's got the cherry and the sponginess . 	
+A	1284.538	1286.202	. 	
+B	1285.0	1285.88	It does , yeah . 	
+D	1286.19	1286.608	Um 	
+A	1287.38	1287.69	Yep . 	
+D	1288.5	1289.94	Say about a three maybe ? 	
+A	1290.8	1291.48	I don't know . 	
+B	1290.983	1298.146	Yeah , m um Yeah , it was just doing it quite well . Um , I think we're gonna have to lose some of these , but the moment , as it stands , it's um 	
+C	1291.8	1292.7	Maybe two ? 	
+A	1294.66	1295.01	Yep . 	
+A	1297.62	1300.43	Yeah , I woulda said two would seem reasonable . 	
+D	1298.02	1298.6	It's a two . 	
+A	1302.24	1304.544	The product is a recognisable real 	
+A	1305.68	1309.28	r uh reaction product ? 	
+D	1307.89	1308.582	Yeah , this is 	
+B	1309.38	1315.79	Uh the sensor using all of its all of its products , all of its buttons , and it's got a fairly big label on the bottom saying 	
+D	1309.41	1310.172	This 	
+A	1312.544	1313.543		
+C	1316.29	1318.104	Yeah , that's a bit rough at the minute . 	
+D	1316.64	1316.99	Yeah . 	
+B	1316.88	1317.84	where it comes from . 	
+D	1318.048	1327.839	So this is about sort of the corporate image of like new sort of sleek technology and all that sort of thing , as well as having the logo on and all that . So sort of 	
+A	1319.92	1320.13	Oh . 	
+B	1325.07	1325.47	Okay . 	
+B	1327.376	1327.696		
+D	1331.33	1338.486	Is it sort of a recognisable product . Does it fit in with our other other products , which uh are sort of coffee makers and spacecraft . 	
+A	1331.408	1332.006		
+C	1337.975	1339.936		
+A	1338.032	1342.0	S 	
+D	1339.114	1340.409		
+C	1341.13	1345.44	Uh , well it's got the same um speech feature as the coffee machine . 	
+D	1341.16	1342.06	What do y 	
+B	1345.82	1354.97	Also it's kind of spongy rubberiness is maybe bit more kinda comfortable than kinda sleek and new age . Um , it depends which way you look at it . 	
+D	1351.55	1352.12	Yeah . 	
+D	1353.82	1354.1	Uh-huh . 	
+A	1355.65	1357.51	Okay . So we're going for a 	
+D	1356.59	1356.973	So 	
+B	1359.0	1360.88	Maybe a kind of three ? Uh d 	
+A	1359.8	1362.07	two , three ? 	
+D	1361.64	1362.31	Two or three ? 	
+C	1361.7	1371.23	Yeah , two or three . Well , the logo would be more um recognisable on the actual thing . It's just that the pen wouldn't really write on that paper . But um , 	
+A	1369.73	1370.01	Sure . 	
+B	1370.195	1370.565		
+D	1371.32	1371.65	Yeah . 	
+C	1372.37	1380.73	I think the logo would definitely be recognisable . And it does have attributes that other products do . Two ? Aye . Go for it . 	
+A	1380.9	1381.53	Right , okay . 	
+D	1381.27	1383.32	Two or three . 	
+C	1382.692	1385.06		
+A	1383.344	1389.312	Two . Right , come on . That's that decided . Right . So 	
+D	1384.304	1385.587	How 	
+D	1386.11	1386.93	Two . Okay . 	
+D	1390.08	1390.96	Right . 	
+A	1391.08	1397.536	So we're now on to changing it to get it to fit in with the budget requirements , and then 	
+D	1397.48	1398.38	Yeah . 	
+C	1398.37	1402.1	What does what do all them numbers mean then ? Do we add them up and rate or anything ? 	
+D	1401.354	1414.05	Yeah we s yeah , I think we sort of add them up so sort of at an average is gonna be I'm just gonna do this in my head . One point eight isn't it or something . I think , anyway . 	
+A	1407.25	1407.86	About a two . 	
+B	1408.496	1408.704		
+C	1409.136	1409.806		
+A	1409.75	1410.1	Two . 	
+D	1415.2	1416.52	So yeah , pretty close to a two . 	
+B	1417.4	1418.743	Yeah , so it's 	
+D	1417.45	1417.985	So 	
+D	1418.85	1425.61	So it's I mean it's pretty good at the moment , but it's gonna get worse , isn't it . But we've gotta try and make sure it doesn't get too bad . 	
+A	1422.61	1422.93	Yep . 	
+B	1424.58	1434.304	So should we get So are definite Was it thirteen point seven was the definite price rule if has . Okay , so we need to 	
+A	1424.86	1426.96	Two b two b two , yeah . 	
+D	1427.929	1430.445		
+A	1431.22	1431.56	Yes . 	
+D	1431.64	1431.9	Yeah . 	
+A	1434.94	1441.16	Well , you can lose one point two and still meet the requirements . 	
+D	1439.38	1442.29	Do you wanna plug it into yours so we can get up the 	
+A	1443.09	1445.57	Okay , well I put it back on . 	
+D	1444.43	1446.288	the finances 	
+B	1444.54	1447.67	So I guess this Is this the last stage once we sort out the finances part of it ? 	
+A	1446.944	1447.367		
+D	1449.07	1450.23	I'm not sure . 	
+A	1450.144	1451.251		
+C	1451.28	1452.74	we'll probably have to re-rate it . 	
+A	1453.27	1454.43	Yes , I would've thought so . 	
+B	1454.69	1458.14	Yeah , yeah we'll make the adjustments and then see how are rates are going . 	
+D	1454.85	1455.01	Yeah . 	
+A	1459.02	1463.56	Okay , so what was it , control uh F_ eight , wasn't it ? 	
+C	1463.47	1463.98	Ah it's on . 	
+D	1463.685	1465.13	it's come on already . 	
+A	1464.72	1479.7	Oh . Oh . How kind . Right , okay . So , you can see there that the If you want to keep kinetic , right , you've got a choice there of going down to battery , which would save you one . You've got 	
+C	1466.003	1468.001		
+A	1481.86	1485.46	the sample sensor and and sample speaker , which is your big item . 	
+B	1487.91	1494.352	Oh actually we just have a plastic case , then we lose two points , which gets us um 	
+A	1490.8	1491.32	That's right . 	
+D	1495.18	1495.48	Mm . 	
+A	1495.65	1496.896	Which gets you 	
+B	1496.67	1498.06	In right within the budget range . 	
+A	1498.21	1498.57	Yes . 	
+C	1499.44	1502.79	Yeah , I think that'd be fine . Because that was just a trend , and we do have rubber buttons anyway . 	
+B	1502.72	1507.28	So that's eleven point seven , and then we could make sure we definitely had all the button supplements . 	
+D	1503.54	1503.93	Yeah . 	
+D	1507.24	1519.69	Different different colours , yeah . Yeah , I was I was thinking that because maybe maybe the sort of rubber case is a bit less in sort of the corporate identity than the sort of you know sleeker plastic case . 	
+A	1507.26	1507.68	Alright . 	
+B	1517.7	1518.36	Possibly , yeah . 	
+B	1519.88	1520.452	Um 	
+C	1520.07	1520.43	Yeah . 	
+A	1522.1	1523.526	Okay , so 	
+B	1522.32	1527.744	And that would allow us to have all the technical innovations . So we'd lose a little bit on the maybe kind of 	
+A	1527.67	1529.07	So we're going for plastic , yes ? 	
+D	1528.714	1530.8	Lose a little bit on the fashion , yeah , but 	
+A	1530.82	1531.17	Yep . 	
+B	1533.08	1536.576	Oh yeah , and that would now be Yeah , that's that's within the budget . Um 	
+D	1533.08	1533.56	And then 	
+B	1538.07	1543.05	Do we actually have Do we just have one special uh special forms down here ? 	
+A	1543.06	1553.35	Well , uh w uh there was debate as to how you would count them . You got special colour . Well originally I was assuming we had the red apple , and therefore , that was the special colour . 	
+B	1547.396	1548.062	Um 	
+C	1553.41	1555.23	Yeah , I think we should just imagine white buttons . 	
+B	1553.828	1560.745	And we we've we've got we've got enough for another we've got nought point eight left , so we've got enough for another 	
+D	1557.73	1558.17	Yeah . 	
+A	1559.86	1577.59	Well , we've got special form . Now that would be one button , and the question was was that all buttons or is that just one button . 'Cause our plan really was to have one button only with a special So so no matter how you look at that , that would be the same . The other thing would then be special material , rubber , wood , titanium . 	
+B	1570.56	1571.584	Yeah , um 	
+B	1572.78	1576.166	But the but but but the 	
+B	1577.59	1590.2	I think maybe the special colour , we've got three now just because the volume buttons are different , I guess we'd have the ones which are blue at the moment would would just be the standard colour . Yeah , which I think we should Yeah , they'll still be fine for the for the price . 	
+D	1580.89	1581.62	Yeah . 	
+A	1584.2	1586.97	Alright . So , special colour , you want three in there . 	
+A	1589.85	1590.38	Okay . 	
+D	1590.02	1599.08	Well I thin I think you you you just need two for the special colour 'cause it's just two supplements , you know . One original colour and then sort of two supplements , I think maybe . 	
+A	1598.512	1599.83	That makes sense . 	
+B	1599.95	1601.28	Okay , uh that's probably it . 	
+D	1600.29	1609.48	Okay . So we only ne we only need two for that . 'Cause I mean these these are moulded . The one colour's gonna be moulded out of a piece of plas uh of rubber , isn't it . 	
+C	1600.48	1600.85	Yeah . 	
+A	1603.02	1603.6	Okay . 	
+A	1609.07	1612.81	Okay . Yeah , I would agree with that , I think . So special colours , two . 	
+D	1614.43	1614.64	Right . 	
+A	1614.56	1629.49	And we've got special form is the one apple . The rest are all standard , although you could argue that should maybe be You were making these buttons down the bottom , I was presuming , bigger than the other ones , or were you ? Was that the idea ? 	
+B	1628.32	1629.635	Ne uh 	
+C	1629.54	1631.76	Yeah , the volume ones should stand out a bit . 	
+B	1630.71	1635.24	Maybe that'll be a second supplement . Then there's a spe a second special form . 	
+D	1633.02	1633.585	Yeah , that 	
+A	1635.98	1644.093	Uh-huh . I would have thought that's probably about r well . 	
+D	1636.03	1636.47	Yeah . 	
+B	1636.76	1637.742	Um 	
+B	1638.95	1639.95	Well you got you got twelve . 	
+D	1639.948	1642.056		
+C	1640.412	1642.188		
+D	1646.17	1646.89	Okay , so tha 	
+B	1648.12	1651.53	So I think that should still be okay . Yeah , that's twelve point three , so we're still 	
+A	1649.89	1650.14	Right . 	
+B	1653.09	1656.094	within budget on that . Um 	
+A	1654.4	1656.81	Yep , that makes sense . 	
+B	1658.97	1666.828	So decide we've lost a little bit on the fashion and lost a bit on the fancy kinda side of it , but generally speaking , we've kept the other attributes to the 	
+A	1662.95	1663.27	Yep . 	
+A	1666.68	1674.46	I woulda said so . Yeah . So you'd maybe put fash fan uh fashion at three rather than two . 	
+B	1670.96	1672.156	That's without 	
+D	1673.29	1677.504	So shall we do a Well , um 	
+B	1673.78	1674.42	Yeah . 	
+B	1675.929	1683.13	And specially it definitely could fits the the real product What was the what's the company name ? 	
+C	1684.45	1685.48	Real Reactions ? 	
+A	1684.92	1689.248	Real Reaction produ I'm not quite sure , what does that mean ? 	
+B	1685.42	1694.96	R yeah . Yeah , yeah . I mean it still seems definitely fit that p so that's like if that's the new age kind of um inno innovative 	
+D	1686.49	1687.12	Yeah . 	
+C	1688.018	1689.868		
+D	1695.86	1697.091	Yeah , so 	
+B	1696.46	1703.156	c type company , then um having the kinetic feature and the voice recognition is p quite high up on 	
+D	1701.09	1701.393	Uh 	
+A	1701.62	1703.32	Yep I would s 	
+D	1702.48	1720.8	So it's w if we've if we've put in for another special form on a button , then maybe they could be a different shape . Like we got a cherry one . Maybe other ones could be something else shaped . I don't know . That would be poss seeing as seeing as it's cheaper to make them a different 	
+B	1717.64	1718.286	Um 	
+A	1717.99	1718.56	You mean of 	
+D	1721.92	1735.9	seeing as we've got , you know , we've made it a a special form , so And that would sort of maybe keep us close on the sort of the fashion type one . And it would sort of , you know , keep it quite fancy as well , I don't know . 	
+B	1735.58	1735.82	Mm-hmm . 	
+A	1735.91	1753.43	Well you could argue you might do it once a year , you would change , because at the moment you're making a red apple . So next year you could make next year's model the same , but have it as a a yeah whate whatever , a lemon . Yeah , l a lemon lemon or something . And that 	
+B	1742.11	1743.547	Yeah so it's a 	
+D	1742.16	1742.758	Well you could 	
+D	1747.28	1747.67	Yeah . 	
+B	1748.13	1751.671	Whatever fruit was in fashion next year . 	
+D	1749.971	1751.747		
+D	1752.45	1756.56	Yeah , I mean the volume buttons could be lemons or something , maybe . 	
+B	1754.816	1755.216		
+A	1756.19	1756.679	amount 	
+D	1757.32	1757.77	Okay . 	
+D	1759.33	1762.88	So , we've what have we what have we rid of . We got rid of 	
+D	1763.88	1764.94	the plastic . 	
+A	1765.28	1769.329	Yeah , we've the main thing we've changed really is the casing isn't it ? We've 	
+D	1765.92	1767.33	Is it The rubber . 	
+B	1766.46	1773.58	That yeah , that was uh that was just about all . I think we've saved quite a bit because we've just got the push-button interface , which is by far the cheapest . 	
+D	1768.71	1769.12	Yeah . 	
+D	1774.17	1774.57	Yeah . 	
+B	1774.79	1775.44	Um 	
+D	1777.11	1777.846	But uh 	
+B	1777.3	1788.51	So maybe in a sense not having that , maybe we've lost some maybe lost something on the innovation side ? I dunno . And that is like the most standard type of button . 	
+D	1789.11	1791.76	So I mean , we've got we got rid of the rubber case , but 	
+D	1792.79	1807.19	we've now s we now sort of got an extra form , and an extra colour for the buttons . So maybe in terms of sort of fanciness and fashionability , we're pretty much the same , maybe . So , I mean we could maybe put two again on them . 	
+B	1803.8	1804.07	Yeah . 	
+B	1809.75	1812.363	And everything else has stayed pretty much the same , so 	
+A	1811.58	1813.16	Well , ease has certainly stayed . 	
+B	1813.62	1817.0	Yeah , plus if anything that is special forms makes it slightly easier to 	
+D	1814.11	1814.32	Yeah . 	
+A	1816.99	1817.29	Yeah . 	
+D	1817.59	1820.05	Yeah . And what about the sort of innovation ? 	
+B	1818.07	1818.56	to use . 	
+B	1820.68	1823.699	Um , well we've still got the kinetic energy . Um 	
+D	1820.7	1821.35	Do you think 	
+D	1822.756	1823.86	Okay . 	
+A	1823.78	1825.12	And the speech feature . 	
+B	1825.28	1826.23	Yeah , the speech feature . 	
+D	1826.54	1829.03	And then , the corporate identity . 	
+B	1829.65	1831.848	I think we've cut just about the same . We've maybe lost 	
+B	1832.85	1836.842	Hasn't it It's hard to tell how the rubber the rubber casing would really affect 	
+A	1835.5	1837.81	How it would play out , yeah . Oh . 	
+D	1837.39	1840.05	Yeah . Whether whether that's considered to be sort of 	
+D	1842.18	1844.272	part of the corporate identity , I don't know . 	
+D	1845.26	1846.624	I mean , it's maybe not . I mean 	
+B	1845.34	1845.978	Um 	
+B	1847.08	1853.747	But I think more the the features of the actual control will be more important than maybe than the the actual aesthetics , but 	
+D	1851.93	1852.36	Yeah . 	
+D	1853.92	1854.37	Yeah . 	
+B	1855.52	1858.752	But either way , I think we've made it fairly close to what 	
+D	1858.68	1860.081	Yeah . Okay , well I mean 	
+C	1859.45	1861.53	Yeah , I don't see how we could make it any more . 	
+C	1862.6	1863.8	Um , apart from maybe 	
+D	1862.65	1862.97	We cou 	
+C	1865.11	1868.11	doing the whole thing in the kinda light shade of blue , like the casing . 	
+D	1868.98	1869.28	Mm-hmm . 	
+C	1870.056	1870.574		
+C	1870.96	1872.63	But then what colour would you make the R_s ? 	
+B	1874.064	1879.65	just the the company logo . So maybe there's like a set design which we get printed off . 	
+A	1878.96	1890.88	Well , but you've got the company logo on there , which would effectively be a stick-on badge . So you're in a sense , you're comparing the product without the company logo . And then y but you've got the space for it to stick it on . 	
+D	1878.96	1879.32	Yeah . 	
+B	1883.75	1884.22	Okay . 	
+D	1887.45	1887.89	Yeah . 	
+B	1889.82	1890.49	Yeah , yeah . 	
+D	1891.02	1895.018	Hey , what what what's the company colour ? Did you get told what the company colour is or 	
+B	1894.38	1896.85	I'm still not quite sure we've established that . 	
+C	1897.14	1899.58	No , I just We got the logo off the web browser . 	
+A	1897.67	1943.31	Don't think so . But but i but in the sense that , as you saw with um the Windows logo badge , it doesn't really matter . There's virtually n The way that you frame , you know , the Windows badge on there , it really doesn't matter what colour it is , so long as our company's logo is framed w in the same way as that with a like a black outline . Fact , they've got black and white or black and silver . So basically , even if you had a silver the same colour of silver on your display , because you've got effectively a double edging on the uh on the logo , it means that it splits off what your logo is from the from the product . And that's actually quite a sneaky way of doing it . 	
+D	1900.78	1901.42	Oh right . 	
+C	1904.72	1906.015		
+D	1913.2	1913.44	Hmm . 	
+D	1916.194	1916.564		
+D	1919.74	1920.06	Mm-hmm . 	
+D	1925.2	1926.7	Mm . 	
+D	1941.17	1941.86	Okay . 	
+D	1943.57	1948.43	Uh-huh . 'Cause you've got sort of we've got point two to play with if you really wanted to . 	
+A	1948.72	1971.24	You could put in another Well , in this one , you've actually got three colours of buttons . Well , we decided that the blue ones were the um the standard colour . So you were talking about uh um We're assuming that all the buttons on the second panel , the hidden away panel , would all be standard . 	
+D	1949.84	1952.37	Another colour . Or would that be t 	
+D	1953.91	1954.34	Yeah . 	
+D	1958.95	1959.47	Okay . 	
+B	1971.57	1971.84	Yeah . 	
+D	1971.81	1972.16	Yeah . 	
+C	1973.07	1973.55	Mm-hmm . 	
+A	1973.14	1973.58	Which 	
+A	1975.32	1977.56	m may or may not be the case . 	
+D	1977.53	1982.448	Yeah . Shall we save the point two for profitability then ? 	
+B	1978.15	1978.72	Um 	
+A	1980.74	1995.0	Well , yeah . Bu but but uh was the was there not a button that you were thinking of on the um on the other opt you know , on the second page , as it were , that uh you were thinking of maybe having as a different colour ? 	
+C	1981.049	1981.789		
+C	1996.08	2004.75	Um , I don't think they would really need to be . I think if they were just all small round blue buttons , it'd be fine . Needs to be an enter button , but could just be the same as well . 	
+B	2001.79	2002.928	Yeah , maybe we've m 	
+B	2004.84	2017.28	Maybe for the the one they're gonna see all the time , we make it look good , and um , fit the kind of idea of what they want . And then for the more functional buttons , we don't worry too much about that and just have that as like a plus it's hidden away anyway , you're not gonna see it at the start . 	
+D	2008.72	2008.96	Hmm . 	
+D	2017.13	2033.24	Yeah . I mean it's the sort of thing that , I mean , you wanna pick up the controller and just hit a button quickly to change the channel or volume . So , if it's dead obvious , then that's fine . But if you're opening the panel and you're looking and you're tuning , then you're paying a bit more attention . So it may be sort of different colour buttons isn't so important . 	
+A	2021.96	2022.938	Yeah , well 	
+A	2033.52	2034.4	Alright . Okay . 	
+D	2034.05	2035.15	'Cause you Yeah . 	
+B	2035.83	2036.04	Yeah . 	
+A	2036.52	2039.08	So we just add that to profitability in effect . 	
+D	2036.52	2037.265	So 	
+D	2039.26	2042.908	Yeah , I mean so we've dropped the cost , but 	
+A	2039.621	2044.88	Right , so we're meant to finish up in five minutes . 	
+C	2040.26	2040.6	Mm-hmm . 	
+D	2045.17	2053.088	Same sort of function ? The criteria ? It's alright . Just made a load of money . 	
+B	2049.82	2050.23	'Kay . 	
+C	2051.109	2051.849		
+C	2062.26	2067.15	Shouldn't we maybe lose a point on fashion , go to a three ? 'Cause we've lost the overall spongy feel . 	
+C	2068.32	2072.625	'Cause it doesn't seem right that it just hasn't changed at all . 	
+A	2070.89	2072.88		
+D	2071.96	2073.51	Well , but I think we said that w 	
+D	2074.61	2082.63	Because you got rid of the rubber , we put an extra an extra sort of fruit um shape on one of the buttons . le lemon sh 	
+B	2079.727	2082.058		
+A	2080.848	2081.568		
+C	2081.36	2085.29	Alright . Did we decide what that was , which button it was ? On the volume ones ? 	
+D	2084.09	2094.619	I think well , we could have lemon shaped ones with the volume ones or something . Or something like that . Yeah . 	
+C	2086.842	2090.574	Right . 	
+A	2087.712	2089.552		
+B	2088.827	2092.07	Uh , . That's good . 	
+A	2094.245	2095.536		
+B	2095.24	2096.21	Definitely lemon shaped . 	
+D	2096.512	2098.386		
+B	2098.875	2099.245		
+D	2105.49	2109.92	Did did you have to have a rubber case , though , for rubber buttons ? Or was it the other way around ? 	
+B	2110.67	2114.61	You had to have rubber buttons if you had the rubber case . So I think we can we're okay . 	
+D	2112.73	2113.62	Right , okay . 	
+A	2113.01	2115.34	Mm-hmm . So we're okay this way around . 	
+D	2115.53	2115.74	Yeah . 	
+D	2118.46	2120.65	So that so we've saved 	
+A	2119.48	2124.267	Until the design team comes in and says , get off . But you are the design team . 	
+D	2121.296	2123.044		
+B	2124.12	2125.9	Then we say it's fine , so it's all good . 	
+D	2127.98	2130.03	Saved two Euros on that . 	
+A	2152.65	2154.62	So what bit are we on to ? 	
+C	2159.46	2168.16	Um , can I just check if that's a cherry or an apple ? Did we decide against the apple because of Apple Mac ? And did we make it a cherry officially ? Right . 	
+A	2165.81	2170.09	Yeah . I th I th Oh . Right , okay . 	
+D	2167.07	2167.32	Mm-hmm . 	
+B	2170.54	2175.571	Just in case we need that point two for lawsuits and such like . 	
+C	2172.774	2176.96		
+A	2173.344	2175.657		
+D	2173.395	2176.622		
+A	2180.38	2182.93	Oh drats , I've botched that , haven't I . 	
+C	2209.92	2212.32	So were we aiming for a certain target on that scale ? 	
+D	2213.81	2216.18	Well , we're aiming for um one for all of them . 	
+D	2217.46	2220.176	M but it really has to fit into the budget , so 	
+C	2217.7	2218.05	Right . 	
+D	2221.03	2223.1	I guess we just have to adjust things to 	
+D	2224.11	2225.216	get it i in the 	
+D	2226.77	2228.302	Which is fair enough . 	
+B	2227.68	2230.64	And we seem to have least something in each criteria . 	
+D	2231.48	2231.75	Yeah . 	
+B	2231.82	2233.536	We haven't completely left anything out , so 	
+D	2234.02	2234.76	Yeah , I think 	
+D	2236.11	2237.006	most 	
+B	2236.176	2239.37	As an overall product which has to be quite cheap , we've just about achieved 	
+D	2239.16	2239.49	Yeah . 	
+B	2240.68	2241.09	everything . 	
+D	2241.17	2241.78	Yep . 	
+C	2251.28	2252.91	So do we have anything else to discuss ? 	
+D	2254.432	2256.64	I don't know . What's on the agenda ? 	
+A	2264.23	2267.056	Right , okay um 	
+A	2269.36	2270.16	What's happened here ? 	
+A	2284.22	2286.904	Right , okay um 	
+A	2296.14	2296.65	Mm . 	
+A	2303.3	2308.928	Right , okay um , Right . So we got 	
+B	2311.13	2312.12	We've got the closing . 	
+A	2311.54	2312.82	So we've done the 	
+A	2314.02	2320.67	the finance bit and the Excel project and the We've done the redesign . So we're now on to project process . 	
+A	2321.36	2338.25	Now satisfaction with , for example , room for creativity , leadership , teamwork , means , et cetera , whiteboard , digital pens , et cetera . So , we're actually now uh , in a sense , on to the evaluation of the course rather than the evaluation of the project is m my understanding of it . 	
+B	2336.304	2337.968		
+D	2336.55	2336.85	Uh-huh . 	
+A	2339.27	2348.632	So what did you and remembering that nobody's just over the curtain . So , um 	
+D	2343.579	2345.465		
+D	2350.47	2353.247	Finish your meeting now . 	
+B	2353.76	2355.344	We should just go through this quickly and then 	
+C	2354.27	2354.55	Huh . 	
+D	2355.52	2355.81	Yeah . 	
+A	2355.78	2356.208	So 	
+A	2359.6	2364.91	I suppose the easiest way of doing it is to put some notes down , which I will do . 	
+D	2366.39	2366.9	Okay . 	
+A	2367.59	2374.6	So , uh I think I have to finish that page . Right , okay , so 	
+D	2372.51	2374.174	Oh . 	
+A	2382.49	2385.964	Project evaluation . So , um 	
+A	2389.47	2390.39	Creativity . 	
+A	2392.12	2397.476	Did you feel you got a chance to express yourselves well enough ? Well um 	
+D	2394.725	2395.206		
+B	2395.9	2396.88	Um , yeah . Yeah . 	
+C	2396.5	2396.91	Yeah . 	
+D	2397.81	2403.21	I thought some of the divisions though between sort of the individual meetings were a bit arbitrary . 	
+A	2404.48	2406.4	Individual meetings . How do you mean ? 	
+D	2406.2	2409.97	Yeah . Well , we were finding out various things in 	
+A	2411.08	2411.96	In you on your own . 	
+D	2411.381	2437.85	in be in-between the meetings , and they didn't the one meeting didn't always follow on for the other one , you know , sort of we had things thrown in at the second meeting where , you know , you'd looked at the remote controls and seen the curviness , but in the first one you'd also looked at some remote controls and looked at the buttons , and I don't understand why it would be in separate meetings that you'd do that . You know , you'd sort of you'd probably present it at one or something like that . 	
+A	2422.09	2423.138	Um 	
+A	2438.74	2455.264	Mm , The only thing you find is in a manufacturing process , you would normally , you go to a meeting , you decide , right , you do this , you do that , you do that . Then you go away . You find out information . You then come back . You then discuss it . You then go and change things around , and then go back . So 	
+D	2446.13	2446.77	Yeah . 	
+D	2451.93	2452.28	Uh-huh . 	
+D	2454.84	2455.15	Yeah . 	
+B	2454.95	2459.81	Yeah , I suppose and then be going out and finding more information each time and then diff things will be relevant . 	
+A	2458.048	2489.264	Whereas , this time , you're really getting it from a database source , so it's not uh well uh Anyway , so , what do you want to put down ? I've put , seemed okay . Creativity , seemed okay . Um um flow of information on on any given subject given subject um sometimes disjointed . 	
+D	2458.64	2459.28	Yeah . 	
+D	2461.56	2462.12	Yeah . 	
+C	2464.273	2465.16		
+D	2465.628	2466.959		
+D	2488.63	2489.05	Yeah . 	
+C	2490.99	2497.98	I think it maybe could have been a slightly more creative project . I mean a remote control isn't the most um 	
+D	2499.8	2501.16	Yeah , the thing itself . 	
+C	2500.33	2502.37	kind of fancy thing that you could imagine designing . 	
+A	2501.07	2502.377	Um 	
+C	2503.35	2505.4	I can't think of a better example at the minute . 	
+D	2503.39	2504.07	Yeah . 	
+A	2505.01	2510.7	Have could have used a different 	
+A	2512.35	2519.052	example pel to increase create 	
+D	2517.09	2517.42	Yeah . 	
+B	2517.74	2521.25	Is this go It kinda kis fits the purpose that it was something everyone knows about and then 	
+A	2521.62	2522.43	Creativity . 	
+B	2522.24	2525.37	something we can at least look at and think how we can improve on . 	
+D	2524.41	2524.69	Mm-hmm . 	
+A	2524.66	2528.048	You have to do it within a set time frame is the other thing , so 	
+D	2527.27	2548.093	Yeah . But think like it was a bit restrictive just to say that you have to design a television remote control , in a way . I mean it depends what sort of business you're in , I guess . I mean this one seems . From the website it looks it's quite innovative , but we're coming up with some bucket shop product aren't we that's , you know , fifteen quid . 	
+C	2544.209	2544.949		
+B	2545.52	2549.395	one of those things . Like uh , companies can have like a range of products and 	
+A	2550.49	2551.78	I th I uh d 	
+B	2550.541	2554.8	I don't know how it works but I guess that something got sent out and have like a brief to kind of 	
+A	2555.54	2618.85	But the other thing is that uh they're I'm guessing that they're trying to use this um software to to demonstrate how you could uh do a project . I mean , m my wife at the moment , for instance , is uh acting as a computer um for um you normally , you got a problem , so you go to your tutor and find out information to see how to get it fixed . So what she's doing is she's having to spend a day at the computer terminal at one end so that any student that comes along can uh ask whatever question . And then you or the idea is that the whichever uh person's at the other end can point them in the right direction , show them where to either give them directly give them help , or secondly , point them in the right direction , either at the library , or uh or or come back , or go and see Joe Bloggs , or whatever . 	
+D	2569.99	2570.49	Yeah . 	
+D	2584.0	2584.35	Mm-hmm . 	
+A	2619.35	2640.24	So uh , and that was a project I suspect similar to this , because they they were actually trying to debug the uh computer software to enable um to enable it to work . And of course , you had the machine crashing and various things going wrong . So 	
+D	2633.64	2633.94	Hmm . 	
+B	2635.73	2635.95	Yeah . 	
+B	2638.86	2643.42	Well , sh we look at the last slide , see if it's got anything else . I think there's one one more to go . 	
+D	2638.88	2639.09	Mm-hmm . 	
+A	2641.68	2643.22	Alright , so we've got uh 	
+D	2643.38	2643.58	Yeah . 	
+D	2644.88	2654.017	I mean if you look at their products on their website here , Real Reaction , I mean it's all pretty high-tech and cutting edge . And 	
+A	2652.54	2656.6	New ideas found , did we find any , no . 	
+B	2655.08	2660.01	It was quite good with this um the white board , having that and the digital pens . Like , that's something that made it a little easier . 	
+A	2658.92	2662.18	Alright . Leadership , teamwork . 	
+D	2659.25	2660.6	Yeah . Yeah . 	
+D	2662.445	2670.51	we did find a new idea , I mean sort of a kinetic remote control . I've never seen one of them before . batteries , I think . So 	
+B	2669.624	2672.25	voice recognition , especially not could 	
+A	2669.81	2670.416	Does 	
+D	2672.82	2673.4	Mm yeah . 	
+A	2673.24	2677.87	You've got voice recognition computers , that's not remote controls . 	
+B	2675.4	2675.67	Yeah . 	
+D	2677.38	2677.68	Yeah . 	
+C	2678.02	2679.62	Well it's a different application of it . 	
+A	2680.17	2682.76	Mm-hmm . Okay , 	
+B	2682.35	2685.33	Yeah , so it's just like the same products , but just put together in a different way . 	
+D	2685.12	2685.35	Mm . 	
+A	2685.6	2687.49	so how do you reckon teamwork went ? 	
+B	2688.61	2689.04	Um 	
+D	2689.01	2690.43	That went okay , yeah . 	
+B	2691.1	2693.61	Yeah , I guess we all had separate ideas and then discussed them . 	
+D	2693.92	2694.84	Mm-hmm , yeah . 	
+C	2694.31	2694.59	Yeah . 	
+D	2696.496	2696.768		
+A	2698.25	2706.88	To uh go uh reasonably well . Okay . 	
+D	2706.609	2713.445	I don't think sort of the budget um allowed us to do anything 	
+A	2711.9	2714.384	Bit bit arbitrary . 	
+D	2714.32	2720.69	Well , I mean I don't think it I just don't think it fitted in with the rest of their products . I mean , they've got all these sort of , you know , 	
+A	2720.5	2720.94	Mm-hmm . 	
+D	2721.99	2723.99	high definition D_V_D_ and 	
+D	2725.32	2737.0	portable seven inch d um lightweight computer screens , and uh I'm thinking , do you know , one cheap remote control doesn't really fit in . Surely they they should produ 	
+A	2733.33	2748.13	So , we're m we're meant to comment on leadership and the means , E_ G_ whiteboard , digital pens , et cetera . And and new i new ideas found was the the other thing . 	
+C	2733.63	2735.998		
+C	2744.65	2746.82	Well leadership's a bit of a funny one , isn't it . 	
+D	2749.01	2749.39	Yeah . 	
+C	2750.784	2760.96	But we can't really all fairly comment on leadership because you are the Project Manager . You were the leader . So our experience of leadership wasn't really 	
+A	2756.976	2759.056		
+D	2757.797	2759.313		
+C	2762.29	2763.376	as much as yours . 	
+D	2762.34	2762.91	Yeah . 	
+D	2764.29	2764.62	Yeah . 	
+C	2765.056	2765.344		
+A	2765.43	2785.08	Now , I'd much rather be in marketing but I certainly didn't get this uh computer to work as well as I would have liked . However , um Alright uh means , so whiteboard um so really , it's uh equipment . Oh . 	
+C	2766.386	2769.863		
+D	2767.756	2771.693		
+D	2776.502	2776.946		
+D	2785.38	2793.389	Yeah . It worked . Comput computers could be a bit difficult at times but 	
+C	2788.74	2790.135	Yeah , very nice . 	
+C	2796.79	2807.73	But I mean , I d I don't I'm not sure I see the value in these . I mean , they record what you're writing , and then what do you do with it ? Where do you get the recording ? Do you plug the computer or something ? 	
+D	2806.46	2810.04	I think there's a little there's a little um chi 	
+B	2809.76	2812.308	So it's not just for us , it's for the experiment as a whole , so 	
+D	2812.34	2817.166	There's a little there's a little chip , I think you must plug it into something and it produces a 	
+B	2814.56	2816.722	Should we quickly look at the last slide ? Sh 	
+C	2816.26	2818.85	Right . I think you watch a video of it kind of . 	
+D	2819.37	2824.69	I don't know . Whether it just produces a big image of sort of everything you've written or something , and Page after page . 	
+A	2823.7	2828.04	Right . New ideas found , so one or two . 	
+D	2827.16	2827.66	Yeah . 	
+D	2828.76	2831.78	Kinetic powered remote control . Um , 	
+D	2833.09	2833.82	what was the other one ? 	
+C	2834.82	2837.68	Voice um recognition thing . 	
+D	2836.11	2836.73	Vo yeah . 	
+A	2840.403	2842.33	um 	
+A	2845.51	2847.33	and uh 	
+D	2846.843	2849.765		
+A	2849.25	2850.02	voice 	
+A	2851.32	2853.76	uh , was it voice activated um 	
+D	2854.73	2856.52	Voice recognition , yeah . S 	
+A	2855.99	2856.8	recognition . 	
+D	2863.76	2867.93	Almost . To fill in these fill in these questionnaires 	
+C	2864.67	2866.494	Pretty much . 	
+A	2866.73	2882.87	Right , so , uh are the costs within budget , yes . Is the project evaluated , yes . Uh , don't forget to complete final questionnaire and meeting summary . Then celebration . 	
+D	2871.59	2872.67	Oh no . 	
+D	2880.062	2881.726		
+C	2880.524	2882.891		
+B	2882.655	2885.63	. Is that everything ? 	
+D	2884.77	2889.97	Hmm ? I think that we've got two questionnaires and a report on the last meeting . 	
+A	2888.32	2888.6	Yeah . 	
+A	2893.21	2897.624	Uh , so we don't re So really 	
+A	2900.08	2911.32	I tried to save this the last time at twelve point three , and it didn't seem to have saved anywhere . Mind you , the the figure last was was different , but it should be poss 	

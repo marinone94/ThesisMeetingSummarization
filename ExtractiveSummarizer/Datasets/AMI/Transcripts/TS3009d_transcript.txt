@@ -1,0 +1,905 @@
+Found 4 args.
+Observation: TS3009d; Result size: 902; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+A	33.6	34.6	Uh fourth meeting . 	
+A	36.934	37.443		
+B	38.21	38.94	We have to do what ? 	
+C	38.981	44.52	W what ? Alri alright . We'll see . 	
+A	39.43	40.52	Some extra deciding . 	
+A	41.712	43.312	Well 	
+B	42.29	42.74	Oh . 	
+A	45.622	53.08	I'll show you the notes again . Very interesting . Well you'll you two will uh present us your prototype . 	
+C	48.906	50.384		
+C	53.38	53.59	Yeah . 	
+A	54.16	71.34	Then um I guess that's your bit ? I I didn't s see anything about it , so I already uh thought you uh you were to do that . So the you're uh . I'll show you how we're going to do with financing this uh design . 	
+D	57.28	57.52	Yeah . 	
+C	61.511	62.11		
+D	63.095	63.876		
+B	70.04	70.47	Mm . 	
+C	71.76	73.848	Yeah , that's important too . Yeah . 	
+B	72.571	74.545	Bit late . 	
+A	72.77	83.19	And then we'll evaluate , after after we have redesigned it . Because uh well we'll see about the costs . Um we'll uh evaluate our p our uh production 	
+A	84.39	85.97	and then uh we can close . 	
+C	87.3	87.61	Alright . 	
+A	88.06	96.304	Well the finance uh we'll do later , so um firstly uh I'll show you the notes . I don't think it's very interesting . 	
+B	99.26	100.07	I think it is . 	
+A	100.36	103.232	Oh nei . Uh no . 	
+A	106.15	106.86	Alright . 	
+A	112.85	114.756	This is copy paste . So 	
+C	114.63	123.437	From me of course , yeah . Well from us all , yeah , from all of us . Yeah . It's a nice chorus , yeah . 	
+A	115.62	123.376	Of course . You had some very strange layout . Well um 	
+D	123.968	130.352		
+B	124.466	125.246		
+A	125.24	139.617	We ge we went through the agenda , and well we had some uh some presentations from you three . And uh I summarised what you said to us . So uh I don't think it's very interesting and go through it again . So uh 	
+C	125.915	127.577		
+C	138.1	139.49	Repeat it yeah . Alright . 	
+A	140.39	149.21	This is what we decided . It's also copy paste from what we made together . So we still know that . And then uh we can we can uh use the time better . 	
+D	145.28	145.52	Okay . 	
+A	150.26	154.35	Well uh next you two will uh present uh the pot prototype for us . 	
+C	154.85	159.456	Alright , we both uh will ? Or one of us will ? Uh 	
+A	156.39	157.08	Yeah . 	
+B	157.186	157.8	Alright . 	
+B	160.22	161.42	No you go and I'll uh 	
+C	161.45	164.579	Alright . If I make mistakes uh you'll uh 	
+B	162.47	163.33	supplement you . 	
+B	164.618	165.24	Yeah . 	
+A	166.2	168.416	Correct . 	
+C	166.29	180.37	Right . Uh well this is our design . Uh it's pretty uh much uh like uh Mike draw uh drew uh the in the during the last meeting . With uh the different uh perspectives of it . Uh we'll begin uh with the front . 	
+D	166.64	168.065		
+C	181.34	194.03	We have of course uh the the round shape uh the round uh basic shape . Um with uh the upper part being the front . Th So there's this part um which is made of hard plastic , the front . 	
+C	194.58	214.675	And uh we're we're using different colours . Of course for the launch we use the basic ugly colours , and later we'll put out uh more interesting covers with different patterns and pictures and everything . But basically , different colours , bright colours not black , too dark . Fancy colours . Um then we have uh the lower part 	
+A	199.568	200.49	Yeah . 	
+A	203.15	203.63	Mm-hmm . 	
+C	215.62	222.21	of the of the device . Uh which is of course um part of the back actually , because it's also titanium . 	
+C	222.51	240.67	You can see it also on the on the on the side view , that only this part is the front , and the rest of it , the under uh the under side uh of it , yeah , the back side and the lower part of the front is of course titanium made of titanium , and has the titanium colour of course , the look . 	
+C	241.37	255.19	Um then we have uh on back on the front uh the logo in the upper corner , uh which is uh made uh which is also part of the back , part of the titanium uh titanium part . Yeah ? 	
+A	241.87	242.19	Mm . 	
+B	252.83	254.619	Yeah , it's a double R_ , but 	
+B	255.85	256.8	It's a double R_ . 	
+C	257.42	268.24	It's a double R_ . Yeah the logo Uh uh it's difficult to draw so small , but it's our double R_ uh logo is in there . Um so that's the logo in the upper lef uh right corner . 	
+B	258.19	261.43	But it's very difficult to to draw that in Yeah . 	
+A	258.92	259.98	Yeah , alright . 	
+A	262.67	263.0	Okay . 	
+A	264.12	264.35	Yeah . 	
+C	268.56	279.67	Then we have the buttons . Uh it's difficult to draw again the little oval or round I think oval will be better for the for the d for the different uh channel buttons . 	
+B	275.39	276.0	Oval yeah . 	
+A	278.13	278.47	Alright . 	
+C	281.4	284.59	So uh oval , n those are here . And then we have the m 	
+C	285.84	286.59	The m 	
+B	286.89	287.99	Channel up and volume ? 	
+C	288.18	303.21	Yeah the the con the the the , yeah , the t volume and the channel controls uh in the middle here . Um um with kind of arrow shapes , which makes it also a bit more exciting than basic round or um uh 	
+C	304.637	321.296	uh square buttons . And also here are the two uh buttons we agreed on . We have the Okay button . Oh nei we uh the Okay button's here in the middle of the of the operators , of the channel and uh volume um changers . And then we've here the Menu button and the 	
+B	313.3	313.67	Yeah . 	
+A	313.55	314.11	Mm-hmm . 	
+A	321.54	321.98	Alright . 	
+B	322.01	323.69	Menu for the L_C_D_ screen . 	
+C	322.5	328.43	And the video button . The Yeah . And of course this low part , this is the L_C_D_ screen . 	
+D	324.06	324.6	Mm right . 	
+A	324.48	325.09	So 	
+B	324.917	325.392		
+A	329.51	329.84	'Kay . 	
+C	330.02	333.52	Uh this is what we made of it . You can make uh suggestions uh if you want . 	
+A	332.7	336.425	Well if I look at it , the side the side view 	
+B	333.3	336.027	Well , at the back 	
+C	335.56	349.53	Maybe we maybe we should finish first uh our talk and then you can add suggestions . Maybe I I don't want to I don't want to suppress you but n I'll uh finish this uh quick . Um okay I've had everything I guess on the front ? Yeah the back . Yeah . 	
+B	337.3	337.56	Yeah . 	
+A	338.16	341.0	Oh yeah alright . Yeah . 	
+A	344.285	345.133		
+B	347.96	351.28	No the back . With the logo and our uh l uh 	
+C	351.167	367.4	We thought about Yeah , uh the back is of course totally titanium . And we thought about the logo big in the middle . Just so again the double R_ . We have then the logo on front and on the back . Maybe that's too much but you have to say uh say that if you think that way . 	
+A	358.59	358.81	Mm-hmm . 	
+D	360.22	360.63	Mm-hmm . 	
+A	363.39	363.89	Okay . 	
+B	364.56	365.673	No I don't think 	
+C	367.51	378.611	And the company slogan , we thought in a kind of arc shape uh above the logo . That's basically what we were thinking about , and 	
+B	367.64	368.49	And the 	
+A	371.78	372.2	Yeah . 	
+D	372.52	372.72	Yeah . 	
+A	375.609	376.321		
+A	378.02	378.47	Okay . 	
+B	379.01	381.623	And about the side view um 	
+A	379.2	379.42	W 	
+C	379.981	381.48		
+B	382.68	391.281	This the front won't be as thick , but again th the the drawing technique makes it very difficult to to really uh 	
+A	385.32	386.288	Well I see , but 	
+C	389.89	400.59	Oh and uh before I forget . Yeah the the voice , of course , the voice recorder is uh at the bottom . And you can record it uh using , yeah , the the the back of the f w device . 	
+A	391.02	392.75	Well . Yeah I see it . 	
+A	395.2	395.71	Yes . 	
+D	395.922	400.615		
+A	398.04	412.004	When I look at uh when I look at this side view , I think w when I have that in my hand , it's terrible . If if you look if if this this is thick , and this is thin , th th then it that it lies over your hands . But 	
+B	398.68	399.88	Well , it won't be visible . 	
+B	401.19	401.65	Mm ? 	
+C	406.04	406.9	Why ? 	
+C	409.271	414.768	Well it fits uh it it it it fits the hand , mean uh the the the the 	
+B	413.16	413.4	Yeah . 	
+D	414.19	415.18	Yeah , I agree . 	
+A	414.26	423.61	Well what what what I what I agree is that when uh when um you have such of uh an arc in the middle , so that the the a the ends and the 	
+A	424.67	429.04	fronts is a bit thicker , so th then it falls over your hands . 	
+B	426.051	427.782	If y 	
+B	429.04	435.56	If you handle a remote , you you usually don't have your hand straight like this . You you have it a bit uh Yeah . 	
+C	432.259	433.874	In the middle in the 	
+D	434.05	441.52	It depends on the size . If it's kinda small , this is is great . But if it's it's larger , then you want to grab it . 	
+A	441.78	442.74	And how large is it ? 	
+B	442.0	442.66	Yeah . 	
+D	442.98	443.87	Yeah , that's the question . 	
+C	444.83	455.54	That's the question . Uh well Yeah . H What do you suggest I mean we do ? This was Mike's prototype , and y you seemed to agreed on it . But now you have a totally different . 	
+B	445.691	446.54		
+A	445.712	446.874		
+D	450.828	453.816		
+A	450.99	452.045	Well uh 	
+A	454.22	457.15	Well the sides I haven't seen yet , uh ? 	
+B	456.89	459.38	Well , they lay there all the time . 	
+C	457.68	472.44	The size ? Yeah well the size doesn't really matter w I mean Side ? Uh oh the side ? W we we he drew the s the side , but you d you weren't paying attention as usual . Well any case , we'll discuss it now . Uh I think uh this is a pretty good uh good idea . 	
+A	458.64	462.749	They the the the the the side view , we didn't uh 	
+B	463.51	463.94	Yeah yeah . 	
+B	466.617	467.631		
+A	466.864	468.24		
+D	472.25	483.87	Yeah , I agree with the L_C_D_ screen . You have it in your palm like this , and you can watch uh watch the screen . And if you have it li in the middle , your hand might be over it . 	
+A	482.74	483.2	Yeah . 	
+B	484.522	485.15		
+C	484.73	488.56	But you you hold it like this . You're not holding it like this or something . 	
+B	486.4	490.691	Yeah you you don't you don't grab it , you you 	
+C	489.76	500.67	You , yeah , y How do you call it ? Yeah . Well y y y you don't have it like this . You have it more like this . You you you're using buttons this way , or if you're right-handed , this way . 	
+A	491.344	491.872		
+A	495.23	495.74	No no no . 	
+B	496.401	496.977		
+D	499.43	500.82	Like you're holding your telephone . 	
+A	500.37	500.61	Yep . 	
+B	501.14	501.47	Yeah . 	
+C	501.91	503.2	So you Yeah . So 	
+D	502.46	505.53	Because if you have a screen on it , you wanna look at your screen . 	
+B	505.77	506.0	Hmm . 	
+C	506.66	507.667	Yeah well 	
+B	506.85	510.52	That way , it it falls into your hand . I think . 	
+A	509.84	510.18	Okay . 	
+D	510.77	511.89	Yeah , I agree on this . 	
+C	511.19	514.064	And maybe you can you can grab it a bit higher , so Well 	
+A	513.881	514.662		
+D	514.04	517.601	No , I don't think so . That's not uh the point 	
+B	516.17	517.205	No but but 	
+C	516.65	521.568	Well the the Well that's a reason to to to put the L_C_D_ screen uh of course on the upper side , but 	
+B	519.73	520.233		
+B	522.1	528.288	Well f for as far as I can see , three of us agree and only Nils 	
+A	527.27	530.82	Yeah well uh I think uh if you t if you three uh agree then then that's it . 	
+B	531.65	537.052	But you're the Project Manager , you can make the hard decisions . 	
+A	534.25	541.052	Yes . So uh I c I c Well , we'll we we'll do it like this . Alright , if you think that that's the way it should 	
+C	535.06	537.536	If necessary . But uh are d Can you live with it ? Uh 	
+B	538.04	538.27	Yeah ? 	
+C	538.62	544.12	Y Yeah , y y y y you said it was totally uh unusable . But do you 	
+A	542.94	550.08	No No , when I I my personal taste is that I want it to fall over my hands with a thick But 	
+C	550.27	553.47	But d you don't think this is completely unusable I guess . I think . 	
+A	551.21	552.432	In the market uh 	
+A	553.79	558.51	No not totally . For me , I I wouldn't buy it . Let's say it like that . 	
+C	554.755	556.112	Not totally , well 	
+C	557.67	565.424	Yeah but of course y you are also human . We have to take uh every everyone into account . So 	
+A	560.33	561.311	No 	
+D	564.37	567.02	And you might be uh You might be target customer . 	
+C	566.95	571.66	Yeah . Well uh who who else thinks like you ? We don't know . Maybe a thousand people , or a million people . 	
+A	567.68	568.608	Yes but 	
+B	567.96	568.04	Mm . 	
+A	569.63	577.2	Yeah , we don't know , but that's uh that's that's that's more market research . So let it be like this at uh at this moment . Okay ? 	
+D	571.274	571.864		
+C	574.908	579.69	Let it be . Alright . So that's that . Uh any other suggestions ? 	
+B	575.8	576.377		
+B	578.21	578.854		
+A	580.33	581.42	No , I think it's great . 	
+D	581.59	581.88	Yeah . 	
+B	582.34	584.37	But what about the redesigning ? 	
+A	584.752	594.11	Comes to that later . Um you . Uh c You can uh Walter . You can do the evaluation uh criteria on this ? 	
+B	586.42	587.616	Okay . 	
+B	588.475	592.593		
+C	588.546	592.44	You're very personal again . 	
+D	588.925	594.96	Alright . Great . 	
+B	595.584	595.872		
+A	596.49	597.4	That's more useful 	
+B	597.728	598.208		
+A	598.93	600.51	than just speaking . 	
+C	600.784	601.008		
+D	601.227	601.706		
+D	603.504	604.59		
+D	607.69	625.68	Well , this is just a short intro . I'm going to do uh the ev evaluation . That's gonna be done at the end of seven point skill criteria . So I made a I made a few questions on the hand of uh uh the impor most important requirements and trends . 	
+A	609.8	610.05	Yes . 	
+C	616.705	617.554		
+A	618.224	619.887		
+A	625.02	625.56	Mm-hmm . 	
+D	626.15	637.54	And we have to look if our uh if our device uh is working correctly . Well , I put some questions in a Word file . See if I can find them . 	
+D	638.8	639.94	Uh uh uh uh mm . 	
+A	644.52	644.83	'Kay . 	
+D	644.52	645.043	Well 	
+B	645.12	645.71	Hmm . 	
+D	646.04	665.64	I uh think you have all seen uh this kind of evaluation , so uh I don't have to explain it . Uh the first question is , uh is the device good-looking ? Because normal p uh most people thought that um earlier devices were ugly ugly . Seventy five percent of them . So what do we think ? 	
+C	667.1	669.568	Well d we designed it , so of course we are very 	
+B	669.39	669.67	Mm . 	
+A	670.07	672.8	Yeah , we're we're not quite uh objective about this . 	
+D	670.13	670.806	Yeah 	
+C	672.15	672.81	Yeah . 	
+D	672.15	679.36	No , I know , but I have to uh evaluate it . So I have to take this questionnaire . 	
+B	672.24	674.71	Well we designed it to be good-looking . 	
+C	680.04	683.152	So and we ha we have answer now ? Yeah . 	
+A	680.34	684.18	To the customers ? To potential customers who have to take this questionnaire ? 	
+D	681.91	682.752	Yeah 	
+D	683.58	685.98	Yeah , but I can't can s 	
+A	685.04	695.814	Nei . Oh no . I know , I know , I know . But um Well we can go , uh because of the time , uh pretty quick through this . Uh do we find it good-looking ? Well we think so . Uh 	
+B	685.63	685.91	Hmm . 	
+C	695.19	697.047	I Yeah , I think it 	
+B	695.25	697.675	Yeah . We designed it to be good-looking , so 	
+D	695.37	696.896	Yeah , but uh , you know 	
+A	697.06	697.36	Yeah . 	
+D	697.94	715.37	We dis we di we designed it to be perfect . So But we have to be critic critical about it . And I have to uh take all these points and get a average at the end . So we we know where we stand . 'Cause th there are some things we might have uh bi might have forgotten . 	
+B	701.18	701.69		
+A	709.67	711.11	Well , one . 	
+C	711.504	712.285		
+A	715.41	716.62	Well so it's point four . 	
+D	717.44	718.248	Right , so 	
+A	717.92	719.13	Easy to find t 	
+C	717.93	721.28	Well l well let's start with the beginning , just one by one . 	
+D	719.9	722.07	Right . Uh is it good-looking ? 	
+C	722.2	736.72	Well , I guess uh I think uh it's uh it's it's um pointed towards the youth of course , uh if you look at the design and and the colours and everything . That was our target audience of course . But it's also not completely um 	
+A	724.84	726.457	Two . 	
+C	737.172	743.648	uh u unacceptable for older people I guess . Uh it's it's not f a device that 	
+D	742.73	744.48	The titanium might be uh f 	
+C	745.33	749.754	Yeah , that's that's uh for older people , it's it's more that classical look . So 	
+D	745.41	746.2	for older people . 	
+D	748.37	751.06	It you put uh put a black front on it or something . 	
+B	750.99	751.25	Hmm . 	
+C	751.26	771.5	Uh no . I think Yeah they like black of course , but I think they'll uh they they think uh the the titanium look of it is also Uh I think it's also good for them , so I think we both uh have uh consider considered uh the youth and also a bit older people . So I think it's very good-looking and not only for youth uh young people . 	
+D	768.03	768.7	Right . 	
+B	771.87	778.97	I think we shouldn't discuss any points points that long , because I don't know how how many points there are but uh Yeah . 	
+D	775.91	776.25	Right . 	
+A	776.26	782.61	No . I totally agree . We we have to get get on , go through this . 	
+C	777.68	778.88	Yeah , the fourteen yeah . 	
+D	778.53	780.05	Right , a number please . 	
+B	781.66	782.03	Yeah . 	
+C	782.09	784.83	Is it easy to t change channels ? Yeah well I think so . 	
+D	785.29	788.86	So the last one is seven . Easy to change channels ? 	
+B	788.12	790.27	Um , no it's uh 	
+A	788.72	790.0	No , not false . 	
+A	790.98	791.51	It's one . 	
+D	791.75	793.16	Oh , sorry . Yeah , right . 	
+B	792.304	793.376		
+A	795.32	798.69	Well uh two ? Y Well we have to go through it . 	
+D	796.69	797.39	Change channels ? 	
+C	798.883	801.734	I think it's uh as easy as uh can be made . Uh 	
+D	802.07	802.38	Right . 	
+C	802.89	806.64	So I Yeah . You How can you make it any easier ? 	
+D	804.784	805.462		
+D	807.14	809.87	The power , channel and volume buttons are easy accessible ? 	
+B	807.207	809.88	With two huge buttons . 	
+C	809.79	811.18	Yeah , huge is a Yeah . 	
+A	809.98	810.14	Yep . 	
+A	812.01	812.28	Two . 	
+D	812.87	813.15	Two ? 	
+D	815.85	818.77	Alright . The uh device is easy to find if you lose it ? 	
+A	818.78	822.406	Well , no . We didn't implement anything about that . 	
+C	819.41	822.95	D we d we don't we don't have uh that s 	
+B	822.1	827.168	Well it's easier to find than a a normal black one or something , because of the colour . But 	
+A	825.808	830.083	Well six then . 	
+D	827.69	829.92	Yeah . Six ? Right . 	
+C	827.81	828.12	Yeah . 	
+B	828.004	829.424		
+C	829.75	833.408	Well we don't have the device that beeps uh when you lost it or so , but um um 	
+A	831.94	838.336	Are the functions easy to learn ? Well w I we do want we have a l f f less of an 	
+B	834.601	835.754		
+B	836.68	838.38	We have so few functions , so Yeah . 	
+D	838.63	839.8	Yeah , I agree . 	
+A	840.05	842.25	And the device R_S_I_ sensitive ? 	
+B	842.68	850.4	Well , I should I think two , because the voice recorder is n not self learning . 	
+A	844.04	844.62	Yeah . 	
+A	846.97	847.38	Ah . 	
+D	848.75	850.608	Yeah . 	
+C	850.74	851.7	Yeah . Yeah . 	
+A	851.904	852.515		
+D	852.74	853.97	Alright . Two ? 	
+C	853.34	853.62	Mm ? 	
+D	854.817	855.529		
+A	855.0	858.288	Yeah , but just do some We we 	
+D	857.54	865.83	Yeah Yeah , I agree . No . Yeah . 	
+A	859.957	866.564	I th I th I think this is too time consuming . Uh not not towards you , but towards this all . Th this is 	
+C	860.03	860.95	Are we take too much time ? 	
+C	865.634	869.191		
+D	867.03	868.82	Right , R_ R_S_I_ sensitive ? 	
+A	867.17	869.34	We you have to put it to the customers . 	
+D	869.645	870.92	R_S_I_ sensitive ? 	
+A	871.18	873.44	Uh well well a bit , so four . 	
+D	873.71	875.55	Four . Um 	
+A	875.67	876.05	Yes . 	
+C	876.31	877.28	Yeah , very much . One . 	
+B	876.654	877.632		
+A	877.7	879.7	One . And features included also one . 	
+A	881.01	887.94	And One . Uh those uh nine uh is the fancy-looking . Uh we still think so . 	
+C	882.208	882.751		
+D	883.051	884.612	Yeah . 	
+C	888.0	888.54	Yeah . 	
+A	889.35	892.13	Device fancy feeling . Yeah , cool man . 	
+C	889.92	892.92	And I think fancy-feeling too , because of the titanium back . Yeah . 	
+B	891.64	892.21	Yeah . 	
+D	892.68	893.14	Right . 	
+A	893.51	896.31	Are there enough technology ? Yeah well also we have two . 	
+B	894.98	895.44	Yeah . 	
+D	896.933	897.84	Yeah , that's great . 	
+A	898.83	902.42	Is the device easy to use ? Yes we have not many buttons . 	
+B	898.96	899.302	The 	
+C	902.43	904.97	So well maybe two because of the voice recorder . 	
+D	903.52	905.53	Well , with the uh Three . 	
+B	903.7	904.62	Two two . 	
+A	903.8	904.6	Two , three . 	
+B	906.04	906.29	T 	
+A	906.48	914.23	Are the trends about fruit and vegetables implemented ? Well in our covers , in our fronts . So yes , one . Is the material attractive ? 	
+C	906.61	906.79	F 	
+B	910.14	910.76	Yeah . 	
+C	911.01	913.21	Yeah . One or two . Yeah . 	
+B	912.79	914.52	One or two , another two . 	
+D	913.43	918.37	Nah f four I think . If you look at this 	
+C	915.45	916.12	Four ? 	
+C	917.41	931.329	Well , it doesn't really resemble any fruit , uh that's true . But but we have the the the the the sparkly fruity colours of course . And you can also have front with uh with fruit on it . 	
+A	919.682	921.016		
+D	919.78	920.14	No . 	
+A	921.88	924.02	Oh okay . Okay . 	
+B	922.51	923.51	Well three . 	
+D	923.42	924.31	Three , alright . 	
+D	926.51	929.857	Yeah , that's true . But 	
+A	927.25	935.5	Is the material attractive ? Well the titanium is strong , and uh the rest f uh the buttons feel soft . So I would say at least two . 	
+B	928.23	929.66	Mm . Yeah . 	
+C	933.487	933.958		
+D	935.91	936.42	Right . 	
+A	936.81	937.33	Okay . 	
+B	937.672	940.322		
+C	939.058	939.601		
+A	939.824	940.96	Well Yeah . 	
+B	941.35	943.77	This is the last meeting ? Yeah . 	
+A	942.82	951.2	Yes , but we we have to design much more , because there was some irritating account manager coming to me . 	
+D	943.55	945.12	The average will uh come later . 	
+A	952.671	953.68	Um 	
+C	952.87	956.47	I knew things uh were going uh too smoothly . 	
+A	955.63	956.13	Oh . 	
+C	957.39	959.97	There had to be some kind of trouble along the way . 	
+A	957.52	958.296	Uh 	
+B	958.69	960.34	Yeah . 	
+A	959.59	963.39	Yes . Well , look at the costs at this point . 	
+C	965.71	966.44	My god . 	
+A	966.63	967.52	I had to fit it in . 	
+D	967.82	970.98	It has to go to twelve , right ? Twelve and a half . 	
+A	969.58	970.35	I twelve and a half . 	
+A	971.81	972.38	So 	
+A	973.48	976.91	Well what costs a lot ? The sample spea costs four . 	
+C	977.89	979.146	The what ? The 	
+A	978.52	980.83	The sample speaker , the s sensor . 	
+D	979.42	982.84	Out . That's easy . Kick it out . Yeah . 	
+A	981.96	987.12	Kick it out . We have to go to twelve and a half . The speaker costs far , by far the most . 	
+B	982.42	982.76	The what ? 	
+D	984.08	984.81	The speaker . 	
+B	985.55	986.03	Oh . 	
+C	988.1	991.49	Yeah w tha that's uh that's a bit an optional option . 	
+D	988.59	990.561	That's some wrong info , man . 	
+A	990.89	992.92	It it isn't worth it . 	
+C	993.04	994.84	No . No , d th No . 	
+D	993.43	993.73	No . 	
+A	993.98	998.219	We could make two different versions , one with and one without . But for this 	
+D	995.02	995.539	It's uh 	
+D	997.31	999.47	It's just extra . Kick it out . 	
+A	999.99	1000.9	So , zero . 	
+B	1000.929	1001.574		
+C	1003.39	1003.73	Yeah . 	
+A	1003.85	1005.4	Then we go to fourteen point six . 	
+D	1006.3	1006.82	What more ? 	
+A	1006.78	1008.92	Well the titanium I don't want to lose actually . 	
+D	1008.816	1010.784	Batteries are uh quite 	
+C	1009.18	1009.55	No . 	
+A	1010.07	1015.69	L_C_ three ? Yeah hand dynamo ? Y t come on , w a remote control has a battery . 	
+D	1013.601	1015.31	Uh no , no no no . 	
+B	1013.8	1014.696	Um 	
+C	1014.79	1014.86	N 	
+C	1015.95	1019.38	Uh well we have a bit of a problem I think . Because uh 	
+B	1018.46	1021.85	Well well why why why should we use a advanced chip ? 	
+A	1022.52	1024.61	Well be for the L_C_D_ uh you had said . 	
+C	1022.821	1025.03	the L_C_D_ screen . Yeah . 	
+B	1025.27	1027.5	Yeah ? Can't we do that with a regular chip ? 	
+D	1025.27	1025.61	Hmm . 	
+C	1027.99	1028.24	No . 	
+B	1028.86	1029.21	Why not ? 	
+C	1029.64	1034.93	Because uh that uh y because my information says it . 	
+A	1032.49	1035.06	Well what what's the difference between simple and regular ? 	
+C	1035.73	1035.98	Huh ? 	
+A	1036.16	1038.22	What's the difference between a simple and a regular chip ? 	
+B	1037.11	1038.48	Yeah . Regular is normal . 	
+D	1039.15	1039.57	Yeah . 	
+A	1040.01	1040.55	And simple ? 	
+C	1040.49	1043.936	Uh well yeah I I read something about it , but 	
+B	1041.08	1041.74	Simple . 	
+A	1041.609	1042.7	Nothing . 	
+B	1042.93	1044.92	Elementary . 	
+C	1045.298	1045.803		
+C	1046.591	1053.4	Yeah , I I read something about it , but it wasn't very clear . I d I didn't in include it in my report . 	
+A	1046.69	1047.57	Well ? 	
+A	1048.72	1049.46	Your part . 	
+A	1053.74	1055.214	What happens if we do 	
+C	1054.036	1055.616	Single 	
+C	1056.71	1057.62	Well you have to use 	
+C	1059.22	1060.22	a chip . So 	
+C	1061.62	1065.23	Well you have to use the advanced chip , if you have the L_C_D_ screen . 	
+A	1062.18	1064.06	How much do we win ? One . 	
+B	1063.07	1067.872	We we we Why ? We have very little options furthermore , for the 	
+A	1065.136	1066.22		
+C	1068.35	1070.97	But if you have a regular chip , you can't have the L_C_D_ screen . 	
+A	1068.47	1068.92	Yeah . 	
+B	1071.16	1072.97	Uh well we have to put that in . 	
+D	1072.18	1074.06	Yeah , we need to have the the L_C_D_ screen . 	
+C	1073.43	1074.837	That that's a fact . Uh 	
+A	1074.14	1082.08	Well , we could say , well this special colour , that isn't that that isn't there , because the the fronts they will buy it . The special colour . 	
+D	1077.13	1078.203	No 	
+D	1082.53	1085.53	Yeah , but No , that's n It's not relevant . 	
+C	1082.7	1085.405	Yeah , but it's only one half . Uh it d it doesn't 	
+B	1083.37	1083.88	Nah . 	
+A	1085.64	1088.32	Yeah , then you s then you only have one half left . 	
+B	1085.84	1087.45	Yeah , you must change the chip uh back . 	
+B	1088.56	1090.02	You must change the chip back , Nils . 	
+D	1088.58	1089.12	Yeah . 	
+A	1090.94	1091.62	Uh yeah . 	
+C	1091.69	1093.56	But we d Then we have to lose the L_C_D_ screen . 	
+D	1094.93	1099.696	No , Then the whole concept is uh 	
+C	1098.44	1106.97	Yeah , I know but that's what my information says . I di I didn't uh put uh the advanced chip in there for fun . You have to use it . 	
+B	1103.6	1107.535	Hmm . No we oh 	
+D	1104.04	1104.378	You 	
+D	1105.53	1108.736	You can make you can make it cheaper . But if you don't sell 	
+C	1109.168	1110.29		
+D	1109.483	1110.288		
+B	1110.49	1117.33	You you we have an advanced chip-on-print , and we have an L_C_ display . I think that's a bit double . Y we don't need both . 	
+A	1110.5	1111.01	Yeah . 	
+C	1110.987	1111.374		
+A	1115.07	1115.44	Yeah ? 	
+A	1116.34	1120.74	No , the advanced chip is needed to have an L_C_D_ display . 	
+C	1119.31	1121.37	For the L_C_D_ screen . Yeah . Yeah . 	
+B	1121.54	1122.75	Says . 	
+A	1122.59	1125.19	Says , his Uh that was in the second meeting , I think . 	
+C	1125.09	1130.789	Well uh and what do they mean with curves uh again ? Because we you have uncurved 	
+A	1128.85	1138.02	Well I I did single curve to Well you said s double curved , uh he , because uh I thought it's a b a bit cheaper already . We can also make it flat . 	
+B	1132.14	1133.32	I ? ? 	
+C	1133.94	1134.3	Yeah . 	
+D	1136.95	1139.1	No no no no . 	
+C	1137.36	1137.852	Well 	
+C	1138.39	1148.15	But what what did what do n Sorry , but What do they mean with the curves ? Is th Is this a curve ? One curve ? Yeah , this is actually two curves , yeah . It's how you It's how you look at it . 	
+A	1139.17	1139.76	But 	
+A	1142.41	1143.6	Curved ? Yes , that's curved . 	
+A	1145.03	1145.42	Yes . 	
+A	1146.44	1147.26	No , it's one curve . 	
+B	1147.127	1149.28	One curve . 	
+A	1148.46	1149.59	One curve , simple . 	
+D	1149.634	1150.517		
+C	1150.05	1154.56	Well then we have a huge problem I think . W t we can never get uh below the twelve and a half . 	
+A	1153.58	1155.22	We have a big financial problem . 	
+B	1155.78	1157.7	Well we make it more expensive to buy . 	
+A	1158.6	1170.048	Well , then we have two dollars less profit . Come on , if we if we if we make this fifty million , they won't hesitate to uh congratulate us , so uh 	
+B	1162.546	1163.407		
+C	1165.069	1168.396		
+D	1169.05	1173.57	If if you make people brand-aware , they are willing to pay more . But 	
+C	1174.18	1175.872	But uh I 	
+D	1174.94	1181.78	Because we we use a brand at the front and uh I dun at the back . If you have uh lots of uh marketing 	
+D	1183.47	1184.36	people might buy . 	
+B	1185.53	1188.425	Yeah or we could replace it 	
+D	1186.7	1188.638	If you if you make it cool to have 	
+A	1189.02	1191.08	By the way , we also have this one . 	
+D	1193.4	1194.44	Oh , that's just great . 	
+A	1194.73	1200.447	Oh , costs nothing . That's nice . Plastic is 	
+D	1196.17	1199.231	Oh , alright . 	
+C	1197.344	1209.98	Hey but uh I think you'll agree that uh that we that now we have this uh screen , it's it's very uh not practical to ha to consider this after we have designed the entire thing . 	
+D	1210.152	1210.939		
+A	1210.24	1211.79	Yes , but I just got it . 	
+C	1211.696	1214.66	Well that's pretty uh l 	
+B	1212.9	1216.86	Why why don't we replace the titanium with uh 	
+D	1214.93	1219.12	That is pretty stupid . 	
+C	1215.97	1218.528	N not very practical . Well 	
+B	1217.92	1223.71	plastic coloured titanium , uh titanium-coloured plastic ? 	
+A	1221.82	1222.24	Who ? 	
+D	1224.067	1235.3		
+A	1226.47	1228.34	You want to dump the titanium ? 	
+B	1229.38	1232.45	Yeah well if we uh we we have to get cheaper . 	
+A	1232.91	1235.08	And make all plastic , then we ha then we're there . 	
+C	1237.577	1240.326	But I'm n I don't agree . I think 	
+B	1239.31	1244.29	But then we we've got to uh run through the eval evaluation process again . 	
+A	1240.76	1249.16	Th then you have a ugly , stupid , l ugly looking , dumb remote that that no-one would buy . 	
+B	1247.46	1248.27	Ah no no . 	
+D	1248.784	1249.376		
+B	1249.37	1251.55	It's not ugly looking . The looks remain the same . 	
+A	1251.65	1252.46	No , I don't think so . 	
+D	1252.68	1252.82	Y 	
+B	1252.76	1253.74	Well , I do think so . 	
+C	1253.14	1257.136	I think the titanium just uh provided the the tough look and the and the 	
+A	1256.32	1259.312	Yes . And the feel , and th that it is strong , and 	
+B	1257.187	1258.64	feel . 	
+C	1259.59	1269.33	And also the the older people will like it because of that . And because i Alright it's not our target audience , but it's it's useful if it's uh important for old people . Yeah . 	
+D	1262.29	1263.37	Yeah , I agree . 	
+A	1265.6	1271.984	We still we had to focus to get more people from the younger group , but not lose the one 	
+C	1270.546	1273.96	I think the titanium is very important . 	
+B	1273.88	1276.26	Yeah alright but then we we won't get there . 	
+C	1275.25	1279.99	Yeah we have a problem , yeah . W But you can better , yeah , dump the L_C_D_ screen then . 	
+B	1279.8	1286.1	We can dump the special colour . We l we use plastic . And plastic is already in colour I think . 	
+D	1285.56	1287.49	I don't think you should dump the L_C_D_ screen . 	
+C	1288.19	1289.981	Well what else ? W I mean uh 	
+B	1289.24	1290.08	No , nothing . 	
+D	1290.42	1306.36	Or you shou It's Or change the titanium or dump the L_C_D_ screen . But I think you could better change uh titanium to hard a hard kind of plastic looking like titanium than lose the L_C_D_ screen . Because you have lots of functions in it too . 	
+B	1291.58	1291.9	Amen . 	
+C	1297.11	1297.44	Yeah . 	
+B	1301.19	1301.55	Yeah . 	
+C	1305.783	1312.272	Yeah , well yeah . Alright . I agree with that . So we u we use uh 	
+B	1307.16	1307.43	Yeah . 	
+A	1308.82	1309.951	Why can't I 	
+B	1309.65	1310.266	But 	
+C	1313.68	1315.66	Unfortunately . Um . 	
+A	1316.07	1324.31	I'll put in the report we that we think that fourteen point one is the l m lowest price you can make a remote for that's trendy d these days . 	
+C	1317.29	1318.92	Titanium-coloured plastic . 	
+D	1323.62	1324.66	Yeah , I agree . 	
+C	1325.09	1327.99	So titanium-coloured plastic for the back . 	
+A	1328.2	1331.14	I I'll talk to the managers . 	
+B	1329.81	1332.64	No no no no . W Titanium stays there . 	
+A	1332.95	1339.808	Titanium , I thi I think this this is this is e really good re remote . But 	
+C	1336.79	1339.024	Yeah this is good , but it it's not good enough . 	
+D	1336.87	1340.456	Osl 	
+B	1337.039	1339.917		
+C	1339.8	1343.23	So we have to use the ditch the titanium , I'm afraid . 	
+A	1343.11	1351.504	Ah those those account managers , what do th d what do they know ? Come on . Riot . 	
+B	1344.09	1344.534	Well 	
+B	1346.706	1348.475		
+C	1348.62	1354.48	What do we Well what do we know ? All we want is a is a fancy design but we don't really consider the costs . So 	
+A	1353.28	1354.65	Yes , yes . 	
+B	1354.61	1356.5	No because we did not know anything about it . 	
+D	1356.41	1363.95	If you don't have the money , you can't make it . So s If you don't have the money , you can't make it . So this is too expensive . 	
+C	1356.46	1359.84	Yeah al alright , yeah . But we have to deal with it now . So 	
+A	1356.61	1358.63	One and a half Euros . Hmm ? 	
+A	1365.52	1366.11	So ? 	
+C	1365.74	1366.241	So 	
+D	1366.23	1367.36	So we have to make it cheaper . 	
+C	1367.41	1369.65	Titanium gone and add plastic . 	
+D	1370.53	1370.87	Right . 	
+B	1370.84	1373.26	Yeah , but then we've got money left . 	
+C	1372.48	1374.99	And on plastic times two and then we uh are there ? 	
+A	1375.03	1379.48	Well , no it's just uh all plastic . Well alright . Huh . 	
+C	1377.13	1377.523	No 	
+C	1378.304	1388.13	No yeah well Oh six . A lot of plastic , yeah . No two for the to make it clear . 	
+A	1380.722	1383.729		
+D	1382.448	1385.64	It's just free , man . 	
+A	1384.292	1386.295	Four . So 	
+A	1388.82	1390.27	But then we can add the special colour ? 	
+B	1391.06	1391.43	Yeah . 	
+A	1391.5	1393.863	As we have money over uh left . 	
+D	1394.602	1395.348		
+B	1394.68	1395.4	Yeah . W 	
+A	1394.84	1397.82	And we still have money left . What do we want , guys ? 	
+C	1397.86	1400.797	I want gold plating . No no um 	
+D	1398.959	1401.809	Yeah right . I want chrome . 	
+A	1399.392	1400.141		
+B	1401.0	1403.07	Well I think uh the case is double curved then . 	
+A	1403.76	1404.17	Yes . 	
+C	1406.324	1409.023	We have we have to uh fill 	
+B	1406.49	1409.02	Because you y have that curve and you have that curve . 	
+D	1408.304	1411.83	Well , th that that is the problem . 	
+A	1408.33	1411.79	Y Oh no . Alright . 	
+C	1409.83	1415.312	W we ha No no no , but th that's not f um 	
+B	1409.92	1411.352	Yeah well uh 	
+A	1413.44	1413.91	Safe . 	
+B	1415.54	1417.89	Well y we have curves in all directions . 	
+C	1416.42	1425.19	Well you can you can double curve , if you don't have titanium . And that we dropped , so it it can be done . But it's pretty funny . We we do want to reach 	
+B	1421.213	1421.878		
+A	1421.3	1422.63	So alright . 	
+C	1426.31	1430.03	twelve point five . But it isn't bad to to to stay at eleven . 	
+A	1427.49	1428.34	Finance ? 	
+B	1427.52	1431.6	I mean , this this ain't titanium , but it looks like it . 	
+C	1432.05	1435.54	We get more salary , if we make if cheaper than twelve uh twelve and a half . 	
+A	1432.23	1452.21	Well , guys ? Guys ? We have to dump our titanium , and we'll hate the managers for that , but now we're going to evaluate our project , of uh project , project . Well , satisfaction on for example , are we satisfactory about our creativity ? 	
+D	1432.979	1435.94	Yeah . Shoot . 	
+B	1434.08	1435.242		
+C	1440.13	1440.8	Objection . 	
+B	1440.16	1441.537		
+B	1442.54	1445.312	Pro project . 	
+C	1452.27	1460.99	Well I can't get no satisfaction , but uh I think it's uh Well in in if we consider the costs then this is the best , yeah . 	
+D	1454.488	1454.954		
+B	1454.912	1456.691		
+A	1455.392	1458.32		
+B	1458.411	1459.441		
+D	1461.18	1461.5	Yeah . 	
+A	1461.2	1475.58	I think it's terrible that we got uh those costs at the last moment . That's really bad . But that that that's that , yeah that's a reason , but also for our creativity . We had um nice design , and then you get the cost , and you had to dump all your creativity . 	
+B	1462.03	1462.43	Yeah . 	
+B	1464.43	1464.98	Yeah . 	
+D	1464.46	1465.17	Yeah , me too . 	
+C	1466.15	1468.182	Its it's uh ridiculous actually , but 	
+B	1467.33	1468.69	And uh unrealistic . 	
+B	1475.76	1479.81	Well we we we used our creativity , but we just had to adapt it to the costs . 	
+D	1475.98	1476.32	Right . 	
+C	1479.537	1485.248	Which isn't very practical , but that's the way . Uh-huh . 	
+A	1479.711	1480.688		
+B	1481.382	1483.951	Nei . Uh no . 	
+A	1481.65	1481.99	Yeah . 	
+A	1483.28	1484.32	Well , alright . 	
+A	1485.31	1490.848	Uh leadership next . Uh teamwork ? 	
+B	1486.391	1489.482	Terrible . 	
+D	1489.216	1490.24	Leadership . 	
+B	1490.79	1492.242	Leadership ? Well 	
+D	1491.47	1496.662	Well it's It was very democratic . 	
+A	1493.61	1502.48	Uh yeah well I think so also . I al I I've uh filled that in in a the questionnaires uh each time , so Well the managers were terrible . 	
+B	1493.76	1494.82	Yeah . Yeah . 	
+B	1499.013	1500.363		
+D	1499.033	1500.22	Yeah yeah . 	
+B	1503.088	1503.6		
+A	1503.7	1505.12	So , with their all their 	
+A	1506.31	1509.68	useless requirements . But o alright , the teamwork ? 	
+C	1508.85	1513.88	Well uh they they didn't think of the requirements . It's the requirements of the user , uh I guess . 	
+B	1509.746	1510.257		
+A	1513.99	1521.028	No they said , oh we won't d uh we won't uh use teletext , uh we won't use the D_V_D_ . 	
+C	1516.089	1517.48	Yeah . 	
+C	1519.1	1522.35	Yeah but they base that on on the user specifications . 	
+B	1520.448	1521.257		
+A	1523.23	1526.03	Alright , teamwork ? Well great I think . 	
+D	1524.68	1525.19	Well 	
+B	1525.96	1527.808	Right yeah . 	
+D	1526.16	1527.38	Yeah , think so too . 	
+A	1527.55	1530.23	Uh well what do you , what did you think about the SMARTboard ? 	
+C	1529.216	1529.776		
+C	1530.63	1534.41	It was a complete disaster . No Uh it it it uh it is uh 	
+D	1531.435	1534.76	Yeah , I don't like it . Yeah ? 	
+A	1532.66	1533.297	Well 	
+B	1533.04	1536.21	No , that's a SMARTboard , and that's a digital pen . Or not ? 	
+A	1535.79	1537.71	It's also a It's both the SMARTboards . 	
+D	1536.084	1537.34		
+C	1536.76	1539.56	No it's other way around . That's the SMARTboard . That's the digital panel . 	
+A	1538.65	1543.15	I liked this SMARTboard , but I hated that one . Well it's both a SMARTboard . 	
+D	1539.87	1542.49	This this this isn't a SMARTboard , right ? 	
+C	1542.82	1543.6	That's that's the smart 	
+D	1543.78	1550.671	Yeah right . B but you This is just a large t large television . You u you use the 	
+B	1545.7	1547.699	Oh they're both SMARTboards . 	
+A	1547.08	1547.49	No . 	
+C	1547.844	1549.72	A televi Yeah . 	
+B	1548.325	1550.077		
+A	1549.1	1554.37	It's both a SMARTboard , but this one is used for a desktop , and that one is used to to draw . 	
+D	1553.88	1560.754	Yeah , but you ca This is just a beamer function . And here , on this one , you can uh draw the pictures and things like that . But 	
+A	1559.73	1561.21	Well , wi w which one did you like ? 	
+B	1559.853	1560.668		
+C	1561.128	1564.319	Yeah . Left or right ? 	
+D	1561.84	1562.24	That one . 	
+A	1562.848	1565.007	That one . 	
+D	1563.086	1567.622	That one isn't accurate . It just doesn't work . You can 	
+B	1563.23	1563.59	Yeah . 	
+A	1566.02	1567.484	Yeah . 	
+B	1566.97	1569.4	But I I think this is meant by the digital pen . 	
+A	1569.92	1571.85	Yes . Th that is so . 	
+D	1572.25	1576.92	Yeah , but I think there's a big distinction between the these th I don't need a SMARTboard . 	
+C	1572.34	1573.632	Well I didn't use uh 	
+B	1572.9	1573.0	Yeah . 	
+A	1572.99	1574.66	We're now talking about the SMARTboards . 	
+C	1577.97	1580.643	Nei It it's much m 	
+B	1578.281	1583.07	Well we we used that one , and we needed it . I think . 	
+D	1581.44	1585.04	Yeah , but give me a beamer . That's uh that's much uh much cheaper . 	
+B	1583.8	1584.865	Yeah alright , but 	
+A	1584.96	1590.05	Or install a laptop to a beamer , or have this one standing here in an I I like it . 	
+D	1590.26	1590.81	Right . 	
+B	1591.06	1593.03	Yeah I like that one , but that one is terrible . 	
+A	1591.3	1592.08	Okay , alright . 	
+C	1592.8	1600.79	But uh you can uh I I sent it about three times now . Uh a green uh board with uh chalk is much more useful than that thing . 	
+A	1599.5	1601.54	Yeah . Yeah , it is . 	
+D	1600.36	1600.82	Yeah . 	
+C	1601.73	1603.4	The simple uh sch school board . 	
+A	1602.3	1602.754	So 	
+D	1602.43	1602.99	I agree . 	
+A	1603.36	1607.06	And uh the digi the digital pen ? Did uh did you like that one ? 	
+D	1606.98	1607.31	No . 	
+C	1607.18	1611.45	I I didn't use it . I wrote things down but I didn't import it into my laptop . 	
+A	1610.12	1613.272	I used it uh just to check it out , but uh 	
+D	1612.82	1613.23	Yeah . 	
+C	1612.827	1616.0	That's the 	
+A	1613.72	1620.3	You you can't send that to anyone , because you you've scrabbled something on a page for yourself , and then you're going to send it , yeah . Well , no . 	
+B	1615.041	1615.757		
+D	1615.11	1617.81	Yeah . It isn't practical . Right . 	
+C	1620.33	1629.152	W But also y you write things down . And i you can also bring your your your note block . So what's the what's the th what's the point of importing it into 	
+D	1624.43	1625.9	Your notepad . Yeah . 	
+A	1626.63	1628.16	It's , no , it it's useless . 	
+B	1628.35	1636.78	Well I I drew this . Mm . And I made a mistake . But it it would have been uh useful , if I I could show this on the screen . 	
+D	1633.28	1634.281		
+A	1635.28	1635.81	Yes . 	
+C	1636.462	1640.88	Yeah alright . For drawings , but not for personal notes . I think that's not very 	
+A	1637.48	1638.83	For drawings , yes . 	
+B	1638.42	1639.32	Yeah for drawings . 	
+B	1640.402	1642.36	N notes mm . 	
+C	1643.33	1650.881	Uh I mean you can bring your paperwork along and p Well of course if you have a lot of paper If you've If you've 	
+A	1647.04	1647.691	But 	
+D	1647.11	1649.82	Yeah , it might be useful for drawings . I I agree on that . 	
+B	1649.31	1649.8	Mm . 	
+A	1650.04	1669.952	But for notes , it i you you have to put that in a strict Uh you have to put a name , standard date , and all those things . And notes uh for a meeting are very strict . So if you uh were to write them down for yourself , and then put that in your computer , you still have to type it over to Word . So it doesn't d doesn't have any 	
+C	1665.838	1666.551		
+B	1666.269	1667.344		
+D	1667.3	1667.85	Yeah , right . 	
+B	1669.425	1671.189		
+D	1669.71	1670.68	That Stefan use . 	
+C	1670.04	1679.95	Yeah I understand . But I think uh d this option is only useful if you've got a lot of paperwork . You can't It's not very uh ni Yeah well a lot of documents are Yeah . 	
+D	1677.55	1682.05	No , I don't think so . It's it's only useful if you have to draw something . 	
+B	1681.26	1681.74	Yeah . 	
+B	1682.72	1684.96	But then uh it's really useful , I think . 	
+D	1685.15	1685.46	Yeah . 	
+A	1685.67	1690.04	Yep . Alright . Um etcetera ? Well uh the laptops ? 	
+C	1687.3	1688.15	Mu Yeah right . 	
+D	1690.7	1693.825	Yeah , great . Yeah . 	
+A	1691.11	1691.91	Of course great . 	
+B	1691.34	1692.54	Yeah . Hmm . 	
+C	1692.11	1693.89	Can we keep them ? Uh . 	
+A	1693.24	1696.22	Yeah . You can . B by my 	
+B	1694.176	1694.688		
+D	1695.11	1696.72	Wireless uh wireless things . 	
+B	1696.02	1698.321	Thanks Project Manager . 	
+A	1696.896	1706.189	Yeah . Other uh things we used here ? I hated the cameras , I hated the microphones . But No 	
+B	1702.672	1705.181		
+D	1702.95	1706.21	Well these chairs , man . Really great . 	
+C	1703.52	1705.356	Well did you really uh 	
+C	1706.02	1711.801	Did you really take uh take those in account ? I half of time I didn't notice they were there . So 	
+A	1709.11	1715.391	No . No . I haven't looked w one time directly at the camera . I don't care about it . 	
+C	1714.154	1719.59	But we shouldn't talk about that . Because this is a realistic environment . 	
+B	1714.96	1715.7	Well I did . 	
+D	1715.669	1717.558		
+A	1718.02	1731.84	Well w why not ? Uh etcetera We N new ideas found ? What kind of ideas for n a future schedule What ? For future um meetings you have got ? 	
+C	1721.097	1724.606	Right . Okay . 	
+B	1722.597	1723.935		
+C	1726.768	1733.652		
+D	1727.943	1728.316		
+B	1730.63	1733.44	Well I missed uh the option to uh 	
+D	1733.98	1737.44	Communicate in between . Yeah , right . Yeah . 	
+B	1734.58	1737.44	to email , yeah . Email or chat or something . 	
+C	1736.061	1740.304	But yeah . W well th that's just the the environment they set us up f with . So 	
+A	1736.1	1737.51	Chatting and emailing . 	
+B	1740.23	1743.917	Yeah alright , but that's one n new idea . 	
+D	1743.39	1744.4	Yeah , I agree . 	
+A	1744.11	1745.91	Well , new ideas found by this . 	
+B	1748.032	1748.912		
+D	1750.585	1751.094		
+A	1751.69	1756.67	Not . Nothing . We don't want this . We hate this . 	
+D	1753.17	1755.98	Well , more more information in the beginning . 	
+B	1756.28	1756.69	Yeah . 	
+C	1756.832	1757.04		
+D	1757.11	1757.95	That's 	
+A	1758.05	1761.98	Digital pen is useless . So Yeah , for drawings . 	
+B	1759.77	1760.51	No it isn't . 	
+C	1761.05	1762.62	Well , for drawing for drawings . Yeah . 	
+B	1761.801	1762.63	Yeah . 	
+B	1764.1	1765.52	So it isn't useless . 	
+A	1764.96	1775.76	But uh two t But uh th then you have to have a lot of drawings , because if I had a company and I'm going to uh buy those expensive huge expensive uh things , I and I have to w 	
+C	1768.24	1769.079	Well 	
+B	1768.628	1769.311		
+A	1777.02	1780.512	pay those uh papers uh that are expensive , I'm not going to uh 	
+D	1780.56	1784.99	For people who uh sketch th the whole day , I can imagine that it's useful . 	
+C	1780.74	1781.228	No 	
+B	1783.6	1784.35	Yeah . 	
+A	1783.926	1796.33	Well th then still they they they should have a a nice graphics programme on the laptop . Because this is huge uh this v very very uh expensive paper . 	
+C	1785.03	1787.264	But it's still an expensive uh expensive 	
+D	1792.68	1795.923	Well 	
+B	1793.79	1798.75	Well you you can't you can't draw on a laptop like you like you paint of or draw with your hand . 	
+D	1798.81	1799.52	Yeah , I agree . 	
+B	1800.6	1803.23	With the mouse it is No . 	
+C	1800.68	1801.57	But if w Yeah . 	
+A	1803.13	1803.41	Yeah . 	
+C	1804.07	1805.142	Well and if 	
+D	1804.36	1806.8	Mouse is ju just isn't working if you're sketching . 	
+B	1806.75	1807.34	Uh indeed . 	
+C	1807.65	1820.71	And but what if uh maybe this this board uh SMARTboard is malfunctioning or someone . But suppose it was working correctly , what uh would it be useful then , if it wasn't off all the time ? A 	
+A	1819.59	1823.51	Well no . I hated to draw like that . You you can't draw anything uh neat . 	
+C	1822.2	1822.77	Really ? 	
+D	1824.45	1832.028	Yeah , but he's saying if it is correct , and you can draw very , yeah , very precise 	
+C	1828.8	1832.0	Anything you want . Any b b Yeah . L li li 	
+A	1830.84	1833.55	I if it if it would be perfect following . 	
+C	1833.52	1833.82	Yeah . 	
+A	1834.704	1845.17	Well th th then still it's it's it's very expensive uh towards a a just a green uh school board . 	
+C	1835.52	1837.92	Well it isn't , but maybe that thing is uh is 	
+D	1836.162	1836.95	Yeah , mu 	
+C	1842.8	1844.45	Yeah , board , a school board , yeah . 	
+B	1843.58	1849.971	Yeah , but but then you can uh save it in instantly , and and and re-use it , and uh 	
+C	1847.01	1850.25	Yeah . I it has It is useful . Yeah . 	
+A	1847.86	1848.23	Yep . 	
+D	1848.29	1849.32	It saves time . 	
+A	1849.78	1850.59	Yeah yeah . 	
+B	1850.471	1850.881		
+C	1851.03	1860.67	This uh if it works correct , maybe this thing this thing is just malfunctioning . So uh if we get in uh if we get another one and you make sure it does work , I think then it's pretty useful . 	
+A	1854.976	1855.629		
+A	1858.66	1858.98	Yep . 	
+A	1861.61	1861.85	Yeah . 	
+C	1862.88	1871.42	Because uh yeah you can draw t things quickly and uh clearly for anyone uh in the discussion room . And then you can save it immediately . 	
+B	1864.093	1864.67		
+D	1869.951	1870.528		
+A	1872.2	1873.73	Well , they are now . 	
+B	1874.26	1874.51	Hmm . 	
+D	1875.27	1875.94	Celebration . 	
+A	1877.12	1884.839	It is . So , congratulations crew . Se 	
+C	1879.51	1880.19	Did you type that ? 	
+B	1880.09	1880.62	Hmm . 	
+B	1881.82	1883.45	Celebration . 	
+D	1884.47	1884.962	Well 	
+B	1884.86	1890.576	Yeah , we can go to the bar and uh with our newly earned money . 	
+D	1886.112	1887.779		
+A	1886.416	1897.977	Finally my beer . Well , that's it I think . Um I don't know how long we still have . I dunno how long uh we had for this last meeting . But uh 	
+C	1886.7	1888.098		
+B	1891.516	1892.53	Yeah . 	
+C	1897.85	1900.34	Maybe till four o'clock or something ? Well dunno . Yeah . 	
+D	1897.855	1898.364		
+A	1900.35	1906.19	Well yeah , it is a bit uh Well we still have to make the end report and uh all those things . I have to do that . 	
+D	1906.23	1909.394	Yeah . You better get started . 	
+B	1906.645	1907.368		
+A	1907.56	1913.79	I Di did you um save this one in the folder ? Can you do that ? 	
+B	1909.99	1910.43	Oh . 	
+B	1912.73	1914.64	No . No no no no . 	
+C	1914.11	1917.56	No we must save this thing , yeah . In the shared map map . 	
+B	1918.26	1922.208	But Nils you've got some work left . 	
+D	1920.016	1921.664		
+A	1922.17	1923.14	I don't know what you have to do . 	
+C	1922.72	1925.12	Map , is it a good word ? The folder , yeah . 	
+D	1923.79	1924.19	Huh . 	
+A	1925.424	1927.776		
+B	1927.3	1931.456	I have to go to a physiotherapy . 	
+D	1928.701	1929.651		
+A	1929.03	1929.35	Yeah . 	
+A	1931.79	1935.024	Oh it worked . Two times quick . Cool . 	
+B	1932.98	1934.775	Wow . 	
+D	1933.43	1935.28	Oh , alright . 	
+C	1935.3	1937.786	So it is useful , yeah . No but uh 	
+B	1936.05	1937.7	Yeah . It is handy . 	
+D	1936.84	1937.88	Oh great , man . 	
+A	1937.249	1939.82	This is nice . 	
+D	1938.84	1941.53	I'm gonna buy one buy one for my bedroom . 	
+B	1939.067	1946.606		
+C	1940.01	1942.99	Radical . Yeah . 	
+A	1942.23	1942.744	Uh 	
+D	1943.344	1947.586		
+A	1945.13	1946.53	D design . 	
+C	1948.38	1949.76	Do you believe it yourself ? 	
+A	1949.25	1953.712	S Oh . He saved them all ten . Well alright . Um 	
+C	1953.681	1954.373		
+B	1953.76	1957.086	Well they they wanted everything we produced , so 	
+C	1956.18	1959.012	They also want to see my cat and his rabbit , and uh 	
+A	1956.2	1956.51	Yeah . 	
+B	1957.68	1961.622	My big bird . 	
+D	1958.241	1959.226		
+A	1959.0	1959.446	Well 	
+C	1960.69	1962.23	Your big beautiful bird . 	
+A	1965.856	1966.976		
+D	1967.472	1968.015		
+A	1968.54	1969.74	Where is this ? 	
+D	1969.184	1969.996		
+C	1971.712	1979.272	Maybe the pen is just uh uh broken and the board isn't . Of or the other way around uh 	
+A	1977.067	1977.513		
+D	1980.3	1981.33	Maybe you are broken . 	
+B	1982.18	1982.757		
+C	1982.22	1984.07	Yeah I think so too . 	
+D	1984.22	1984.62	You know . 	
+B	1984.3	1988.253	I think you have we have to make clear to her that we are ready . 	
+D	1987.76	1996.127	I think she's listening . 	
+A	1988.8	1996.09	I also think so . She already knows . She ? Big brother . 	
+C	1990.413	1998.41	Who is she you're talking about ? Oh you mean our uh coach , our f personal coach . 	
+B	1990.755	1995.221		
+A	1999.17	1999.81	Our manager . 	
+C	2002.39	2003.66	Is she also our accountant ? 	
+A	2004.608	2008.37	Yeah . I don't think so . 	
+C	2005.02	2008.79	Is she responsible for sending that information so late ? Oh . 	
+B	2009.89	2010.58	Close your laptop . 	
+C	2010.1	2011.944	Because then we have to confront her with our 	
+B	2012.23	2013.52	So she can see we're ready . 	
+D	2013.69	2017.484	I feel watched . 	
+B	2014.691	2015.442		
+A	2015.264	2017.3	Alright . 	
+B	2018.384	2018.64		
+B	2020.1	2023.71	Yeah . Let's take this remote into uh production . 	
+A	2020.52	2041.024	We put the fashion in electronics , but we couldn't because of the costs . That that's the title of our uh end document . We couldn't put the fashion into the electronics . Yeah , that's a nice title . 	
+C	2022.022	2022.853		
+C	2024.528	2030.855	Yeah . That that's our new slogan . Yeah , I like that . 	
+D	2024.786	2032.729	Yeah . 	
+B	2027.772	2028.842		
+B	2031.338	2032.655		
+C	2032.01	2033.31	Blame our accountants . 	
+D	2034.17	2034.91	Do that . 	
+B	2035.408	2035.664		
+D	2036.84	2037.12	Yeah . 	
+C	2037.536	2040.272	But we couldn't , yeah . 	
+D	2038.177	2038.985		
+D	2040.47	2041.584	Very catching . 	
+C	2040.991	2043.024		
+A	2044.12	2044.31	Oh . 	
+C	2044.2	2045.38	Well I th Yeah . 	
+D	2044.71	2048.529	I'm sure management would like that . 	
+A	2046.208	2047.856	Well 	
+C	2046.624	2049.85		
+B	2047.67	2048.57	She's on the move . 	
+A	2048.87	2053.056	I'm going to resign after this project anyway , so 	
+D	2051.616	2054.0	Oh , that's just great . 	
+A	2054.16	2056.192		
+B	2054.608	2055.44		

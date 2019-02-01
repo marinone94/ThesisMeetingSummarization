@@ -1,0 +1,813 @@
+Found 4 args.
+Observation: TS3009b; Result size: 810; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+D	61.63	63.82	Great man . Who starts ? 	
+A	64.47	70.51	Well I'll uh start just with another presentation , so then we can uh look at th at the agenda uh for this meeting . 	
+D	67.1	67.67	Alright , great . 	
+D	70.84	71.19	Alright . 	
+A	73.136	75.04	Okay . 	
+A	76.66	79.55	I've put some uh new things in the in the map . 	
+D	79.99	80.42	Mm-hmm . 	
+A	81.28	83.057	Uh oh . 	
+A	83.99	84.49	This is it . 	
+A	85.84	97.66	I don't know the shortcut , so Ah F_ five . Well our functional design meeting , that's the stage we're in . And you also ha all three of you have uh prepared something about it . 	
+C	93.61	94.2	Mm . 	
+D	98.07	98.49	Yes . 	
+A	99.75	109.136	Well um in we'll uh just have a look at the at the notes from the previous meeting , what we uh thought we had dec decided . But uh 	
+A	110.82	116.9	Uh then we'll uh look at uh the three uh presentations uh from you . 	
+D	117.77	118.02	'Kay . 	
+A	117.84	130.69	I think you have prepared uh all three uh ? Um we'll look at th the new project requirements we uh I dunno . Y you also have uh received that mail , the new project requirements from our bosses ? 	
+C	119.64	120.18	Well , yeah . 	
+D	120.42	120.72	Yeah . 	
+C	131.48	134.284	No . 	
+D	131.99	134.848	No . You're the only one . 	
+A	132.31	142.27	Oh I've received a mail with uh some additional requirements , and I'll have a look if Well I think we should show them before your presentations , because it's not really uh 	
+C	136.28	136.67	Oh . 	
+D	136.32	136.68	Alright . 	
+A	143.6	158.24	smart uh to uh to include some things uh we can't , because of the new requirements . Well um then we can make some decisions about our remote control functions . We have to deb we have to decide it in this meeting what our function will be . 	
+D	149.01	149.2	'Kay . 	
+A	159.54	164.264	And then uh we can discuss uh some more closely . Uh 	
+C	163.71	166.19	We have forty minutes for this uh discussion ? 	
+A	165.65	174.0	Uh yeah , I think so . Well uh the closing uh we'll not uh look at it yet . 	
+C	168.11	168.4	Alright . 	
+B	173.872	174.441		
+D	174.84	175.25	Alright . 	
+A	175.7	180.37	Um now I'll look at show this board . 	
+A	184.77	185.632	Um 	
+A	186.95	188.59	Well uh notes , first meeting . 	
+A	191.52	191.76	Now . 	
+A	192.8	201.51	I gave a disc a a presentation . Uh we familiarised ourself with the boards and then we discussed some first ideas . So 	
+A	202.63	203.52	we said that uh 	
+A	204.76	229.77	we have to merge the strong points from our uh competitors , and uh look at their uh remote controls . We should make it uh compatible with our new D_V_D_ and other releases we have , our technical releases . Uh not too many one buttons . One recognisable button in the middle , where you do the most important functions with . And um well they can have two functions , because uh you have a D_V_D_ and a television . 	
+D	208.05	208.25	Right . 	
+C	216.69	217.03	Huh ? 	
+C	229.856	230.5	Yeah . 	
+A	230.89	235.04	Um the design has to fit the hand , be original , but also be familiar . 	
+A	236.512	253.53	It's uh one of our ideas . Yeah well that wa It's just thirty minutes ago , so it's not quite uh But well I have to do it . The materials uh well should be hard plastic with rubber from , and uh well the labelling of the buttons should be indestructible . 	
+C	238.228	241.275		
+D	239.088	241.376		
+B	239.606	240.452		
+D	243.648	245.18	Yeah . 	
+C	243.71	244.67	Mm-hmm , now it's right . 	
+B	253.302	253.744		
+A	253.71	260.32	It should be uh recognisable at all times . Yes . Well fronts were to be just like mobile telephones . 	
+C	254.28	256.833	It's meant to be easily wiped out , yeah . 	
+B	256.16	256.53	Mm . 	
+D	256.91	257.42	Okay . 	
+A	261.81	273.39	And uh the technical aspects um And also labelling of the buttons , the functions should be universal standards . Well that's just uh some ideas from the first meeting . It's quite logical al all of it . 	
+C	270.95	271.19	Mm-hmm . 	
+A	275.12	279.16	Um now the new project requirements , I'll just show them . I got this mail 	
+A	281.61	288.45	from uh our bosses . Well , teletext goes out . We will not use teletext . 	
+B	286.97	287.11	Oh . 	
+D	288.89	289.18	Okay . 	
+A	289.84	293.68	Maybe a new sort of thing , but n but not teletext . Well 	
+C	289.93	294.25	I I disagree , but uh it's not uh t it's not my place to disagree I guess . 	
+D	294.725	295.227		
+A	294.88	296.23	the second is a bit 	
+A	298.21	306.44	sh pity because we just said we wanted to d include the D_V_D_ and they don't want it , because of our time we have for this project . 	
+B	300.59	301.02	Oh . 	
+D	303.96	304.32	Alright . 	
+C	306.28	307.09	Oh , alright . 	
+B	306.86	307.92	Oh , that's a shame . 	
+A	307.54	314.81	So that's a shame , because uh especially for the third requirement we want to reach people under the thirty years . 	
+A	316.39	329.46	Because uh we don't have those customers a lot at th at this point . Um well it's a bit pity because it's just those people want to have uh one remote control for all those technical devices they can uh reach it . 	
+D	327.23	327.48	Yeah . 	
+D	328.95	332.94	But let's forget about it . It's just time-consuming , so we uh have to go on . 	
+A	330.87	331.2	Yeah . 	
+B	331.856	332.384		
+A	332.75	356.34	Well and uh our corporate image should stay rec recognisable in our products . So uh we have to uh use uh maybe a slogan , maybe a colour , and um Yeah well uh on our remote controls the design has to be uh , well as we already said a actually , uh familiar . Uh not only just uh the shape but also our company . 	
+D	350.34	350.69	Yes . 	
+C	358.35	373.61	Yeah , we are a real fashionable company . I read uh I read it on the I didn't know what company we were , but we we design uh especially trendy uh trendy trendy stuff . So it has to be uh a modern design . That's important to know , uh when you design a thing of course . 	
+A	362.82	368.39	Yeah . Yeah . Yeah . 	
+B	362.86	366.825	Yeah . 	
+D	363.39	363.43	Mm . 	
+D	364.8	366.4		
+A	369.8	370.17	Okay . 	
+A	373.56	382.14	Yes . I I uh noted uh our uh slogan that we have , our company . It's uh we mm put the fashion in electronics . 	
+C	382.44	382.67	Yeah . 	
+D	383.15	383.55	Right . 	
+A	383.51	400.62	So maybe that's a slogan we can put uh somewhere on our remote control or something . Alright then um we're going to uh have three presentations . You want to start ? Oh you have to start ? I didn't see anything about uh who had to start . Well s then start . 	
+B	387.46	387.83	Yeah . 	
+D	391.29	391.53	Yeah . 	
+C	393.6	397.045		
+D	393.86	405.0	Yeah . I think I have to start . Oh no , no problem . I I just have to uh to think which file's mine , 'cause I was uh bit in a hurry . 	
+C	397.815	399.49	The order ? No . 	
+B	399.24	399.61	Mm . 	
+B	403.83	404.533		
+A	404.97	406.202	Okay . Well uh 	
+D	406.81	408.16	I think it's this one . 	
+D	409.32	410.08	But I'm not sure . 	
+D	414.213	414.782		
+A	419.072	421.95	You already uh opened uh PowerPoint . 	
+D	420.35	422.3	Hmm ? Yeah . S 	
+D	423.25	423.63	Right . 	
+B	424.656	425.008		
+D	425.43	435.79	Yes . This is it . Well , I'm going to tell you something about functional requirements . Um to start with these points . Uh next sheet ? 	
+A	426.12	426.37	Yeah . 	
+A	430.49	430.71	Mm-hmm . 	
+D	437.37	450.79	Um at first I tell you something about what people dislike about the current uh controls , because it's uh a smart thing to exclude those things . Uh , furthermore it's very important what they do like and what they do use . 	
+D	450.93	467.6	Um then I tell something about um the most important issues . So we have to focus on those three thing three things . And in the end I'll um show you our target audience or our target product users , customers . 	
+D	468.85	473.13	Well , um the first findings are that people um 	
+A	469.862	470.532		
+D	474.2	477.66	think most controls are very kind of ug ugly . 	
+D	478.74	486.928	That's seventy five per cent of the current users . They don't like it , so we might think about fronts in that section . Um 	
+D	488.42	501.12	They also say , that's about uh I thought it was fifty per cent , uh that more money will be spent on uh better looking controls . So it's very important that you design a a nice looking control . 	
+D	504.89	511.79	Um the current user uses his machine just about 	
+D	513.44	532.24	well all of the time for a few functions . Uh , almost every user uses it d the the control for just ten per cent of its capacity . So it's really important to make the the buttons for the common uh tasks kind of big or kind of uh flashy . 	
+D	535.35	550.0	Furthermore , it's uh seventy five per cent of the users uh zaps a lot . Thus it might be uh might be smart to make a a big uh zapping button or something in the middle , so you can reach it with your thumb . Yeah , yeah right . 	
+C	545.825	551.12	You can zap away . Yeah . 	
+A	549.45	549.57	Yeah . 	
+D	553.32	553.58	Right . 	
+D	554.96	582.64	A lot of losers um users lose their controls in their in their living room . So it might be sensible to make some kind of a button on your television , that's your um your control beeps or something , that you can find this very easily . I dunno , maybe that's an idea . 'Cause it's uh a big I think fifty per cent of the users loses his its control , within the same room . So 	
+C	557.075	561.528		
+A	557.729	561.513		
+B	570.22	570.6	Yeah . 	
+A	570.553	575.91	Well 	
+C	574.21	574.41	Oh . 	
+C	579.803	580.7	Oh ? 	
+B	580.399	582.33	Yeah . 	
+A	580.56	597.12	It should actually uh It should actually be loose from the television , because it can also be used for other televisions . So if you deliver a small uh click-on device that you can put on your television , that bleeps to your remote control , everyone can use it . No you can click it on your television . 	
+D	593.97	596.18	Yeah but what if you lose your click-on device ? 	
+D	597.62	601.36	Yeah but if someone d somebody else uses it in ano other room or something ? 	
+A	601.824	605.55	Yeah in another room , yeah . Well yes . 	
+C	603.184	605.762		
+D	603.99	609.44	Nee but it it specifically says it's uh the the control is lost in the same room . 	
+B	604.529	604.964		
+C	609.98	610.38	Mm-hmm . 	
+A	610.32	610.54	Yeah . 	
+D	610.78	611.296	So 	
+D	612.32	631.55	Well a beeping device would be Uh furthermore the learning time is a problem . Uh thirty four thirty four per cent um thinks it's it's too uh too difficult to learn . So the the learning curve should be very short uh for the dumbest people should be able to use it . 	
+A	612.92	614.61	Well we'll have a look at it , yeah . 	
+B	631.013	631.516		
+C	631.86	637.666	I think our uh user uh expert should also consider manual a manual for the remote , of course . Uh 	
+D	637.08	638.56	Yeah but people don't read manuals . 	
+C	639.07	643.78	I didn't read it ? Oh , alright . users to uh add one ? Do you think ? 	
+D	640.17	640.58	No . 	
+B	640.28	640.57	No . 	
+B	644.82	645.602	I don't think 	
+D	645.09	651.22	I think you should put more time in the in the design of uh pick up and use , than a manual . 	
+B	648.04	648.45	Yeah . 	
+C	649.98	653.21	Mm-hmm . Yeah alright . Because they don't use it ? Alright . 	
+B	650.17	656.852	Yes you should You should could take a look at it and and and know how it how it's supposed to work . 	
+A	651.4	651.52	Yep . 	
+D	655.72	656.44	Yeah . Right . 	
+A	656.19	658.84	Well there sh should always be a menu , but it c can be very short . 	
+D	657.89	661.23	And it should be consistent with consistent with older remotes . 	
+B	658.61	663.1	Yeah but nobody reads a manual about a remote control , I think . 	
+A	663.72	664.53	Yes okay . 	
+C	664.37	670.48	Well maybe for the If you don't recognise a button who d who d who do I call uh wh when I don't know it ? 	
+D	664.82	665.21	Alright . 	
+B	669.37	675.485	Yeah right . It sh it should be there , the manual . But but not to explain how the remote works . Only 	
+D	674.86	683.07	And we don't have much time . So it's better to uh put our attention to the the design . So you can pick up and use it , than I think . 	
+A	682.72	686.89	Well we are a design team , we can say to some uh writer uh make a manual point . 	
+B	683.37	683.67	Hmm . 	
+D	686.51	687.39	Yeah right , right . 	
+C	686.542	689.98	Isn't it part of the of the u No . No . Never mind . 	
+B	687.401	687.836		
+A	687.61	688.04	So 	
+A	689.59	691.55	Well we'll have a look . Um yes ? 	
+D	690.56	709.792	Next point . Um R_S_I_ . Well that's about twenty per cent I thought . But uh the designer should uh take it uh should uh Wie zeg ik dat ? Yeah , consider the consequences of using your remote . It should be a good in your hand . 	
+B	691.72	692.189		
+C	704.53	705.47	Consider the m 	
+C	708.01	708.34	Yeah . 	
+C	709.64	709.91	Mm-hmm . 	
+A	710.31	710.48	Yep . 	
+D	715.08	738.752	Right , this is the most important part . Um , we're Like the requirements said , we're gonna specify of we're gonna target a younger audience . Um , that's about sixty per cent of the market , so it's uh quite important . Um research shows that they like to have a little L_C_D_ screen on their on their uh zapping uh device . Uh 	
+D	740.34	750.77	I thought it was the age between sixteen and twenty , ninety nine per cent of uh the people like that . So it's very important we should definitely have that in our uh designs . 	
+A	740.44	740.916	Well 	
+A	751.03	758.224	Well with twelve Euro fifty as production cost , we can't uh afford an L_C_D_ uh 	
+C	756.41	757.95	It's going to be expensive . Yeah . 	
+B	757.19	757.5	No . 	
+D	758.4	763.648	Yeah but they think it's really important . So if we want to s If we have a big 	
+A	761.7	762.12	Yeah . 	
+D	764.903	771.808	If we make lots of uh of the stuff , maybe we can uh buy it very cheap , I dunno . We have to uh 	
+C	772.94	774.33	Well we'll uh consider it uh . 	
+A	773.39	783.426	Well Yeah well uh it's your your task to uh look into the costs uh of those uh Nigh I know . 	
+C	775.55	776.807	We'll think abo we'll think 	
+D	778.13	781.632	Yeah , I don't know . I don't have any information on that . So 	
+B	780.39	780.992		
+C	780.64	783.43	No , we'll look we'll look into that later . Alright ? 	
+D	782.88	790.631	Right . And uh another thing is uh speech uh recognition . They also like that , but research is very uh costly . So 	
+B	787.673	788.343		
+B	790.03	792.68	I think that's uh difficult to realise also . 	
+D	793.2	794.208	Yeah , but 	
+D	795.25	797.55	it it might be important for the sale . 	
+C	797.06	799.17	We have very demanding clients . 	
+A	798.34	802.199	It's not yet a standard uh development uh those so 	
+B	799.12	799.312		
+B	801.03	805.05	No and we have customers in multiple uh countries I think . 	
+D	802.48	809.33	Well I do think L_C_D_ is more reachable than the speech recognition . So we might consider L_C_D_ screens . 	
+A	802.92	803.16	We sh 	
+A	806.35	807.37	Yeah absolutely . 	
+B	806.81	807.14	Yeah . 	
+B	810.454	811.84	No . 	
+C	810.55	817.83	Yeah , yeah , alright . Well we'll consider both and and see what uh what what we can find , I think . We don't rule them out uh yet . 	
+D	815.41	815.85	Alright . 	
+A	815.57	815.77	Yep . 	
+A	817.648	818.096		
+A	818.71	818.97	'Kay . 	
+D	818.72	822.144	Alright . Um , I think that's it . Um 	
+A	821.64	821.9	Alright . 	
+D	823.65	824.31	I think 	
+D	825.54	826.9	it is sensible 	
+D	828.62	833.55	to u uh to take this take these points into the notes . So you can Right . 	
+A	831.93	832.4	Yes . 	
+A	834.02	836.64	Well you I c I can uh still see your presentation . 	
+D	837.18	838.27	Yeah . Right . 	
+A	838.02	843.168	It's in the Well uh next um I dunno who is next . You uh got uh 	
+C	843.08	845.26	Shall I give a technical talk ? Alright . 	
+B	843.44	844.28	Oh you go . 	
+A	844.76	846.33	Yes . Well go ahead . 	
+A	849.783	850.688		
+C	849.97	855.63	Well uh it is my task to uh explain uh or to point out a working design . 	
+A	856.33	856.53	Yip . 	
+C	858.256	863.69	We have that here . Okay , how do you enlarge it , so that you can have the F_ F_ five . 	
+A	861.67	862.13	F_ five . 	
+A	864.048	864.98	F_ five . 	
+C	865.48	868.448	Yep . Well , the working design , that's my uh 	
+D	866.44	870.928	Alright . Next button . 	
+B	866.894	870.999		
+A	867.992	870.857		
+C	871.12	892.768	Well alright uh , you know who I am and what I do . So uh we have this . It's a bit uh unclear because I wanted to copy paste something . It was originally in black and white but it became black and purple . But I think you can read it . Um well um I think it's important uh for you to realise the basic function of a remote control . Uh well you can see uh 	
+D	878.59	879.08	Oh right . 	
+D	881.52	882.68	Purple . 	
+B	882.628	884.94		
+A	883.696	884.373		
+D	883.72	885.25	Yeah , yeah , yeah . A bit . 	
+D	892.7	895.56	Maybe you can select it . So it uh inverts . 	
+C	894.062	895.267		
+C	896.79	900.61	And I then can select I can select on the dings It goes to the next page . 	
+D	898.96	902.37	the p the whole picture . Nah , uh never mind . 	
+A	901.82	903.402	Click . 	
+C	902.34	926.94	Well , you can read it , it's not too difficult . Meanwhile , this is a schematic uh um view of uh how a basic remote control works . You have uh basically uh the energy , the power of the of the remote control , uh and the sender , w which is the LED , the the the the the the the the the bulb that sends the the infrared beam to the , no , to the set . 	
+B	903.57	904.71	Yeah , go ahead . 	
+D	925.29	925.67	Yeah . 	
+D	926.75	926.96	Alright . 	
+C	927.55	947.73	And uh the source is of course the user . Uh the user interface is um uh the the the buttons of course . And the the user interface sends uh the the different signals of the different buttons to the chip , and the chip uh sends it to the LED , and the LED sends it to the receiver . That's the that's the basic idea . Very basic . 	
+B	934.552	935.556		
+A	946.52	946.74	Yep . 	
+D	948.219	948.955		
+C	949.91	965.31	Um well I have uh uh put it in a in in in a a couple of basic steps . Uh the remote uh is basically just waiting for a user to press a key . It does nothing until uh of course uh the key is pressed . 	
+A	954.528	955.366		
+C	965.98	989.89	The key a signal to a chip , uh the chip senses the connection . uh and recognise the key . So well you understand . The chip uh produces Morse code , um a specific code to indicate that specific button that is pressed , of course . And it uses transistors in the in the remote control to amplify and to send uh that signal again to the to the LED , which is the bulb , of course . 	
+A	972.476	974.451		
+A	983.056	983.475		
+C	990.45	1003.46	Now the LED produces an infrared beam and signals the , well it's uh very simple , and signals the uh signals to the sensor on the T_V_ set , and the T_V_ set uh also recognises the the the signal , and performs the assigned task . 	
+A	995.0	995.29	Yeah . 	
+D	995.077	995.78		
+A	1003.78	1013.099	So it is also why we have to have a button that says uh I'm now busy with a D_V_D_ uh if we had done that . And a button for T_V_ . So 	
+C	1010.87	1029.681	Ah bu Yeah , but we don't . Uh we No no , but Yeah . Exactly . Uh well this is uh the basic uh function of a remote . I've some couple of pictures here . It's a very basic one . And uh if we if we're going to add an uh an uh L_C_D_ screen to it , it uh won't look anything like this , but 	
+B	1012.565	1013.369		
+A	1020.28	1023.963		
+C	1029.83	1045.56	This is very basic uh basically the the shape of um of a remote control . It has uh very little buttons and But it it uh it's it's quite um Yeah , you can easily recognise the buttons . They're uh far enough apart and an anything . It's not very um 	
+B	1035.514	1036.029		
+B	1046.69	1048.11	High tech . 	
+C	1046.83	1066.19	uh not very high-tech uh indeed , and it's not very user-friendly . Uh if you look at the shape , it's uh just a simple long box uh shape . So we have to uh change a little bit uh to that , uh so that uh it becomes more user-friendly , and that uh problems like uh R_S_I_ and uh those kinds of thing don't don't oc don't occur . Yeah . 	
+D	1063.35	1063.82	Right . 	
+D	1064.95	1089.22	Can I say something ? Um I have a table here about uh the l the relevance of the buttons . Uh the power button is used very much , channel selection , volume and teletext . Well teletext is not an option , so that uh But I think it's very important to make um the power , channel and volume buttons uh near to the thumb , so you can't have R_S_I_ uh consequences . 	
+C	1078.35	1078.65	Mm-hmm . 	
+C	1089.19	1092.935	Yeah , because they are the the most important buttons and you can immediately 	
+D	1091.18	1094.78	Right . Make them big , make them easy to uh to press . 	
+A	1094.18	1111.17	Well but but if you have um the most used buttons all in one place , and you keep making the same um well moves . But if y if you would put it at a different place , then you have to move your hands , and that's on of the things about R_S_I_ . 	
+C	1094.73	1096.66	You don't have to look and and search for them . 	
+B	1094.75	1096.423	You can also like 	
+D	1096.95	1097.34	Right . 	
+D	1103.72	1104.72	Yeah , right . Right . 	
+B	1103.75	1106.702	Yeah , I was thinking you can 	
+B	1107.941	1108.677		
+D	1109.72	1112.78	Yeah , that's right . That's right . That's right . We 	
+B	1109.89	1113.332	Are some of the the the um 	
+C	1112.37	1115.97	Well you you can't have any uh every button under the thumb , of course . 	
+A	1115.52	1121.24	No but the most important buttons m maybe you can just put them a bit apart so you would 	
+D	1116.03	1116.288	But 	
+D	1119.9	1122.969	Yeah . That's very important . And 	
+A	1122.21	1124.3	reject R_ R_S_I_ R_S_I_ . 	
+B	1123.7	1137.18	Maybe you can make , for for channel changing , two little buttons on the side of the remote , so you can just do like this . Like some uh little uh Gameboy things or some Hmm ? 	
+A	1132.59	1136.31	Yes I've saw that on m on mi mobile telephones they also have uh those buttons . 	
+D	1135.18	1141.71	But is that is that useable ? Do people , uh when they pick up a remote , know that they have to do that ? 	
+A	1140.752	1141.154		
+D	1143.25	1149.52	It's a f it's a new feature , you can make make a double feature l like a button on the top and under it . 	
+B	1143.47	1144.017	Well 	
+A	1144.34	1145.316	Well it it's 	
+C	1145.14	1145.45	Yeah . 	
+B	1145.74	1147.064	Yeah alright , but 	
+B	1149.29	1155.77	Yeah , but if you s say them up and down , they they'll understand it , I think . Eighty per cent would . 	
+A	1149.49	1153.288	Well also i if someone puts picks up his uh remote 	
+A	1154.9	1168.58	Yeah . If someone puts up i uh picks up his remote , and he picks up it he he touches the side then he's a already on the next channel . That's very irritating , I think . Well . No . 	
+C	1155.11	1156.62	Well , . 	
+D	1160.91	1164.85	Yeah , he feels it immediately . Yeah , that's right . Yeah . 	
+B	1162.33	1162.92	Yeah that's true . 	
+B	1164.82	1166.044	Yeah but 	
+D	1165.88	1168.64	Right , continue . Sorry . 	
+C	1166.79	1183.78	But in e in any case the the basic function should be uh indeed , and as you say at the thumb . I think that's a good idea , and uh and that the less important uh buttons , like the the the different channels , uh the numbers one two three four five as well , should be uh yeah well not in reach , because uh they don't use it uh all the time . 	
+C	1184.36	1195.54	Well it's uh pretty pretty basically uh as you said . And I have some pictures of the inside workings , but uh I don't want to get too technical , because uh that's not uh very uh useful for you . 	
+A	1186.0	1186.21	Yep . 	
+A	1191.36	1191.66	Mm-hmm . 	
+D	1194.36	1195.12	Yeah , that's right . 	
+A	1194.421	1197.459	That's your part of the job . 	
+C	1196.1	1209.89	So yeah exactly this is uh how it uh looks from the inside . And uh well that's about it I think . Oh yeah , I still have this . Oh I had to delete this , but I had to make a schematic uh of the of the new But I had too too little time , but uh don't uh 	
+A	1199.67	1199.84	Yep . 	
+D	1205.4	1205.63	Alright . 	
+A	1206.576	1215.85	Okay . Well we understand . We understand . Oh right , no . 	
+D	1207.424	1209.024		
+B	1209.426	1210.33		
+C	1211.22	1217.31	don't look at it please . I I think it's it's clear uh how it works . Alright . That's the most important thing . 	
+D	1212.18	1212.48	Alright . 	
+D	1214.02	1214.83	Yeah , it's clear . 	
+A	1217.36	1217.92	Nice . 	
+C	1218.68	1219.839	Alright . Uh 	
+A	1219.01	1221.76	Then uh Mike can uh give the third presentation . 	
+A	1224.85	1228.032	How late is did we start his presentation uh ? 	
+C	1224.87	1225.52	Right . 	
+D	1226.962	1229.33	I dunno . I think uh w 	
+D	1230.61	1231.58	About twenty minutes ago ? 	
+A	1230.62	1232.09	Wha Yeah . 	
+A	1233.18	1239.94	Well then we have still the time , so But we do have to come to a decision , right later on . 	
+D	1233.18	1235.534	Losing time losing time . 	
+D	1238.77	1240.054	Yeah right . So 	
+A	1241.24	1244.307	So 	
+B	1241.44	1241.76	Mm . 	
+B	1245.09	1250.43	Well I thought um everybody on the website uh would see the same thing , but 	
+D	1250.98	1251.76	I don't think so . 	
+B	1251.37	1253.47	obviously that's not the case . 	
+C	1254.16	1258.94	Yeah , uh there are different uh We have all have different home pages , with different links . Yeah . 	
+A	1257.71	1258.18	Oh yeah ? 	
+B	1257.94	1258.31	Yeah . 	
+D	1258.83	1259.28	Yeah right . 	
+A	1259.59	1259.8	Uh ? 	
+B	1260.04	1263.863	For instance you couldn't see this . 	
+A	1263.008	1264.99	Okay , yeah well . 	
+B	1264.85	1265.269	Um 	
+B	1266.93	1270.38	Yeah . Well I'm Mike , User Interface Designer . 	
+A	1269.68	1270.02	Mm-hmm . 	
+B	1271.31	1272.702	The the method ? Well 	
+B	1274.63	1282.68	I used my own experience with remotes , took a good l look uh at the remotes on the corporate website , which are these two . Um 	
+A	1281.91	1282.51	Yeah . 	
+D	1282.83	1284.0	These are already in use ? 	
+B	1284.52	1289.126	Yes , these are from from another uh manufacturer . Um 	
+D	1287.74	1288.8	Alright , okay . 	
+B	1290.43	1296.43	This one is engineering-centred , so this one has the most functions and um things . This one is user-centred . 	
+A	1297.31	1297.59	Yeah . 	
+C	1297.35	1297.8	Mm-hmm . 	
+B	1298.11	1298.782	Um 	
+D	1298.2	1300.15	Well Yeah , me too . 	
+A	1298.75	1302.24	I like user-centred . Yeah . 	
+B	1300.49	1304.35	I like user-centr centred uh uh also the best . 	
+A	1304.78	1305.71	We also do that . 	
+B	1305.41	1306.014	Um 	
+B	1307.89	1316.61	Well , I thought uh that we uh reduce the the option to control the D_V_D_ also , and teletext and that kind of stuff . 	
+D	1317.01	1317.31	Mm . 	
+B	1317.67	1324.961	Uh so I thought we we we would use more or need more buttons than this one . But 	
+D	1323.49	1326.47	But we have to reject that , because of the requirements ? 	
+B	1325.6	1332.428	Yes . Th that's why this mm is not relevant any more I feel . Um 	
+A	1326.12	1326.44	Yeah . 	
+A	1331.274	1332.64		
+D	1331.28	1331.62	Alright . 	
+B	1333.64	1337.12	I think this is about the maximum number of buttons uh we'll need . 	
+B	1337.99	1344.753	I um I kinda like the shape . I think this is what we talked about . But 	
+D	1337.99	1338.42	Yeah , right . 	
+D	1344.49	1344.7	Yeah . 	
+C	1344.714	1349.048	You can't really see uh the differ from different sides . But I think uh 	
+B	1348.56	1351.483	No I've Well I showed it somewhere . Um 	
+C	1350.94	1352.22	Uh you can draw it if you Yeah . 	
+B	1352.486	1361.248	Oh yeah . I think we should go further with the idea of a removable front . So we can can uh yeah customise the 	
+A	1358.16	1358.46	Mm-hmm . 	
+A	1360.82	1369.36	Well absolutely , but i th they all have to have something about um the recognition from our company . So we cannot just uh 	
+B	1367.81	1368.993	Mm ? 	
+B	1370.18	1375.321	Yeah . It's a front . It's not the the whole remote that changes , of course . You can 	
+A	1370.45	1371.28	make someone w 	
+A	1373.55	1384.17	No but that's th the side they look uh look at is the front . So if y if you make a a front with just a a tiger on it , then uh our recognition is totally gone . 	
+D	1374.7	1375.423	But it 	
+B	1382.45	1382.71	Mm . 	
+D	1384.34	1384.85	Yeah , that's right . 	
+B	1385.24	1393.294	Or you can you can can put the same symbol on on every remote . So l like Ericsson does every uh 	
+D	1388.25	1391.33	Yeah , that's a must . We must have that . 	
+A	1390.24	1393.376	Yeah , we must . Yeah well and and 	
+C	1390.66	1392.22	We can put it on the on the back side . 	
+B	1394.02	1397.31	S something like this . It's recognisable . 	
+A	1395.18	1395.61	Yes . 	
+A	1397.75	1397.92	'Kay . 	
+D	1398.27	1406.35	We can make a symbol of the company right here . And if you put a front on it , there's a hole on the front . So the symbol's always on Yeah . 	
+B	1398.43	1398.986	Um 	
+B	1401.5	1401.82	Yeah ? 	
+C	1403.81	1406.11	Yeah , so that you don't replace the symbol , yeah . 	
+B	1404.48	1406.82	Yeah yeah . Something like that , in the Yeah . 	
+A	1404.73	1412.99	Yeah yeah yeah . Or the th the the lowest part of the remote isn't changed by the front . Those kind of things . Yes . Okay . 	
+D	1409.36	1413.392	Yeah , yeah . But let's not focus on the front . 	
+C	1410.09	1410.41	Mm-hmm . 	
+B	1410.64	1410.84	Yeah . 	
+B	1413.96	1422.416	Um Well so uh uh like I said I thought we'd we'd use more function . If we we had to include more functions . But we don't . So um 	
+A	1422.41	1422.79	Mm-hmm . 	
+B	1423.91	1434.448	Yeah . I think this is about the maximum number of buttons we need . Maybe some less . Like eject we don't need , and some other buttons we don't need . I think uh 	
+D	1424.7	1425.19	Alright . 	
+C	1433.67	1438.02	Mike , uh can you put uh that picture from me on the in the Word documents file ? In Map ? 	
+B	1437.27	1445.696	Yeah , I will . I think uh for the remote um uh less is more . The less buttons the better the design . Um 	
+A	1445.4	1445.58	Yeah . 	
+D	1445.99	1447.08	Yeah , I agree . 	
+B	1446.46	1448.09	We should go with that concept I think . 	
+B	1450.33	1450.98	I know . 	
+A	1450.94	1451.39	Alright . 	
+D	1450.95	1479.04	I've I've got another point . Um there are two target audi audiences , and we've uh chose for the younger one . Um , research has shown that um it's a high interested uh in features . They are high high interested in feature . But they are more critical . Fo Yeah , critical . So The younger audience . So we must um must design uh a control that really speaks to the people . 	
+A	1452.55	1452.81	Yeah ? 	
+B	1458.39	1458.6	Mm . 	
+C	1470.57	1471.65	The younger uh 	
+C	1472.62	1472.89	Mm-hmm . 	
+A	1479.92	1500.8	Well what if we um I at I at home have a remote that has um the most familiar uh buttons on the top , and the bottom side of the front has a little clip , a f a little uh You can click away and then you have f much more functions that most people don't use but s some do do . 	
+D	1488.59	1489.02	Mm-hmm . 	
+C	1501.31	1509.536	Mm-hmm . I think uh the most functions uh underneath that uh uh No um mm usually 	
+D	1506.65	1507.79	Clip aren't used much . 	
+A	1508.4	1513.686	Well but because you say they their features are important , they want m um a lot , but not 	
+D	1511.33	1512.1	Yeah right . 	
+C	1511.97	1512.428	But 	
+B	1513.75	1519.279	Yeah , but what kind of features ? Like L_C_D_ screens and voice recognition . But I've 	
+C	1515.02	1517.618	Yeah I think m most 	
+D	1516.23	1517.38	Yeah but Yeah . 	
+C	1518.72	1519.664	Most uh 	
+D	1518.77	1525.37	Here , look at these numbers . The newest features are , like I said , are uh L_C_D_ and uh speech uh control . 	
+D	1526.42	1546.06	Our audience , these people , are very like these uh features . You see ? So we must build in something , or they will to uh go to the concurrent . The concurrent ? Competitors , right . So , I do think we have to uh have some features . 	
+A	1532.19	1532.41	Yeah . 	
+C	1532.36	1533.75	Mm-hmm . Uh . 	
+A	1538.16	1540.945	Competitors . 	
+C	1538.54	1540.43	Yeah . Our competitor . Yeah . 	
+B	1538.972	1541.19		
+A	1541.776	1542.176		
+A	1547.14	1564.97	Yeah . Well maybe w we could uh s On um some uh calculators you have lo those little little L_C_D_ th that you can click on or something , or that you can click uh out uh of the remote . And if if that's gives you a little bit of sta status information . Yeah . 	
+D	1547.4	1548.75	Even though they cost a little more . 	
+D	1555.27	1556.42	Right . Right . 	
+D	1563.61	1567.07	Like a ticker-tape . Which programme you are l watching or something . 	
+B	1567.09	1568.647	Yeah , that's nice . 	
+A	1567.81	1573.12	Those kind of things , uh because you also have those uh those program recognition for your V_ V_C_R_s . 	
+A	1574.37	1581.04	And uh well if y if your remote picks that up also , you they can display which programme you're currently watching . 	
+D	1574.79	1576.16	Yeah , right . Yeah right . 	
+C	1575.29	1575.64	Yeah . 	
+C	1580.71	1595.952	Yeah . So it it just signals the the different uh sig uh the different symbols on the screen you have , uh because if you change to s channel two you have two on the screen and two on your on your um on your L_C_D_ screen . 	
+A	1587.47	1587.82	Yeah . 	
+A	1593.2	1593.89	For example . 	
+A	1595.04	1598.94	It it could be such a little uh th that you can click in and out and you and you have it . 	
+B	1600.08	1603.539	Yeah , we should keep that simple too . It will 	
+C	1602.26	1610.735	But should it uh really be uh clickable , uh or or just integrate inside to try to make it d more trendy . 	
+A	1602.72	1602.91	Yeah . 	
+D	1605.1	1613.77	No not clickable . Nah , no no no . Yeah , just at at the top . So when you s you sit like this you can can watch . I think it should be at the top . 	
+A	1605.26	1606.01	Well maybe . 	
+B	1606.15	1609.499	No , it should be uh integrated . I think 	
+A	1612.8	1614.26	Yeah . Yeah . 	
+B	1613.11	1622.066	Yeah , something like on um some radios in car . You Where it's , yeah , walking to Yeah . 	
+D	1619.4	1621.52	Yeah right . It's a ticker-tape idea . 	
+A	1619.95	1621.48	R_D_S_s or something . 	
+C	1622.38	1630.24	But that's of course uh a bit more uh expensive than uh the basic uh calculator design , with the scrolling text and that kind of thing . 	
+B	1630.34	1632.53	Wa Yeah . 	
+D	1630.69	1632.416	Well it's just one script . 	
+A	1631.01	1640.288	Well I think it's you got It just means it's a script that's uh keeps it uh rolling , and it's not uh That's five minutes off uh implementing time I think uh 	
+D	1638.87	1643.27	Yeah , five minutes of ja ja for programming . So I don't think that's the issue . 	
+B	1641.524	1642.161		
+A	1641.73	1641.89	Yeah . 	
+A	1643.32	1643.6	No . 	
+C	1644.12	1644.46	Alright . 	
+D	1644.71	1646.84	Alright , we go with the L_C_D_ screen ? 	
+A	1646.66	1648.93	Uh well I think so , yes . Um 	
+B	1647.919	1651.87	Yeah well we we we still need to know how much that will cost . 	
+D	1648.19	1648.38	'Kay . 	
+D	1652.05	1654.784	Right , I don't know if I can find that , but 	
+A	1653.42	1655.7	We're g No but we're we'll have to look into that . 	
+B	1654.92	1658.67	Or maybe you will get that information uh Yeah . 	
+D	1657.22	1658.42	Next time . Yeah right . 	
+A	1657.35	1671.904	Um we can use this board again , I think . Uh we can put some um decisions about um the controls we want , th the issue . Where is my presentation ? Uh 	
+D	1671.93	1673.37	Yeah , I understand what you're saying . 	
+A	1673.968	1674.468		
+A	1675.43	1676.142	Uh 	
+D	1678.2	1680.8	We should have a general idea of how it's gonna look . 	
+A	1683.14	1683.609	Well 	
+A	1684.58	1692.49	I mean we're all here now , I think . These I've already given you . So we have to decide on the different remote control functions . 	
+D	1694.7	1694.9	Right . 	
+A	1694.74	1698.95	So we want to have a small L_C_D_ screen that's special . 	
+D	1697.9	1698.59	At the top . 	
+C	1700.55	1707.26	Shouldn't we start with the most important parts ? The L_C_D_ screen alright but we should start with the power button ? Uh 	
+B	1701.76	1703.68	At the top or at the bottom ? 	
+A	1702.05	1702.42	Yes . 	
+D	1704.37	1706.027	I think the top is more uh 	
+A	1706.89	1707.13	Yeah . 	
+D	1707.81	1710.99	When you s How do you zap ? You just sit in your chair ? 	
+B	1707.87	1708.635	Yeah but 	
+A	1709.788	1710.458		
+A	1711.429	1713.94		
+C	1711.79	1712.0	Huh ? 	
+D	1712.36	1712.95	With the remote ? 	
+B	1712.37	1721.304	Yeah but with with the L_C_D_ screen on the top it gets a bit unnatural . 'Cause most remotes have some space left at the bottom . 	
+A	1714.8	1715.99	That thing is terrible . 	
+D	1720.85	1724.59	Yeah but that's where your hand ball might be . Yeah , I dunno . 	
+A	1722.99	1723.449	Uh 	
+B	1723.9	1725.5	Yeah , no Mm . 	
+C	1725.92	1726.963	And then uh 	
+D	1726.67	1728.832	We'll draw two , and then we'll see uh 	
+C	1728.83	1732.689	Maybe we should uh centralise the discussion here . I dunno what uh you were talking about but 	
+D	1731.88	1741.11	No Um he thinks Yeah , right . He thinks it's better to put the L_C_D_ at the bottom , and I think it's better at the top . 	
+C	1734.019	1735.83	we are busy with something . 	
+C	1741.49	1743.12	Uh-huh . Why do you think it's better at the bottom ? 	
+A	1741.89	1742.429	Well 	
+B	1744.2	1754.26	Uh well because most uh remotes have um some space left at the bottom , and that way you can keep the shape recognisable for everybody . I c 	
+D	1752.04	1752.758	But your 	
+C	1753.6	1759.31	But you just can put uh the the the the the whole interface a bit down , so that there's room for the for the interface . 	
+D	1757.14	1765.888	Yeah . The the ticker The L_C_D_ is like like small . It's it's wide . It's not not high . But 	
+B	1757.76	1760.414	Well I d I think that's that's ugly but 	
+C	1763.06	1763.44	Uh-huh . 	
+B	1764.613	1766.48	I th 	
+A	1765.0	1777.26	Well I th I think Mike Mike has a point , because um when when uh when I use a remote I l I hate the buttons but buttons at the at the bottom . So and and I I like to use the ones 	
+C	1765.16	1767.14	And and we can 	
+B	1767.29	1770.19	Yeah . Power button always Yeah . 	
+C	1773.76	1774.11	Bottom . 	
+B	1774.1	1774.29	Yeah . 	
+B	1775.59	1779.41	Yeah , y you gotta zap like this or you want to Yeah . 	
+A	1778.48	1782.3	on the top . So when I u when I have to have an L_C_D_ s scr window 	
+D	1778.97	1779.916	Yeah right . But 	
+C	1780.74	1784.92	Well that's a bit exaggerated . Well , I agree with you . 	
+D	1781.29	1787.11	We're making a remote with with a few functions you know . We 	
+C	1786.47	1793.16	It's it's also more recognisable . It looks more like a calculator to people , if you have the l the the 	
+D	1793.39	1794.26		
+A	1794.2	1802.572	Yes but we we we we don't want that . We don't want them to look like a calculator . We want to look it like our original but familiar 	
+C	1794.98	1796.365	the thing on top . 	
+B	1796.21	1799.98	Yeah you don't want You want uh Yeah it it it must be a remote . 	
+C	1801.52	1811.28	Yeah w well , but uh you don't have to throw uh um important aspe important aspect like familiarity uh completely away , uh because I think it's uh 	
+B	1802.68	1803.22	Yeah . 	
+D	1805.73	1807.893	High-tech . 	
+A	1806.818	1808.22	Yea 	
+D	1809.664	1809.984		
+A	1810.17	1814.525	Maybe a bic uh better uh white uh We White ? 	
+C	1814.1	1816.53	I think it's still important to have it at the top , because it's uh 	
+D	1814.19	1814.52	Width . 	
+A	1815.04	1818.14	Width . Uh format yeah format ? Line width ? Width ? 	
+D	1817.904	1822.62	Th that's not a problem . When I draw here it Oh . Huh ? 	
+C	1818.58	1819.6	it's more familiar that way . 	
+A	1819.88	1820.12	Yeah ? 	
+B	1821.934	1822.318		
+A	1823.56	1826.954	It's a bit off . Well . 	
+D	1824.3	1824.91	Yeah , it's off . 	
+C	1825.055	1826.71	A little a little bit . 	
+D	1826.304	1829.924	It it needs to be calibrated again . Well 	
+A	1828.05	1830.735	Well uh let's uh talk about that later uh 	
+C	1828.805	1832.45	Maybe you should another pen . Maybe that's uh better . 	
+B	1830.186	1830.722		
+C	1833.258	1836.44	You e you only have one pen for that screen . Yeah . 	
+D	1833.31	1833.55	Where ? 	
+D	1834.838	1839.793	Alright , we have to make a decision now , because we don't have much time . Um 	
+A	1834.97	1835.84	It's special pen . 	
+A	1837.81	1839.11	Yeah . No . 	
+D	1841.24	1849.67	I think we have uh a few functions , and we can put uh the L_C_D_ above it , and still have lots of room at the bottom , where you can put your hand . 	
+C	1848.4	1849.66	Yeah . I I agree . 	
+A	1850.04	1851.78	I think it should be at the button , bottom . 	
+C	1852.36	1855.453	Well I'm the I I'm the designer , so um 	
+B	1852.39	1857.52	At the bottom ? In a few minutes Oh yeah , oh yeah , I totally agree . Yeah . 	
+A	1852.78	1854.32	Bottom . The L_C_D_ . 	
+D	1854.82	1855.24	At the bot 	
+A	1856.04	1856.35	Yeah . 	
+D	1856.62	1857.137	So 	
+D	1858.13	1860.853	We are two uh V_S_ two . 	
+B	1859.486	1860.29		
+A	1859.82	1867.42	Well but uh what what if we we first decide the different functions , and then look at the design . Because we have to decide this . 	
+B	1861.9	1863.403	He's the boss . 	
+C	1864.13	1864.45	Yeah . 	
+D	1864.48	1865.4	Right . Great . 	
+C	1865.39	1873.01	Uh we uh we were busy with that . Uh yeah we should uh summon the the different uh aspects of the thing . So , we have the power button . 	
+A	1869.32	1869.61	Yeah . 	
+D	1872.58	1879.744	And moreover I think that you two should be uh come to consensus about the L_C_D_ s . It's uh your it's your job . 	
+A	1877.23	1877.61	Yes . 	
+C	1879.31	1881.38	Yeah of course . Uh it's uh . Yeah . W wh 	
+A	1879.359	1882.9	Well we have a power button . Guys ? 	
+B	1880.54	1884.551	No it's our job . For all of us I think . 	
+C	1882.7	1886.69	While you have to agree , I can say it's like this and you must agree . Yeah . 	
+D	1883.69	1884.18	Yeah , right . 	
+A	1885.43	1890.72	Guys ? We have a power button , setting buttons , L_C_D_ window , the number buttons 	
+D	1885.89	1887.07	Alright , let's keep it central . 	
+B	1888.871	1891.04	The ten numbers ? Yeah ? 	
+C	1891.47	1892.1	Channel , yeah . 	
+A	1892.47	1892.672	Uh 	
+B	1894.14	1894.69	Volume ? 	
+C	1894.99	1895.67	Volume control . 	
+A	1895.8	1896.3	Yes . 	
+C	1898.99	1899.893	Um 	
+D	1902.01	1902.68	Mm . 	
+A	1902.28	1906.26	Uh the mute button . I h love that one . 	
+C	1902.32	1904.48	Well let's look at your uh design . Uh 	
+D	1906.56	1907.263		
+C	1908.08	1908.53	Uh-huh . 	
+B	1909.68	1913.92	I think we we should use something like this um to um 	
+B	1915.31	1919.57	The the channel up and channel down button ? Yeah , in circle , you know ? 	
+A	1917.56	1917.8	Yes . 	
+A	1919.52	1922.27	Yeah . Yeah yeah yeah . Well that's that's also design . 	
+B	1921.07	1923.96	And and a volume control also in it . 	
+A	1923.41	1923.87	Yes . 	
+D	1925.88	1926.2	Right . 	
+A	1926.16	1927.756	Um 	
+C	1927.366	1934.129	Yeah . But th th on this remote th these controls are for something else , a D_V_D_ player or something . So 	
+A	1928.85	1929.51	Well h ho 	
+A	1932.21	1934.896	Yes . Yes . They are for some uh video uh 	
+B	1932.94	1936.8	Yes , as I already said , we could drop some of these buttons . 	
+D	1936.07	1941.89	You should put that uh power button , channel and volume should have the most uh importance . 	
+B	1942.23	1942.64	Yeah . 	
+B	1944.11	1947.25	I think these should be in one big circle in the middle . 	
+D	1947.2	1948.88	Yeah , but what he said about R_S_I_ 	
+D	1950.12	1971.29	was t kinda true . When when you uh put them all in the same place , the most used buttons , you're doing the same thing all the time , and that's just what R_S_I_'s all about . So it might be smarter to put them a little more away from each other . 	
+A	1959.203	1960.978		
+A	1970.03	1970.39	Apart . 	
+A	1972.55	1978.75	So people have to move their hand . And they get less uh complaints of R_S_I_ . 	
+C	1978.73	1986.69	Yeah , it's it's also not good to completely stay in one position constantly with one hand . Y Yeah . It's good to move uh from time to time . Yeah . 	
+A	1981.079	1981.643		
+A	1982.45	1985.91	That's what I always do , because all my i important buttons are the same place . 	
+B	1983.074	1983.61		
+B	1986.77	1992.21	Yeah but people don't like it when their buttons are all over the place . They they need to be centred . 	
+D	1986.94	1987.587	Um 	
+A	1987.08	1987.44	Yes ? 	
+C	1990.96	1993.76	No but now y W would we have to choose a 	
+A	1991.07	1991.794	Well not 	
+D	1994.65	2012.62	Frequency of uh button use . Um channels are uh most uh is most used within the hour . You can see . So the the channel uh channel buttons should be far far apart , I think , up and down . 	
+C	1995.16	1995.73	way in middle ? 	
+A	1996.5	1996.8	Yes . 	
+C	1997.392	1998.224		
+B	2002.795	2004.05	Volume hardly . 	
+A	2002.88	2003.2	Uh-huh . 	
+C	2006.924	2009.71	Mm-hmm . 	
+B	2012.42	2013.36	No I don't think . 	
+C	2012.884	2014.69	Oh . Far apart ? 	
+A	2013.95	2015.65	Up and down far apart from each other ? 	
+D	2015.51	2018.73	You thinking uh about R_S_I_ ? 	
+B	2018.06	2018.648	Yeah but 	
+B	2019.71	2022.097	Yeah but No . 	
+A	2019.81	2023.183	Well not too much . 	
+D	2019.95	2023.712	Y look at uh look at the frequency . Nei not too much , but 	
+C	2021.312	2023.866		
+B	2024.912	2028.336	The other the other two uh frustrations are far more important . So 	
+C	2029.2	2036.93	I think you can have the two buttons of up and down close together , but you don't have uh have to have volume control and and zapping button close together . 	
+A	2034.6	2048.96	Well for example the power button , you can If someone is constantly z zapping , it's not going to miss , that it that the power button is not right beside it . Because I have someone But the buttons is way . So that one can be put away . 	
+B	2037.07	2039.153	Well they are used four times an hour , so 	
+D	2045.13	2048.056	Nei nei nei n I I totally agree . But just 	
+D	2049.14	2049.93	Yeah . Right . 	
+D	2051.11	2052.43	Yeah . I agree . 	
+A	2051.83	2054.578	The power button can uh be uh uh 	
+B	2054.13	2057.672	Power bu button should be left at the top . 	
+A	2055.583	2056.051		
+A	2056.9	2061.248	Yes . Oh man , five minutes . 	
+D	2056.9	2058.23	And should and should be red . 	
+C	2057.98	2058.46	Yeah . 	
+A	2062.39	2066.17	Yeah , well five minutes left . Yep . 	
+D	2063.08	2065.37	Right , just make some decisions . 	
+D	2066.34	2068.347	The most important things we have to uh 	
+A	2068.2	2070.59	Um how are we going to do it with those numbers ? 	
+C	2069.5	2079.3	C c can you make you make We can use uh the drawing board now , I think . Uh it it doesn't work well but But it it would be pretty pretty uh nice if we could just draw a simple thing . 	
+A	2075.01	2075.74	Well I have it here . 	
+D	2078.82	2085.37	I do think you have to keep you have to keep it central now . Just uh you decide that , you decide that , and ready . 	
+A	2079.1	2082.23	Yeah well that's going to take too too much time . Yes . 	
+B	2081.65	2082.49	Mm . Yeah . 	
+C	2083.63	2084.97	Mm . Alright . 	
+A	2084.22	2084.64	Yes . 	
+A	2086.34	2099.28	Well the L_C_D_ . Um you are Industrial , you are User Interface . So I think it's going to go to Mike . But you will have to make consensus with . Well 	
+B	2094.81	2095.245		
+D	2094.98	2095.32	Yeah . 	
+B	2100.84	2104.386	Well consensus , um We we can put it in the middle , so 	
+A	2101.82	2105.45	Well it's a bit hard , because we are going to be uh individually . That's a bit uh 	
+D	2102.24	2106.64	Nei . We're No We're deciding now , so 	
+A	2106.12	2106.52	Yes . 	
+D	2108.51	2109.13	Top or bottom ? 	
+C	2109.77	2118.336	Well uh yeah I I still think it's it's quite important though to uh to have it at the top , so Yeah . You say familiarity isn't important but 	
+A	2113.32	2113.92	Yes it is . 	
+A	2118.28	2123.36	Well what if we're going to now decide about the functions , and the design comes into the next round ? 	
+D	2125.1	2125.46	Okay . 	
+A	2125.52	2128.0	Plus the d th the design round is still to come huh ? 	
+C	2126.06	2126.69	Yeah d 	
+D	2128.11	2129.09	Yeah , right . Okay . 	
+C	2128.16	2128.55	Yeah . 	
+B	2129.02	2129.31	Alright . 	
+A	2129.27	2143.68	Alright these functions . The number f Well yes , that's alright . W the number function . Are we going to uh do it like uh on Mike's screen with uh one button that says I'm going to do a t two number digital ? 	
+C	2130.3	2134.37	As we we we we agreed , we do have a L_C_D_ . So that's 	
+D	2134.0	2134.94	Yeah , okay . 	
+C	2135.42	2136.42	that's enough . Yeah . 	
+B	2144.08	2144.57	No . 	
+A	2145.65	2146.49	How do you want it to do then ? 	
+C	2147.21	2149.89	There's one two three four five six six seven eight nine zero . 	
+B	2147.33	2150.35	Well just when you push a one one and 	
+A	2148.28	2152.6	It it has to r recognise one as there could still come more . 	
+B	2153.15	2162.45	No , if you On most T_V_s if you uh press two numbers shortly after each other , d it Yeah . Yeah . Yeah . 	
+C	2154.24	2155.504	Oh , like that . Um 	
+A	2158.77	2159.16	Yes . 	
+C	2159.26	2163.49	They'd recognise it . Th that's the most That that's very easy . Yeah . 	
+A	2160.26	2161.63	Alright so no button for that . 	
+D	2162.53	2162.89	No . 	
+A	2164.75	2169.87	Okay uh anyone any uh oth other functionalities of our uh remote ? 	
+C	2170.15	2172.69	I think these are the the most important functions . 	
+D	2172.17	2173.7	Do you still have the pictures over there ? 	
+B	2174.03	2174.31	Yeah . 	
+A	2174.66	2175.148	So 	
+D	2181.31	2182.07	Yeah , that's about it . 	
+D	2185.02	2194.241	You do need the uh multi Or did uh No , like this one . You do need them ? Yeah , I know . But are we 	
+A	2191.54	2193.496	No , we'd uh just said we didn't uh 	
+B	2193.094	2193.63		
+D	2195.12	2197.84	Alright , alright uh Now okay . 	
+A	2195.157	2196.992	Well uh 	
+A	2198.256	2209.19	Um well because we can't integrate it with any other uh remotes , all those buttons on those pictures are uh irrelevant . So just for a television is that all we need ? 	
+D	2206.39	2206.67	Right . 	
+D	2210.17	2211.66	Yeah , it's most useable this way . 	
+C	2213.491	2214.99	basic function . 	
+B	2214.09	2214.61	Yeah . 	
+A	2215.19	2221.44	Teletext is gone . So all those buttons that ar are to do with teletext Oh screen placing . 	
+D	2219.584	2219.856		
+A	2222.71	2224.608	We'll have uh those uh buttons about uh 	
+D	2225.52	2225.728		
+A	2226.14	2236.27	And uh the two important ones we're l f forgetting . Uh there's um screen . You can make it wider and less wide . And the button that you can go to A_V_ for your video . 	
+D	2232.04	2232.39	Yeah . 	
+D	2236.49	2239.91	Right . I do think we have to put that underneath a clip . 	
+C	2237.53	2238.17	Oh yeah . 	
+A	2240.64	2242.81	Those two ? But it's just two , and we make a clip ? 	
+C	2241.88	2245.337	Uh just two just two under uh under uh 	
+D	2242.17	2242.974		
+A	2244.24	2245.57	Th that's a bit uh waste . 	
+B	2244.71	2248.83	We we can make make uh a little row of like four buttons down here . 	
+A	2248.63	2249.04	Yes . 	
+D	2249.27	2250.13	Yeah . Okay , right . 	
+C	2250.08	2251.263	I I think uh 	
+A	2250.18	2254.256	Or at the top . Your L_C_D_ screen is going to go . 	
+B	2252.83	2254.93	Or at Yeah alright then . 	
+C	2253.5	2264.416	But you you can put uh two or three buttons under uh another section . Uh that's that's too complicated . You can just put it somewhere They they aren't used much , not as much as those other , so you can put it somewhere 	
+A	2258.66	2259.08	Yes . 	
+A	2260.41	2260.63	Yeah 	
+B	2263.46	2266.89	Oh , they can be small or round like buttons . 	
+C	2265.45	2270.74	Yeah s bit smaller and s Well uh and and I think more at the bottom . Yeah . 	
+C	2273.45	2277.97	Yeah or at the top , yeah . What do you think uh those those buttons ? Above or down ? 	
+A	2277.05	2280.9	Well I think they should in an in an isolated part of the remote . 	
+C	2280.96	2286.74	And w where ? Well we design it later . We have it , and we design later where everything goes . Yeah . 	
+A	2284.53	2288.696	Yes ? Yes . Yes . Well any other uh 	
+D	2289.73	2293.312	Well if you you take those th If you 	
+B	2290.71	2291.87	Why go to video ? 	
+A	2292.83	2298.76	Go to video , that's always on your remote control . To A_V_ uh to A_V_ A_V_ A_V_ . 	
+D	2295.22	2300.416	Yeah , but you can z you can zap t you can you can zap to the video channel from zero to uh 	
+C	2297.17	2298.31	The the video channel uh ? 	
+B	2299.22	2300.75	That's just zero . Yeah . 	
+A	2301.65	2303.36	Well l n no not at not at my remote . 	
+C	2301.76	2306.34	No no not always . Ze yeah zero is a different channel than uh the the video channel . 	
+B	2303.486	2304.123		
+A	2304.96	2305.25	Yeah . 	
+B	2305.31	2307.538	Yeah , but you can can zap down 	
+D	2306.46	2309.18	Yeah , but when you zap down zero you get to A_V_ . 	
+A	2308.38	2308.81	Yes . 	
+B	2309.55	2310.61	Yes , I think th 	
+A	2309.97	2313.521	I don't . I go to ninety-nine . 	
+B	2312.26	2314.88	No , then you press ninety nine . I think go to video is 	
+D	2312.3	2314.92	Ah uh well whatever , . 	
+B	2316.09	2317.683	an irrelevant button , but 	
+A	2316.1	2317.96	Th that's the button uh No . 	
+C	2317.8	2332.23	But it's easy to go If you are at uh at channel uh fifty five and you want to uh go immediately to the video channel , you do you have to push a to to get below zero . It's more easy to get to uh where the specific uh video channel button . 	
+A	2327.43	2333.613	No you can ch push zero . Yeah . Yeah , I I think that one button is uh I use it uh 	
+D	2333.92	2345.504	Yeah , but if we're choosing to uh incorporate these buttons , you have to have uh channel setting , if you wa if you have a new T_V_ . You have to set the channels . Right all th these uh different buttons you have to 	
+B	2334.186	2334.822		
+A	2341.89	2342.14	Yeah ? 	
+A	2345.16	2348.65	These buttons , I don't have buttons for channel setting uh especially on my remote . 	
+D	2348.98	2350.224	Ah , I do . 	
+C	2349.17	2355.73	Yeah well uh d different screen settings a Yeah , sk Yeah y you you you you have screen width . 	
+A	2349.8	2354.02	It's it's incorporated with p m plus and down , uh those 	
+B	2350.05	2351.63	Yeah well y you must have . 	
+B	2354.22	2362.304	Yeah you yeah you have one one button from s set frequency o or something , and then with plus and min minus you can uh adjust the uh 	
+A	2358.372	2358.841		
+D	2361.43	2364.7	Right . That's the only one we put uh in there . 	
+A	2366.46	2368.67	So we still have one uh four ? 	
+D	2368.99	2372.09	For a screen uh fu uh channel setting . 	
+A	2371.02	2372.1	Ch ch 	
+C	2372.94	2377.01	Yeah to uh oh yeah of course to configure the programme the Yeah . 	
+D	2374.84	2375.81	Programme , right . 	
+A	2375.71	2384.27	Okay . Oh the Okay button ? Oh you always have in the centre an Okay button , for your menu . Menu button . 	
+D	2378.92	2379.614	Uh 	
+C	2382.04	2382.46	Yeah . 	
+B	2382.11	2382.77	Yeah , alright . 	
+C	2385.24	2393.34	You should Yeah . I think that's important . Uh And and the settings to change the brightness the settings to change the brightness and the contrast . 	
+A	2387.85	2392.248	Channel , setting , menu . We have to go . 	
+D	2392.029	2393.469		
+A	2394.5	2394.95	Okay . 	
+C	2394.87	2395.53	Channel , yeah . 	
+D	2396.784	2398.257		
+A	2396.91	2398.67	So um Save . 	
+C	2398.0	2398.31	Chief ? 	
+C	2400.28	2400.69	Chief ? 	
+A	2401.14	2401.9	Yes see . 	
+C	2402.08	2404.929	Th the menu menu button is also important . Then you can uh 	
+A	2404.16	2405.16	Yes I have put it in . 	
+C	2405.81	2409.87	Where ? I don't see it . Oh Menu , alright . 	
+A	2408.48	2408.82	Here . 	
+A	2409.872	2410.724		
+B	2410.0	2415.15	I think things like uh contrast and brightness should be um in the menu , yeah . 	
+C	2413.82	2423.64	In the menu . And you can uh then adjust it with the zapping buttons or something . Because uh the zapping buttons aren't used then if you are in the menu . Yeah . Or the volume , yeah . 	
+B	2419.22	2420.021	Yeah , the 	
+A	2419.94	2420.31	Alright . 	
+B	2420.85	2422.52	Or the volume or something like that . 	
+A	2422.16	2430.026	Guys ? We're going to uh go to our uh rooms , and uh we'll have to decide s things on our own I think . So 	
+B	2426.36	2427.11	Your pen . 	
+D	2427.46	2428.97	Ah . Great . 	
+C	2429.45	2429.96	Yes chief . 	
+A	2430.704	2431.424		
+D	2432.2	2432.67	Alright . 	
+B	2433.35	2435.67	I thought we'd uh lunch uh right now , or not ? 	
+A	2433.66	2437.772	Well see you uh W w we have lunchtime , by the way , now uh so uh 	
+C	2434.28	2435.79	Yeah this is this is your thing . 	
+D	2436.48	2438.45	Ah . Okay . 	
+B	2436.64	2437.8	Yeah , lunch break . 	
+C	2437.88	2443.264	I am hungry . 	
+A	2438.88	2439.49	Lunch . 	
+D	2439.632	2442.609	Get into my belly . 	
+A	2442.71	2450.645	Ah . We didn't exactly do everything but So 	
+B	2445.957	2448.201		
+C	2448.08	2449.707	See you later mate . 	

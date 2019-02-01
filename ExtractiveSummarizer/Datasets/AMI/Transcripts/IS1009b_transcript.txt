@@ -1,0 +1,412 @@
+Found 4 args.
+Observation: IS1009b; Result size: 409; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+A	37.32	38.65	Okay , is everybody ready ? 	
+C	39.06	39.27	Yeah ? 	
+D	39.73	42.79	Yeah I'd to just put on my microphone here and I'll be right with you . 	
+A	43.16	43.5	Mm-hmm . 	
+D	45.13	45.35	Okay ? 	
+A	47.17	58.69	Um I take it you all have received instructions as to what you were supposed to do and um 	
+C	55.21	55.44	Mm ? 	
+B	55.71	56.11	Yes . 	
+A	60.79	67.33	I think the Marketing Manager probably should go first , addressing the needs and desires . 	
+D	75.391	77.03	Okay you want me to start right now ? 	
+A	78.43	79.03	Yeah , mm-hmm . 	
+D	79.32	86.44	Okay . Well , could you um put my slides up 'cause I think it might be helpful if uh we looked at the slides at the same time . 	
+A	79.93	80.292		
+A	86.28	86.64	Okay . 	
+A	95.59	97.05	You're participant four . 	
+D	96.82	98.86	I'm participant four I believe . Yes uh-huh . 	
+D	100.69	101.13	'Kay . 	
+A	100.96	103.73	Okay , and now I can uh full screen . 	
+C	104.21	104.61	Open . 	
+A	106.29	107.53	Uh , okay , okay . 	
+D	108.47	119.58	There we go . Okay well I think we have introduced ourselves , so the functional requirements are is is part of my goal but why don't we pass right to the second slide . 	
+C	110.39	111.17	And then full screen . 	
+D	120.69	165.31	Cause that's where m my discussion starts . Right well um since I'm in charge of trying to figure out what we should put on this thing since I have to try to sell it . Um I thought that the method I should follow would be gather suggestions from everybody , and th the reason I just put that there like that is that uh in the init in the initial stage I think I should just be open to lots of suggestions . You know you can say anything you want no matter how silly it sounds you know it should run your car , it should heat up your motor if should um turn on your C_D_ whatever you want it to do um and then as we go on what we'll have to do is accept and eliminate these suggestions according to um design and budget feasibility . 	
+C	130.02	130.29	Mm-hmm . 	
+C	155.16	155.39	'Kay . 	
+D	165.62	213.22	So I'll be coming to you um frequently as the Industrial Expert to tell me how hard it's gonna be to add a feature or how expensive it's gonna be or if your time , if it takes five years to develop this it's just something we can't do . So in the beginning just have a big puddle of things that we anybody can th throw anything in and then just weed things out that can't be done for one reason or another , and then the things that seem the most attractive that to uh to a customer we'll try to then prioritise those . So that was um what I meant there , and as I said on the slide there consulting the Industrial Engineer about that and the other thing is timing is really gonna be as important as money , because if we're gonna sell this thing , I think the best time to sell it is as a Christmas present . 	
+C	169.39	169.6	Mm-hmm . 	
+C	171.69	172.05	Yeah . 	
+C	173.86	173.98	Yeah . 	
+C	174.57	175.03	Yeah . 	
+C	177.46	178.4	Hmm hmm . 	
+C	179.12	179.32	Mm . 	
+C	182.06	182.36	Yeah . 	
+C	195.35	195.62	Mm-hmm . 	
+C	197.33	197.65	Yeah . 	
+D	213.64	261.02	Twenty five Euros makes a nice little present , and we want it to be an impulse purchase , we want somebody to see it and think it's , gee I just gotta have that . And take out their wallet and buy it . So it's gotta be really attractive and it but it's gotta go to market by September , 'cause anything that you don't already have out there in September showing it around , isn't gonna sell for Christmas . Um and then I'll be coming to you as the User Interface person to try to tell me from your point of view what are the most friendly features that we could put on it and try to prior help me with that prioritising of uh of the features and of the the look and the colour and I'll be coming back to you to help weed out those suggestions from that point of view . 	
+C	218.1	218.41	Mm . 	
+C	232.67	233.02	Yeah . 	
+B	250.63	250.89	Okay . 	
+B	260.98	261.32	Okay . 	
+D	261.31	292.06	So I'll be coming to you for how much is it gonna cost us and how long is it gonna take you , and I'll be coming to you to tell me what's gonna make somebody take out their wallet you know , what what's what's gonna really be what they call a sizzle , 'cause we gotta sell this sizzle . A lot of times the thing that works the best from an engineering point of view isn't the thing that somebody's really just gonna take out their wallet and buy for Christmas for for their child or for their husband or whatever . Okay can we go to the next slide please ? 	
+C	264.84	265.54	Mm mm-hmm . 	
+B	269.25	269.98	What features . 	
+B	275.7	277.41	S sellable . Yes . 	
+C	277.375	278.245		
+B	289.01	289.27	Yes . 	
+D	294.86	344.59	Alright I I already did a little bit of research after our first meeting where we threw out some ideas and it looks to me that within the budget that we're looking at the uh the whole house idea really isn't gonna be possible . So I'd like your suggestions to come back to the other slide where I was saying we we could suggest anything . I'd like the suggestions to be really specific , so that we'll have a list of things we can cross off , not something like you know whole house control what'll be And then I found on the internet from from my research that some extended electronic entertainment control should be possible . At the budget that we're looking at and at the price point we're looking at , we should be able to make it work the T_V_ , the V_C_R_ , the stereo set um maybe something else cute like a coffee pot or one other appliance or maybe a lamp . I have to wind up ? 	
+A	310.144	310.528		
+A	341.306	381.07	Uh okay , can can I at this point interject um something ? Um we have received instruction from higher up that certain things should not be uh considered . Um the one thing for example something to eliminate maybe that's the teletext , because that's sort of outdated with the internet , and according to to higher management the it should only control the T_V_ , mostly because they feel that it's too comp complex a task to um to to include other things , and they are concerned with the time to market . 	
+D	345.68	346.38	Yeah , sure . 	
+D	353.2	353.6	Okay . 	
+D	361.11	361.46	Okay . 	
+C	361.5	361.68	Mm-hmm . 	
+D	362.632	363.296		
+C	374.39	375.82	Complicated , yeah , of course . 	
+C	381.27	381.44	Yeah . 	
+D	381.32	382.12	Of course , yeah . 	
+B	381.85	382.38	Okay . 	
+A	381.97	425.1	Okay . Um and the and the third thing that they wanna make sure um that their that the corporate image is being maintained , and that the corporate colour and design are being used on the product , so that it's easy that that that they can be easily identified as a product of of of the company , and that there's no mistake that it could be somebody else who is bringing this out . So I just wanted to interject this here so we're not getting too much off track here with uh with the things we wanna look at . These were instructions from higher up so we have to eliminate uh these things , so it's only gonna be T_V_ , but the one thing maybe that could be um eliminated is the teletext uh idea . 	
+D	383.08	384.4	Okay , so that's something 	
+C	404.12	404.34	Mm-hmm . 	
+D	418.2	418.959	Okay so 	
+D	425.4	425.74	Okay . 	
+A	426.38	427.29	Mm 'kay . 	
+B	426.99	427.55	Okay . 	
+D	427.0	478.73	Alright , thanks for that . Um alright now other things that I found out on in my research is that the complaints that people have about the remote controls that are out there now . 'Cause a lot of them take too much time to learn how to use , and that was thirty four percent but even more important the thing that we did address in our last meeting that frequently it's lost somewhere in the room . Um so those are two things that we definitely do wanna address , uh we wanna s make it as simple as possible , we wanna make it um obvious and intuitive to use , and then the things about finding it we talked about the a light emitting thing as well as uh maybe a beep , and I think that those are things after my research that we definitely wanna try to incorporate . 'Kay can we go to the next slide please ? 	
+D	479.65	509.83	Okay , so , my personal preferences in this um project are really have to concentrate on the sizzle . That is the selling point , the thing that's gonna make it an impulse purchase . Uh because once there's no be-back , well in sales they always say you know , be-backs don't come back . If somebody says , oh I'll come back and get it next week you're dead . They're never gonna come back and buy it . You've gotta make it attractive enough so they buy it now now now w now is a big word in in my book for selling this thing . 	
+C	497.664	498.0		
+D	510.54	558.95	And , in order to make it really sellable we've gotta shorten the learning curve , make sure it's really intuitive and easy to use . We have to have as few buttons as possible , because more buttons is more confusion , so that's why I'm saying , simplicity is good . Finding it's important , obviously you can't use it if you can't find it . So we've gotta concentrate on the features that help you find it , and I've already said this several times but I put it down in writing here , it should be an attractive impulse purchase at twenty five Euros . So it has to have enough value that when somebody looks at it they say , uh twenty five Euros I'm not gonna take that . Has to be so great that they're gonna say , uh twenty five Euros isn't much . Um and then maybe a motto , like we put fashion in electronics might be something we can use in our marketing campaign . Okay that's uh about it for me right now . 	
+C	556.58	556.82	Yeah . 	
+A	559.536	560.07	Okay . 	
+A	563.03	564.6	And uh 	
+A	565.99	574.8	who would be next , uh , I guess that would be you . Mm-hmm . You want me to get your slide show up ? Mm-hmm . 	
+C	571.19	571.88	Yeah 'kay . 	
+C	573.35	574.98	Yeah yeah sure . Thank you . 	
+A	580.82	583.66	And you are number three ? Number two . 	
+C	582.47	583.8	Number two , yeah . 	
+C	590.93	591.58	Yeah exactly . 	
+A	591.62	592.17	Okay . 	
+C	593.76	595.94	Uh can you make it uh full screen please ? 	
+A	594.24	594.66	Okay . 	
+A	595.82	596.14	Mm-hmm . 	
+A	598.28	598.62	Yep . 	
+C	598.41	601.25	No , it's like a well you you have to press here . 	
+D	602.16	602.662		
+C	602.45	605.93	The cup cup shape here ? The thir third . 	
+A	604.55	605.26	Yeah yeah , uh-huh . 	
+C	607.71	616.44	Yeah exactly . Uh so today I'm going to talk about the working design of the remote controller . Um can you go to the next sli slide please ? 	
+A	607.98	608.71	There , mm-hmm . 	
+D	613.3	613.63	Okay . 	
+A	616.32	616.63	Mm-hmm . 	
+C	618.32	666.01	The metal is like uh in a remote controller you have a chip integrated circuit which is like a brain of the remote controller . It takes the power from a battery say a battery it it can be a elec an electric supply like you have to uh like uh switch connec connect connect your remote controller to uh power supply from the you know electricity or something like that . It should be a battery because uh uh remote controller should be like you you you should take it t to wherever you want and then um uh th this integrated circuitry takes energy from the power source and whatever like if you press a button it's like a input for the remote controller and it takes the input and it it transforms into a infro infrared bits and it sends it into the device , like a T_V_ or a air conditioner , something like that so . 	
+D	645.78	646.16	Mm-hmm . 	
+C	666.43	716.0	Uh a remote controller is specifically designed to a single device . If you want to design it for multiple devices then you should make all the devices compatible with the frequency like uh th the remote controller it sends some bits some uh waves like with a particular frequency the device should know what the frequency is . It should re re recognise the uh waves which are coming from the remote controller and it should take the action like if you press a button channel or something like that then uh the remote uh remote controller will send a send a se send a signal , and the T_V_ it should translate that into like change the channel or something like that , change the volume control and uh so uh I think it's hard to design a remote controller for multiple uh devices . 	
+D	699.776	700.61	Signal . 	
+B	703.62	704.2	Receive . 	
+D	707.08	707.38	Mm-hmm . 	
+A	708.64	708.93	Mm-hmm . 	
+B	715.86	716.43	Multi-purpose . 	
+D	716.5	722.92	Yeah well that's already been eliminated by management , so we're off the hook . 	
+A	716.92	722.5	Yo and it's yeah but it's so . 	
+C	718.51	719.05	Uh yeah . 	
+C	719.831	722.179		
+C	723.52	724.03	Um . 	
+A	723.57	723.92	Yep . 	
+C	726.28	760.4	So uh user interface controls the chip and accordingly the messages like there should be a user user in interface like you know switch pad or something like that buttons should be there . So uh you can control whatever you want , you want to change the channel you want to control the volume you you want to uh mute uh mute the uh T_V_ or you want to have a child lock or you want to do some operations there's a there should be some device to tell what to do to the uh in uh integrated circuit so that the integrated circuit can s send the signals and T_V_ can perform the actions . 	
+D	753.99	754.59	Mm okay . 	
+C	761.11	763.15	So can you go to the next slide please ? 	
+D	762.34	762.95	Okay . 	
+C	763.82	794.12	So I I just would like to uh add some extra features to the remote controller um I think these are the very simple features and uh they don't take much uh uh much of the um um investment also , it's like el the text or buttons which uh which are there on the uh remote controller they those we can make uh um like fluorescent uh they'll be like light emitting if it is dark so that you can find your remote controller if it is dark . 	
+D	768.59	769.11	Mm-hmm . 	
+D	787.47	787.8	Mm-hmm . 	
+C	795.06	853.648	And ther there should be a beep if many buttons are pressed if suppose a child is playing with the remote controller and a and she she or he is pressing the buttons all at the time then there should be a beep saying that it's this this is not a a you know a a action , there can be no action taking to that so . And there should be a child lock , like uh uh you should be able to lock your remote controller so that uh um whatever buttons are pressed by a child they can't be like y you i you if you have ki kids and all then they'll be pl playing with the remote controllers so can lock the remote controller . If make it useable for more than one device it's a it's hard but I think it's possible but it uh yeah yeah yeah so it's it's okay , yeah , yeah . And uh different shapes that we can do like uh we can have you know a all animals shapes or you know comfortable uh whi which can fit into your hands and um so that uh 	
+A	835.85	842.36	Yeah well yeah well that has been e that has been eliminated , so that's that's unfortunately a moot point now . Mm-hmm . 	
+D	837.1	839.26	Well we already eliminated that . 	
+B	838.76	839.27	Eliminated . 	
+A	849.152	849.607		
+D	853.0	861.728	Now that's good from a marketing point of view , the fun the fun shape . And that you you say that won't add too much to the budget ? To d the shape is uh 	
+C	854.88	858.06	Yeah , yeah , yeah and colours also , different colours , and 	
+A	857.0	857.44	Yeah I 	
+B	857.27	857.77	Mm-hmm colours . 	
+C	860.09	865.779	No no no , it won't uh I don't think it will be like , you can have you know for uh if you want ther there to be more 	
+A	864.37	867.48	It just build a mould basically and uh you know . 	
+C	866.27	869.26	Yeah yeah . It's it's just a s shape so it doesn't matter . 	
+B	867.14	868.06	Yes exactly . 	
+A	869.28	874.688	As the budget we're looking at if you build one mould I don't think that's going to make a big difference whether it's gonna be square or 	
+C	871.8	872.32	Yeah . 	
+D	875.57	882.67	Do you think there's any chance of um having ser in having basically the same machine with the same buttons but maybe several different shapes ? 	
+C	883.0	885.7	Yeah that is also possible I uh yeah I I yeah . 	
+A	883.57	884.05	Oh yes . 	
+D	884.16	886.82	Is that gonna be a possible ? 'Cause that might help with the marketing . 	
+B	884.66	885.05	Yes . 	
+A	885.31	891.83	I think I think we will have to look at the budget on that but I think in principle that that would be that would be kind of fun , you know . 	
+C	887.13	887.925	Yeah that will be 	
+C	891.2	892.05	Yeah yeah . 	
+D	891.44	903.552	Because we had something sort of sexy for adults and we could have something sort of silly for children or a little animal shape or in a or a little elephant so they can remember where it is . 	
+C	892.83	893.09	Mm-hmm . 	
+B	893.872	894.806		
+A	894.05	894.33	Yeah . 	
+A	895.49	896.61	Silly for children . 	
+C	896.35	900.28	Yeah , for children , yeah exactly . Yeah , that's what , yeah . 	
+B	896.752	897.105		
+A	897.33	898.751	Like an animal or 	
+B	898.13	899.696	Like a doll , or 	
+A	899.65	900.04	Yeah . 	
+C	902.1	939.01	Yeah , exactly . Yeah . And and the butto buttons also I think if you want to have more features in your remote controller then there should be more buttons . If there are more buttons then it will be more complicated . If you have less features then your remote controller won't be attractive , so I think uh we need to make some buttons which are which are like um uh f in uh in intended for two or three operations , like if you press one button in one mode then it will change the channel , if you press the other button in another mode it will change the colour . So if you want to have less buttons we can have that option but I think it will complicate the matter more I think so . 	
+B	902.65	903.49	Yes . 	
+D	934.25	934.97	Mm . 	
+D	938.61	966.72	Well , I think I think that that's something that we'll have to discuss um with the User Interface person because I think there's a lot of argument to be made for one button for one feature . Because I think one of the things were complaining about in my what I found out in my research is when they complained about how hard it is to learn a new one . The changing modes was something I mean you and I , all f all four of us we work with computers all the time , changing modes is nothing for us , but people who 	
+C	941.96	943.11	Yep , yeah . 	
+B	942.0	942.48	Yes . 	
+A	951.01	951.868		
+C	956.55	956.91	Mm-hmm . 	
+C	958.79	960.45	Yeah , it's like you know yeah . 	
+C	961.79	962.01	Yeah . 	
+C	962.56	963.37	Yeah , yeah . 	
+B	963.2	963.79	Okay . 	
+A	966.71	978.75	Yeah , a little elderly , a little arthritic hand you know , and and it's a small button and and it they don't press it exactly you know something else happens n not their favourite channel comes up but something else and they're very frustrated you know . 	
+D	968.459	969.545	N and 	
+C	968.98	969.58	Mm-hmm . 	
+C	971.7	972.23	Yeah . 	
+C	976.47	977.8	Yeah , yes . 	
+B	976.99	977.54	Something else . 	
+D	977.52	1002.51	And that's and that's the kind of thing people learn by feel , and um you don't feel the mode change . So um maybe having buttons be various shapes might be a help too . You know , like the a triangle is for the volume and a square is for changing channels , so that people can uh develop a tactile sense of it . But we'll get to that with you . 	
+C	981.76	985.22	Yeah , yeah you don't us yeah yeah , usually . Yeah . 	
+C	990.02	992.902	Yeah shapes also , different shapes . Yeah that will 	
+C	993.71	994.06	Mm-hmm . 	
+B	996.23	996.87	Channels . 	
+C	996.41	996.77	Yeah . 	
+C	998.44	998.73	Yeah . 	
+C	1000.79	1006.466	Yeah , yeah , and also text should be very clear so that there there won't be any ambiguities and uh 	
+A	1000.99	1001.91	Mm , mm-hmm . 	
+B	1002.09	1002.43	Yes . 	
+D	1005.87	1007.88	That's right , yeah . Now that's a good point . Yeah . 	
+C	1007.06	1007.88	So yeah . 	
+B	1007.39	1007.74	Yes . 	
+A	1008.51	1008.847		
+C	1008.93	1022.014	And uh display clock i if you want more features then we can display a clock it I I don't think it will take any money extra money because anyway we have an integrated circuit I think we can just definitely fit that feature into the circuit so it's 	
+D	1021.43	1029.056	Yeah , that's that's a good that's a good one , because the clock would be really friendly , and and when is your favourite show coming on and 	
+A	1022.84	1025.29	Mm-hmm , mm-hmm . Yes . 	
+C	1023.13	1024.4	Yeah , and we display a clock . 	
+B	1023.34	1023.75	Mm yeah . 	
+C	1025.62	1025.91	Yeah . 	
+A	1026.92	1031.54	Yes . Yeah you're sitting there already or maybe you have no other uh 	
+C	1027.53	1031.195	Yeah , and then you can just see your remote controller yeah yeah yeah so 	
+B	1028.08	1029.4	Yes . 	
+D	1030.85	1038.11	Yeah , and a lot of time there's not a clock on the screen , and you have to go somewhere but you just wanna look at the news for a minute . Yeah that's that's good , the clock is good . Okay . 	
+C	1033.16	1033.4	Yeah . 	
+C	1037.11	1062.65	Yeah . Uh can you go to the next slide please ? Uh components uh the main components we need for uh it ha like buttons and uh underneath that there should be switch . And uh bulbs . Like uh we can have a bulb like whenever we are operating a remote controller or uh whenever the T_V_ is on suppose , then the remote controller should automatically have a b s light . 	
+A	1037.574	1039.39	Mm-hmm . 	
+B	1058.33	1058.74	Hmm . 	
+D	1063.18	1063.51	Mm-hmm . 	
+C	1063.85	1078.8	Then it will be like if you switch on your T_V_ through anoth another source , not from through a remote remote controller and you you lost your remote controller maybe you can find with the light . Maybe we can have that . Whenever the T_V_ is on , remote controller will have a light . 	
+D	1073.83	1074.15	Mm-hmm . 	
+D	1079.18	1079.53	Mm-hmm . 	
+C	1080.2	1085.76	And then uh infrared bulbs . Um this is like uh when it is dark . 	
+D	1082.71	1083.06	Mm-hmm . 	
+A	1085.56	1086.35	Yeah , mm-hmm . 	
+D	1086.32	1086.57	Mm-hmm . 	
+C	1086.68	1100.74	And battery , there should be a battery for power supply , and a chip , chip which is like a brain to the remote controller which does all the operations , and wires connecting all chips , which is uh lights , everything , so there should be wires . 	
+D	1090.23	1090.61	Mm-hmm . 	
+A	1093.0	1093.27	Mm-hmm . 	
+A	1099.19	1099.43	Yeah . 	
+B	1099.88	1100.29	Okay . 	
+C	1101.67	1112.03	And uh uh of course there should be a case where we can keep all the things and , you know different shapes or whatever it is there should be a case to put to give a shape . Yeah . 	
+B	1110.68	1112.46	To keep the remote ? Yeah . 	
+D	1113.09	1113.52	Case . 	
+B	1114.11	1116.49	A case holder . A holder remote holder . 	
+C	1115.1	1115.79	Yeah , holder . 	
+A	1116.13	1117.38	Holder , yeah , mm-hmm . 	
+C	1120.17	1121.92	Um uh can you move onto the next slide . 	
+C	1122.87	1124.64	Um next sli slide please . 	
+C	1126.12	1138.5	Um I have referred the site uh the homepage of the um our website , uh from where I have uh uh I got s few points . 	
+A	1139.48	1139.8	Mm-hmm . 	
+C	1140.21	1141.47	That's it , that's it from me now . 	
+A	1141.76	1142.16	Okay . 	
+D	1147.15	1151.468	So it um we should visit this site and have a look at uh what's up there ? Or 	
+C	1149.758	1151.39	Um . 	
+A	1151.62	1152.74	Well , you don't have to . 	
+C	1152.75	1161.72	Uh it's not like that , I have referred the page to get new ideas or like what can be the working design to how it works and all and so and so . 	
+D	1157.46	1157.87	Okay . 	
+D	1161.28	1163.75	Okay . So it might be helpful if we had a look at that . 	
+C	1164.5	1165.14	Yeah if you want . 	
+D	1165.4	1166.35	Okay , thank you . 	
+C	1165.68	1166.46	Yeah , it's okay . 	
+D	1172.85	1176.07	Could you go back to that slide where she had that uh s slide up Betsy ? 	
+C	1176.37	1179.26	Uh , it's actually there now , there on the screen . 	
+A	1179.44	1179.79	This one ? 	
+D	1180.12	1181.11	Yeah , okay , thank you . 	
+A	1197.41	1199.18	And Francine ? 	
+B	1199.03	1199.72	Participant two . 	
+A	1200.4	1201.61	You are number two ? 	
+B	1201.07	1202.73	Yes . No no , I'm three . 	
+A	1203.06	1203.41	You're three . 	
+B	1210.37	1238.22	I can make it full ? Yes yes yes . Okay . As uh User Interface Designer I did a little research to find out what are the features which a user would like to have on their remote . Yeah can you please go onto the next slide ? So I found out that uh but uh the main purpose of a remote is to uh f control the function of a television at a far off distance at remote distance . 	
+A	1210.71	1213.55	Would you want it full full screen ? Mm-hmm ? Okay . 	
+A	1223.66	1224.0	Mm-hmm . 	
+A	1225.44	1225.78	Mm-hmm . 	
+D	1239.408	1239.712		
+B	1239.88	1267.93	Now for that , uh a remote controller should have a switch on off button by which a user can sit anywhere in the room in front of the T_V_ and he can control the functionalities different functionalities of the T_V_ . There should be a signal uh something like a radio wave or a infrared light or a LED which can be used to change the different functionalities in the television if the user wants to uh change the channels or increase the volume he can change it . 	
+A	1247.85	1248.09	Mm-hmm . 	
+D	1268.25	1268.57	Mm-hmm . 	
+B	1269.78	1279.65	Now there should be some timer to set for viewing a particular a particular programme or switching on and off a uh a particular programme according to the user choice . 	
+A	1279.01	1281.68	On the on on the remote . Yeah , mm-hmm . 	
+B	1280.74	1281.95	Yes . Yes . 	
+B	1283.88	1321.53	So if if he want to view a particular programme at say nine o'clock he can set the time , and the T_V_ will automatically it will switch on at that particular time . So he can use that kind of uh uh properties of features and then there should be a child lock system if a particular channel is not to be viewed by a particular uh for a certain age , then the parents can lock that particular channel so that the ch children cannot view that channel . And uh the uh the uh and the one of the feature a user would like to have is the compactness of the co remote . 	
+A	1286.43	1286.64	Mm-hmm . 	
+A	1287.71	1288.12	Mm-hmm . 	
+A	1289.44	1289.65	Right . 	
+A	1293.07	1293.44	Mm-hmm . 	
+A	1302.87	1303.25	Yes . 	
+A	1304.86	1305.98	By your child , mm-hmm . 	
+D	1311.53	1311.82	Mm-hmm . 	
+A	1312.63	1313.07	Mm-hmm . 	
+A	1322.64	1323.12	Mm-hmm . 	
+D	1323.11	1323.49	Mm-hmm . 	
+B	1323.83	1342.09	Uh t the remote should be compact and it should ha it should have as many buttons as possible for controlling different functionalities of the T_V_ television . And um uh as uh uh this is my personal preference that it should be in the shape of a T_ in alphabet for more compactability . 	
+A	1342.32	1342.7	Mm-hmm . 	
+B	1343.53	1375.23	And uh and uh and it is one more point which I noted it down , like uh the material which which which is used for remotes should be human friendly it should not cause any skin disease or something some al allergy to either children or to um ad adult person . And it should have an uh it can have an alarm clock a a person if some if somebody wants to get up at around eight eight P_M_ then he can set the time and it can be used as an alarm clock , and I don't think it will cost much to set an alarm clock inside a remote . 	
+A	1356.24	1356.53	Mm-hmm . 	
+A	1358.24	1359.25	Mm-hmm . Mm-hmm . 	
+D	1358.33	1358.85	Mm , 'kay . 	
+C	1366.95	1367.25	Mm . 	
+A	1371.17	1371.47	Mm-hmm . 	
+C	1374.91	1378.9	Yeah , sure . If there is a clock then there can be a alarm clock . 	
+A	1376.1	1376.9	Mm-hmm . 	
+D	1378.02	1380.3	And an alarm clock , yeah that should that should be okay . 	
+B	1378.3	1397.73	Yes , and as John Reece said the buttons can be , uh can me we can use the fluorescence to light up the buttons so different uh buttons will glow differently . So in even in the dark the user can know what buttons to use to switch on a particular channel . 	
+B	1399.14	1411.38	And uh uh the design of the uh um remote should be in such a way that there should not be any sharp projections so that if a child plays with a remote , he uh he should not be harmed in any way . 	
+C	1408.89	1409.25	Hmm . 	
+B	1415.28	1434.432	And findings , uh I found out uh y um on different sites that uh there are different remotes which can be used , there are remotes which use the infrared for controlling the different functionalities , there are remotes which use the radio waves to control the functions and there are uh 	
+B	1436.08	1445.13	So uh there you have different uh types of remotes for different light source which are used which can be used for controlling the different functionalities of a television . 	
+B	1453.25	1454.07	Next slide . 	
+B	1456.32	1492.28	And these are my few personal preferences like it can be used for a multipurpose use . Not , uh no uh like it can it can be used as a T_V_ control as plus an alarm clock to set an alarm a timing and it should have a child lock , and then to save electricity uh there should not be uh much s move uh lots of circuits and all that . And if a person if if if parents wants the television to be switched off by ten o'clock then it should be switched off ten o at ten o'clock automatically , so that nobody else comes later and use it . 	
+C	1491.24	1496.78	It's like a t okay , it's like a timer it's like a lock to the television . 	
+A	1493.75	1495.15	Timer , yeah , mm-hmm , mm-hmm . 	
+B	1494.32	1497.71	Timer . Yeah and then you can use a timer as well . 	
+B	1499.36	1499.76	Yes . 	
+B	1501.48	1501.98	Yeah that's it . 	
+A	1502.88	1506.027	Uh okay , now I have 	
+A	1533.84	1566.54	On my slide show basically we already we have already done the agenda , and uh on the closing uh basically there will be lunch break and all that . However uh the decision we have to take in this meeting is who is our target group . And uh what function , working design , how how does it work . So these are the two things we should come up wit with . So uh the first thing is pro maybe a little easier on uh who is our target group . 	
+B	1550.283	1550.95	Okay . 	
+A	1568.21	1568.83	Um . 	
+A	1570.93	1572.63	I guess in many ways everybody . 	
+A	1574.48	1576.21	Everybody who has a T_V_ . 	
+C	1574.82	1576.85	Mm , T_V_ , yeah . 	
+B	1576.57	1577.92	T_V_ television we was . 	
+A	1577.98	1584.96	Yeah , and I think today there are probably not many people who don't have a T_V_ . There are a few but in general not . 	
+C	1581.7	1583.48	Don't T_V_ , yeah . 	
+A	1586.73	1632.23	Now , talking about the target group which is in a sense everybody , but I think within the target group we have subgroups . We have we have earlier it was mentioned about um for example elderly people who have limited function with their fingers and hands , so I think that's uh one group that's certainly important . Um then we have just the nervous people who can never press a little button on anything um unless it's really very clear . And uh I don't know how much we want to cater to children's use . I mean that's a question um whether that's important that children can really use it or not . 	
+B	1601.54	1601.9	Mm-hmm . 	
+C	1604.76	1605.06	Hmm . 	
+C	1617.66	1617.96	Yeah . 	
+C	1632.09	1632.3	Mm . 	
+A	1634.47	1662.25	So this these are just some thoughts I have on it , and um I dunno what you feel about whether we can just say we have one target group and for this one target group we're gonna design this one thing or whether we're looking at what we like we we talking about different shapes , whether that different shape also includes maybe different uh buttons uh for different groups . 	
+D	1637.07	1637.63	Mm-hmm . 	
+C	1647.59	1647.74	Yeah . 	
+D	1653.08	1653.51	Mm-hmm . 	
+B	1653.255	1653.648		
+C	1658.74	1659.03	Mm-hmm . 	
+D	1658.95	1659.33	Mm-hmm . 	
+D	1662.76	1680.94	Well you know there's the old motto , children under six never shop alone . So if you've designed something that's very attractive to children um the mummy please mummy please um you know we want it now we wanna go to the store and see it um that has uh a lot of marketing pull . 	
+A	1666.88	1667.27	Mm-hmm . 	
+B	1672.864	1673.701		
+A	1678.76	1704.67	That has a lot of that has a lot of appeal but I think uh I'm I'm talking about the functionality now on it whether we're looking at different groups . I think the children issue can be addressed with the shape and with colours . You know , like you make it nice and pink , fluorescent , banana colour or whatever you know yeah , for example you know . But the question is really , who is our target group . 	
+C	1681.65	1681.7	Mm . 	
+D	1691.42	1691.81	Mm-hmm . 	
+D	1692.74	1693.14	That's right . 	
+C	1692.92	1693.23	Yeah . 	
+B	1692.95	1693.74	Different colours . 	
+B	1696.48	1696.91	Yes . 	
+D	1697.62	1700.032	You can make a banana shaped one . 	
+C	1699.07	1699.42	Yeah . 	
+B	1699.282	1699.812		
+C	1701.2	1701.59	Mm . 	
+D	1705.2	1705.71	Mm-hmm . 	
+A	1706.239	1708.67	Do we look at one target group ? 	
+A	1709.84	1720.9	And with the twenty five Euros you know can we can we afford to have uh I'm asking the technical people here whether um to look at 	
+A	1722.97	1729.66	sort of subgroups with maybe different buttons for each group how much would that throw us 	
+A	1730.74	1734.9	out of the cost we are supposed to respect ? 	
+D	1733.47	1734.97	Respect . Mm . 	
+B	1733.926	1735.028		
+B	1735.87	1757.77	Okay . No uh generally we can we can design a remote which is mainly for people with uh f age from ten to um forty and and then we can add on uh specific functional buttons for children as well as the elderly people or the people wit with who have nervous problems , yes . 	
+A	1747.14	1747.51	Right . 	
+A	1755.38	1756.288	With with 	
+A	1757.29	1757.65	Mm-hmm . 	
+C	1757.67	1764.45	We can design different remotes for different people , like for aged people there will be big buttons and you know . yeah . 	
+A	1762.98	1763.997	Well that's that's 	
+B	1763.0	1776.256	But in a family in a family there will be a aged person , children and a middle aged but they cannot buy three different remotes . They would like to buy just one and um just one which can be used all the three uh 	
+C	1766.66	1768.09	Children and everybody , yeah . 	
+C	1775.78	1791.23	Yeah of course that we can do , but specifically if y if like elderly people want big buttons then you can't really make a bi big remote controller so maybe specifically you can design a big con remote controller for elderly and for children , like in a different you know . 	
+D	1790.07	1793.23	What about the electronics ? That's not really gonna change much , is it ? 	
+A	1791.56	1792.08	Yeah . 	
+B	1792.21	1793.23	Cost effective . 	
+C	1792.95	1794.46	No , it it doesn't cost , yeah . 	
+D	1794.06	1796.88	That that w that won't change much , will it uh ? 	
+A	1794.14	1795.023	No 	
+C	1796.42	1798.72	Yeah . Doesn't doesn't doesn't matter . 	
+A	1797.85	1834.28	The the quest the question to be addressed here is only who is the target group and how will it function , and I think the how will it function is probably the question of the buttons you know , within the target group or subgroups . The question is only whether our budget will allow to have more than one design in a sense . I mean the basic design I understand will be the same , but the question is how much will that set us back if let's say uh forty percent we make large buttons and the rest we make regular buttons for example . 	
+D	1798.08	1799.11	I d I wouldn't think so . 	
+D	1803.33	1803.73	Mm-hmm . 	
+D	1809.47	1809.8	Yeah . 	
+D	1821.76	1822.11	Yeah . 	
+B	1832.06	1832.46	Okay . 	
+C	1832.99	1833.3	Yeah . 	
+C	1834.272	1834.948		
+D	1834.47	1834.81	Yeah . 	
+A	1835.33	1843.53	So that remains to s to be seen but uh the target group as a whole is is basically everybody with a T_V_ . 	
+D	1843.62	1867.54	That's right , and can we can we is it even feasible to make one one remote control with something for everyone , or would we have to use the same electronics and make three different shapes ? Um the same electronics and basically all that's gonna be different is the plastic case . And in that case we could probabl moulded plastic isn't all that expensive is it ? Um you as an industrial person ? 	
+B	1844.23	1844.54	Yes . 	
+A	1855.53	1857.47	Yeah , well that's that's the question . 	
+C	1859.47	1860.82	Hmm hmm . 	
+C	1866.14	1870.15	Uh no . Mm , I I I don't think no . It's not . 	
+A	1868.47	1903.71	Well maybe there's there's an idea you know t the new for example new portable phones ? They have like removable plastic cases , so you can have a striped one or you can have a fluorescent blue one , or whatever , and maybe something like that , that in each package you know you have you you have you have for example uh you have let's say a fluorescent blue on it but then you have uh another colour or stripe whatever that already comes in a package . And then if people really want more colours they can buy it separately . 	
+D	1873.63	1874.03	Mm-hmm . 	
+D	1877.89	1878.21	Yeah . 	
+D	1882.22	1882.55	Mm-hmm . 	
+B	1882.63	1882.97	Okay . 	
+D	1887.25	1888.8	Well there's a real idea yeah . 	
+D	1894.73	1895.05	Mm-hmm . 	
+C	1899.66	1899.95	Hmm . 	
+D	1900.42	1900.67	Yeah . 	
+D	1904.39	1904.7	Right . 	
+C	1904.62	1911.33	Yeah , like for mobile phones we have uh different you know covers , like designs and all so that w we can have that . 	
+A	1905.07	1906.5	You know , yes . 	
+B	1905.21	1905.705	Um 	
+D	1908.64	1909.09	Mm-hmm . 	
+B	1909.04	1909.29	Yes . 	
+A	1909.27	1926.96	That's right , and but like if if then everybody is is is tired of the fluorescent blue and of the striped or whatever they have as another one in the package , then they can go to the store and for a few uh Francs or Euros whatever they can buy an alternate package with another two colours in it you know for example you know . 	
+D	1910.56	1911.12	Uh yeah . 	
+C	1919.19	1919.42	Yeah . 	
+D	1922.28	1923.22	An alternate package . 	
+D	1926.34	1927.25	Yeah . Okay . 	
+B	1927.75	1945.36	But uh yeah I I have a doubt like will it be cost wise effective if we if we design a remote having all the uh different features for different people or designing three different um remotes for three different categories of people . 	
+A	1945.49	1970.66	Well I think I think the idea here is to uh to to d design one remote and what the only change is gonna be um the funct d t yeah uh the functional functional cosmetics if you want to put it that way , um having maybe larger buttons or buttons that light up or buttons that are slightly differently shaped for people uh either for children um 	
+C	1945.88	1946.684	Yeah , but uh 	
+D	1946.15	1948.41	Well I think we can only aff , yeah . 	
+B	1949.7	1950.09	Okay . 	
+C	1950.04	1950.47	Yeah . 	
+D	1954.03	1954.73	Cosmetic . 	
+B	1955.75	1956.59	Of th okay . 	
+B	1959.47	1959.98	Okay . 	
+B	1960.82	1961.16	Mm-hmm . 	
+A	1972.87	1975.56	Five minutes that was I guess tha that's the old message . 	
+D	1977.56	1979.16	Warning , finish meeting now . 	
+A	1978.28	1982.41	Finish meeting now . Um um . 	
+C	1979.448	1980.736		
+B	1979.452	1981.301		
+D	1985.06	1989.181	Well we may have to come back to one or two of these points at our next meeting but um 	
+C	1986.68	1991.44	Yeah , maybe , yeah , yeah . If we do some more research , maybe we . 	
+A	1988.92	2000.23	But I think I I think to sum it up the target group is basically everybody . If money permits we can address some features for some subgroups within that . 	
+D	1999.16	1999.45	Mm-hmm . 	
+B	1999.39	2000.79	Okay , mm-hmm . 	
+C	2000.29	2007.53	Hmm yeah , I think maybe seventy percent is a unique uh uh remote controller and thirty percent is yeah it's sort of like yeah . 	
+D	2001.14	2002.01	Okay but we have to l 	
+A	2001.45	2002.47	Do we agree , do we ? 	
+A	2004.74	2010.28	Do we agree on on that in principle , like money will tell whether we will be able to do that or not . 	
+C	2008.25	2009.91	Yeah , yeah , of course , yeah . 	
+D	2010.29	2011.59	Okay , fair enough . 	
+B	2010.48	2010.93	Yes . 	
+A	2011.26	2014.47	Okay ? So now I understand it's lunch break . 	
+C	2011.99	2012.19	Mm-hmm . 	
+A	2015.48	2016.31	And um . 	
+A	2017.78	2019.22	So that's what we will do . 	
+D	2019.24	2019.68	Okay . 	
+B	2020.18	2020.44	Okay . 	
+A	2022.2	2023.24	So hank you very much . 	
+C	2022.8	2023.26	Thank you . 	
+A	2024.39	2026.9	And we'll see you after lunch . 	

@@ -1,0 +1,442 @@
+Found 4 args.
+Observation: TS3003b; Result size: 439; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+A	57.11	71.139	Okay . Everybody found his place again ? Yeah ? That's nice . Okay so this is our second meeting . And uh still failing ? 	
+D	60.55	60.96	Yes . 	
+D	71.8	72.11	Yeah . 	
+A	72.76	92.45	Uh now we're going um into the functional design . Um important thing of this phase is that we're going to uh try to get an agreement about the user requirements , technical function design , and the working design . 	
+A	93.12	107.776	So that we can move onto the second uh phase . But first this phase . Um first an announcement . There's a little adaptation in the air conditioning system . So 	
+D	108.597	109.54		
+A	109.14	120.184	There's our ghost mouse again . That that means that you can have a little trouble with , little trouble with the air conditioning , that's because of this uh 	
+B	120.38	120.74	Okay . 	
+D	121.11	121.48	Okay . 	
+A	121.57	139.11	It's in wing C_ and E_ . So it should be over in a in a while , couple of days . But it's going to be cold anyway , so I don't think you're gonna need it . Then our agenda . Now first the opening . Uh this time I will take the minutes . 	
+B	129.959	131.649		
+D	132.84	133.18	No . 	
+A	140.36	163.54	Uh you're going to have a presentation . All of you . Um and we've got forty minutes for the whole uh prese for the whole uh presentations . So uh I suggest we take about seven minutes per presentation , and then we can have a little discussion about the new project requirements uh which have been sent to me . 	
+A	164.39	181.34	And then the decision on the control functions uh which we wanna include and those which we don't wanna include . So we've got forty minutes for all of it . So I suggest um let's start with the first presentation . Um who wants to be first ? 	
+D	178.78	179.07	Yes . 	
+D	182.76	183.55	Think I'll go first . 	
+A	183.74	186.215	Okay . So 	
+D	185.758	186.566		
+A	187.94	197.87	Just maybe it's easier if you um Yeah I think you will tell your presentation as well . Just which function you have and what you're gonna talk about . 	
+A	199.144	199.775		
+D	206.59	210.91	'Kay . My name is Freek Van Ponnen . I'm the Market Expert . But you already knew that . 	
+D	212.1	228.22	Um I've done some research . We have we uh have been doing research in a usability lab where we observed um users operating remote controls . Uh we let them fill out a questionnaire . We had one hundred of these uh test subjects . 	
+D	229.36	236.64	Uh in addition we did some market research . Uh see what the market consists of . What ages are involved . 	
+D	238.9	249.63	Well these are three quite astonishing results , I thought . Um remotes are being considered ugly . F uh seventy five percent of the um 	
+D	250.97	263.361	people questioned uh indicated that they thought their remote were was ugly . Um and an additional eighty percent indicated that they would spend more money on a fancy-looking remote control . So 	
+D	264.67	273.32	Um in addition remotes were not very functional . Fifty percent of the people indicated they only loo used about ten percent of the buttons on a remote control . 	
+D	275.08	279.39	And fifty percent of the people indicated that their remote tended to get lost in their room . 	
+D	280.47	280.8	So 	
+B	281.83	282.08	Mm . 	
+D	282.33	283.07	some things . 	
+D	285.34	302.22	Then we did some research to the most relevant functions . Channel selection and volume selection um both got a ten on a scale of one to ten for relevancy . The power button got a nine . And teletext got a six and a half . So these are the most 	
+D	303.35	320.74	most uh important functions on a remote control . Then there are some one-time use function . That's what I like to call them . That uh audio settings , video settings , and channel settings buttons . Which are not really used very frequently , but are still considered to be of some importance . 	
+D	322.1	329.43	Um channel selection was also indicated to be used very frequently . One hundred and sixty eight times per hour . 	
+D	332.14	341.15	Then these are the This is the market . Um sixty percent of the market consists of users between the ages sixteen and forty f six . 	
+D	342.13	342.736	Um 	
+D	344.14	356.953	Main characteristic of this group is that they're very critical on the remote control . Um they like to use new f new functions . But they also are very critical . They won't spend their money very easily . So 	
+D	357.86	364.23	Um the users of forty six to sixty five years cons The make up forty percent of the market . 	
+D	365.24	369.97	They are not really very interested in features . But they do tend to spend their money a lot easier . 	
+D	373.83	374.387	Um 	
+D	375.35	378.11	What I think this indicates for our um 	
+D	379.43	384.8	design . I think we should make a remote for the future . And this means we would 	
+D	386.0	389.84	um have to focus on the age ages sixteen to forty five . 	
+D	390.82	399.38	Uh this also makes up most the biggest part of the market , so that will also be where our main profit would be gettable . 	
+D	400.47	403.42	Um this would mean we would have to make a fancy design . 	
+D	404.85	405.59	Um 	
+D	406.6	416.14	The results also indicated that um about one quarter of the people questioned thought that the remote control caused R_S_ R_S_I_ . 	
+D	417.57	436.72	Um this is certainly something to take into account . And thirty four percent thought that it was hard to learn a n how to operate a new control , remote control . So these are two factors that I think should be included in the design . Besides of course that the remote must look very nice . 	
+D	438.07	439.336	And the functionality 	
+D	440.41	451.75	As a lot of people indicated , they only use about ten percent of the buttons , I think we should make very few buttons . Uh this will also be uh beneficial to the design of the remote . 	
+D	453.27	466.95	Uh I think the most frequently used buttons should be emphasised . Especially the channel selection and audio uh selection buttons . 'Cause they're used most and so they should be robust . They shouldn't break down easily . 	
+D	469.16	470.012	Um 	
+D	471.64	478.51	Then as mo as a lot of people indicated that their um remote got lost in the room , it might be 	
+D	479.62	496.29	and I say might be because it would um certainly boost the uh production costs a lot . But it might be a good idea to make a docking station . And this would , could get a button in it which would send a signal to the remote which would then beep . 	
+D	496.55	503.92	So you'd know where it is in the room . And in addition to this it could um recharge the batteries in the remote if you put it in . 	
+D	505.71	518.26	Then um a surprisingly great deal of people w indicated that um an L_C_D_ screen in the remote control would be preferred . This was um 	
+D	519.58	535.74	mostly people in the age of sixteen to twenty five . But up till forty five it remains feasible . This would also greatly increase the production costs but I think these are just some small factors we could consider . 	
+A	538.03	538.34	Okay . 	
+D	538.59	539.25	That would be all . 	
+A	540.04	545.16	Thank you . So anybody have um any questions until now ? 	
+D	544.2	544.9	Any questions ? 	
+B	546.16	546.78	Mm-hmm . 	
+A	546.23	549.06	About functional requirements ? Okay that's clear . 	
+C	547.87	548.25	No . 	
+A	549.93	551.6	Now to the second . 	
+D	550.33	550.53	'Kay . 	
+D	552.656	553.695		
+A	553.929	554.577		
+B	560.28	572.736	Uh okay . Um I've been looking at uh the user interface of it . Um f for the techno f functions uh of of it . Um 	
+A	567.51	567.66	Yeah . 	
+A	574.62	578.6	Yeah you can take your time . We've got uh plenty of time , so 	
+B	574.97	575.43	Okay . 	
+B	576.96	577.16	Mm ? 	
+D	577.42	581.87	Yeah you should go to the top thingy . Slide show . Oh yeah . 	
+B	578.52	578.91	Oh . 	
+A	579.44	580.282		
+B	580.1	580.52	Uh . 	
+A	581.58	583.37	Yeah . There it is . Yeah . 	
+B	581.65	581.91	Okay . 	
+B	584.44	609.632	Um yeah . I think uh we uh must use the general functions uh of the uh remote control . Uh uh I've do I've uh done a little uh research on the internet and not much information about it , Um about uh interface but uh Uh 	
+B	611.58	629.482	Yeah I I've been thinking about a simple manner uh to put a lot of functions uh uh in one um in one uh remote control . Uh so uh you've got a lot of devi uh devices like uh D_V_D_ uh uh television , uh stereo . So um 	
+B	629.94	646.767	But uh it must be uh user-friendly . So um uh you c you can't put a a lot of uh functions uh in one uh Yeah . Uh uh uh Yeah . In one um remote control . But um 	
+A	645.36	646.38	One remote . 	
+B	648.56	648.94	Yeah . 	
+A	650.263	651.605		
+B	651.28	663.18	Um yeah . Got uh many functions in one uh remote control , um but um yeah you can see , this is uh quite simple uh remote control . 	
+B	663.54	675.023	Um few uh buttons but uh This uh re uh remote control got a a lot of uh buttons . Um uh people uh don't like it , uh so um 	
+A	663.576	664.186		
+B	676.08	696.951	Well what uh I was uh thinking about was um uh keep the general functions uh like they are . So uh like uh the on-off uh button . Uh keep it uh yeah l like a red button . Uh everybody everybody knows it so uh uh you don't have to change that . Um 	
+B	699.03	707.92	My personal uh preferences um . Use a display for uh specific uh functions of the different uh device . So um 	
+B	708.95	714.912	Wh what I was th uh thinking about was um you've got um 	
+B	725.51	741.45	Uh this the remote control uh and uh you got here the general functions , uh like uh the on-off button uh sound uh I dunno um And um here you've got a s kind of a display . 	
+A	728.563	729.943		
+C	728.704	729.392		
+B	742.76	764.52	It's a touchscreen . So um yeah you got a general f uh f the functions of the device uh for a D_V_D_ player or uh so um the pl yeah um f for uh playing uh reverse uh . And um you got here uh real buttons for uh selecting uh a device . 	
+B	765.86	793.232	So um this button is for a D_V_D_ or So um for every um device you've got a uh a f a b a part uh display of a part buttons . So uh you you never got uh all the buttons uh on w one device . So uh that's uh my uh idea about it . Um yeah and 	
+A	786.48	787.735	Hmm . 	
+A	790.17	790.44	'Kay . 	
+B	794.56	812.945	Uh let's see . Uh yeah . So a touchscreen . Uh and um th the buttons uh the real buttons uh we have to use um . We better c um uh use uh quite uh large buttons uh for um yeah . Everybody uh have to use it so 	
+B	813.03	825.776	Uh ol even even old people um young people . So uh we must keep uh buttons uh quite s uh simple and quite large . So uh Um 	
+A	823.58	823.86	Yeah . 	
+B	826.98	828.96	Yeah . Uh yeah . 	
+B	830.42	832.948	That was uh my uh part of it . So 	
+A	831.72	836.1	Okay . Anybody has questions about the technical functions ? 	
+C	836.31	842.32	Well I think if we are gonna use a touchscreen uh we're gonna go way above the twelve and a half Euros . 	
+A	837.037	837.946		
+B	842.51	856.48	N I I don't think so . Uh you got uh quite a cheap uh touchscreen . S um it's uh not uh in colour or something . Uh it's just uh um one colo Uh yeah . 	
+A	842.62	842.95	Yeah . 	
+A	847.05	847.51	Touchscreen . 	
+B	857.68	869.61	Uh I seen uh w uh something on the internet uh not today but uh a few uh weeks ago . Uh you got uh yeah quite an uh 	
+B	871.43	876.85	a kind of uh touchscreen um and it's uh for 	
+B	878.16	885.15	uh twenty uh Euros or uh less uh . So it's possible . 	
+A	882.6	883.14	Huh . 	
+D	883.3	883.56	Hmm . 	
+A	884.94	887.269	'Kay . That's nice . Uh 	
+D	886.27	888.37	Well it would certainly make a fancy design . 	
+B	888.56	888.78	Yeah . 	
+A	889.59	889.99	Yeah . 	
+C	889.68	895.31	But the It wouldn't be very robust . It's very fragile and you can get scratches on it . 	
+D	889.9	890.602	So 	
+D	895.44	896.06	That is true . 	
+A	896.05	906.69	That's right . Uh maybe we can first um listen to your presentation ? Uh And then we have a little discussion about the requirements and uh design . 	
+B	896.62	897.61	Yeah that's true . 	
+D	897.09	898.19	We would have to look into that . 	
+B	901.6	901.99	Uh . 	
+D	901.66	901.87	Yeah . 	
+C	901.68	902.16	That's . 	
+C	904.92	905.33	Okay . 	
+A	908.663	909.303		
+D	917.454	920.182		
+A	920.01	923.923	I think it's going to Uh it's not too much . Okay . 	
+C	923.73	943.01	Okay I've got a presentation about the working design . Um first about how it works . It's really simple of course . Everybody knows how a remote works . The user presses a button . The remote determines what button it is , uses the infrared to send a signal to the T_V_ . The T_V_ switches to the frequency , or what function it is . 	
+C	944.22	959.83	So we've got um the the plate . It gots conductive disks for every button . When the user presses a button , a signal got sent , goes to the LED and transmits tranmi transmits its to the T_V_ . 	
+C	960.05	983.24	It's a very simple device , technically speaking . So this is a schematic overview . You've got the buttons . The power source . And uh when a button gets pressed , its goes to the chip . The chip uh controls the infrared bulb and perf perhaps a normal bulb . When you press a button you can actually see your pressed button . 	
+C	985.58	1003.01	Well um I think we should use default materials , simple plastics . Keep the inner workings simple , so it's robust . Uh I think we should focus on aesthetics , the design and the user interface , because if you're going to use high-tech materials the price is going to go sky-high . 	
+C	1004.88	1011.05	And uh you only have to design a remote once , and if you use high-tech materials it come back in every product . 	
+C	1012.08	1020.46	So it's , in my idea , it's uh it's gonna be smart to invest in di in design and not in uh in the product itself . 	
+C	1021.92	1022.5	That's it . 	
+A	1023.16	1024.01	Okay . Thank you . 	
+A	1031.07	1031.57	Okay . 	
+D	1031.598	1032.53		
+A	1038.37	1039.433	Uh 	
+A	1041.77	1057.24	Okay now I hope everybody has a little bit more insight in the functions we all have and what we are doing right now . Um I'm the Project Manager so I'm here to mess things up and uh tell you some new uh requirements . 	
+B	1053.308	1055.248		
+C	1053.938	1054.847		
+D	1054.128	1055.475		
+A	1058.24	1078.27	Um that's , we've uh got to design a um remote which is only suitable for T_V_ . Um that's because uh it will be too complex and the time to market will be too big , if we wanna have it uh for more functions . 	
+B	1068.8	1069.17	Okay . 	
+B	1078.3	1078.53	Mm . 	
+A	1078.78	1100.69	So it has to be simple . Uh another point is we have to skip the teletext , because in the world of uh upcoming internet uh we think teletext is going to be uh a thing of the past . And uh it's a function we don't need in our remote control . 	
+D	1097.491	1098.198		
+A	1101.83	1110.63	Um internet is also mentioned in a function we can use . Uh maybe also on televisions it will be available as well . 	
+A	1111.83	1125.78	Another one is uh the customer is uh forty plus . Uh that's the the market we have to to to target , because we are going to develop a new product which is specially designed for the younger customers . 	
+A	1126.66	1142.0	Um this is uh a bit pity for the Marketing uh Expert . Because he was uh aiming on the the younger persons . So we have to find a market which is above forty plus uh but which will suit our 	
+D	1130.701	1132.898		
+B	1131.236	1132.305		
+A	1143.04	1167.21	uh remote control , and the other way round . And we have to be very uh attent in uh putting the corporate image uh in our product . So it has to be visible in our design , in the way our device works . And uh we have to be uh very clear on this point as well . So I suggest 	
+A	1168.78	1172.15	let's have a discussion on the control functions . 	
+A	1173.66	1173.99	Yeah . 	
+D	1174.94	1177.96	So is there any discussion possible about the new product requirement ? 	
+A	1176.329	1190.033	Uh we can see if we can find a way uh between the functions we wanna use and the market we wanna reach with our product . Um 	
+B	1176.784	1179.008		
+B	1188.77	1188.95	Mm . 	
+D	1189.34	1208.63	Yeah 'cause you're you're saying that teletext is gonna be an old feature and it's not gonna be used anymore anyway pretty soon . And new T_V_s will have internet access on them . But I think if you're targeting people of forty plus , the chance that they will have a T_V_ with internet access 	
+A	1201.721	1202.773		
+D	1209.76	1212.78	within the next like twenty years is very slim . 	
+D	1214.14	1225.43	In addition people indicated that teletext simply was an important feature for the remote control . So I think it's pretty dumb to put no teletext feature on it . 	
+B	1214.21	1214.61	Yeah . 	
+D	1227.37	1228.4	I'm pretty much against it . 	
+A	1229.56	1230.91	Against the no teletext ? 	
+B	1230.07	1230.44	Mm . 	
+D	1230.95	1233.039	Yes . 	
+A	1232.98	1234.367	Um 	
+D	1235.33	1238.78	Besides that , I think the market for forty plus is like 	
+D	1239.84	1240.63	pretty small . 	
+D	1243.2	1248.73	But I mean if I s if I see this , it's I think we're just gonna go for another 	
+B	1244.067	1245.931	forty 	
+A	1244.22	1245.594	Yeah it's it is 	
+A	1249.59	1251.07	Standard remote . 	
+D	1250.42	1250.83	pretty 	
+A	1252.41	1253.84	No I think we can 	
+D	1252.92	1254.39	and not innovative 	
+A	1255.51	1275.77	I think we can do a lot with the design and the simple buttons which were also mentioned . Uh if we put a lot of effort in those , we can make a remote control with uh just two or three buttons . Or just a remote which is suitable for the market we wanna reach because it is forty percent of the market . 	
+D	1255.65	1256.38	remote control . 	
+B	1273.57	1274.15	Yeah . 	
+A	1276.61	1289.92	And um if you look in Holland at the whole generation of forty plus , fifty plus , it it's the the biggest share of the of the whole population now . 	
+D	1291.04	1292.98	Yes but it's not the biggest part of the 	
+D	1294.2	1294.57	market . 	
+A	1295.49	1295.85	No . 	
+D	1295.58	1299.73	And besides that , they're not very critical so I mean they don't really care 	
+D	1300.7	1306.88	what the remote control is like . They'll just pretty much take the first thing they see and which looks acceptable . 	
+B	1308.683	1309.489		
+A	1308.73	1326.04	But don't you think that if we make a remote which is uh typically made for this market , that people think the people think that's the the device I've looked for although I didn't realise it . So let's try it . 	
+D	1326.95	1327.22	No . 	
+D	1328.22	1329.61	I think that would be the case in the 	
+D	1331.0	1334.14	sixteen to forty five age category . 	
+D	1336.26	1340.77	because they are critical and they they want to have a fancy remote control . 	
+B	1340.71	1340.91	Yeah . 	
+D	1341.96	1346.05	People of forty plus , I mean they want it to work , but 	
+D	1347.53	1349.76	as soo as soon as it works it's okay with them . 	
+B	1351.56	1351.91	Mm . 	
+A	1351.65	1352.06	Yeah . 	
+C	1352.77	1362.81	I think that if we're If we put our marketing right um we can sell this just like um I don't know if you've heard about it in the news , the the elderly mobile phone ? 	
+D	1353.21	1353.795	So 	
+A	1362.98	1364.47	Yeah . It's a big success . 	
+C	1364.66	1379.4	Yeah if we if we make a remote control just l with that idea in mind , we could make tons of money , I think . We don't have to focus on on on the on the design then but on functionality . We just 	
+D	1365.09	1366.1	I haven't heard of it . 	
+A	1365.52	1367.68	Very big success . Yeah . 	
+D	1371.93	1372.15	Hmm . 	
+A	1371.95	1373.67	Uh . I think so as well . 	
+B	1372.27	1372.64	Mm . 	
+C	1380.68	1383.46	change our focus on the project , and I think 	
+C	1385.01	1386.36	we can uh we can sell this . 	
+A	1387.22	1390.11	Uh I simply think um 	
+B	1387.607	1388.89		
+A	1391.712	1391.984		
+A	1393.12	1407.26	uh that the new products we are gonna make , uh spef specifically design , are designed for uh younger people , uh so maybe we can focus ourself on the elderly people . 	
+A	1408.6	1430.4	And I think we have to um see what requirements we need for those um remote controls . 'Cause what you told is the channel selection is important . Volume selection , power and teletext . Okay . Um 	
+D	1420.322	1421.4		
+D	1423.96	1424.26	Yes . 	
+B	1424.61	1425.0	Mm . 	
+D	1427.46	1427.89	Yes . 	
+B	1427.632	1428.82	Yeah . 	
+D	1430.35	1432.75	But obviously the board tends to disagree . 	
+A	1433.23	1440.55	No we we haven't voted yet , so Uh I think teletext can be uh 	
+B	1435.418	1436.697		
+A	1441.97	1447.76	um can be a function as well . But only if uh if it won't 	
+A	1448.73	1457.05	higher the the cost , because I don't know if it will be a lot more money to implement teletext as well , but I don't think it will be a problem . 	
+A	1458.56	1460.194	Or is teletext a 	
+B	1459.03	1465.06	But um deaf people need uh teletext for uh for subtitles . So it's Yeah . 	
+A	1463.25	1463.55	Yeah . 	
+D	1463.51	1464.43	Yeah , also . 	
+A	1465.48	1467.515	Yeah . So I suggest uh 	
+D	1466.64	1469.71	I think it'd definitely be a bad idea not to include teletext . 	
+B	1467.47	1468.002	It's 	
+B	1469.03	1469.34	Mm . 	
+A	1469.07	1469.45	Yeah . 	
+A	1470.57	1473.74	Is anybody um really against teletext ? 	
+C	1474.4	1474.64	No . 	
+A	1475.0	1479.56	No ? Just that , that we just keep the teletext . 	
+A	1481.67	1484.77	I think that's a good idea as well , especially for the subtitles . 	
+A	1486.8	1487.86	Maybe we can 	
+A	1489.48	1491.23	make that um 	
+A	1493.46	1511.73	another point of advantage in our remote control , if we uh make a k a button ex for example for big subtitles , which is instantly on the remote control . For elderly people they can think , oh I wanna have subtitles , and they push the button and they get the big subtitles . 	
+B	1505.85	1506.6	Yeah yeah . 	
+C	1512.2	1513.3	Uh that's a good idea . 	
+B	1512.45	1513.75	Yeah . Yeah . 	
+A	1514.02	1521.68	Um so I think teletext can v can be very useful in our advantage . Um 	
+A	1523.24	1526.17	Functionality should be few buttons , you said . 	
+D	1527.62	1527.99	Yes . 	
+A	1528.29	1532.39	I think uh that's very important we have a few buttons . 	
+B	1528.52	1528.65	Yeah . 	
+D	1533.07	1533.33	Mm-hmm . 	
+A	1535.32	1537.01	So to keep it simple . 	
+D	1535.95	1536.25	But 	
+D	1537.94	1540.384	I don't think that's really an issue any more 'cause 	
+D	1541.63	1542.63	Well might be . 	
+B	1543.91	1546.17	If it's only for televi Yeah . 	
+D	1544.17	1553.29	But I mean it , if it's only for T_V_ you're not gonna need a lot of buttons anyway . You need a one to zero button , next channel , previous channel , 	
+B	1547.15	1547.36	Yeah . 	
+A	1548.69	1549.13	No . 	
+B	1551.76	1552.25	Yeah . 	
+D	1554.41	1558.213	volume up , volume down , and some teletext buttons but 	
+A	1559.52	1559.77	Yeah . 	
+A	1562.0	1563.186	But do you need 	
+D	1562.13	1563.6	I think if you if you only l 	
+B	1562.51	1567.13	So we can s we can skip the display , so uh we don't need it . 	
+A	1566.54	1573.393	But do you need the buttons for one to zero . Maybe c we can 	
+D	1567.41	1568.11	Nah . 	
+B	1572.47	1573.297	Uh 	
+D	1572.58	1585.06	Think if you're gonna include teletext you do . I think many people like to use that . 'Cause if you should , if you want to switch from channel one to like thirty five , you don't wanna push the next channel button thirty five times . 	
+A	1577.11	1579.117	Maybe we can use uh 	
+B	1577.63	1577.92	Yeah . 	
+B	1584.22	1584.39	Yeah . 	
+A	1584.91	1587.97	No , maybe we can implement the scroll button ? 	
+A	1589.84	1591.54	Or a joystick like ? 	
+B	1590.32	1590.72	Mm . 	
+A	1593.04	1601.682	There are other ways too . Just look if you look at telephones . The Sony telephone has a scroll button which is very useful in searching names or 	
+B	1595.7	1596.13	Yeah . 	
+B	1597.73	1598.1	Mm-hmm . 	
+B	1600.07	1600.29	Yeah . 	
+D	1603.26	1605.25	That's true but um 	
+D	1606.99	1612.38	I don't think there are many T_V_s that can switch channels that fast . And so you would need like 	
+D	1613.63	1618.99	the T_V_ would need an a function where you can actually view all channels and scroll through it . 	
+D	1620.25	1622.2	And I dunno if many channels would 	
+D	1624.2	1626.12	do have that . If many T_V_s have that . 	
+C	1626.06	1638.6	Yeah . And besides that it's um If we're gonna focus on elderly people they'll have to adapt . They're not used to using scroll buttons . So perhaps we should s stick to the basic layout . 	
+B	1626.83	1627.25	Mm . 	
+A	1635.36	1635.9	That's right . 	
+D	1635.81	1636.11	Mm-hmm . 	
+B	1635.98	1636.18	Mm . 	
+A	1640.054	1654.93	the numbers yeah . Yeah they can see how much buttons there are going to be on on the display , and if it's too much we can uh reconsider it . But I think there won't be very much buttons . Or there don't have to be a lot . 	
+B	1651.31	1651.63	Yeah . 	
+D	1654.01	1660.63	But I don't think I think if you're gonna make a remote control only to operate a T_V_ , you there's not much you can gain on 	
+D	1661.67	1675.4	um having as few buttons as possible . 'Cause I think there are pretty many remote controls that can only operate a T_V_ , which already only have the minimum number of buttons . I don't think there's much to be gained in that area . 	
+A	1676.18	1680.82	The number of buttons ? I think it's very important in the in the design . 	
+B	1676.2	1676.8	Hmm . 	
+D	1677.79	1678.03	Yeah . 	
+A	1681.93	1690.415	You can make a very fancy design uh with putting the buttons on the right places . And if you have less buttons you can do a lot more with 	
+D	1691.61	1700.01	That is true but I think there's simply not much to gain on the competition when you when you're making a remote control only for to operate only the T_V_ . 	
+A	1701.66	1703.39	To operate only the T_V_ yeah . 	
+D	1702.17	1708.97	'Cause if you have a a remote control only to operate a T_V_ there's simply not a lot of buttons required . 	
+D	1710.06	1715.53	There's not a lot of functions required so most existing remote controls simply don't have a lot of buttons either . 	
+A	1715.8	1716.11	No . 	
+B	1716.14	1716.37	No . 	
+A	1717.28	1717.91	So . 	
+D	1717.66	1721.84	So I think it would be very hard to actually gain on the competition here . 	
+A	1722.53	1723.932	'Kay . So we can 	
+D	1723.04	1726.02	That would that would cost a a big marketing 	
+D	1728.15	1728.83	expedition 	
+A	1728.17	1728.77	Yeah . 	
+A	1729.82	1730.31	That's right . 	
+D	1730.4	1730.99	which was 	
+D	1731.97	1736.63	one of the arguments to make it only for the T_V_ because we didn't have the time to market a lot . 	
+A	1737.0	1744.34	Yeah . So you suggest we could better um focus on for example the docking station . 	
+B	1738.327	1739.048		
+A	1745.7	1747.17	Uh uh like other functions . 	
+A	1749.59	1752.1	Instead of f of less buttons . 	
+D	1749.74	1750.34	Maybe . 	
+D	1752.79	1753.08	Well 	
+D	1754.13	1758.452	yeah I think , mean we obviously need a good way to position all the buttons and 	
+D	1759.39	1761.53	But I don't think we should spend very much time in that . 	
+A	1762.38	1766.71	Mm . No . Do you think the docking station will 	
+A	1767.88	1771.15	uh is allowed in the budget we have ? 	
+C	1772.61	1779.13	It should be possible yes . If it's not too fancy . And if the remote stays rather small , it should be possible yeah . 	
+A	1774.03	1775.04	'Cause it can be 	
+B	1774.35	1775.08	No . 	
+A	1776.19	1776.6	No . 	
+A	1778.99	1781.532	Yeah . Because I think that's uh 	
+B	1779.4	1779.57	No . 	
+A	1782.56	1793.63	That's a good advantage point as well . If we have a fancy-looking docking station or very That's a nice requirement . 	
+C	1785.69	1786.12	Yes . 	
+B	1789.09	1789.25	Hmm . 	
+A	1794.83	1795.8	Docking station . 	
+D	1796.224	1797.356		
+C	1797.0	1799.02	So we're just gonna focus on the extras ? 	
+A	1800.46	1801.12	I think so . 	
+C	1801.24	1801.42	Yeah . 	
+B	1801.82	1802.0	Mm . 	
+D	1801.92	1804.28	Yeah I think maybe we should do some research into 	
+D	1805.31	1807.33	what elderly people like to have in a 	
+A	1808.23	1808.65	Yeah . 	
+D	1808.5	1810.39	like to have extra in a new remote control . 	
+A	1811.17	1813.904	That's a good point . Um 	
+A	1816.42	1818.68	You said they easily get lost as well . 	
+D	1820.0	1824.43	Yes well fifty percent of the people indicated that remote control tended to get lost . 	
+A	1822.91	1823.22	Yeah . 	
+A	1824.57	1829.39	So maybe we should implement the audio sign , or something . 	
+D	1829.65	1842.52	Yeah that was what I suggested . You have it on Yeah you have it's on some phones too , which have a docking station . And you just press a button and the phone goes ringing . 	
+A	1831.03	1831.46	Yeah . 	
+C	1831.58	1835.48	Like with your key-chain , if you whistle it goes uh it makes a sound . 	
+A	1832.88	1833.49	Yeah . 	
+B	1834.41	1834.71	Hm . 	
+C	1839.11	1839.36	Yeah . 	
+A	1842.67	1852.79	Yeah . So audio signal should be possible as well . I think it's not too expensive . Uh another 	
+D	1843.28	1844.03	So you know where it is . 	
+B	1848.31	1848.83	No . 	
+A	1854.3	1856.92	point is the L_C_D_ screen . 	
+A	1859.2	1865.913	Um I don't know if that will rise the cost too much , because 	
+C	1865.23	1869.74	Y i um I think we'll have to choose between the docking station or the screen , 'cause 	
+A	1870.82	1872.91	Yeah . It will be too much as well . 	
+C	1871.19	1871.916	it's uh 	
+B	1871.5	1871.8	Mm . 	
+C	1872.521	1873.159		
+D	1873.15	1890.68	I think since a lot of people indicated that a new remote control is hard to learn , and we're focusing on elderly people here which tend to have a hard time understanding new devices , it might be a good idea to have just a little screen on it , which would explain a button if you press it . Which would tell you what it does . 	
+A	1892.2	1892.48	Yeah . 	
+D	1893.11	1897.476	And it wouldn't have to be touchscreen or a very expensive screen , but 	
+A	1895.66	1896.1	Based . 	
+B	1895.96	1897.56	Okay . Yeah . 	
+A	1898.96	1901.7	Just the L_C_D_ . Oh just the normal screen . 	
+D	1902.38	1904.697	Just a small screen with two 	
+A	1903.17	1907.43	That's a good idea . So Some extra info . Feedback . 	
+D	1906.96	1907.36	Yeah . 	
+A	1908.98	1910.6	Yeah . I think that's a good idea as well . 	
+B	1909.01	1909.28	Yeah . 	
+D	1911.51	1913.07	But I dunno if that would 	
+A	1914.64	1915.84	As the small screen . 	
+D	1915.19	1916.35	that would fit into the 	
+D	1919.72	1920.28	costs . 	
+A	1924.27	1925.8	Extra button info . 	
+A	1929.41	1950.877	I think that should be possible as well . Um let's see what did we say . Mm . More . Should be fancy to , fancy design , easy to learn . Few buttons , we talked about that . Docking station , L_C_D_ . Um general functions 	
+A	1952.5	1953.17	Yeah . 	
+A	1956.04	1956.46	'Kay . 	
+A	1960.37	1962.8	And default materials . 	
+A	1964.52	1979.44	I think that's a good idea as well , because um elderly people don't mind if it's a titanium cover or just a plastic one . So that doesn't really matter . So I think we nee 	
+B	1972.384	1974.266		
+D	1975.2	1975.79	No . 	
+B	1975.67	1975.91	Mm . 	
+D	1978.99	1984.37	I think probably elderly people would be a little bit more careful with their remote controls than 	
+D	1985.53	1986.1	youngsters . 	
+A	1988.8	2006.87	Uh let's um specify the target group . Because are we talking about elderly elderly people or people from forty to eighty . Because I think what we're going to design now is for people above sixty , maybe . 	
+B	2009.07	2009.7	Mm . Yeah . 	
+D	2009.37	2009.54	Yeah . 	
+A	2010.43	2019.25	Uh what do we want ? If we want um a with uh for example the the telephone for elderly people , we can 	
+D	2011.08	2011.836	I think 	
+A	2020.51	2022.52	target the real elderly people . 	
+D	2024.27	2031.98	I think that would be a If we should do something like that it would be a , I think it would be really good for uh for the image of the company . 	
+A	2033.23	2033.52	Yeah . 	
+D	2033.79	2036.81	And I think , I think there would be a good market for it . 	
+A	2038.01	2039.056	So that's the 	
+D	2038.5	2042.11	If we're able to really bring an innovative product . 	
+A	2040.118	2040.681		
+A	2042.48	2045.35	Now you're talking about sixty to eighty for example . 	
+D	2045.1	2046.489	Yeah the really 	
+A	2046.81	2049.39	Yeah . Sixty . 	
+B	2047.35	2047.49	Mm . 	
+D	2048.3	2048.56	But 	
+D	2050.42	2051.96	I'd have to look into that a little more . 	
+A	2052.34	2057.137	Okay . And different cultures . Are we 	
+C	2057.39	2060.94	Well I don't think they have different television sets uh 	
+B	2062.02	2062.55	Mm . 	
+A	2062.21	2062.74	Okay . 	
+C	2062.34	2063.44	in uh every country . 	
+A	2064.19	2064.62	No . 	
+B	2064.8	2065.16	No . 	
+C	2065.47	2066.026	'Cause 	
+A	2067.61	2070.94	We've got five minutes left just now . Small warning . 	
+B	2068.43	2070.0	So 'Kay . 	
+D	2069.67	2077.95	'Kay . And with uh the little screen in it , which explains the buttons . You could I think we n it would be a lot easier to 	
+A	2075.16	2075.672	Should 	
+D	2078.95	2081.13	adapt it to different cultures . 	
+A	2081.65	2083.97	Yeah . In different languages , you know . Yeah . 	
+D	2083.18	2083.47	Yeah . 	
+C	2083.37	2083.66	Yeah . 	
+B	2083.9	2084.14	Yeah . 	
+A	2085.22	2103.24	or you have to put a language button in it , but that will be a bit unnecessary I think . It's better to put it on different markets with it all . Okay . So that's the the target . Uh then a few small things . 	
+B	2086.12	2086.47	Right . 	
+B	2089.03	2090.19	No . Yeah . 	
+D	2090.25	2090.57	Yeah . 	
+B	2093.64	2094.06	Yeah . 	
+C	2094.57	2094.82	Yeah . 	
+D	2104.016	2105.139		
+A	2105.96	2124.32	Uh okay . I will put the minutes in the project uh project document folder . Um what we're going to do for the next meeting is the Industrial Designer will do the components concept , User Interface Designer the user interface concept , and the trend-watching . 	
+A	2124.58	2139.55	So just keep in mind the things we've said about the target group , uh requirements , and the trends which are uh going on . And uh specific instructions will be sent to you by uh the personal coach . 	
+D	2140.48	2140.62	'Kay . 	
+A	2140.81	2146.56	So um I thank you for this meeting . And I think we have a lunch-break now . 	
+D	2147.13	2147.75	That's good . 	
+B	2147.68	2147.86	Yeah . 	
+A	2147.94	2149.36	So that's a good thing . 	
+D	2166.179	2166.785		

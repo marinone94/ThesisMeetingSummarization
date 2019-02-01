@@ -1,0 +1,524 @@
+Found 4 args.
+Observation: ES2004c; Result size: 521; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+B	0.02	2.03	I'll wait until you're all um hooked up . 	
+D	17.57	19.13	Oh good grief . 	
+A	18.492	20.015		
+D	22.85	23.19	'Kay . 	
+B	29.76	30.24	Okay . 	
+B	47.038	49.706		
+D	50.13	50.55	Oh . 	
+B	52.39	54.75	Put it on in that way . Thanks . 	
+A	54.23	54.43	Oops . 	
+B	78.08	78.56	Okay . 	
+A	79.22	79.6	Mm . 	
+B	80.08	83.87	Welcome back everybody , hope you've had fun . 	
+C	81.696	82.256		
+A	82.47	83.27	After lunch . 	
+A	85.13	85.36	Yeah . 	
+B	85.44	93.52	Right um this is our conceptual design meeting , um I think we're slightly ahead of ourselves 	
+A	89.18	89.94	Mm-hmm . 	
+B	94.77	99.69	from the last meeting , I th I I think yeah um . 	
+C	96.01	98.26	Yeah , yeah I was getting that impression as well . 	
+A	96.42	96.63	Mm-hmm . 	
+D	98.28	98.41	Mm . 	
+B	101.04	111.6	This is where we talk about um properties , materials , user-interface and trend-watching . 	
+C	109.85	110.42	Etcetera . 	
+D	111.92	112.28	Mm-hmm . 	
+B	112.69	115.01	So I think we've touched on a few things 	
+B	116.64	118.91	to do with that already , but we'll just go over it . 	
+B	120.4	121.07	Um 	
+B	122.98	143.36	the minutes from the last time . Um we had a couple of um changes in our plans in that we couldn't use teletext , it wasn't gonna be a control for everything um and that we had to incorporate the image of the company into it somehow . Um 	
+B	144.72	165.39	we have decided on a leaving out the voice recognition , we've decided on there being a flip design and um a different shape from what's normal . We were thinking a shell , but something along those lines , just a different shape from what's normal , um . 	
+B	168.97	172.1	You were going to look into the rechargeable batteries 	
+C	172.32	172.65	Yeah . 	
+B	173.31	192.848	and we were gonna think about the port and an alarm for getting it lost , things like that , um and our market was going to be young , business , kind of range . Okay , so shall we start with the first presentation ? Yes if you feel 	
+A	175.44	176.237		
+C	177.68	178.07	Yeah . 	
+A	188.1	188.36	'Kay . 	
+D	191.24	194.51	Shall I ? Okay . We just connect up . 	
+A	191.78	192.17	Yep . 	
+B	200.208	200.747		
+D	201.1	201.44	Thank you . 	
+D	217.91	228.53	There we go . Okay um so we decided on our market and so this feedback from the marketing department is really about trend watching . Um 	
+D	229.365	232.39	the methods we used to decide on uh 	
+D	234.6	269.305	current trends and so on , market trends , were that we did our traditional uh our usual market research study uh with a hundred subjects and the the general feedback from them is that the most im uh w I'm sorry I'm slightly tongue-tied after lunch , sorry Project Manager . Um we decided on the most important aspect i uh required in a remote control device and we'll come to that later . So that was one of the first things we did . Also with our company um being forerunners in uh putting fashion into technology , we also looked at a fashion update um using our consultants on fashion and design in Paris and Milan . 	
+A	249.432	251.191		
+C	249.455	250.768		
+B	249.46	250.6	It's okay . 	
+D	270.29	289.55	Uh so the general findings from that was uh in the market trends the most important aspect for remote controls were people want a fancy look and feel , rather than the the current functional look and feel of remote controls . They also also want a remote control to be technologically innovative , 	
+D	290.9	306.4	and of course , as we predicted , that it should be easy to use . Now I should point out that the first of those findings , fancy look and feel , is the most important , is twice as important as the second , technologically innovative , which is in turn twice as important as being easy to use . 	
+D	307.84	339.12	So possibly that the feature that we put first is actually third is still important , but it's third in order of preference for the the subject group we looked at . Okay , um , now the fashion update which relates to very personal preferences among our subject group , um we found from our um consultants in Paris and Milan who des attended all the design and fashion fairs there , that fruit and vegetables are going to be the theme for clothes , shoes and furniture . So should we be thinking of using something like that in our remote control design too ? 	
+B	316.02	316.31	Yeah . 	
+D	340.13	356.54	There also seems to be um a trend towards a spongy feel to materials , uh again in contrast to last year . So a lot of interesting feedback there , both from our market research departments and from our people in Paris and Milan . Be interesting to see what our design people make of that . 	
+A	356.94	357.17	'Kay . 	
+B	357.29	360.19	Okay thank you very much . Um 	
+A	360.73	360.82	Yep . 	
+B	361.49	363.91	let's start from the inside and work our way out . 	
+A	363.56	364.99	Fine . It's okay with me . 	
+C	364.29	366.301	Yeah , okay . 	
+D	365.43	369.44	Unless anyone has any questions about that ? Not yet ? 'Kay . 	
+B	367.55	369.49	I don't think so , not yet . 	
+B	371.04	373.09	Um , yes , thank you . 	
+C	380.97	383.584	That screwed in ? 	
+D	381.15	381.79	Okay . 	
+B	388.56	389.72	I hate those little things 	
+C	389.94	390.29	Yeah . 	
+B	390.96	395.96	especially if you do them on too tight and you can't get the leverage on them to undo them . 	
+D	393.872	395.9	I know . 	
+C	403.02	404.722	'Kay , 	
+B	410.79	411.24	Okay . 	
+C	410.83	425.072	Okay . Um this is uh all about the design of the actual components and the availability of the components we have in stock at the moment . Okay , first uh the 	
+C	426.23	450.55	Into the method . The the main idea of the whole thing is just so you sh you just press buttons and it should activate things on the T_V_ and we discussed last meeting that it should be easy to find . Um also in this study I've looked into the availability of some of the materials , 'cause some of the things that we looked at last time aren't un unfortunately aren't available . 	
+B	451.06	451.4	'Kay . 	
+B	451.44	471.784	. 	
+C	452.66	478.53	Um , findings , I've got my nice little picture there . This is uh the chip called the T_A_ double one eight three five which is what's used in pretty much every remote control 'cause it sends out standard signals , based on your input and um it's pretty much used for all all T_V_ remotes at the moment . Um and then we we're loo looking into battery options . 	
+B	472.18	472.33	'Kay . 	
+D	474.368	475.571		
+C	479.86	507.024	There's um actually no rechargeable option available , so we I saw the um the standard double A_ and triple A_ which we thought were a bit bit too bulky at the moment , dynamo charging , I thought that that might be a bit silly to be to be honest , people won't it's it's basically like wind-up radio . So you wind up your remote control before you use it . It might 	
+B	497.45	498.86	Wa can you explain that ? 	
+B	500.12	502.6	Like a right , okay . 	
+D	504.416	504.832		
+B	504.94	512.977	How what kind of how l long can you get out of that , I mean can you pick it up and then wind it for two minutes and then that's it for the night ? Or 	
+C	508.76	509.472	You 	
+C	512.15	533.17	Yeah , yeah , oh yeah I presu you wouldn't have to wind it for very long , but I don't I don't think it's really sort of necessary when you th you think of the next two options , like the the solar charging , 'cause most people have the light on in the room anyway so they could get when when you got T_V_ . 	
+B	531.46	532.94	That doesn't count though does it ? 	
+D	532.32	535.71	Does does light charge as as sunlight does ? Artificial light ? 	
+B	533.78	537.905	I thought it was U_V_ like 	
+C	535.19	535.53	No . 	
+C	536.91	539.1	Is it ? Alright i 	
+D	539.17	539.99	Has to be solar . 	
+B	539.61	540.864	Any , any 	
+A	540.57	552.17	Yep . Regarding those sizes , which one you think will be light because we we have to take into consideration size also , so maybe a standard triple A_ might take lesser space or and dynamo might take more space . 	
+C	551.03	557.25	Yeah it would the d yeah the dynamo would take more space 'cause you actually need a physical sort of handle to wind up . 	
+B	557.01	559.69	I'm pretty sure that solar is from the sun . 	
+C	559.77	560.85	Yeah , okay . 	
+D	560.34	560.68	Mm . 	
+B	560.54	573.0	Uh , I don't think it counts electric lights no , but I mean not many you don't want to limit your market . I mean people who live in basement flats there's not that many people , but there are people . 	
+D	561.91	563.03	Artificial light , no . 	
+D	565.27	566.244	That's going to 	
+D	571.17	575.32	I know , different parts of the world too , if we're if we're marketing internationally . 	
+A	571.57	571.976	Uh 	
+C	571.73	572.048	But 	
+C	575.14	580.39	Yeah and most people most people also watch T_V_ in the in the night anyway . 	
+A	575.7	575.93	Right . 	
+A	579.56	580.19	Night . 	
+B	580.59	588.72	Mm , but then it would be charging through the day , I think the point is that it charges through the day and then you've got it charged for the evening . 	
+C	587.25	608.06	But I I think I think the the next one's the best anyway . The the kinetic charging which is like you get it in r you get it in wrist watches and you d you don't even notice it . I mean the amount the amount of probably moving around you'd be doing all the time would would charge it up , I don't think you'd ever need to actually physically start shaking it up to make it work . 	
+B	590.12	590.6	Okay . 	
+B	595.4	596.325	Yeah I've seen 	
+A	608.54	613.53	And are these like uh what are the life of the kinetic battery , it like it runs for long time ? 	
+C	613.51	640.41	Um yeah it's it charges into um some form of it's a smaller cell which it charges into and uh the si the size sort of a watch a watch battery , 'cause they use them quite frequently in watches . And that'll that would l would last for um well I do I d I'm not entirely sure how long it would last but I've never seen one run out . 	
+A	620.36	620.61	Mm-hmm . 	
+A	627.88	628.27	Okay . 	
+B	640.02	657.18	But then if you think about a watch , it's on your wrist so it's on your whole bod it's on your body the whole time so you're walking around , you're doing things , it is moving a lot of the time . If you'd I mean you switch the T_V_ on , then you put it on the side , then you pick it up to change it and then you put it on the side . Is it really gonna be enough ? 	
+A	640.27	640.66	We c 	
+C	645.11	645.51	Yeah . 	
+C	649.9	651.408	Yeah and 	
+D	652.96	653.23	Mm-hmm . 	
+C	655.38	686.784	Yeah but then again I I think it is because if you think about it , the watch , although it's only a tiny amount it's it's um it's always moving for the whole day and they don't run out over night when you leave them on the side . And th for the same the same reason , you're only using it for a v incredibly short amount of time just to send the signal and then you're finished with it and you put it no no I do I don't think the the draw on it would be 	
+B	672.45	672.94	Okay . 	
+D	681.63	697.26	Hmm . Mm-hmm . Mm . Could I just ask referring back to solar charging , is that compatible with um standard batteries ? I mean , could people put standard batteries in but with a s you know they could leave it in the sunlight for solar charging or the two things not compatible ? 	
+B	681.77	683.989	So it's not the draw on it isn't 	
+B	684.92	685.39	Okay . 	
+C	688.53	689.05	Mm . 	
+C	695.82	714.99	Ye yeah I think I th uh g y you could have a dual um power thing but the the thing with the solar cells is you would need to put them on the case and they because , if you lie on a calculator they they're qui they're quite big and they all they all look i identical . 	
+B	698.23	699.6	Like a dual kind of . 	
+D	710.58	711.07	Mm . 	
+D	714.49	716.48	So that affects the exterior design . 	
+A	715.28	717.65	Solar would be slightly expensives . 	
+B	716.16	723.11	Expensive as well . What kind of price are we looking at for I presume the normal batteries are the cheapest ? 	
+C	717.25	719.152	They're they're expensive , they don't 	
+A	720.58	722.05	It's twelve point f 	
+C	722.99	731.328	Yeah the normal batteries would be the cheapest I'd presume then it would actually be the the solar charging ones , um but the 	
+C	732.43	748.5	It's i I think they're not very resistant to dropping , 'cause if you drop stuff yeah if you if you have y the size you'd need to charge a remote wouldn't be that big but I mean if remotes always get thrown around and stuff , so . 	
+B	738.35	738.94	Solar . 	
+B	740.29	741.615	Well they're not designed 	
+C	749.9	751.89	Y I think yeah , practically . 	
+B	750.02	751.56	Practical-wise okay . 	
+C	753.65	760.57	I mean calculators you don't really throw around a lot whereas remotes you do , they can t 	
+B	759.16	763.08	You do get a bit of wear but don't calculators have a battery in them as well ? 	
+C	762.39	766.97	Yeah they do , they yeah they've got dual things , but they're the batteries are smaller I think . 	
+D	764.48	765.05	Mm . 	
+B	764.85	765.29	Mm . 	
+A	767.24	774.61	Another question is like sorry . W w which one would last the longest , because we don't want customers to be like you know charging like a mobile phone every day . 	
+D	767.35	767.99	Again it de 	
+C	774.97	778.336	Mm . W m yeah so the 	
+A	775.96	779.34	A remote control , like , so we have to s look at the life also . 	
+D	777.13	777.27	Mm . 	
+C	779.62	784.79	Yeah the the s if you if you had something du uh using the standard 	
+C	786.0	797.83	batteries and the solar charging , um , I don't think you'd I think the it would d well you know how long the standard double A_s would last in or triple A_s would last . 	
+D	796.5	801.6	It would just detract from the attractiveness of the of the whole feature , i it's not gonna add anything , okay . 	
+C	799.32	801.95	Yeah I think i I think it would , yeah . 	
+B	801.89	806.29	Okay , can we add in uh an attachment to closing feature ? 	
+A	806.95	807.27	Okay . 	
+B	807.99	814.336	Can we think about that ? 'Cause if we're doing the kinetic thing and it's 	
+C	811.75	812.25	Yeah . 	
+D	812.31	818.53	Shouldn't we do some market research on that first before we add it in because I I personally right , okay . 	
+B	816.29	819.12	Well add it in to think about um 	
+B	821.88	822.52	because , 	
+B	823.7	848.17	where am I ? If it is the kinetic thing and it is small and it is portable and it is a different shape and the kinetic is something people don't do kind of we're doing something original and different um but if you wore it if it's something you could just clip on your pocket then you would have that less , you you wouldn't lose it so much . 	
+C	832.63	833.01	Yeah . 	
+C	847.23	847.63	Yeah . 	
+B	849.51	852.71	But then maybe that's looking at someone who's just sitting on their own rather than 	
+C	849.84	850.14	Yeah . 	
+B	854.12	856.59	the eternal battle for control of the controls . 	
+C	855.968	856.72		
+D	857.15	863.69	It's not something that's come up in any of our uh focus groups and market research , it's not a thing that people are looking for 	
+B	861.8	862.37	No . 	
+B	864.04	864.52	Okay . 	
+D	864.84	866.45	when we threw it open to the field yeah . 	
+A	865.28	865.753	So 	
+C	868.04	868.5	Okay . 	
+D	868.04	870.2	But it's something to put on the side to think about maybe . 	
+B	871.63	872.35	Okay , right . 	
+C	872.2	873.29	Okay , well I'll move on . 	
+B	873.37	873.7	Mm-hmm . 	
+C	874.85	917.68	Um , my second part of my findings uh the mo most current remotes use this silicone uh P_C_B_ board which pr printed circuit board , which basically has these contacts that are really close together and then when you press down on the rubber button , it'll connect the circuit and each each switch is connected to two uh different legs on the chip and so sends a different message and that then uh gets translated by the chip into a code and then it's fired out of this L_E_D_ in the sequence of l on and off bursts . 	
+B	918.16	928.079	What kind of things do we have to consider there ? Can we what kind of size , does it come in varying sizes or is it just one size and we would have to fit the design of 	
+C	925.27	925.6	Well 	
+C	927.14	930.13	well this the thi the thing about is um 	
+C	931.57	962.16	they they can be as big or as small as you want them to be because you can you can print circuit board like that that it's it's simply spaced like that so you can have fit the n the size of the nine buttons in . If you if you see how thin the tracks are , you could you could s you could put them virtually right next to each other and have a much smaller switch on each one , if you if you wanted to but um the there is an option to do to do it like that , or you could have some sort of 	
+B	945.64	946.04	Mm-hmm . 	
+B	952.22	952.62	Okay . 	
+C	963.59	967.536	array of switches which I'll speak about in the next bit so that 	
+B	966.52	966.91	Okay . 	
+C	969.08	1003.04	And then to uh yeah , so to conserve battery life the remote should be in a standby mode no while not being used . Now what I was thinking about that was 'cause sometimes when y when you have these things , they've got little lights on behind the buttons , so you can see what all the buttons are , like on a mobile phone , they do it more often than on a than on a T_V_ remote , but you could you could have lights behind the buttons and um after like five or ten seconds of not being used I'd have that turned off , if we decided to go for buttons that could light up . 	
+B	987.44	987.82	Mm-hmm . 	
+A	988.01	988.49	Mm-hmm . 	
+A	1004.88	1005.47	Okay . 	
+C	1004.91	1023.27	Um , the case material , I've a been sent what the factory can actually give us , the there's the plastic which I think we were gonna go for anyway as the main case case housing and 	
+B	1020.85	1021.35	Mm-hmm . 	
+C	1024.6	1056.5	the the main problems with the well you could go for wood but I think it would be a bit impractical . Titanium um very expensive just to process , which to make it is expensive , and rubber , well you're saying that people like this uh spongy feel this year , so perhaps uh some something made of rubber , but I was thinking more of the buttons , because the buttons which they've they've said 	
+B	1038.2	1038.59	Mm . 	
+D	1046.72	1047.07	Mm . 	
+C	1057.86	1060.24	that they've they've put across 	
+C	1061.53	1084.82	are what is used in some stress ball manufacture and it's meant to be anti R_S_I_ . I'm no I'm not sure how that would work because surely your fingers would still be moving over the short distances but that's what they said . Um the problem with the casing is that uh there's 	
+D	1066.12	1066.43	Okay . 	
+B	1069.34	1069.81	Mm-hmm . 	
+C	1086.09	1109.2	quite um there's quite a few design restrictions that they've got on the shape of the case . If you go for titanium they can only do a standard box shape , whereas if you come to plastic they can they can be a little more they can they can do sort of curved shapes . But whether whether or not because we'd have it in two separate units 	
+A	1111.24	1129.236	Second thing is yeah and second question is like , a mobile you can change the cover , you call it a skin or whatever . So in this case if you're looking at like a customer can change the colour like from green , parrot green to chilli red or something like that . So is that feature available in like uh titanium , or it's like only specific to plastic or 	
+C	1111.37	1112.42	for the flip phone . 	
+B	1111.47	1112.76	Hinged , yeah . 	
+C	1116.01	1116.39	Yeah . 	
+D	1121.34	1121.56	Mm . 	
+C	1123.21	1123.83	Yeah I th 	
+C	1126.8	1127.08	Uh . 	
+C	1128.23	1151.0	Yeah in in titanium I don't I don't think it would be available at all really , the ju just it w well you could make it available in the titanium , it was just it would be so expensive to buy a new case for it , because of the expense of how much titanium is is it's light and strong but I think it should be left for aircraft design rather than for 	
+D	1132.2	1132.29	Mm-hmm . 	
+A	1141.18	1141.45	Mm-hmm . 	
+D	1152.1	1169.79	It does mark quite easily too if you let it fall . I've got a mobile phone myself which is titanium and it does mark very easily if you drop it . I was just wondering if we make the basic mould out of plastic but have like a rubber cover that goes over , that would give the spongy feel , that also allows us to kind of have different fasciae for the phone . 	
+C	1152.43	1153.12	for a remote . 	
+C	1156.72	1158.51	Yeah , yeah . 	
+C	1163.88	1165.12	Rubber , yeah . 	
+C	1168.63	1170.09	And you can peel them off yeah . 	
+B	1169.94	1180.85	So instead of the fascia that comes off being plastic , the fascia that comes off would be the rubber , like those pens that you get with the grip , that you can you can pull that off . 	
+A	1169.98	1170.21	Yeah . 	
+D	1174.31	1176.01	Like a rubber sleeve almost , yeah . 	
+C	1176.03	1176.74	Yeah . 	
+A	1176.08	1177.18	Something like 	
+C	1178.32	1178.66	Yeah . 	
+D	1178.54	1178.94	Mm . 	
+A	1178.63	1180.68	Alright . That could be a good idea . 	
+D	1180.98	1181.26	Mm . 	
+C	1181.26	1181.61	Hmm . 	
+A	1181.92	1183.95	It could it would be comfortable to hold on also . 	
+B	1182.08	1182.52	Okay . 	
+B	1183.71	1184.1	Mm . 	
+D	1184.63	1188.37	Very cheap way of changing the look of it and people can just buy a new one if they want to . 	
+C	1184.81	1184.91	T 	
+C	1187.76	1188.24	Yeah . 	
+B	1188.72	1192.63	Well that's been really popular with mobile phones so I don't see why not . 	
+D	1191.82	1193.2	Mm . Yeah . 	
+C	1193.73	1219.57	Also the just just going back to the interface designs with the buttons , the I kno we were planning to do some sort of touch screen . Now what I was saying before about instead of having you could have just a bare P_C_B_ circuit board and I'm sure you could probably get it in different colours and so just by touching it with your finger it'd make the connection 	
+B	1195.06	1195.48	'Kay . 	
+B	1202.8	1203.22	Mm-hmm . 	
+C	1220.71	1249.58	over if you had them close enough , that would be one option . Um the second option th they offer rubber buttons , but I thought that an L_C_D_ type of screen 'cause one they're incredibly thin um and don't take up much space , two they you can have them in a sort of array and you can arrange the buttons on the screen in a sort of set thing and you could have them like a touch 	
+A	1250.61	1253.104	Sorry I didn't get the last part , you're talking of 	
+C	1250.92	1251.55	display . 	
+C	1254.32	1255.584	Uh what what 	
+A	1255.66	1259.979	Just what you said I I didn't get the uh meaning of it completely , you're saying like 	
+C	1259.11	1278.27	Oh on the on the L_C_D_ screen you could becau you could fit it the problem with it basically is that it's flat and so you can't do lots of curve curved things with it , but um you can you wouldn't have with the L_C_D_ you'd have the wires coming off , you wouldn't have that with the 	
+A	1261.19	1261.48	Uh-huh . 	
+A	1268.12	1268.44	Okay . 	
+B	1268.39	1268.77	Mm-hmm . 	
+C	1279.4	1282.11	with the L_C_D_ , you'd only have that with the printed circuit board . 	
+D	1281.44	1281.71	Mm . 	
+C	1283.2	1283.92	With 	
+C	1285.04	1286.592	W also with the 	
+D	1285.14	1294.31	I don't s sorry to interrupt , I don't see why the curved thing is a problem , if we for example had a shell , once we open that yeah , so it'd be f yeah , yeah . 	
+C	1290.8	1291.38	Yeah . 	
+B	1291.4	1292.93	Oh it would be flat inside . 	
+C	1292.64	1311.88	You could have a flat screen inside , yeah , but I'm just wondering whether we want an L_C_D_ screen inside . It wouldn't be like full colour , it would just be black and white , but there'd be touch touch buttons , so you wouldn't be pressing down on 'em , w or we could have rubber buttons which are made of this material which is anti-R_S_I_ . 	
+B	1294.35	1294.69	Mm . 	
+D	1295.95	1297.09	Have I misunderstood you ? 	
+D	1302.15	1302.5	Mm-hmm . 	
+A	1305.92	1306.16	'Kay . 	
+D	1311.86	1312.08	Mm-hmm . 	
+B	1312.35	1327.648	I think it would be good to have a contrast between , if the whole thing is gonna be this rubber thing it would be good to open it up and see something quite fancy looking inside . Now how would you distinguish , if you had it bare , how would you distinguish where you had to press , I mean 	
+C	1316.18	1316.78	Is rubber . 	
+D	1321.04	1321.35	Yeah . 	
+C	1321.41	1321.89	Mm . 	
+C	1328.39	1331.39	Yeah I hadn't I hadn't really thought of that to be honest . 	
+B	1329.08	1329.659	Uh 	
+D	1329.81	1345.4	I just had another idea , I don't know if it helps with that , but just to do with the R_S_I_ . Is it possible , just as an option , when we open it up , people can use their fingers to press the button , or we have inside like a small pointer thing when people want to . Mm . 	
+C	1341.3	1350.48	Yeah you could , you could have some sort of stylus that you could pull out but I I think they could get a bit easily lost , 'cause I had 	
+B	1343.28	1344.63	Like one of the palm pop thing . 	
+D	1349.52	1352.32	Yeah . They're easy to replace as well , cheap . 	
+A	1349.89	1367.41	Absolutely , f for somebody who very often , if he would a person who switches channels very often or does use a particular function very often will find it very irritating to use a and he might spoil the touch-pad very fast compared to a button like , if you keep punching with an pointer or whatever . 	
+B	1350.45	1352.33	It would have to be attached . 	
+C	1353.08	1353.52	Hmm . 	
+C	1357.41	1357.77	Yeah . 	
+C	1360.13	1360.71	Yeah . 	
+D	1360.96	1361.14	Mm-hmm . 	
+C	1364.51	1364.97	Yeah . 	
+D	1364.93	1365.17	Mm . 	
+C	1367.68	1368.55	Yeah okay . 	
+D	1368.02	1373.984	Yeah just a thought they wouldn't actually need one and they could use anything they've got , couldn't they ? A pencil or a pen , so they wouldn't really need a 	
+B	1374.37	1381.31	Okay , we'll talk about that so if you finish your and we'll come back to that . That's you , right okay . 	
+C	1377.38	1380.96	Yeah that's yeah that that's the end of m my 	
+A	1380.42	1393.04	And just one small question before like you are , regarding the circuit , since we are hav having a flip-top , we can customise the two circuits for different type of buttons like we are keeping the standard buttons on the top and the more complex buttons under this thing , so we can divide the circuit like you know . 	
+C	1385.07	1385.28	Yeah . 	
+C	1389.91	1390.69	Uh yeah . 	
+C	1393.63	1411.12	Yeah yeah that that would be fairly simple , I mean you'd you'd actually have two separate you'd have two separate circuit boards but they'd be joined by wires or like some cabling between them , 'cause in the in the actual flip bit you'd have some linking . 	
+A	1395.98	1396.18	Mm-hmm . 	
+A	1398.69	1398.97	Okay . 	
+A	1403.89	1404.16	Okay . 	
+D	1406.33	1406.7	Mm-hmm . 	
+D	1413.28	1427.95	I'll just raise another point while it occurs to me , it kind of applies to both our designers here , so I'm not sure how it would fit in . If we flip open , now you know how you've got some mirrors in nightclubs that are mirrors when you turn to them and you turn away and it gives like an advertising display , you seen those ? 	
+C	1417.86	1418.4	Mm . 	
+B	1427.92	1428.45	No . 	
+D	1428.93	1441.02	And they kind of respond to the turn of your body . Is it possible that when we open our flip-top shell it's a little compact mirror and when you press a button it then goes onto the phone display th uh the remote control display thing . 	
+B	1441.55	1444.95	We're marketing to guys as much as we are to women . 	
+C	1441.72	1442.17	Um . 	
+D	1445.33	1446.38	They don't look at themselves ? 	
+D	1447.73	1448.35	Just a thought . 	
+B	1448.66	1457.723	Well it's a remote control , you were sitting watching T_V_ are you gonna want to sort of open it and say oh shit I should go and have a shower and do my hair before I put the T_ 	
+D	1451.08	1451.58	Yeah . 	
+D	1453.41	1466.11	I know what you mean , it's with us using the ideas for a mobile ph it's with us using the ideas for mobile phones I kinda got sidetracked onto that I think , okay . trying to think of other features we can build in that wouldn't cost too much but maybe we'll leave that one on the side . 	
+C	1455.6	1458.792		
+B	1459.52	1461.52	Yeah , no , no . 	
+B	1464.63	1465.14	Mm . 	
+C	1466.12	1466.63	Yeah . 	
+D	1467.27	1467.81	'Kay . 	
+B	1467.49	1467.92	Okay . 	
+C	1469.38	1482.337	I mean you can you could do it , you could have a 'cause if you if you just put the full charge through an L_C_D_ display it'll completely blank it out , but I don't know if you could get any mirror effect on it , I'm not sure about 	
+D	1478.47	1478.81	Mm . 	
+D	1481.17	1485.3	Oh I think forget about the mirror that was just a very quick passing thought yeah . 	
+B	1482.832	1485.97	Okay , okay . 	
+C	1483.872	1484.672		
+A	1485.92	1487.38	Okay , uh 	
+A	1489.98	1521.16	would like to share something which I did here . First thing is uh basically on design we just took the input from the previous meeting , especially from the marketing and industrial design , to check on the customer needs and feasibility . Second is we checked into competitors , the picture here shows one of the standard models offered by competitors here . So y you generally see there's not much of variety and like marketing team said uh , people need trendy , they are bored of black and white . So you generally see rectangular shape , very monotonous kind of designs here . 	
+B	1510.4	1510.77	Mm . 	
+C	1515.72	1516.07	Yeah . 	
+A	1522.92	1529.05	And uh second thing is there's too much of confusion here . No particular remote is standard . 	
+B	1527.27	1527.81	Mm . 	
+A	1531.18	1532.864	Like , some some people have a 	
+A	1534.419	1537.41	Here you see this ? This is on a I I 	
+A	1538.58	1547.98	I found th that uh only common feature is the ch uh channel control and uh volume control , rest other buttons , they are in a very disorganized and they are not consistent th with other models and all . 	
+B	1548.32	1548.7	Okay . 	
+A	1549.28	1565.05	Okay , and second as already discussed with William , we are going to have m maybe a G_ G_U_I_ interface in the f in the middle of the flip-top and g graphic user interface basically which is what we d do in computer , have icons or touch pad or whatever , which is 	
+C	1555.92	1556.22	Yeah . 	
+D	1557.6	1558.81	Sorry what does that stand for ? 	
+B	1558.24	1559.382	Which means 	
+D	1560.36	1560.52	Okay . 	
+C	1562.31	1562.73	Yeah . 	
+C	1564.18	1569.12	If you if yeah if you have like buttons that appear on the screen in this L_C_D_ screen . 	
+A	1568.91	1575.38	Like you have on a l uh icons or something y you have is a good example of G_U_I_ graphic user interface . 	
+C	1574.84	1575.7	Yeah . 	
+B	1575.51	1575.93	Okay . 	
+A	1576.34	1579.216	So basically not point or click 	
+A	1580.12	1597.76	Press any particular device , he just has to click on that particular icon to simplify . And on the top m repetitive buttons which are like volume or channel changing and all could be on the pointing device , that means the use of button . So he need not use a pointer to keep changing the channel if a person is frequent surfer . 	
+B	1582.98	1583.29	Okay . 	
+B	1598.2	1598.6	Mm-hmm . 	
+A	1598.78	1607.8	So we are having a combination of boards , so f on the s simpler board , on the top we have this button , rubber buttons , to keep frequently changing the channels . 	
+B	1609.46	1614.28	Can we swap that round so th that the ones that we use all the time are on the bottom part ? 	
+A	1615.408	1616.245		
+B	1615.64	1617.43	'Cause if you're thinking about holding it 	
+B	1618.77	1622.83	you would be using your thumbs to press , just like a mobile phone . 	
+C	1622.52	1623.39	Yeah . 	
+D	1622.57	1624.928	No you'd hold it you don't if you flip it open then you'd be 	
+D	1627.03	1636.6	Wouldn't you ? Isn't that the idea ? You us if we just use the shell as an example again , you open that , you've got your L_C_D_ display there and you've got the buttons there so you're holding it in the palm of your hand , yeah . 	
+B	1630.77	1631.32	Yeah . 	
+C	1635.08	1638.05	Yeah , yeah but you can do it with your thumb li 	
+B	1635.33	1652.41	That's what I was just saying , and then have the and then have the L_C_D_ at the top and then be able to touch that for the other controls , so have the um the volume and the programme , things like that , on the lower side . Okay . 	
+A	1636.8	1637.388	But 	
+D	1640.61	1640.95	Mm-hmm . 	
+A	1640.82	1641.12	Mm-hmm . 	
+D	1642.78	1643.18	Mm-hmm . 	
+A	1643.44	1644.99	Okay and you mean to the 	
+A	1649.49	1651.65	And the lower distance . Oh f perfect . 	
+D	1651.84	1651.93	Hmm . 	
+A	1655.62	1657.74	So the findings are too many cluttered buttons . 	
+A	1658.63	1669.12	Repetition of certain but buttons which I already explained , example the volume and channel control buttons . All are confusing and in inconsistent . Okay we had a latest finding of voice recognition , there was a mail 	
+A	1670.49	1706.64	which mentions that our division has developed a new speech recognition s feature . We have to check into the for financial f feasibility whether we can incorporate it this at a low cost , but for like we had g um s response from the customers that they would like to have the feature of finding it . So it could be like , where is the remote , and the remote answers I am here . Some kind of thing or it gives a b bleep sound or some kind of sound and if this can be incorporated this would be more uh you can say trendy also ? And technologically innovative also . 	
+C	1690.13	1690.48	Yeah . 	
+C	1694.76	1695.18	Yeah . 	
+D	1699.41	1699.84	Mm . 	
+C	1708.38	1708.78	Yeah . 	
+A	1708.98	1712.43	So we we can check into the financial feasibility of incorporating this . 	
+A	1716.23	1731.79	My personal preferences would be like , as already uh marketing department , they want something to do with fruit so I wouldn't say the design should be like a fruit , but yeah we can take inspiration from fruit colours , like the vibrant colours , uh red chilli uh 	
+D	1729.21	1729.61	Mm . 	
+C	1730.76	1731.03	Yeah . 	
+A	1733.01	1742.36	tomato red or whatever and second thing is cer certain standard buttons we should have , like for example , i if you see the previous slide uh 	
+C	1743.54	1745.372	Well , yeah we 	
+A	1746.09	1757.2	I think most of the users would now be well acquainted with this cer central pattern , here , so we we we would not change h that particular pattern because i this is the most consistent thing in all remote controls . 	
+C	1751.17	1751.55	Yeah . 	
+B	1757.45	1760.07	I can't see that , is that play and stop and things ? 	
+A	1760.16	1771.06	This is central one , the one you yeah volume and channel . So keep that m that standardised because that's the most common feature across all models , if you look at all the models , it's here . 	
+B	1761.45	1763.43	Or is that volume and channel ? 	
+A	1773.65	1774.17	This 	
+A	1776.98	1777.57	and 	
+A	1780.82	1781.57	voice recognition . 	
+B	1782.75	1783.25	Okay . 	
+B	1787.76	1790.69	Right . Okay . Um 	
+B	1792.03	1798.43	I'm not sure how long we've got left , but we need to make a decision about um 	
+B	1801.07	1802.0	the things we've discussed . 	
+B	1802.7	1806.507	So , we agree on 	
+B	1807.81	1808.99	Do we agree on the battery ? 	
+D	1809.8	1810.4	Kinetic ? 	
+A	1810.14	1810.81	The kinetic . 	
+B	1811.45	1826.87	Yeah . Um , that means that there's no function for li the port , you know that it sits in , then pressing the button then having so we could incorporate voice recognition for the finding it . It's a bi i it's like a g it's a gadget , it's a 	
+C	1811.55	1812.07	Yeah . 	
+C	1819.91	1820.47	Mm . 	
+C	1822.95	1824.736	Yeah I think I mean if 	
+C	1827.07	1847.93	Yeah it is it is qui it's quite a cool feature to have and also if they've got it if they've got these parts already in stock , then it won't be cheap to re-manufacture them , uh or it will be cheap sorry to re-manufacture them . So do you reckon that's a good idea that , where's the remote , I'm here thing ? I think that would be quite fun . 	
+B	1828.07	1828.92	selling point . 	
+A	1835.22	1835.49	Mm-hmm . 	
+D	1847.55	1847.95	Mm . 	
+B	1848.0	1849.21	I think the only 	
+B	1850.31	1866.55	I think the only pitfall that we would have would be how much it's going to cost if that means we have to cut down somewhere else , but I think pretty much we've used cheap relatively cheap and simple things . The L_C_D_'s not cheap . 	
+C	1855.2	1855.57	Yeah . 	
+C	1863.14	1863.51	Yeah . 	
+D	1864.19	1864.61	Mm . 	
+C	1865.0	1876.68	Yeah to s th well it's it's not as expensive as it would be if it was full colour 'cause if we've just got a black and white one , I mean they use them in calculators so . 	
+D	1866.87	1867.12	Hmm . 	
+B	1876.52	1877.65	Yeah , okay . 	
+A	1877.46	1879.25	Maybe we could start with the black and white . 	
+C	1880.02	1880.43	Yeah . 	
+A	1880.73	1883.07	That that way we could upgrade later . 	
+B	1880.79	1881.97	And you could yeah . 	
+D	1883.7	1889.58	Yeah , we talked about kinetic charging , we've deci seem to have decided on that , did we decide on double A_ or triple A_ batteries ? 	
+B	1884.08	1884.57	Okay . 	
+C	1884.256	1884.969		
+A	1885.03	1885.11	Mm . 	
+A	1890.24	1890.56	Mm . 	
+C	1890.54	1892.28	Well you cou um . 	
+B	1891.65	1893.12	Do you want like a back-up ? 	
+D	1893.87	1900.91	No , one of the decisions we had to make was whether we had double A_ or triple A_ batteries 'cause they've still got to be charged this way haven't they ? I oh I see . 	
+C	1899.26	1905.02	K no the kinetic ones come come with um a sort of w watch a battery that goes in a watch . 	
+D	1905.07	1906.07	Right , okay , got you . 	
+C	1906.15	1908.576	So it's a lot smaller , so it would 	
+D	1908.4	1910.62	Got you on that okay , didn't realise . 	
+B	1912.74	1920.62	Um , okay so we've got battery . The inside components is pretty standardised across the board isn't it ? 	
+C	1921.17	1921.78	Yeah . 	
+A	1921.81	1922.08	Yeah . 	
+B	1921.89	1925.92	So there's not a really a decision to be made there , um . 	
+B	1928.08	1931.28	The buttons what did you give us as our 	
+B	1934.74	1937.16	The bare-board L_C_D_ or 	
+C	1936.36	1947.7	Yeah the well I think were we're going for the L_C_D_ on that one , on the buttons , on the on the on on the top one we're gonna yeah . 	
+A	1941.294	1942.329		
+B	1944.71	1949.488	On the top one okay you've got the touch okay and then 	
+C	1950.04	1955.15	On the bottom we were gonna have the rubber , the rubber ones , the anti-R_S_I_ ones . 	
+B	1956.257	1958.47	Okay , okay . 	
+D	1959.77	1961.7	Sorry could you repeat that last part ? 	
+C	1961.78	1970.2	Um , okay on we've got the flip the flip-screen , the top one is gonna be the L_C_D_ and the bottom one is gonna be the rubberised buttons . 	
+D	1963.65	1964.64	L_C_D_ screen . 	
+D	1965.56	1965.89	Mm-hmm . 	
+D	1969.83	1970.4	Okay . 	
+A	1971.44	1972.6	And for the sorry . 	
+B	1973.36	1974.15	No , it's fine . 	
+A	1977.09	1987.82	For the body design I think plastic , uh w yeah we could use the body , for the inside and uh rubber as a padding or for the grip , something like to add to the design . 	
+C	1980.19	1981.62	Plastic , okay . 	
+B	1981.56	1982.56	For the inside . 	
+C	1983.35	1983.79	Yeah . 	
+B	1987.8	1988.09	Mm-hmm . 	
+D	1988.2	1993.77	Mm-hmm , so we decided on a rubber casing for the plastic shell , a variety of designs , okay . 	
+A	1989.371	1990.49		
+A	1991.72	1992.64	Plast right . 	
+B	1992.005	1993.92	Oh I think so , I think so . 	
+D	1995.97	2008.31	and it is just uh although it's rubberised and spongy , apart from that we're just going to go for sort of vegetable and fruit colours , we're not gonna try and make it actually a vegetable or fruit design or anything else , like a shell that we discussed , just go for the colours . 	
+C	2006.05	2006.49	Mm no . 	
+B	2007.04	2036.62	No I think I we don't wanna be tacky if we've got a kind of different shape anyway um the fact the m the material that we would be using would be cheap , so we could make it red , we could make it um psychedelic , you know , we could make it black and white zebra stripes , but that's not really what we're focusing on , what we're focusing on is the m you know yes . So we could just pick anything . 	
+A	2008.16	2008.827	It's 	
+D	2010.38	2010.94	Okay . 	
+D	2025.11	2025.45	Mm-hmm . 	
+D	2031.8	2032.28	The feel . 	
+D	2034.76	2035.14	'Kay . 	
+D	2036.89	2056.35	Mm-hmm . Is that going to be this image I've got in my head of something kind of shaped like that , maybe about that size , made of plastic , fits into the palm of the hand , rubberised cover that's spongy . Is that really going to fit fancy look and feel which was the major thing that people wanted , market research , is that fancy ? 	
+B	2055.21	2083.606	It's just different it's just different from everything else and I mean , I'm trying to imagine um clean looking houses , sort of beige and black um so you either want something that goes with that , which is what's on the market anyway , or you want something that contrasts as you know like you get clocks now that are more of a talking point than an actual clock because they're so interesting and 	
+A	2055.44	2057.27	Uh I it's different . 	
+D	2063.56	2063.96	Mm . 	
+D	2066.71	2067.11	Mm-hmm . 	
+D	2071.57	2072.65	Mm-hmm . Mm-hmm . 	
+C	2075.42	2075.84	Mm . 	
+D	2078.48	2078.83	Mm-hmm . 	
+D	2080.532	2081.13	Yeah . 	
+D	2082.3	2094.637	I'm just kind of pushing at that to see if you came out with anything else , but I mean I totally agree . We looked at those remotes , I mean they are kind of anonymous , very similar looking things . This would definitely be different enough , I just wondered if anybody could come up with something even more 	
+B	2090.18	2090.65	Mm . 	
+B	2094.28	2107.089	And you would just have an across the b you would have so many different options that you could do , you could have um a plain black one , you could have sparkly pink glittery ones for your little 	
+D	2105.51	2117.88	Well the thing is the rubberised covers are going to be s relatively cheap to produce , that if in a year's time we we get feedback from the design fairs that show something else is coming I mean it's so easy for us to just produce that and it can be slipped on , which is another beauty of it . 	
+C	2113.733	2114.852		
+B	2113.86	2114.36	Mm . 	
+B	2116.3	2131.77	And ones tha ones that have rubbery spikes y you know , you could just go so far with it , like a puffer fish , you could just , you could take it wherever , so I think that's quite a flexible thing . 	
+A	2116.51	2116.73	Right . 	
+C	2121.37	2122.511	You can you can just 	
+D	2121.509	2122.128		
+A	2122.88	2124.91	Acupressure , you could talk of acupressures . 	
+C	2123.64	2123.92	Yeah . 	
+D	2125.184	2126.796		
+C	2128.75	2129.18	Yeah . 	
+A	2130.84	2141.02	And finally the body should be retouchable , may maybe ch you can change the body or the case casing the case outside , it should be moulded it with the design in such a way you can change it every time . 	
+B	2136.69	2137.2	Yes . 	
+C	2141.32	2151.32	Yeah , yeah j with these rubber these rubberised ca not the actual uh plastic outside case , just the rubber thing that goes round the outside . 	
+B	2145.43	2145.81	Mm . 	
+A	2148.21	2149.66	Okay . The rubber . 	
+B	2149.62	2149.89	Yeah . 	
+B	2152.26	2157.1	Okay we've got five minutes , um , or that might've been up for a while . 	
+D	2156.44	2178.53	Mm , so can I just recap uh Sarah , for the decisions that we've made , kinetic charging , the watch-type batteries , um L_C_D_ display on th the top side of the flip top , rubberised buttons on the bottom side , we're gonna use fruit and vegetable colours for the rubber cover , the case itself is plastic . That's how far we've got , what else do we have to add to our decisions here ? 	
+A	2156.57	2156.81	Fine . 	
+C	2157.114	2158.273		
+A	2159.26	2159.49	Yeah . 	
+A	2180.25	2189.91	Fine , uh we were talking of voice recognition also because that we are not for how to look it uh remote control if it's lost . 	
+D	2183.48	2183.88	Mm . 	
+B	2183.78	2184.19	Mm-hmm . 	
+A	2190.83	2193.06	So , are we looking at voice ? 	
+D	2190.95	2196.36	Yes , it was just , there was just a cost issue with that , but it's a good idea we just need to check on the cost , is that right ? 	
+A	2195.78	2199.81	Or maybe like uh William was suggesting in the last thing some devices you put on key chains . 	
+A	2201.36	2208.13	For l yeah , the whistle . So we can if financially voice recognition is not feasible we could go for a whistle . 	
+C	2201.54	2203.24	Oh yeah , yeah the whistle ones , yeah . 	
+D	2217.03	2219.64	And incorporating the company logo ? 	
+A	2220.58	2220.75	Yep . 	
+B	2221.33	2222.16	Have you 	
+A	2222.6	2225.4	Uh sorry I didn't mention this , but we'll be incorporating in the design . 	
+D	2225.71	2235.85	Mm . 'Cause I took it from the feedback you gave in the last meeting from y from y your report , it's not just a case of having a little R_R_ hidden somewhere , they do want it to be obvious that it's our product don't they ? 	
+B	2226.58	2227.15	Okay . 	
+B	2235.57	2260.57	Well they do , but I think we can you could well it is , it is , I think you just address that with um advertising . Um , you associate the name with the individual product that it is and that does the work for you . Obviously it'll have a logo on it just like everything , but everything else has a logo on it . The point is that it's got to stand out somehow differently but I think it does , without that so I'm not worried about that . 	
+D	2238.38	2241.19	Since it's the only one of its kind on the market it's obviously gonna be ours . 	
+D	2244.26	2244.55	Yeah . 	
+C	2247.83	2248.36	Yeah . 	
+D	2248.51	2248.92	Okay . 	
+D	2257.1	2257.55	Okay . 	
+D	2260.3	2268.42	Okay . Did we I know at the last meeting we spoke about a beeper , I think that was you talked about a beeper for a location , have we just rejected that in favour of voice recognition then ? 	
+B	2268.77	2276.4	Depending on how i I mean we've got this memo saying that it's something that the company's looking into , so 	
+C	2269.86	2271.65	Yeah , depending on the expense of it . 	
+C	2276.09	2277.79	And they've got in stock , so yeah . 	
+B	2277.63	2293.25	um that seems to make sense , but if it turns out that it's hugely expensive we'd have to cut down somewhere else , then it's worth thinking about . But I think we'll find out more about cost afterwards . Right I'm going to wrap it up there . 	
+C	2288.74	2289.04	Yeah . 	
+C	2291.54	2291.89	Okay . 	
+D	2293.385	2296.269		
+A	2295.07	2295.59	Fine . 	
+B	2296.32	2303.34	I got a end meeting now message on my mo yeah so . Um 	
+D	2298.096	2300.304		
+A	2298.53	2298.98	Mm-hmm . 	
+C	2299.35	2299.95	Did it ? 	
+A	2300.18	2300.93	Yeah . 	
+A	2302.57	2303.55	Again a questionnaire huh ? 	
+B	2305.19	2312.55	so I think we've probably got it says , closing we have forty minutes so I um think we've probably got about that time before we come back . 	
+D	2306.69	2307.56	You got to go through . 	
+A	2313.968	2314.709		
+B	2314.36	2315.24	It's either that or 	
+B	2316.24	2321.1	we only had forty minutes to discuss what we just discussed and don't know how long that took . 	
+A	2321.72	2323.97	I think we are pretty going in a clear direction now . 	
+B	2325.703	2326.77	Is everyone happy ? 	
+B	2328.672	2331.79	Okay . 	

@@ -1,0 +1,224 @@
+Found 4 args.
+Observation: ES2014a; Result size: 221; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+A	71.42	72.12	Right , so 	
+A	74.44	77.86	start of the first meeting . Uh . 	
+D	76.13	76.4	Mm-hmm . 	
+A	81.45	86.848	Right , so agenda of the first meeting . Where we uh 	
+A	90.12	104.24	We have twenty five minutes for this meeting . We uh are to get acquainted . So does everyone want to say who they are ? that seem sensible ? 	
+B	91.88	92.33	Okay . 	
+D	102.98	103.47	Yeah . 	
+D	104.86	106.78	I'm Robin . I'm the Marketing Manager . 	
+C	107.64	110.13	I'm Louisa . I'm the User Interface Designer . 	
+B	110.4	112.59	I'm Nick . I am the Industrial Designer . 	
+A	113.32	122.57	And I'm Alastair and I'm the project leader . Alright okay , so tool training . Um . 	
+A	125.386	130.9	Project plan . So does anyone have any uh thoughts 	
+A	132.57	136.22	as to the tool training that uh is required ? 	
+B	136.52	137.38	Tool training . 	
+C	137.09	140.02	I'm not exactly sure what you mean by tool training . 	
+A	140.43	142.65	Neither am I . 	
+D	141.466	144.912		
+C	141.84	142.144		
+A	145.91	148.048	Oh I see , so we shouldn't really be 	
+A	156.88	180.44	Oh right okay , so . So we have the project team , which is to um basically to come up with a new r remote control device . Uh we have uh the starting base was the original which has been in existence now for a period of time . And uh our idea is to uh 	
+B	165.061	165.907		
+A	181.72	205.73	to make the new remote control device uh more user friendly than the previous one , and to to be trendier , to be with it , and therefore to uh to get a bigger market share and bigger audience . So um method of doing this is uh split up as you can see into uh 	
+B	191.273	193.14	Yeah . 	
+A	206.928	214.22	the functional design , the conceptional design , and the detailed design . So um 	
+A	215.648	216.384		
+A	217.41	226.29	in each of these uh phases we'll uh basically be handing over to yourselves , the designers of this uh 	
+B	223.86	224.15	Yes . 	
+A	227.78	236.48	this device . And uh having uh meetings so that we can uh during the course of the day um come up with a 	
+B	228.326	229.228		
+A	239.28	248.47	better better inst implement than we had before . And therefore um have a successful uh conclusion to the day . Um 	
+A	250.41	285.41	and you'll be doing uh various designs uh throughout the day to meet this end . So we've got tool training . Try out whiteboard . Uh . So we will um . Right so everyone's to uh supposedly uh draw their favourite animal over on the white board over there . I guess this is uh make sure the whiteboard works . So uh I don't know who wishes to go first . Do you wish to go f Have a first bash at uh whatever . 	
+D	254.75	256.06	Mm-hmm , okay . 	
+D	262.432	266.429		
+C	263.614	267.03		
+B	277.82	278.55	Okay . 	
+D	277.92	278.876		
+C	282.25	284.321	I don't mind . 	
+D	282.39	284.227	I dunno . 	
+C	286.21	286.96	Um . 	
+A	288.07	290.83	Ah uh . 	
+C	288.72	291.74	Let's see . Good job I got pockets today . 	
+D	289.551	290.466		
+D	291.78	292.825	Your microphone's just 	
+A	291.89	297.712	But now you you uh you'll move out from the microphone and the camera . I take it that 	
+C	297.1	299.28	Are we supposed to do this right now , do you think , or ? 	
+A	299.08	302.587	I would I would guess so . Or 	
+D	301.03	302.56	Yeah . I don't know . 	
+B	301.64	303.48	You've lost uh your microphone there . 	
+C	303.55	304.2	Oh . 	
+A	304.048	315.76	Technical problems . I mean you designers are meant to come up with these sort of things . 	
+C	305.47	310.557	Right here we go . 	
+B	306.351	307.443		
+B	308.457	309.919		
+D	308.731	312.448		
+C	322.68	329.84	Okay . I think that I would have to say that my favourite animal is the cat . 	
+C	336.08	337.31	Little smiley cat there . 	
+C	339.58	341.24	Um and this would be 	
+C	342.73	357.44	because they're very independent , uh they're very intelligent , compared to dogs maybe . Um and they can be very very affectionate . Some people don't think so but I know very affectionate cats . Um . 	
+B	349.042	351.2		
+A	349.136	352.336		
+C	359.65	361.67	Um and they can look after themselves . 	
+D	362.64	364.492		
+A	363.019	366.128	Next . 	
+C	363.027	365.648		
+B	365.73	367.215	Okay , yeah . I'll I'll 	
+C	366.52	367.84	Shall I rub that out , actually ? 	
+A	368.72	375.024	I don't see as there's any need to . There's plenty of space . I mean whatever . 	
+B	371.504	374.24		
+D	374.17	377.424	We can have have a whole menagerie . 	
+C	374.295	375.969		
+A	376.45	376.99	Exactly . 	
+B	377.296	380.19	Shall I see if I can get across without just tangling everything . 	
+B	383.65	384.43	Okay . There's one . 	
+A	384.18	391.648	We've had more time to prepare over this side , so we've all stuck our bits and pieces in our pockets . 	
+B	386.688	390.26	Didn't think of that . 	
+C	387.776	390.303		
+D	388.048	389.504		
+D	390.496	390.88		
+B	392.93	397.6	'Kay uh pens are over here . I'll try the red pen . 	
+A	394.66	395.93	The three pens are underneath . 	
+B	400.08	410.36	Okay . Um . I'm gonna go for the bear which I'm be able to draw very well , but 	
+D	409.616	411.024		
+C	409.708	412.074		
+A	409.968	417.306	You get marks for artistic impression . 	
+B	411.05	411.93	I'll have a bash at it . 	
+B	413.29	413.7	Uh . 	
+C	415.241	417.675		
+D	415.536	417.12		
+B	416.064	418.48		
+B	423.06	428.59	Ooh ooh I lost it there . I think I've just knocked the microphone . Um . 	
+D	425.776	427.68		
+C	426.295	428.842		
+A	428.54	433.312	So you're just doing the face . 	
+C	430.656	432.267		
+B	430.82	435.47	We'll g then we'll go for a a s small small bear . 	
+D	436.016	438.064		
+C	436.143	437.634		
+A	436.299	438.925		
+B	438.032	439.808		
+B	442.44	448.79	Um and I like my animal that looks nothing like a bear because um 	
+B	450.19	458.832	I dunno maybe because there's so many cartoon characters made up after the bear like the jungle book characters and stuff like that . Great . 	
+A	455.554	457.456		
+D	460.6	461.03	Right . 	
+D	470.84	476.92	Hello . Um I'm gonna go for the dog , and I'm gonna draw one badly as well . Uh . 	
+D	484.672	488.57	looks like it's going to be a dachshund or something . 	
+C	496.25	498.566	That's quite good . 	
+D	497.168	499.552		
+B	497.606	499.788		
+D	502.76	528.075	Right . There's my dog . Um I like dogs because they're very loyal . And they're always happy , so whenever whenever you're feeling sort of a bit a bit down or tired , they're always coming up and they're always um quite excited . So um you can always have a lot of fun with a dog . And they're also good for exercise as well . You can sorta get out and they they sorta never get tired . And and when they're tired they're quite cute as well , so . 	
+C	527.456	530.28		
+A	527.696	529.184		
+B	527.902	528.802		
+D	529.0	530.54	Okay , that's why I like dogs . 	
+A	531.6	546.85	Right , um . Well I've not actually had too many pets uh over my uh time 'cause to be honest with you uh 	
+A	548.992	564.64	I'm not too keen on them anyway . Not to worry . So what my daughters have got at the moment is they've got uh a few fish and so hopefully um won't prove too difficult to draw . Uh 	
+C	561.136	561.44		
+A	566.144	569.664		
+A	576.41	608.99	As you can see that my artist artistic work is useless as well . Anyway um . And uh one of the best uh things about fish is that they don't really take uh too much looking after because uh with most of the animals if you're going away on holiday or whatever , you've gotta spend money or get a friend or whatever to look after them for you . Whereas if you got fish , you just gotta put the food in a a a dripper feed which feeds them over the uh couple of weeks that you're away and uh 	
+D	579.33	580.888		
+A	610.96	630.0	change the water every couple of months , and buy in a few plants , so . Other than the fact that they keep dying , uh fish are uh are not are are are reasonable pets in that uh they're low maintenance . Right . 	
+B	615.799	616.675		
+D	617.772	620.432		
+B	618.92	620.861		
+B	625.64	626.825		
+D	626.512	629.42	Great . 	
+A	633.1	640.25	Okay , uh if we're still all with us . Right okay , so . 	
+A	641.7	643.3	Work has been done on uh 	
+A	645.16	690.47	this uh project where by um twenty five Euros is uh the uh expected uh selling price . That information has come from our marketing manager here . So we're looking to sell internationally , not just in Europe . We're looking at um having our production costs limited to uh twelve and an half Euro per unit . And therefore making a profit margin of uh well not actually a profit margin it's uh because obviously you're gonna have overheads and various other costs to uh take uh from uh 	
+D	655.86	656.14	Mm-hmm . 	
+D	658.793	660.27	Yeah . 	
+A	691.94	694.86	from that to give you your profit margin per unit . 	
+A	696.93	711.365	And so depending what the uh the overhead uh costs are will determine uh how many units we're uh looking to sell or projecting to sell at this point in time . So um 	
+B	706.178	706.933		
+A	716.42	739.35	Experience with remote control , first ideas . New remote . So I guess we're looking at um having a discussion at this point in time to help uh you um folks design our our new model as it were . So uh any any thoughts ? 	
+B	733.44	734.368	Yes . 	
+B	739.49	746.75	Um I with some remote controls the buttons were a little small so they're quite hard to press so maybe we make something with uh 	
+B	747.8	750.39	easy to press buttons . As that is the main function . 	
+A	751.0	764.45	Okay , so so basically we're looking for some um we're looking for a device that is um robust and 	
+B	763.04	763.44	Yes . 	
+A	765.83	772.64	and therefore uh won't get damaged too easily . Um we're looking for a device 	
+A	776.53	779.34	that is uh What was the other things you said there ? 	
+B	779.49	783.42	Um sort of easy to use so the buttons are accessible . 	
+A	781.48	782.09	Easy to use . 	
+A	783.93	784.7	Use . 	
+B	786.24	787.34	is easy to use and see . 	
+A	788.33	793.47	And see . Okay . Uh . 	
+B	789.08	789.44	Yes . 	
+C	792.66	797.6	Can I just check ? Is this just a television remote ? Because a lot of um 	
+C	798.97	809.66	systems are kind of T_V_ video combined now , or T_V_ D_V_D_ combined . And one of the most annoying things is having like five remotes in the house . So if you've got a combined system , it could be a combined remote . 	
+A	803.08	803.6	Mm-hmm . 	
+B	810.109	810.932		
+D	810.66	810.89	Mm . 	
+C	810.87	812.88	Or is it just a television that we're supposed to be doing ? 	
+A	814.12	828.688	Oh I w um basically I'll get back to you on that . But it seems to me sensible , 'cause as you rightly said , there's nothing more annoying than having three or four devices littered about the uh about the room . And uh 	
+B	814.904	816.225		
+C	816.384	816.752		
+D	824.72	825.22	Yeah . 	
+C	825.755	826.729		
+A	831.15	832.59	So a device for 	
+A	834.63	835.89	for all remotes . 	
+B	839.136	841.17	Sorry , you go . You go . 	
+D	839.39	839.52	I've 	
+D	840.77	880.88	Okay . Yeah . Um one of the things um we found from the market research is that people often get confused by the number of buttons on them as well . 'Cause there's quite often lots and lots . And um sometimes uh they sort of remote controls defeat their own purpose because you're sat in the chair and the remote is somewhere else in the room . So whereas in the past you'd have to get up to change the channel , now you have to get up to sort of pick up the remote . So so I don't we need to sort of maybe think about how um we could maybe uh develop a remote control which moves around the room . I don't know . 	
+B	877.92	881.297		
+C	879.328	883.79	Comes to your whistle . 	
+A	880.82	882.32	Hmm . 	
+D	882.6	887.084	That's that's maybe something for the future when you can talk to your television , but 	
+B	886.06	887.278	Yeah . 	
+C	886.428	887.093		
+A	887.36	908.77	But is it in a sense it's r um mutually exclusive . You can't have both the th the one device and then have few buttons on it to 'cause you want you want simplicity as well , you want any idiot to be able to use it . Whilst at the same time you want , as you rightly said , one remote for all . 	
+D	892.08	892.59	Yeah . 	
+D	903.72	903.92	Yeah . 	
+D	909.61	909.85	Mm-hmm . 	
+A	910.04	930.87	And so these are probably mutually exclusive options that uh Hmm you could argue that experience of using devices and similar devices as people get more and more used to using remotes , therefore they're more with handling them , therefore you can make them more complicated as time goes on . 	
+B	914.84	915.02	Yes . 	
+D	915.92	916.16	Mm-hmm . 	
+B	927.57	928.22	Yeah . 	
+B	930.97	937.73	Maybe we could um have better instructions with the remote . Or are we just doing the design of the remote control itself , or sort of the instructions that would come with it ? 	
+A	937.68	941.09	Better instructions . 	
+D	941.78	942.06	Yeah . 	
+D	943.34	943.66	I mean 	
+D	945.23	973.76	we've done some research um about sort of you know what the cutting edge sort of hand held devices are , and a lot of them sort of use you know they're like they're like mini laptops . So it's possible that we could devise a system where where you're you're basically sort of holding a a miniature computer which is controlling all your your sort of your television , your stereo , and where you know if you buy a new thing then it sort of you can link it to that as well , maybe . 	
+A	956.78	957.14	Mm-hmm . 	
+A	974.53	987.84	Okay . Um well we've got five minutes before the end of the meeting . So uh we have to uh start winding up . Um is there Next meeting in thirty minutes . 	
+B	988.72	989.22	'Kay . 	
+D	989.88	990.22	Okay . 	
+A	990.64	993.488	So um 	
+A	995.16	1000.464	Right , so we've got I_D_ the Come on , where's my 	
+D	1000.31	1004.32	If you just click return it should be okay . It'll get rid of the message . 	
+B	1007.92	1011.545	Or not . 	
+A	1009.136	1013.36		
+D	1011.49	1014.17	If you hit just hit return and it should get rid of the message . 	
+A	1023.552	1034.144	Oh there we go . Yeah . That's what I was looking for . Right . So we've got function 	
+D	1026.33	1029.388	Oh you've got . 	
+C	1027.654	1028.615		
+A	1035.6	1038.224	Oh what happened to the 	
+C	1037.57	1043.91	I think that might be back to the start . Um if you grab the kind of uh slide to the left and pull it down ? 	
+D	1039.7	1040.1	Yeah . 	
+B	1041.808	1044.368	slide four 	
+D	1044.98	1045.23	Yeah . 	
+A	1053.54	1054.06	Right . 	
+A	1062.7	1068.76	Right . Sorry about that . Okay , so we've got um the working design 	
+B	1063.77	1064.1	Okay . 	
+D	1065.072	1065.376		
+A	1069.91	1084.47	for I_D_ . For U_I_D_ the technical functions design . Marketing , the user requirement specification . Specific instructions will be sent to you by your person by your personal coach . So . 	
+A	1085.65	1099.13	Are we all clear what objectives we're looking to meet in the next thirty minutes ? And I guess I'll try and write up some minutes of uh this meeting to uh to give it to you for the next meeting . 	
+B	1089.039	1089.748		
+D	1090.06	1090.3	Mm-hmm . 	
+B	1090.49	1090.9	Yes . 	
+B	1098.68	1099.38	'Kay , yes . 	
+D	1099.75	1099.96	Mm-hmm . 	
+C	1100.2	1108.27	I'm not exactly clear on what we're designing the rem remote for . Is this a mun multi-functional one or do we decide that ourselves as we go away and work on it ? 	
+B	1109.09	1114.37	I think you just said at the start it was a television remote control , so maybe we should just stick to that unless we get told otherwise . 	
+A	1111.1	1112.88	Television remote control . 	
+C	1111.7	1112.26	Right . 	
+A	1115.11	1148.92	That's true , 'cause during during the course of our day we might make decisions based on information or meetings that would change where we're going . But at this point in time I think you're right that uh shall we make it just a T_V_ . Okay ? So we will depart . We will stay here and uh and break off . And I'll do minutes and and we'll see you in half and hour . Okay . Right s 	
+D	1124.06	1125.19	Okay cool . 	
+B	1132.28	1132.63	'Kay . 	
+B	1142.83	1143.32	Okay , that's great . 	
+C	1143.14	1143.34	Okay . 	
+D	1143.4	1144.83	Okay cheers . 	

@@ -1,0 +1,312 @@
+Found 4 args.
+Observation: TS3003a; Result size: 309; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+A	13.46	27.181	So uh good morning . I see you all find your places . Is everybody sitting on the right place ? Yeah ? I guess so . So 	
+B	15.344	15.568	Morning . 	
+D	15.37	15.81	Morning . 	
+C	16.42	16.7	Morning . 	
+D	19.67	20.03	Yep . 	
+A	32.64	33.37	Let's see . 	
+A	35.95	48.42	First I will introduce myself . I don't know if uh if everybody knows me , so I'm Bart , hello . Hello . Bart . Hello . Hello . Bart . Welcome . 	
+D	40.79	41.49	My name's Frank . 	
+B	42.99	43.62	I'm . 	
+C	45.44	45.92		
+D	48.1	48.44	Thank you . 	
+A	50.14	58.01	Uh let's see . Uh let's start off um with a little presentation . 	
+A	62.27	62.92	Uh 	
+A	65.58	101.45	Now first I'll tell you a little bit about the setting . You can see there are a few cameras here . They'll record uh our actions and you'll have wires and microphones that will record your voice . Uh there are also some microphones there but th um you don't have to pay a lot of attention on those , because it will uh disappear when you don't attend to it . So is there a project documents folder ? There are some notes in it already I see , some documents . Uh I'll start with the presentation kick off . 	
+A	106.87	113.75	Is being modified by the administrator . Uh okay . Let's do it read only . 	
+D	109.472	113.53	Hmm , that's interesting . 	
+B	109.92	111.904		
+A	116.66	138.65	Well I don't know if you've noticed , but uh we're working for Real Reaction . Uh it's a company in uh electronics . We put fashion in electronics , uh we make it work , uh we put a lot of effort in design and in the product itself . I'm Bart the project manager so I'll direct you through the project . 	
+A	140.63	141.77	This is our agenda . 	
+A	142.902	147.71	Uh we have our opening acquaintance , tool training , project plan description closing . 	
+D	143.88	144.912		
+A	149.67	159.02	Uh maybe I can sit down , then I can take some notes or Let's see . 	
+A	161.34	190.52	Maybe you can take the minutes once in a while . I dunno it's not a lot of work , but just uh if you hear something uh you can write down , just write it down . Uh as you can see uh it's the opening , aquaintance tool training . Aquaintance is a point we've done a bit . Um have you all seen the corporate website already ? Yeah . Have you seen any flaws in it ? I think I found one . No ? 	
+D	163.72	164.0	Sure . 	
+D	182.45	183.53	Yep . Visit it . 	
+B	182.69	182.86	Yep . 	
+B	189.69	189.83	Hmm ? 	
+D	190.89	192.672	Can't say I paid much attention to it , but 	
+A	193.52	193.96	I can 	
+A	196.05	252.14	see if it works this way . No , it doesn't work here . Okay no problem . But um on the corporate information side there's a th uh there was Real Remote instead of Real Reaction . Real Remote is not really the company we're we are , but it's just a little fault . Um okay , what are we going to do ? Uh our project aim is as you can see a new remote control . It has to be original , trendy , and user friendly . So these are uh the points why uh we also hired you . We've got the Marketing Expert for uh the trendy and user friendly look . And Industrial Designer uh there's also user friendly and a bit original . 	
+C	197.267	198.266		
+B	197.792	199.49		
+D	212.16	212.68	Oh yeah . 	
+B	216.09	216.79	Okay . Yeah . 	
+D	238.31	238.61	Okay . 	
+A	252.983	258.992	And we've got our User Interface Designer . He's also uh 	
+B	257.2	257.32	Yep . 	
+A	260.37	262.06	That's about the new remote control . 	
+A	263.16	279.92	Uh project method um is uh there are three phases we are going through . First is functional des uh design , individual work , meetings . After the functional design , then the conceptual design and the detailed design . 	
+A	281.136	286.84	I had some role indications on here . 	
+A	288.19	328.16	But I think you know it already by yourself . The Industrial Designer is going to work on the working design , uh components design and a bit of the look and feel design . Uh the User Interface Designer is going to do the technical function design , user interface concept and user interface design . And the marketing expert is doing a little bit of user requirement specification , trend watching and project uh product ev evaluation . So that's a bit what you're going to do . But that will be all worked out in uh other meetings . 	
+D	329.452	330.336		
+A	332.18	362.51	Then we've got our first tool training . We are going to work with a lot of high-tech tools here , so it's ab it's handy if we have a little bit of training first . As you can see we've got the smart boards here and here in the white board . Um in the white board here there's a little tool bar on this side . Here are some functions . You can save . N uh these functions we don't have anything to do with , only undo , you can undo a little 	
+A	363.9	408.73	uh piece of drawing . A blank new document for each person . Uh select a pen , eraser . Capture we don't have to do anything with . Uh then we've got our pen . This pen . It's really funny because you can draw with it on this page um in the think it is form of . You can also select the current colour and the line width . But then first you have to select the pen function . But we're going to work with it in a minute . So okay . Uh that's very simple and it's easy to uh draw your findings and drawings on there . 	
+D	380.19	380.66	'Kay . 	
+B	392.63	392.76	Hmm . 	
+A	409.655	410.81	Uh then 	
+A	412.4	436.97	a short thing about documents . We've got our shared folder , uh project project what was it ? Project documents I think . But all you will found that already because there are a lot of documents in it already , so it will be okay . And these are available on the smart boards as well , so if you have a document you wanna show , just open it from the folder . 	
+B	435.26	435.65	Okay . 	
+B	436.27	436.38	Yeah . 	
+A	439.41	449.47	Here is a simple tool bar . It's what I just said , it's save , print , move back or forward one page . You can switch between the different drawings . 	
+A	452.64	454.79	And then we're going to try out the white board . 	
+C	455.152	455.872		
+A	455.92	469.6	So as you can see we g all going to draw a animal . Just to uh uh just to get a bit familiar with it . Mouse wasn't running away . 	
+B	457.459	460.603		
+D	467.504	468.425		
+B	468.075	468.741		
+D	469.28	470.06	That was interesting . 	
+A	471.33	477.21	Is everybody is anybody playing with the mouse ? No . Okay . We're going to uh draw animal . 	
+D	473.114	475.78	Innocent . 	
+B	474.66	475.289		
+D	477.808	478.352		
+A	477.934	508.01	And uh just sum up a few of its favourite characteristics . Um the only thing we have to uh look after is that we use different colours , and different line width . Uh there's I can start from now . I will . You can use this pen by holding it like a like a little child . Because if you hold it like this , the sensors will get blocked and then the drawing won't get good . 	
+D	484.894	488.364		
+D	496.169	497.376		
+B	506.21	506.56	Okay . 	
+D	506.74	506.93	'Kay . 	
+A	509.3	541.936	Another thing is you have to be uh a bit slow . 'Cause if you're going to draw like really fast then um the pen won't hold up . So we choose form of current colour uh I think grey is appropriate . Then the line width . I think seven will be nice . Now you'll see my drawing capabilities . These are not very much , but uh 	
+B	537.984	538.544		
+A	543.62	545.79	Uh , see you have to do it real slow . 	
+A	548.288	549.145		
+A	554.37	555.6	Oh 	
+C	560.877	563.231		
+B	561.792	565.36		
+A	561.968	564.671		
+D	562.384	565.648		
+B	569.81	570.19	Sure . 	
+A	571.13	578.0	Ah I was trying to draw a dolphin , but I think his nose has to be a little bit But it's close . 	
+B	571.632	571.968		
+B	572.917	573.556		
+D	574.32	577.112		
+B	575.147	575.739		
+D	577.62	578.93	I'm thinking about a swordfish . 	
+A	579.62	583.31	So what yeah it's this is bit of the swordfish . Yeah , he hasn't got an eye . 	
+B	579.9	580.63	Yeah . Yeah . 	
+D	580.149	582.258		
+C	583.648	585.16	Mm-hmm . 	
+B	583.984	586.018		
+A	584.94	591.97	Woah . Now we've got another function . We've got the eraser . And then you can undo 	
+D	587.47	588.666		
+D	588.666	595.386	. 	
+A	593.54	595.76	this easily . 	
+D	595.67	595.97	Meat . 	
+A	596.84	607.442	Ah it's okay . And I've got to write down a few of its characteristics . Uh is 	
+B	597.152	598.151		
+A	612.42	614.69	They've got no text tool , no . 	
+A	617.56	617.71	Uh . 	
+D	626.864	627.86		
+B	627.05	628.064		
+A	627.184	637.6	Okay . This is typically a undo action , I think . Pen . 	
+D	633.99	635.712	Yeah . 	
+A	639.89	641.07	Maybe you have to hold it a bit 	
+A	643.0	653.552	upside-down . I think that's it because if you wan ar are going to do it like this then it will be a stripe . But I don't know , I'm just trying . 	
+A	655.68	663.2	This is not my work , okay . Maybe you have to use 	
+D	656.469	658.17		
+C	656.912	657.44		
+D	661.22	661.5	Hmm . 	
+A	670.81	671.26	Oh . 	
+D	682.96	685.238		
+A	684.57	689.8	Uh . I think it's a it wants to draw a another animal ? I don't know . 	
+A	691.57	693.19	It lives for the fun . 	
+A	694.96	695.799	So 	
+A	700.24	714.07	It's my characteristic uh characteristic about the dolphin . It lives for the fun . So now I'm gonna hand over the pen on the new blank sheet to you . Go ahead . 	
+D	704.56	705.626	Okay . 	
+B	704.99	705.28	Okay . 	
+B	706.678	707.085		
+D	712.06	712.46	Thank you . 	
+D	714.35	716.29	Okay . 	
+D	721.27	722.5	Gonna use a different line width . 	
+D	724.63	726.13	And I'm gonna draw in black . 	
+D	729.64	735.84	There . 'Kay , I'm not much of an artist , but here we go . 	
+A	743.56	751.26	Maybe it's easier to draw the smaller line width , I think . Because this is going a lot better than uh I did . 	
+B	748.2	748.37	Hmm . 	
+C	765.808	766.944		
+B	767.04	767.47	A sheep . 	
+D	783.14	783.53	Mm . 	
+C	795.872	796.416		
+D	801.392	808.33	Okay . This is my um Hmm . 	
+B	802.016	805.97		
+A	802.784	805.296		
+D	812.21	812.59	Sheep . 	
+A	818.22	820.12	It's nice . 	
+D	820.5	821.63	With of course 	
+A	826.592	828.16		
+D	829.94	833.2	little blue dot they always get sprayed on their butts . 	
+A	830.05	830.49	Uh . 	
+B	833.877	834.576		
+A	833.968	840.896	It's a real dead sheep , yeah . For recognition , yeah , I see . 	
+D	835.07	835.66	There . 	
+D	836.51	837.63	Yeah . 	
+A	843.07	846.288	Um maybe you can also write your name somewhere . On just a 	
+D	843.57	843.8	'Kay . 	
+D	846.48	847.056	They are 	
+A	848.615	849.281		
+D	849.35	849.77	Come on . 	
+D	858.82	860.49	You have to go really slow when you're writing . 	
+A	861.61	862.42	Yeah . 	
+D	879.44	883.16	They're brilliant animal animals . And that's just a little me thingy . 	
+B	880.928	882.12		
+C	881.418	882.009		
+C	883.744	884.512		
+D	884.45	884.76	So . 	
+D	888.55	891.91	Guess I'll pass the pen to our User Interface Designer . 	
+B	889.6	895.952	Okay . Um I'm just gonna draw its uh head , but mm 	
+A	889.79	890.21	Nice . 	
+B	897.9	898.39	Let's see . 	
+B	903.08	903.22	Mm . 	
+B	915.22	915.55	Uh . 	
+B	925.824	926.128		
+B	965.89	967.872	Okay . 	
+A	968.16	972.448	Sweet . 	
+C	968.496	969.929		
+D	968.53	968.9	Interesting . 	
+B	968.784	969.52		
+B	971.52	973.52	Yeah . You know what that is ? 	
+B	975.03	975.36	Or who ? 	
+D	975.5	977.6	A rabbit ? Garfield . Yeah . 	
+C	975.72	976.31	Garfield . 	
+B	976.5	977.61	Ah okay , yeah . 	
+B	978.48	978.944	Just a 	
+B	983.17	984.3	Mm . Guess . 	
+B	986.52	988.036	So uh 	
+B	990.18	991.54	Yeah . That's enough . 	
+B	992.049	993.044		
+B	993.06	995.398	Um , you say a blank , or 	
+A	994.96	996.66	Yeah , just a blank sheet . 	
+B	996.39	997.03	Okay . 	
+C	1009.34	1020.6	Well I was gonna draw a cat too , so . I'll just try something else . Something different than Garfield . 	
+B	1011.408	1011.712		
+A	1011.632	1012.272		
+A	1017.51	1017.69	No . 	
+A	1017.728	1020.711		
+B	1020.496	1021.104		
+C	1039.84	1042.56	Mine is a bit more skinny . 	
+A	1041.12	1043.792	Yeah , it's pretty skinny cat . 	
+B	1041.536	1043.504		
+D	1041.64	1042.523	Yeah . 	
+C	1042.56	1045.536	But uh 	
+D	1045.68	1047.0	And the most interesting tail . 	
+A	1048.55	1053.472	Is your cat , or did you find him on the street ? 	
+C	1050.656	1052.88		
+D	1051.136	1052.032		
+B	1051.312	1053.032		
+C	1053.936	1054.496		
+C	1056.9	1061.18	Well , it's supposed to be a cat . I like cats because uh 	
+C	1064.07	1064.56	they are uh 	
+C	1067.52	1068.2	independent . 	
+A	1071.46	1072.07	Ah . 	
+C	1074.9	1075.25	The pen . 	
+A	1075.383	1077.64		
+C	1080.77	1081.07	So . 	
+A	1081.61	1096.79	Okay . That's pretty clear . So everybody knows how to work with the white board now ? So if you have any ideas or if you wanna draw anything on the white board , just ask and go ahead . It's pretty uh easy . 	
+D	1088.79	1089.21	Yeah . 	
+C	1090.49	1090.84	The pen . 	
+C	1091.92	1092.304		
+D	1098.416	1099.906		
+B	1098.918	1100.028		
+A	1098.96	1110.14	'Kay . S haunted white board . So we've got the tool uh introduction . We 	
+D	1102.15	1102.98	We're being haunted . 	
+A	1111.25	1151.43	move along to the project finance . Um as you can see , we um for our remote control , a selling price is uh twenty five Euros . Our selling price . Uh our profit aim is fifty million Euros . Uh that's the least we have to get from our remote controls , so we have to work together to reach our aims . Uh we can do it international , so we have to focus on different kind of users , different kind of cultures , and different kind of trends as well . Um but that's all in the later stadium . 	
+D	1111.665	1112.919		
+A	1152.33	1187.7	Our production cost um can be maximal twelve and a half Euros , so that's also a point we have to keep in mind , that we won't make remote controls with small televisions inside , and stuff like that . It won't work . So just try to remember these points . Selling price twenty five , profit aims fifty million um , but more important is the int international market we're trying to focus on . And production cost uh maximal twelve and a half Euros . 	
+A	1189.48	1211.248	So that's leads us to our little discussion . We've got about five or ten minutes left for discussion . So I'm gonna sit down , I think . It's easier . I've got a message . Five minutes . Okay , that's uh good timing . 	
+D	1201.97	1202.96	Yeah , you got a message . 	
+B	1206.96	1208.02	Five minutes , okay . 	
+D	1210.06	1214.14	So just on a side note , why is it my laptop is only giving me a black screen ? 	
+B	1214.55	1214.74	Mm ? 	
+A	1215.19	1219.648	Uh maybe you have to say the magic word . 	
+D	1217.904	1219.9	Yeah . Right . 	
+B	1217.937	1218.688		
+A	1221.07	1222.08	Does it do anything ? 	
+D	1222.74	1222.99	No . 	
+A	1223.42	1225.53	Maybe you have to just clap it down ? 	
+A	1228.28	1229.14	Mm back up again . 	
+A	1233.96	1235.96	No slide show . Hmm . 	
+D	1236.12	1236.67	It's off now . 	
+A	1237.33	1241.02	It's off . Now you have to put it back o Oh yeah . You'll be okay , I think . 	
+D	1240.53	1241.6	Well , it was on , but 	
+A	1243.81	1247.136	Well it's those laptops . 	
+D	1247.08	1247.79	Ah , there we are . 	
+A	1248.38	1267.46	Nice . Okay . But so mm does everybody has um experiences with uh remote controls , and I mean not the ordinary mote controls , but also a little bit different ones ? Like you can use for other ? No ? You ? 	
+D	1251.056	1251.956		
+B	1261.99	1262.32	Mm . 	
+B	1264.37	1264.74	Oh really ? 	
+B	1266.08	1266.21	Huh . 	
+D	1267.46	1268.2	Well , we have a 	
+A	1267.511	1268.231		
+C	1267.78	1268.43	No , me neither . 	
+B	1267.79	1268.751	It's a 	
+D	1269.1	1284.42	kind of broad T_V_ at home , and a D_V_D_ player , so we got like a lot of remote controls , one for the T_V_ , one for the video recorder , one for the D_V_D_ player . And I think it's it would be best to just make one remote control that can operate them all . 	
+A	1279.05	1279.58	Ah yeah . 	
+A	1284.68	1318.93	Yep . Yeah I've I've got one at home . And you can uh program I think eight different devices in it , and you can use it for your television , anything else . And it also operates on infra-red , so you have to got the little device inside your room , and then you can operate it from the third or th or second floor . So that's pretty handy when you have a video recorder or D_V_D_ player downstairs and you've got a link to your T_V_ on the second floor . So that's a pretty handy um 	
+B	1285.04	1286.42	Sure . Yeah . 	
+B	1294.79	1296.01	Okay , yeah . Yeah . 	
+B	1306.36	1307.51	Okay , yeah . 	
+D	1308.09	1308.52	Oh really . 	
+B	1308.88	1309.18	Hmm . 	
+B	1313.86	1313.94	Oh . 	
+D	1316.76	1316.98	Yeah . 	
+B	1317.12	1317.64	Mm-hmm . 	
+A	1320.19	1320.53	thing . 	
+A	1321.394	1324.6	Um but only the 	
+A	1325.68	1334.816	I think that if you can put different kind of devices in one remote control , it makes it a lot easier as well . It's uh 	
+D	1334.2	1334.43	Yeah . 	
+B	1335.11	1335.24	Oh . 	
+A	1336.45	1337.57	That's good to remember . 	
+D	1337.75	1339.67	So I think you can take minutes again . 	
+A	1339.89	1344.82	Yeah , that's nice , I think . So we've we want different functions 	
+D	1341.55	1342.4	Since it's your job . 	
+D	1346.08	1346.31	Yeah . 	
+A	1346.76	1360.21	uh and we can maybe see if we can do something with the infra-red . But I don't know if that will exceed the production costs . So that uh that's something we have to find out , I think . 	
+B	1357.36	1357.58	Mm . 	
+D	1360.5	1365.008	Yeah . But that would be really good if we could do that . 	
+A	1365.91	1368.93	And other functions for a remote control ? 	
+A	1370.4	1373.29	Maybe we can make it uh uh 	
+D	1371.08	1371.55	Um . 	
+B	1371.45	1371.8	Mm-hmm . 	
+D	1374.24	1375.34	Think it has to be shock proof 	
+B	1376.04	1376.71	Sure , yeah . 	
+D	1376.63	1376.89	'cause 	
+A	1377.25	1378.06	Shock proof . 	
+D	1378.4	1380.45	my remote control tends to fall a lot . 	
+B	1379.77	1381.104	Waterproof , or uh 	
+A	1381.024	1382.74	Sure . 	
+D	1381.86	1382.24	So 	
+B	1382.19	1384.944	Uh , you never no know uh , I w I mean uh 	
+A	1386.87	1387.63	Waterproof . 	
+A	1389.76	1400.3	Okay . So these are our um a few things we can think of . Um I will put the minutes from this meeting uh in our project folder . 	
+B	1401.33	1401.52	'Kay . 	
+D	1401.49	1407.63	Yeah , one other little thing . Thought it might be handy to put a battery status display on it . 	
+D	1408.75	1409.4	So you can see 	
+A	1408.77	1410.4	That's a battery stays . 	
+B	1410.37	1411.23	Okay , yeah . 	
+D	1410.85	1412.13	how much is left in the battery . 	
+D	1414.32	1419.94	But they'll also really drag up the production costs , so think we'll have to see about that too . 	
+A	1418.64	1418.95	Yeah . 	
+B	1420.32	1420.56	Mm . 	
+A	1421.57	1421.73	Uh . 	
+D	1422.16	1424.37	But maybe just a little LED , I don't know . 	
+A	1425.62	1427.92	That's an idea as well . Other ideas ? 	
+A	1429.28	1429.88	Quick ideas . 	
+C	1430.42	1432.56	Nope . They were all mentioned , so 	
+B	1431.86	1432.06	Mm . 	
+A	1432.47	1437.93	Okay . Any questions about this uh presentation ? Kick off presentation . 	
+B	1432.6	1432.77	Yeah . 	
+D	1438.47	1438.89	Um . 	
+D	1440.83	1441.79	Nope , don't think so . 	
+A	1442.45	1442.62	No ? 	
+B	1442.832	1443.136		
+A	1443.76	1447.9	Okay , then I'll put the minutes from this meeting in the project folder , 	
+A	1449.35	1450.48	and then we can all work . 	
+A	1451.74	1459.647	Finish meeting now . Okay . And we can all work uh on our own projects . 	
+D	1453.73	1454.08	Okay . 	
+D	1455.29	1455.82	Aye sir . 	
+A	1468.18	1474.94	Okay then I'll meet you in about a half an hour , I think . So good luck . 	
+D	1472.02	1472.5	Half an hour . 	
+C	1474.04	1474.3	Okay . 	
+B	1474.21	1475.55	Okay . Yep . 	
+D	1474.28	1475.26	Okay . 	

@@ -1,0 +1,540 @@
+Found 4 args.
+Observation: IS1009d; Result size: 537; atts: 4
+$s@who	$s@starttime	$s@endtime	$s	
+A	39.38	41.33	Well hi everyone again . 	
+B	41.27	41.56	Hello . 	
+C	41.31	41.55	Hello . 	
+D	41.82	42.25	Hello 	
+A	43.24	54.4	Um like before we uh I have to redo the meetings from n th the minutes from the last meeting and so here we go . 	
+D	50.89	51.34	Mm-hmm . 	
+A	55.91	64.64	Uh it was discussed in the last meeting uh which was opened by the presentation from the interface um 	
+B	65.64	67.056	Designer . 	
+A	65.67	89.79	designer that uh looks would be very important on this new remote and um it is to send messages of course to the T_V_ . It should have nine channel buttons , a next button , volume buttons , subtitle buttons , switch to control features , colour contrast , sharpness etcetera . 	
+D	67.296	67.712		
+A	90.2	107.8	It should have a memory switch , a mute button in case the telephone rings or something . Uh speech recognition is one of her very f favourite personal uh features she would like see d d to be integrated in this um in this new remote . Um . 	
+A	110.916	129.26	Should be child friendly design with few buttons , colourful maybe with s star shaped or other shaped buttons . Um she uh presented also an oversized remote which she guarantees nobody will ever be able to lose . 	
+B	129.216	129.856		
+A	130.37	130.96	Um 	
+D	130.37	135.223	And she was challenged on that point 	
+C	132.166	135.248		
+A	132.176	133.792	that's right . 	
+B	132.277	134.683	Yes . 	
+A	134.85	164.38	But uh her very f personal favourite really she , she would very much like to see a speech recogniser integrated in this remote . The industrial designer um presented her uh thoughts on the issue . She would like a special case made out of plastic that is very strong , not using any harmful materials , should be recyclable and should be colourful . 	
+A	165.64	171.16	Should have an integrated circuit board that's highly sophisticated and temperature resistant . 	
+A	172.84	191.44	She would like to see a timer and or alarm facility integrated . Uh technically this thing would also have a resistor and a capacitor , diode transistor , resonator , and if possible a rechargeable battery . 	
+A	192.63	194.71	Uh and of course a circuit board . 	
+A	195.99	220.01	And how it would works , you press the button , the chip is morse morse code related relays the uh to the generat to the generator amplification and uh the circuit board is very inexpensive to build and so she thinks this is a great feature uh to to to consider . 	
+D	215.46	215.73	Okay . 	
+A	222.16	226.96	She would like uh this whole thing should be push buttons with a simple chip 	
+A	228.04	232.64	uh scrolling method is more expensive and not that practical anymore . 	
+A	233.84	238.91	Should be battery operated and of course she would have the special cases . 	
+A	240.4	262.73	The marketing expert uh who has to finally come up with to to to market this product has been watching the competition , has done some research on the internet and also has used h her personal observations to come up with the fact that such a remote sh should be small , 	
+A	264.31	266.54	easy to use and it should be eye catching . 	
+A	270.36	277.46	From her point of view of course one of the most important facts is that we should get to market before our competition does . 	
+A	280.59	290.57	To do that uh maybe one or two features should be developed on which we could dwell on or in other words on which our campaign could be built on . 	
+A	292.13	301.49	Too many new features or too many points would only confuse matter . So we prefer to have one or two features that can be really uh driven home . 	
+A	302.88	311.26	Um it should have a fruit and vegetable design and should have a soft feel . She feels that's really what people want today . 	
+A	312.93	320.97	And the decision that we took last time was that uh the special feature we would like to see is a speech recogniser , 	
+A	322.18	331.89	the energy should be battery uh should be on a chip , should be trendy design , compact and strong , and should have buttons . 	
+A	333.25	337.98	And that concludes the presentation from the last minutes from the last meeting . 	
+A	340.72	345.35	Now uh we are ready for the presentation of the prototype . 	
+C	347.27	347.44	Yeah . 	
+B	347.73	351.12	Yeah . Just the look like , the button part I'll explain . 	
+C	351.32	351.57	Yeah . 	
+C	356.25	391.28	Uh so this is our what uh we have made . This is a model of the remote control which we are going to build . Uh this is us in a snail shape so uh it it is attractive um and it's it's blue in colour uh bright and uh it has yellow buttons and all the different colour buttons so it is a uh uh a looks-wise it is beautiful . Uh and also compact in shape . Uh um and also i it it will be easily fit into into the hands and you can access all the buttons easily . 	
+A	363.39	363.7	Mm-hmm . 	
+D	366.74	367.11	Mm-hmm . 	
+D	372.4	372.79	Mm-hmm . 	
+D	377.8	378.07	Mm-hmm . 	
+D	381.16	381.43	Mm-hmm . 	
+D	383.89	384.22	Mm-hmm . 	
+D	388.95	389.28	Mm-hmm . 	
+D	391.48	392.98	Mm-hmm . Good . 	
+C	393.0	396.896	Yeah , oops , sorry . 	
+A	394.368	396.112		
+D	395.024	400.24	You used to have all the buttons 	
+B	398.166	399.728		
+C	398.288	413.013	Um yeah and um uh the material which we are going to use for the case is uh plastic and uh w which which is s strong um uh and also uh for the 	
+C	414.45	429.99	Um the material is plastic and uh for the buttons it is uh s soft rubber um and als yeah . Yeah because uh uh you'll be touching the buttons more so it is soft when you touch it . 	
+D	422.28	424.51	Oh that's good , no , that's nice and friendly . 	
+D	426.89	427.68	Mm-hmm . Mm . 	
+A	429.22	430.23	Mm-hmm , mm-hmm . 	
+D	429.5	429.92	Mm-hmm . 	
+C	430.39	442.39	And then um uh for the for the led , for the light emitting diode it is a fluorescent green and it's a a it is a bulb like an ordinary infrared . 	
+D	434.93	435.27	Mm-hmm . 	
+D	436.74	437.16	Mm-hmm . 	
+C	444.13	448.78	And and the button button's part uh will be explained by F Francina . 	
+B	448.91	469.58	Okay . Now the um we decided upon including certain features on our remote . Now these features includes the s um signal emitting uh signal it's the led or L_E_D_ the infrared . Now uh we have included the switch on and off button . 	
+D	449.1	449.52	Okay . 	
+D	462.89	463.97	Yeah , okay , mm-hmm . 	
+A	463.31	464.36	Mm-hmm , mm-hmm . 	
+D	470.22	471.22	Mm-hmm . 	
+B	473.12	477.03	Now we have included another feature that is the mute button 	
+D	479.57	480.36	Mm-hmm . 	
+B	481.12	487.67	on the side of the model . Then we have included one to nine buttons 	
+D	483.18	483.51	Mm-hmm . 	
+B	488.9	491.9	for controlling the programmes the different channels . 	
+D	494.39	495.9	Mm-hmm . 	
+B	497.51	502.64	We have also included two buttons for increasing or decreasing the volume . 	
+D	506.23	506.93	Mm-hmm . 	
+B	507.38	512.94	And we have also included two buttons for scrolling up and scrolling down the programme channels . 	
+D	516.52	516.76	Mm . 	
+B	516.9	521.36	Now our our model also contains a button which is called as the menu button . 	
+A	521.78	522.53	What kind of button ? 	
+B	522.59	523.37	Menu button . 	
+A	523.68	526.0	Menu ? Uh menu th menu , uh one one . 	
+B	524.16	525.024	Yes , menu 	
+D	524.41	525.555	Menu button . 	
+B	526.13	526.95	At the centre 	
+D	527.68	528.09	Mm-hmm . 	
+B	528.36	536.49	we have included a button which is fluorescent green colour and this is the menu button which will control the colour , sharpness , brightness 	
+D	537.24	539.69	Mm-hmm . Of the screen . Mm , mm-hmm . 	
+B	538.96	540.06	of this uh picture . 	
+B	543.0	547.09	We have also included a button which is called as the swapping button . 	
+B	548.55	553.8	Now this is uh a special , special feature which we have included . Now this button 	
+B	555.25	569.17	is an elongated shaped button and this is slightly flexible so if it is turned towards the right it will take to the previous channel , if it is turned towards the right it will take to the next channel . 	
+B	570.45	573.53	It will take the user to the previous and the next channel so this is a 	
+B	576.62	577.56	swapping button . 	
+D	580.41	584.176	The next channel in the numeric pattern , or 	
+B	584.12	594.57	No , swapping is if if example you're you're watching the second channel and then you go to the tenth channel and if you want to go back to the second channel you can swap , this button . Yes . 	
+D	587.78	588.33	Yeah , mm-hmm . 	
+D	590.61	590.83	Mm . 	
+D	593.76	594.85	Okay , okay . 	
+B	599.19	609.01	And at the end , it this remote has inbuilt voice recogniser which c which will recognise the user's voice and then it'll act accordingly . 	
+A	604.16	604.29	Okay . 	
+A	607.11	607.41	Mm-hmm . 	
+A	612.53	613.09	Mm-hmm . 	
+B	614.77	619.87	So this is our proposed model . Now the marketing expert has to 	
+D	614.87	615.3	Okay . 	
+D	617.29	617.57	Mm-hmm . 	
+C	620.31	621.28	Tell , yeah . 	
+B	621.2	627.96	give her suggestion whether it'll be sellable or it'll be cost effective . 	
+D	624.448	626.502		
+C	624.768	626.11		
+D	628.21	629.82	Okay , well um 	
+D	631.12	642.61	what what I really like a lot about it is that you can reach the whole thing with one thumb , that you can really hold it in one h you don't need two hands and it's easily reachable even for somebody with a small hand , yeah ? 	
+B	635.32	636.28	Yes , yes . 	
+C	637.67	638.0	Mm-hmm . 	
+A	642.8	644.81	Yes the buttons are all raised , right ? 	
+D	645.11	671.18	The buttons are all raised and if you hold it in the centre of your hand you can even reach it over here so you don't have to turn it around , turn it upside down , move it up , up and down , I really like that . You really did a good job on that , my little designers . Um and um I like the idea that the on-off button is in a really prominent place . That's that's a really good good thing . 	
+B	645.27	645.42	Yes . 	
+A	645.67	646.51	Are raised , mm-hmm . 	
+A	649.7	650.05	Right . 	
+A	653.18	655.22	Or have two hands to operate it , yeah . 	
+B	656.85	657.11	Mm . 	
+C	656.9	657.14	Mm-hmm . 	
+B	659.416	661.158		
+C	659.6	660.512		
+A	670.81	678.08	Yes , and it sort of sticks up so that you really you don't have to g first go like oh yeah here it's on and yeah , mm-hmm . 	
+D	672.2	673.46	Yeah , that's great . 	
+C	674.88	675.22	Hmm . 	
+D	675.92	676.36	Mm-hmm . 	
+C	676.33	676.94	Mm-hmm . 	
+B	676.84	677.88	Abs okay . 	
+D	677.86	686.33	The colour's very attractive . Um the um these buttons uh around here are the mute 	
+B	687.45	693.23	No , these the front buttons which are here , are the mute buttons . Yes , yes . 	
+D	687.59	690.52	and these mm-hmm 	
+D	691.59	695.61	On both sides they're mute ? So you can push either one ? Okay . 	
+B	694.4	694.82	Yes . 	
+A	695.7	698.06	So if you're left-handed or right-handed it doesn't matter . 	
+D	697.03	703.936	And this brings the menu up on the screen ? This brings the menu up on the screen and the orange ones are 	
+B	697.574	698.299		
+B	699.16	699.48	Pardon me ? 	
+B	699.86	701.47	This is the menu yes , yes . 	
+B	704.04	712.61	A the the these these two are th to increase or decrease the volumes , and these two are to uh scroll the programme channels . 	
+D	708.12	708.61	Okay . 	
+D	712.1	714.89	F f okay . Right , very good . 	
+B	714.08	715.69	Scroll up or scroll down the channels . 	
+D	715.89	718.43	Uh it looks mm looks like something I can sell . 	
+B	718.8	720.96		
+C	719.696	720.704		
+D	721.04	724.1	Okay and now I'm supposed to yeah . 	
+A	722.55	733.8	Well , I have one question uh will there be anything written on the buttons , like that people know , or they have to learn that from a piece of paper which button does what ? 	
+B	733.84	742.03	Yes , it will have uh these buttons will have the numbers and all the rest of the buttons will have symbols . Yes , which can be easily recognised . 	
+C	734.11	734.46	Ah . 	
+C	735.22	736.05	Yeah , definitely . 	
+A	739.33	744.573	Will have symbols so that that that the user really knows you know and doesn't have to first learn it 	
+D	740.48	740.64	Yeah . 	
+C	740.51	741.59	Yeah . Yeah . 	
+C	742.46	742.95	Yeah . 	
+B	742.93	743.28	Yes . 	
+C	743.52	743.87	Yeah . 	
+D	743.73	749.71	Good point because we need the symbols 'cause we're going into an international market we can't have anything that's language dependent . 	
+B	744.74	745.12	Yes . 	
+C	746.14	747.756	Yeah of course , and also 	
+B	747.97	748.2	Yes . 	
+C	748.42	748.65	Hmm . 	
+A	748.93	756.13	Yeah . But anyway it would ha i i i it has to have some kind of of symbols , text or something so that people kn 	
+C	749.34	749.72	Yeah . 	
+B	749.88	749.97	Yes . 	
+C	751.61	752.535	Yeah we can 	
+D	753.56	755.44	Symbols on it . Mm-hmm , mm-hmm . 	
+C	753.89	754.32	Text . 	
+B	754.68	755.18	Yes . 	
+C	755.41	761.33	Text that we can have on the case itself , we can it will be printed on the case and symbols as well as the buttons . Yeah . 	
+B	757.69	758.17	Yes . 	
+A	757.72	758.05	That's right . 	
+D	758.1	758.33	Mm-hmm . 	
+A	759.24	761.55	Okay , yeah just wanted make sure of that mm-hmm . 	
+B	760.05	760.452	And 	
+B	761.28	768.08	and one more feature is we we have a holder for this remote which is an oyster shape . A shell shape . 	
+D	761.58	762.17	Mm , 'kay , mm . 	
+D	765.04	765.41	Mm-hmm . 	
+D	768.55	790.937	For the snail , yeah , mm-hmm , we have the snail shell . He goes right back into his shell . Well you know I think we could do something really funny with this too because the snail is known to be slow and we could have some sort of little comic effect on our marketing about how this is a rapid snail or something like that you know that would , that would really work . So 	
+A	769.27	770.0	Right , mm-hmm . 	
+B	769.28	770.26	Yes , yes . 	
+C	769.42	769.72	Yeah . 	
+C	770.42	773.18	So it is yeah , yeah shell . 	
+B	770.93	772.24	Yes , snail shell . 	
+A	770.97	771.11	Mm-hmm . 	
+B	772.92	773.31	Yes . 	
+A	773.28	773.56	Right . 	
+C	778.3	778.67	Mm-hmm . 	
+B	784.18	784.51	Mm-hmm . 	
+C	784.48	784.65	Mm . 	
+B	786.784	788.225	Y Yes 	
+C	786.992	789.21	Yeah , of course , yeah . 	
+A	790.05	797.184	Now what , what are our special features for the marketing ? That's really the voice recognition that's really unusual 	
+D	796.32	802.57	I think voice recognition is our big selling point 'cause nobody else seems to have that in in this price range . 	
+C	799.16	799.92	Mm . Mm-hmm . 	
+C	801.03	801.25	Mm . 	
+A	802.76	809.37	And then , and then the other thing would basically be sh shape or practicality of use . 	
+D	809.81	823.31	Yep uh well I think that everybody's gonna say their remote control is practical . I think we have to , we have to dwell on on on the appearance . We're really gonna have the be the 	
+A	811.09	811.59	You know . 	
+A	816.95	817.85	Colours . 	
+A	820.76	821.13	Mm-hmm . 	
+A	824.15	824.65	Cutest . 	
+D	824.45	837.62	cutest remote control on the block . So I think we have to play with the image , play with the snail image um play with the visual and then the voice recognition . I think those are the two things to push . The look 	
+C	826.51	826.76	Mm . 	
+A	826.94	827.1	Yeah . 	
+C	835.61	835.99	Mm-hmm . 	
+D	838.97	841.85	and the voice recognition . They're gonna be our two selling points . 	
+A	842.93	845.754	Okay , now uh having said that 	
+D	845.56	847.61	I'm supposed to make a little presentation , aren't I ? 	
+A	848.64	855.76	No , now this was our evaluation criteria which we uh just have done . Now we're gonna talk about financing . 	
+D	851.4	852.43	Okay . 	
+D	856.63	862.75	Ah , but in my instructions I think it said I was supposed to go to the board and do something . No ? 	
+A	857.072	858.0		
+A	861.846	864.85	Well , there is a production evaluation . Is that you ? 	
+D	865.17	865.66	Yeah , that's me . 	
+A	866.04	869.29	But that's after the financing . See ? Fi see ? 	
+D	867.44	870.88	Oh , okay . Sorry , sorry . Mm-mm . 	
+A	870.321	872.016		
+B	871.504	872.08		
+C	872.0	872.672		
+A	873.09	873.9	Um . 	
+A	875.391	894.4	Okay , we had looks and voice recognition . Okay now on the financing we bring up the mm there it is . Okay uh energy source we say that's battery , right ? 	
+C	894.86	895.17	Mm . 	
+D	895.56	895.98	That's right . 	
+A	896.37	897.62	Okay , now . 	
+A	900.85	902.81	So we I guess we use one . 	
+C	903.74	904.05	Yeah . 	
+B	904.16	904.59	Yes . 	
+A	906.02	906.43	What ? 	
+A	909.83	914.46	T cell or chart you are trying to change is protected . Well , that's nice . 	
+A	915.3	918.136	She told me I could just ch change it here and then it would 	
+A	919.13	919.84	It doesn't work . 	
+A	922.01	922.4	Hmm . 	
+D	924.77	927.312	Can you just fill it in in the yellow boxes ? Or 	
+A	927.31	944.32	Oh , okay yeah , okay , let's see . Okay , one , okay . Oh go away . Um kinetic source so that's in the energy source that's all we need . Uh electronics , simple chip on print ? Is that's what we're using ? One of those ? 	
+C	927.88	928.42	Yeah . 	
+B	929.83	930.35	Yes . 	
+C	938.34	938.61	Mm-hmm . 	
+C	942.38	943.52	Yeah , yeah . 	
+B	942.55	942.68	Yes . 	
+A	945.59	951.58	Come on . Okay , one . Uh regular chip on print . No . 	
+C	952.51	952.8	No . 	
+A	952.86	958.59	That's all we need , the one case , uncurved flat , single curved , double curved . 	
+C	953.71	954.06	Yeah . 	
+D	959.77	961.216	Well . 	
+C	962.77	963.472	This is a 	
+B	963.6	964.79	Single curve ? Mm . 	
+D	965.33	966.73	I guess it's double curved . 	
+A	967.04	969.35	Double curved ? One of those ? 	
+D	969.48	969.95	Mm-hmm . 	
+A	972.23	976.45	Case materi s supplements . Plastic we said , right ? 	
+C	975.71	976.04	Yeah . 	
+B	976.17	976.79	Plastic . 	
+A	978.26	979.62	Uh wood , rubber ? 	
+D	979.75	981.64	Rubber , because we're gonna have the soft buttons . 	
+C	980.1	980.38	Yeah . 	
+A	982.68	984.624	Uh but , yes but 	
+C	985.01	989.36	I think uh that is uh f for rubbers that is uh yeah case material . 	
+A	987.22	992.64	That's just for the case material , so special colours though , we having that , right ? 	
+B	988.78	990.29	Is this for the case ? Yes . 	
+D	989.36	990.82	Oh okay , the mm-hmm , mm' kay . 	
+C	992.77	993.41	Mm-hmm . 	
+B	992.8	993.29	Yes . 	
+D	993.08	993.47	Mm-hmm . 	
+A	995.09	999.01	And then we have to interface push buttons . 	
+B	999.17	999.63	Yes . 	
+D	999.19	999.8	Mm-hmm . 	
+A	1003.68	1007.7	Scroll wheel , no . Integrated scroll wheel , L_C_ display ? 	
+D	1007.97	1011.05	No , 'cause we didn't put the clock in it after all , right ? 	
+B	1008.24	1008.61	No . 	
+A	1009.18	1009.97	Button . 	
+A	1011.62	1011.93	No . 	
+C	1011.72	1011.96	Yeah . 	
+D	1012.22	1012.53	Mm-hmm . 	
+A	1013.19	1015.33	Uh , button supplement special colour ? 	
+B	1013.48	1014.26	Speci 	
+B	1015.54	1015.93	Yes 	
+A	1017.7	1018.56	Special form ? 	
+B	1019.3	1021.29	Yes d we do have special form . 	
+D	1019.65	1020.17	Yes . 	
+A	1022.76	1025.52	And special material , rubber , wood , yes . 	
+C	1025.48	1025.64	Yeah . 	
+A	1027.27	1027.85	Okay . 	
+A	1030.512	1034.17	Total seven point six whatever that means . 	
+C	1035.08	1037.63	Uh , I think that's the price . 	
+A	1036.65	1037.82	That's the price . 	
+B	1036.69	1039.47	One two three four five six seven eight nine 	
+C	1039.15	1040.42	Maybe it is it just n 	
+A	1039.16	1039.35	Mm ? 	
+A	1040.79	1042.36	Eight , eight point two . 	
+B	1046.63	1048.91	Nine points , okay , yes . 	
+A	1046.84	1048.24	That's hmm ? 	
+A	1049.67	1050.54	Eight point two , right ? 	
+A	1052.37	1054.27	So , we looks like we are 	
+A	1055.64	1056.56	well within budget . 	
+C	1056.69	1057.01	Yeah . 	
+D	1056.71	1057.0	Mm-hmm . 	
+B	1057.0	1057.44	Okay . 	
+A	1057.86	1058.42	Okay . 	
+A	1060.93	1062.72	I guess I should save this I suppose , huh ? 	
+D	1062.93	1063.23	Yeah . 	
+A	1068.99	1069.34	Oops . 	
+A	1079.99	1081.08	Uh-huh huh huh . 	
+B	1084.98	1085.98	On the desktop . 	
+A	1086.62	1091.44	I just tried that . My documents , computer . My compu Ah oh here it is , yes . 	
+C	1088.15	1088.63	AMI . 	
+C	1089.87	1091.01	AMI should for 	
+A	1096.83	1098.9	Okay , fine . Save . 	
+A	1101.4	1109.79	Okay good , so that's the good news . We gonna be popular . Um . 	
+D	1105.97	1106.28	Mm-hmm . 	
+C	1106.0	1106.65	Yeah . 	
+B	1106.528	1106.928		
+A	1111.64	1114.24	So that uh I think financing was pretty simple . 	
+D	1114.6	1114.87	Mm-hmm . 	
+A	1115.36	1121.65	Now we would like to have a presentation by the marketing expert on production evaluation . 	
+D	1122.17	1124.48	Okay , I'll take my file down so you can bring it up . 	
+D	1137.91	1138.89	'Kay should be able to get it now . 	
+D	1142.72	1145.02	'Kay , why don't you move just to the next slide right away . 	
+A	1146.0	1148.0	You wanna go to the next slide ? Okay . 	
+D	1146.88	1195.36	Yeah right away . Okay , well uh obviously my method for uh s m the marketing of this thing is first to ask the big question , will it sell ? And I think we should show this prototype to people from various age and socio-economic groups and see about any fine tuning that maybe little things we haven't thought of . We can't accept every suggestion of course , but maybe we just need to get a few . And show the the prototype to consumer research groups , we don't s want somebody to suddenly come to us and tell us that this button is toxic and you know some child will swallow it and then we won't sell any . So we have to get some input from those people . And then after that we just have to go with our best intuition and you know we like it , we think it's good , we're gonna get behind it and sell it . Um , next slide please . 	
+B	1165.36	1165.87	Okay . 	
+C	1166.99	1167.45	Mm-hmm . 	
+C	1171.27	1171.59	Yeah . 	
+C	1180.33	1180.79	Mm-hmm . 	
+C	1183.11	1183.43	Mm . 	
+C	1185.86	1186.18	Mm-hmm . 	
+D	1197.81	1243.44	Okay , now the things that I was thinking and th my wish list has really been realised in this prototype . I wanted the shape to be biomorphic , I didn't want anything with angles and all square , I wanted it to be comfy and roundy so we we've got that . The size is small , the colour's bright and warm which is what we wanted . We wanted the feel to be as soft as possible , we'll have the soft buttons and the way this is shaped , even though it's gonna be hard plastic , it feels good in your hand so that's nice . And functionality I put last on my list because people aren't going to use it before they buy it . So paradoxically the other features , in other words , the look , the feel um and the shape , that's what people are gonna get in the store . They don't have a television in the store , they can't play with it . 	
+C	1220.78	1221.14	Mm-hmm . 	
+C	1231.616	1232.128		
+B	1238.78	1240.32	Fee selling . 	
+C	1240.75	1241.19	Yeah . 	
+C	1243.4	1243.75	Yeah . 	
+B	1243.74	1244.05	Yes . 	
+D	1243.78	1284.09	Um so they'll be our main selling points . So um th those have been fulfilled by your prototype and go ahead to the next slide please . Okay , so um the shape um I think is a a one . That's really , really excellent shape . The size is small um and th these points are in the importance for the , for the marketing , these aren't i in how I feel . I think that it's I think that it's plenty small enough to sell but I think we're sort of right the scale is one to seven . I think we're sort of right in the middle as far as c other competitors . 	
+B	1281.81	1282.78	Okay . 	
+D	1284.56	1313.79	And our colour I think is great . The colours are bright and warm and we really do great job there . And given um the constraints that we had I think we got it as soft as possible . And then functionality um I think you did a really good job on functionality , obviously we could have ad added different functions but then we'd disturb something else so I would say that we got to a five out of seven on on functionality . So I think that basically we've got a great product and we can get off and running with it . 	
+B	1310.22	1310.65	Okay . 	
+C	1310.32	1310.65	Mm-hmm . 	
+C	1314.07	1314.26	Yeah . 	
+A	1314.19	1321.8	Um I just realised one thing . In the financing there was no room for our voice recogniser . 	
+D	1317.47	1317.85	Yes . 	
+B	1322.5	1323.15	Yes . 	
+D	1322.64	1323.04	Ah . 	
+C	1323.32	1323.67	Yeah . 	
+A	1324.29	1331.81	And uh I don't know how we can evaluate that or how we can include that , too . 	
+D	1331.43	1335.82	Well , um we had what , eight eight euros twenty as our cost ? 	
+A	1335.54	1337.11	Eight , eight twenty , yes . 	
+C	1336.75	1337.651	Eight twenty so 	
+D	1337.3	1341.07	And so we've got we've still got four euros to go to spend . 	
+C	1338.22	1340.9	We have um four euros , yeah 	
+A	1341.16	1346.16	I mean maximum we have another four point three euros I mean four thirty . 	
+D	1344.32	1344.61	Mm-hmm . 	
+D	1346.02	1348.304	Well um that's 	
+A	1347.67	1360.83	But I mean we have no way of presenting that to management as you know as a f finished , as a finished product and saying okay with the voice recogniser that costs so much . 	
+D	1360.89	1361.32	Mm-hmm . 	
+A	1362.02	1370.85	So um we just have to beware of that . I mean and know whether the four thirty will really cover that . 	
+C	1366.77	1367.24	Yeah . 	
+D	1367.984	1368.352		
+D	1371.5	1395.158	Well as we know in today's technic technological world you can do just about anything at any price , the the the problem is quality . So we're just gonna have to settle for whatever quality that will buy us . And um it may not be the greatest quality but it may sell anyway . As we've seen with so many of these kinds of products . 	
+C	1371.67	1371.88	Yeah . 	
+A	1373.115	1373.898		
+C	1379.2	1380.77	Yeah . 	
+C	1381.86	1383.15	Yeah , yeah . 	
+B	1382.5	1383.56	Yes , yes . 	
+C	1389.53	1390.31	Yeah , still . 	
+A	1389.87	1390.16	Yeah . 	
+C	1392.0	1392.15	Yeah . 	
+C	1392.998	1394.057		
+A	1394.88	1413.28	I'm sorry to interrupt then but I just uh recog I just remembered that there was no that that was not um included uh that there was no room for any special features , okay ? So to beware of that . You wanna go to this next slide , marketing expert ? 	
+C	1402.4	1403.46	Included , yeah . 	
+C	1405.81	1407.42	Hmm , hmm 	
+B	1407.28	1407.66	Yeah mm . 	
+D	1412.52	1419.42	Uh , well I isn't this my last slide ? Maybe . Go ahead . I think that was my last slide , yeah . Um . 	
+A	1415.4	1418.15	I dunno . Yes it is . Mm-hmm . 	
+D	1422.74	1423.65	Mm okay . 	
+D	1425.96	1435.89	And I'm supposed to present this scale on the whiteboard . Um and we're supposed to talk about those things as a team now , so if you put my last slide back up there . 	
+A	1436.69	1436.96	Oh . 	
+D	1438.17	1442.41	I'm sorry I've um forgot to do that , um . 	
+A	1442.55	1444.28	Why ? Wh why you need that up ? 	
+D	1446.12	1448.94	Hmm ? Well because I can't remember what I put on there . 	
+D	1449.614	1456.11	Okay . Now I'm supposed to see how long my leash is here . 	
+C	1450.496	1451.152		
+A	1456.22	1457.36	I think you can make it there . 	
+D	1457.61	1458.53	Mm 'kay . 	
+D	1459.37	1467.89	You ready . So now we're all supposed to say what we think . Um okay so on shape 	
+D	1472.27	1473.41	I gave it a one . 	
+D	1474.8	1484.97	Wait what would you ra uh one being good and seven being the worst . Um what do you think the shape is ? One , okay , and Be Betsy ? 	
+B	1478.47	1479.31	Worse , okay . 	
+B	1482.0	1482.3	One . 	
+A	1485.05	1486.64	Yes I think uh shape is one . 	
+C	1486.66	1489.36	Yeah , even my yeah , shape is one . 	
+D	1486.83	1492.73	Okay , uh-huh one , okay . And how about on size ? 	
+D	1496.76	1497.856	On size 	
+A	1497.56	1498.86	You you gave it a four . 	
+D	1498.63	1501.78	I gave it a four , yeah , I feel it's just average . 	
+A	1502.47	1503.89	Um , I dunno . 	
+A	1505.16	1506.99	I think I would give it at least a two . 	
+D	1507.16	1507.69	Okay . 	
+B	1509.75	1510.09	One . 	
+D	1510.94	1511.4	Mm-hmm . 	
+C	1511.75	1514.41	Yeah , even I think it is one . It's quite small . 	
+D	1513.38	1523.23	Okay . Okay you're the designer , of course you wanna give it a one . Um and then how about how we doing on colour ? 	
+B	1515.589	1516.368		
+B	1517.346	1519.737		
+C	1517.536	1518.72		
+A	1525.96	1527.256	Colour uh I 	
+D	1526.68	1530.59	Colour , I gave it a one . I really like all those nice bright , warm colours . 	
+A	1528.1	1528.4	One . 	
+A	1529.88	1531.99	I I like the colours . One . 	
+B	1531.22	1532.2	One . Yes . 	
+D	1531.83	1532.3	One . 	
+C	1532.66	1533.42	Yeah , one . 	
+D	1534.05	1538.39	One , one , one , okay . And how about the feel ? 	
+D	1541.26	1546.8	Taking into um consideration texture and comfort in the hand . 	
+A	1547.76	1549.71	Uh , I think I would give it a two . 	
+D	1550.51	1554.62	Okay , I gave it a three , two , yeah ? Three . 	
+B	1553.05	1553.81	I'll give three . 	
+C	1555.7	1557.56	Uh maybe two , yeah . 	
+D	1556.87	1557.89	Two , okay . 	
+D	1559.19	1566.912	And the next is functionality where I I admit I was a little hard on our team here , but 	
+A	1569.22	1577.888	Well it's also you can't really try it out uh the other things you have have more is are more tangible so from that point of view but um 	
+D	1571.89	1572.41	Yeah . 	
+D	1575.02	1575.5	Mm-hmm . 	
+A	1580.88	1582.04	I'll give it a three . 	
+D	1582.23	1583.4	Okay . 	
+B	1586.28	1586.43	Two . 	
+D	1586.86	1587.75	Two , okay . 	
+C	1588.69	1590.19	Uh three , mm-hmm . 	
+D	1589.55	1590.53	Three ? 	
+D	1592.0	1592.62	Okay . 	
+D	1594.32	1595.57	Well , um . 	
+D	1598.03	1619.1	It looks like we've got got ourselves a pretty good product . Um the functionality's the only place where maybe we have to think about m m maybe , heaven forbid , having another meeting . But um otherwise I think we're we're ready to go to go with this product . 	
+C	1611.6	1613.548	Yeah . 	
+D	1620.68	1625.01	Anybody else have any other comments or any other things that we feel we should evaluate ? 	
+A	1630.43	1630.87	Uh . 	
+A	1637.65	1644.17	Here is what we looking at uh satisfaction on for example room for creativity . 	
+A	1645.44	1646.35	Um . 	
+A	1649.81	1653.91	Is there more room for creativity or are we absolutely happy ? 	
+C	1655.33	1656.065	Maybe we can 	
+B	1655.36	1657.24	We can always improve , yes . 	
+C	1656.82	1674.6	yeah , include some more buttons and uh um yeah features . We can make the buttons few buttons smaller . Uh I think they are quite big , so I think I I mean we can just have small buttons and more buttons in that case . If we want to have more features than that . 	
+B	1658.69	1659.78	Yes , features . 	
+D	1674.44	1674.79	Mm-hmm . 	
+D	1676.42	1702.93	Well then again if we're gonna um do the speech recognition thing we're gon there gonna be some buttons that are gonna have to be added for that for the recording of the the speech . So that that's where we're gonna have to do maybe we can eliminate one of the mute buttons , instead of having two mute buttons . And um then maybe we can do something with the um 	
+C	1681.21	1681.52	Yeah . 	
+C	1684.04	1685.17	Yeah , definitely . 	
+B	1684.79	1685.36	Yes . 	
+B	1687.27	1687.9	Voices . 	
+C	1687.52	1687.74	Mm-hmm . 	
+C	1693.38	1696.63	Yeah , definitely , yeah , two mu mute buttons . 	
+B	1693.91	1694.5	Yes . 	
+B	1695.75	1695.98	Yes . 	
+D	1704.25	1707.89	the volume control . Maybe we can put that all on one button . 	
+C	1708.39	1708.79	Hmm . 	
+D	1709.18	1718.04	Um and a couple of other th maybe comp uh consolidate some of the usage an and see what we can do with that . 	
+C	1718.32	1718.41	Mm-hmm . 	
+A	1718.58	1743.95	Y um al always bearing in mind that right now we are of course well within the budget and that we still you know we probably can't , with this particular item , we probably can't just uh add a whole lot of more things . Uh um we need uh you know we need to leave space money-wise for the voice recogniser . 	
+B	1719.06	1720.544	And maybe 	
+D	1722.84	1723.16	Mm-hmm . 	
+D	1732.91	1733.29	No . 	
+C	1733.97	1734.38	Yeah . 	
+D	1741.45	1741.77	Mm-hmm . 	
+D	1744.16	1744.55	Mm-hmm . 	
+B	1744.56	1744.66	Yes . 	
+A	1745.52	1746.61	Um . 	
+C	1745.56	1745.91	Mm-hmm . 	
+A	1749.86	1766.58	So th the question really is how do we feel with the project process ? Uh , um are we happy with the creativity that has passed here or we're not happy with the new product we created or that was created ? 	
+A	1768.06	1771.43	Uh I think personally I think uh I'm pretty happy . 	
+D	1771.7	1775.98	I'm pretty happy with it too , yeah um , it's something I think I can market . Yeah . 	
+C	1772.49	1773.31	Even I'm happy . 	
+A	1772.58	1774.01	Um an 	
+C	1775.25	1775.52	Yeah . 	
+A	1776.13	1782.816	and then the next question is are we happy with the leadership of this project ? Uh 	
+D	1782.131	1787.168	I think you've done a good job , Miss leader . 	
+B	1784.02	1786.68	Yes , yes you've done a good job . 	
+C	1784.37	1786.688	Yeah , yeah , definitely . 	
+A	1785.86	1791.68	And I think team work I think was very very good , I think we really yeah . 	
+D	1789.81	1793.02	Yeah I d I do too I think we worked well together as a team , yeah . Mm-hmm . 	
+C	1790.06	1790.35	Mm-hmm . 	
+C	1791.05	1791.37	Yeah . 	
+C	1792.54	1792.94	Yeah . 	
+A	1792.57	1793.29	Mm-hmm . 	
+A	1793.98	1803.15	And uh I think we are we happy with the means we used ? We used whiteboard , we didn't use digital p well digital pens I guess are these things . 	
+D	1803.22	1808.11	Yeah maybe we could've used the whiteboard a little bit more , yeah , we didn't use that enough . 	
+B	1804.93	1807.86	Whiteboard more , yes , yes . 	
+C	1806.36	1807.57	Yeah , probably . 	
+A	1807.45	1822.01	Yes , we could . Uh , it's maybe not in the best position in the room um you know like sometimes it's positioned so that it's much better visible for everybody and I think from that point of view we sort of ignored it a little bit . 	
+D	1818.26	1818.72	Mm-hmm . 	
+D	1822.05	1824.21	And we used the slide because it was better positioned . 	
+B	1822.31	1822.78	Yes . 	
+A	1823.038	1835.27	Yes , I think so , I think absolutely , and fortunately we all had slides presentation which made it a little easier . Um did we new did we find new ideas ? I think we did . 	
+C	1824.41	1824.71	Yeah . 	
+B	1824.98	1825.13	No . 	
+D	1825.37	1826.7	Mm I think that's true mm-hmm . 	
+C	1830.44	1830.72	Hmm . 	
+B	1830.94	1831.38	Yes . 	
+D	1830.94	1831.3	Mm-hmm . 	
+C	1835.4	1836.77	Yeah , many . 	
+D	1835.45	1837.98	I think we were we were very good , yeah , mm . 	
+A	1837.27	1844.71	I think we we did , uh in more than one respect and uh so I think we did very well here . 	
+D	1840.43	1841.0	Mm-hmm . 	
+D	1846.51	1846.73	Okay . 	
+A	1847.19	1859.056	Are the costs within budget ? Yes , yes . Uh is the project evaluated ? Yes . Um then celebration . 	
+D	1851.9	1852.6	Yes , yes . 	
+B	1852.976	1853.536		
+C	1853.09	1853.39	Yeah . 	
+D	1853.74	1865.765	Celebration . Today we have apple juice and after we sell m million of 'em we have champagne . 	
+B	1854.98	1858.592	Cel celebration yes , yes . 	
+C	1855.9	1859.056	Ah . 	
+A	1862.512	1862.928		
+B	1862.816	1864.078		
+C	1862.992	1864.688		
+A	1864.64	1871.53	So I I thank you all very much . Um , I think this was very good and um 	
+D	1869.94	1870.51	Mm-hmm . 	
+C	1870.05	1870.45	Yeah . 	
+A	1872.72	1880.86	I think we did come up with a new product that's uh feasible . Feasible from the production point of view and feasible from a marketing point of view . 	
+D	1876.62	1876.9	Mm-hmm . 	
+D	1880.74	1880.95	Mm-hmm . 	
+A	1882.8	1884.12	So , thank you . 	
+D	1883.01	1883.25	Okay . 	
+C	1883.61	1883.76	Yeah . 	
+B	1884.29	1884.86	Thank you . 	
+C	1884.33	1885.21	Thank you very much . 	
+D	1884.76	1889.53	Okay . Watch I I have my cord behind you here . Okay . 	
+B	1888.25	1888.7	Okay . 	
+A	1894.21	1896.608	I always get it on here , but getting it off is 	
+C	1896.56	1898.82	Do we do we have some time left ? 	
+C	1901.11	1902.912	Uh you have 	
+B	1902.92	1904.02	They say it's forty minutes . 	
+A	1904.79	1905.98	Ah yes we have time later but we don't 	
+D	1905.01	1911.79	But we we were told we could end the final meeting at any time , whenever we felt we were finished . 	
+B	1908.84	1909.11	Okay . 	
+C	1909.08	1909.69	Oh , alright . 	
+D	1918.56	1921.97	It'll take me the rest of the time to get my microphone out from my necklace . 	
+D	1922.88	1923.248		
+D	1925.17	1925.75	Oh , there we go . 	
