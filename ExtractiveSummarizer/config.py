@@ -30,6 +30,9 @@ class Config(object):
         self.wordsFolder    = 'words\\'
         self.avgResultFile  = 'avg.npy'
         self.stdResultFile  = 'std.npy'
+        self.avgResultPath  = ''.join([self.testResultPath, self.avgResultFile])
+        self.stdResultPath  = ''.join([self.testResultPath, self.stdResultFile])
+
         #topic dataset 1
         self.topicDict1     = ''.join([self.topicModelPath, 'meet_doc_dictionary.gensim'])
         self.topicCorpus1   = ''.join([self.topicModelPath, 'meet_doc_corpus.pkl'])

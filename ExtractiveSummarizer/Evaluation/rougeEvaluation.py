@@ -25,8 +25,9 @@ class RougeEvaluation(object):
         self.stddev         = []
         #folder destination path
         self.testResultPath = cfg.testResultPath
-        avgResultFile       = cfg.avgResultFile
-        stdResultFile       = cfg.stdResultFile
+        self.avgResultPath       = cfg.avgResultPath
+        self.stdResultPath       = cfg.stdResultPath
+        self.rouge = Rouge()
 
     def RougeGlobalEvaluation(self):
         for (summary, reference) in zip(self.summaries, self.references):
@@ -34,7 +35,8 @@ class RougeEvaluation(object):
         self.TestResults()
     
     def RougeSingleEvaluation(self, summary, reference):
-        rouge_score = rouge.get_scores(text_summary, ref)[0]
+
+        rouge_score = self.rouge.get_scores(summary, reference)[0]
         self.f1.append(rouge_score["rouge-1"]["f"])
         self.p1.append(rouge_score["rouge-1"]["p"])
         self.r1.append(rouge_score["rouge-1"]["r"])
@@ -53,8 +55,8 @@ class RougeEvaluation(object):
                    np.std(self.f2), np.std(self.p2), np.std(self.r2), 
                    np.std(self.f_l), np.std(self.p_l), np.std(self.r_l)]
 
-        np.save(''.join([self.testResultPath, self.avgResultFile]), self.results)
-        np.save(''.join([self.testResultPath, self.stdResultFile]), self.stddev)
+        np.save(self.avgResultPath, self.results)
+        np.save(self.stdResultPath, self.stddev)
 
         print(self.results)
         print(self.stddev)
