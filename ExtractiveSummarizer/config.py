@@ -61,7 +61,7 @@ class Config(object):
         self.allowedPOS     = ['N', 'NN', 'NNP', 'NNPS', 'NNS', 'JJ', 'JJR', 'JJS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
         #NER
         self.listNER        = ['GPE', 'ORG', 'MONEY', 'PERSON', 'DATE', 'CARDINAL', 'TIME', 'NORP', 'ORDINAL'] 
-        self.listNERCoeff   = 3 * np.ones(len(self.listNER)) #if each tag wants its own coefficient, hard-code the coefficient vector
+        self.listNERCoeff   = 1 * np.ones(len(self.listNER)) #if each tag wants its own coefficient, hard-code the coefficient vector
         #number of speakers 
         self.numSpeakers    = 4           #set to -1 if to be determined from the transcript (not impl. yet) --> AMI Corpus has 4 speakers for all meetings
         #number of underlying topics 
@@ -75,7 +75,7 @@ class Config(object):
         self.smoothParam    = 2
         self.kPeak          = 3
         #extract keywords parameters
-        self.kMF            = 3
+        self.kMF            = 1
         self.kME            = 1
         self.Tm             = 0.5
         self.keywCoeff      = 1
@@ -86,6 +86,10 @@ class Config(object):
         self.wLex           = 0.5
         self.wTop           = 0.5
         self.alpha          = 0.9
+        #graph walk similarity
+        self.onlyLex = True
+        self.onlyTop = False
+        self.CheckSim()
 
         
     def ExtendStopwords(self):
@@ -98,6 +102,11 @@ class Config(object):
             self.topicModelSet1 = False
             self.topicModelSet2 = True
             self.topicModelSet3 = False
+
+    def CheckSim(self):
+        if (self.onlyLex + self.onlyTop) == 2:
+            self.onlyLex = False
+            self.onlyTop = False
 
 
         

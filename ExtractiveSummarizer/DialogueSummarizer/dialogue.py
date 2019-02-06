@@ -29,6 +29,8 @@ class Dialogue(object):
         self.freqVec    = freq
         self.speakVec   = speakFreq
         self.íter       = iter
+        self.onlyLex    = cfg.onlyLex
+        self.onlyTop    = cfg.onlyTop
         #results
         self.summary    = []
 
@@ -70,9 +72,14 @@ class Dialogue(object):
 
     def CreateMatricesLayers(self):
         #build edge weights
-        LuuLex = self.CreateLuu(top=False, lex=True)
-        LuuTop = self.CreateLuu(top=True, lex=False)
-        Luu    = self.wLex * LuuLex + self.wTop * LuuTop
+        if self.onlyLex:
+            Luu = self.CreateLuu(top=False, lex=True)
+        elif self.onlyTop:
+            Luu = self.CreateLuu(top=True, lex=False)
+        else:
+            LuuLex = self.CreateLuu(top=False, lex=True)
+            LuuTop = self.CreateLuu(top=True, lex=False)
+            Luu    = self.wLex * LuuLex + self.wTop * LuuTop
         Lss    = self.CreateLss()
         Lus    = self.CreateLus()
         #remove empty cols
